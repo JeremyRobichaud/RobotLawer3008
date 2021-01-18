@@ -1,0 +1,34 @@
+Legal Framework
+Burden of Proof
+[53]           In a criminal trial in Canada, an accused is presumed innocent until proven guilty.  This fundamental principle is enshrined in section 11(d) of the Canadian Charter of Rights and Freedoms.  The Crown must prove the guilt of an accused beyond a reasonable doubt.  This burden remains upon the Crown throughout the trial and it never shifts to the accused.
+
+[54]           The classic enunciation of what constitutes a reasonable doubt is found in R v Lifchus, 1997 CanLII 319 (SCC), [1997] 3 S.C.R. 320, (“Lifchus”).  A reasonable doubt is a doubt that is based upon reason and common sense and is logically connected to the evidence or the absence of evidence, it is not based upon sympathy or prejudice.  Reasonable doubt, however, does not require proof to an absolute certainty; it is not proof beyond any doubt nor is it an imaginary or frivolous doubt.  Proof beyond a reasonable doubt falls much closer to absolute certainty than to proof on a balance of probabilities: R v Starr, 2000 SCC 40 (CanLII), [2000] 2 SCR 144 at para 242, (“Starr”).
+
+Elements of the offence of sexual assault
+[55]           In a sexual assault, the Crown must prove each of the following elements beyond a reasonable doubt:
+
+(i)                 The accused intentionally applied force to the complainant;
+
+(ii)              The complainant did not consent to the force that the accused applied;
+
+(iii)            The accused knew or was reckless or willfully blind to the fact that the complainant did not consent to the force that was applied, and
+
+(iv)            The force applied by the accused took place in circumstances of a sexual nature.
+
+(Watt’s Manual of Criminal Jury Instructions (2d) Carswell, pgs 298 - 299.)
+
+[56]           The elements of sexual assault are set out in R v Ewanchuk, 1999 CanLII 711 (SCC), [1999] 1 SCR 330, (“Ewanchuk”).  Justice Major states:
+
+23        A conviction for sexual assault requires proof beyond reasonable doubt of two basic elements, that the accused committed the actus reus and that he had the necessary mens rea.  The actus reus of assault is unwanted sexual touching.  The mens rea is the intention to touch, knowing of, or being reckless of or wilfully blind to, a lack of consent, either by words or actions, from the person being touched.
+
+Actus Reus
+
+25        The actus reus of sexual assault is established by the proof of three elements: (i) touching, (ii) the sexual nature of the contact, and (iii) the absence of consent. The first two of these elements are objective. It is sufficient for the Crown to prove that the accused’s actions were voluntary. The sexual nature of the assault is determined objectively; the Crown need not prove that the accused had any mens rea with respect to the sexual nature of his or her behaviour: see R. v. Litchfield, 1993 CanLII 44 (SCC), [1993] 4 S.C.R. 333, and R. v. Chase, 1987 CanLII 23 (SCC),[1987] 2 S.C.R. 293.
+
+26        The absence of consent, however, is subjective and determined by reference to the complainant’s subjective internal state of mind towards the touching, at the time it occurred: see R. v. Jensen (1996), 1996 CanLII 1237 (ON CA), 106 C.C.C. (3d) 430 (Ont. C.A.), at pp. 437-38, aff’d 1997 CanLII 368 (SCC), [1997] 1 S.C.R. 304, R. v. Park, 1995 CanLII 104 (SCC), [1995] 2 S.C.R. 836, at p. 850, per L’Heureux-Dubé J., and D. Stuart, Canadian Criminal Law (3rd ed. 1995), at p. 513.
+
+Mens Rea
+
+41        Sexual assault is a crime of general intent.  Therefore, the Crown need only prove that the accused intended to touch the complainant in order to satisfy the basic mens rea requirement.  See R. v. Daviault, 1994 CanLII 61 (SCC), [1994] 3 S.C.R. 63.
+
+[57]           The burden is on the Crown to prove each of the elements of sexual assault beyond a reasonable doubt.
