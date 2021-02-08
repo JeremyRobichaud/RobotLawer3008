@@ -1,0 +1,379 @@
+Justice Meredith said: "I should add too at this point, drunkenness is not a defence to a charge of this sort." The issue in this appeal is whether that is a correct statement of law.
+
+The issue presented is an important one, requir­ing consideration of basic criminal law principles of mens rea, and elaboration of the defence of drunkenness in relation to criminal responsibility. One might have thought that the effect of drunk­enness upon legal responsibility would have been well settled by now but despite the legal scholar-ship and copious amount of literature devoted to the subject, many underlying problems remain unresolved and the subject of controversy. The confusion and uncertainty which prevails is attributable, no doubt, in part to (a) the use throughout the cases, and in the legal literature generally, of two chameleon-like phrases, mens rea and "specific intent," each with several distinct meanings (see Smith & Hogan Criminal Law, 3rd. ed. p. 47); (b) the impact of the proposition that drunkenness is no excuse for crime upon the fun­damental principle that, generally speaking, guilt depends upon proof by the Crown that the accused intended to do the acts with which he is charged, an intention which may be entirely lacking in a state of advanced drunkenness; (c) failure to dis­tinguish between (i) the effect of drunkenness on capacity to form the requisite intent and (ii) intent in fact.
+
+II
+
+The Ontario Court of Appeal in R. v. Vandervoort[2] held that drunkenness constitutes a valid defence to crimes in which specific intent is an essential ingredient and that rape is a crime of specific intent. The British Columbia Court of Appeal in R. v. Boucher[3] refused to follow the Vandervoort decision and held that rape was a crime of general intent only and, therefore, drunkenness
+
+[Page 33]
+
+could not validly be pleaded in defence. In the present proceedings the Court of Appeal for British Columbia relied upon its earlier decision in Boucher in dismissing the appeal. There would seem to be good reason not to perpetuate the jural conflict between two appellate Courts, as a result of which a person accused of rape in Ontario has the "defence" of drunkenness open to him, but not if the charge is laid in British Columbia.
+
+Although the expression "defence of drunken­ness" is often used, more precisely the defence is that the accused, by reason of drunkenness, lacked the capacity to form the requisite intent or lacked the intent in fact or that he had a positive though mistaken belief in consent.
+
+III
+
+I would answer the question of law posed in this appeal in this manner—drunkenness, as such, is not a defence to a charge of rape but evidence of drunkenness may be considered by the jury, to­gether with all other relevant evidence, in deter-mining whether the prosecution has proved beyond a reasonable doubt the mens rea required to con­stitute the crime.
+
+
+
+IV
+
+There are certain quasi-criminal strict liability offences—as affecting public health or safety—where an absolute offence is created and a person may be subjected to punishment even though he had no intention of contravening the law. Duress, provocation, and mental abnormality also bear upon criminal responsibility. In what follows, I should like to leave all of these matters aside and consider basic principles as to which there can surely be little question or cavil. The first of these is the presumption that mens rea is an essential ingredient in every offence. This principle was enunciated by Wright J. in Sherras v. De Rutzen[4] and has since been repeated in countless cases. The concept of mens rea, that the prohibited act must be accompanied by a certain mental element, has been authoritatively established by this Court in
+
+[Page 34]
+
+such cases as The Queen v. Rees[5]; Beaver v. The Queen[6]; and The Queen v. King[7]. In the most recent of these decisions, Taschereau J., as he then was, said at 749:
+
+It is my view that there can be no actus reus unless it is the result of a willing mind at liberty to make a definite choice or decision . .
+
+The notion that a court should not find a person guilty of an offence against the criminal law unless he has a blameworthy state of mind is common to all civilized penal systems. It is founded upon respect for the person and for the freedom of human will. A person is accountable for what he wills. When, in the exercise of the power of free choice, a member of society chooses to engage in harmful or otherwise undesirable conduct pros­cribed by the criminal law, he must accept the sanctions which that law has provided for the purpose of discouraging such conduct. Justice demands no less. But, to be criminal, the wrong-doing must have been consciously committed. To subject the offender to punishment, a mental ele­ment as well as a physical element is an essential concomitant of the crime. The mental state basic to criminal liability consists in most crimes in either (a) an intention to cause the actus reus of the crime, i.e. an intention to do the act which constitutes the crime in question, or (b) foresight or realization on the part of the person that his conduct will probably cause or may cause the actus reus, together with assumption of or indiffer­ence to a risk, which in all of the circumstances is substantial or unjustifiable. This latter mental ele­ment is sometimes characterized as recklessness.
+
+The burden of proving all of the elements in the definition of the crime charged, including the mental element, is always upon the Crown. The presence or absence of evidence of intoxication in no way affects that burden.
+
+The nature of the mental element varies with the definition of the crime and it may be expressly
+
+[Page 35]
+
+spelled out in the definition, or it may be implied. By definition, a male person commits rape when he has sexual intercourse with a female person without her consent. That is the actus reus of the crime. Parliament, as is often the case, has left unexpressed the mental element but it would seem clear that in order to constitute the crime the Crown must prove, beyond reasonable doubt, intercourse without consent, together with (a) an intention to force intercourse notwithstanding absence of consent, or (b) a realization that the conduct may lead to non-consensual intercourse and a recklessness or indifference to that conse­quence ensuing. It will not do simply to say that because the accused committed the physical act and the woman did not consent, he must be taken to have intended to have intercourse without consent.
+
+
+
+Parenthetically, when the risk is substantial and unjustifiable, proof of recklessness necessary to constitute the mental element essential to criminal responsibility may be readily satisfied. This is exemplified in the crime of rape. The harm to be anticipated from acting upon the mistaken belief that the woman is consenting is very great whereas that which may be lost in failing to act is slight. The risk then is both substantial and unjustifiable. The conscious creation of risk in these circum­stances in acting with indifference to the possibili­ty of non-consent is compatible with recklessness constituting mens rea.
+
+
+
+On principle, it would seem that evidence of intoxication should be relevant in determining the presence of the requisite mental element, inasmuch as intoxication undoubtedly affects a person's abil­ity to appreciate the possible consequences or cir­cumstances. Consumption of alcohol affects mental state. The state of mind of the accused being in issue it would seem reasonable to ask—what was his actual state of mind at the time? If the evidence in the case discloses some degree of intoxication, one might think, consistent with fun­damental principles of criminal responsibility, that such evidence would be relevant to any consider­ation of the mental state of the alleged offender.
+
+[Page 36]
+
+But such, it is said, is not the case. The argument, of course, is that Director of Public Prosecutions v. Beard[8] drew a distinction between crimes of specific intent and those of general intent; that rape is a crime of general intent only and therefore drunkenness is no defence. This Court decided in McAskill v. The King[9] and repeated in Perrault v. The Queen[10] that the rules of law for determining the validity of a defence of drunkenness to a charge of murder were as stated in Lord Birken­head's second and third propositions in Beard's case.
+
+V
+
+In earliest times, the settled rule in England was that voluntary drunkenness would not excuse the commission of any crime. This law is found in Reniger v. Fogossa[11], argued in 1551 (see also Beverley's Case[12]. The principle that no one should be privileged to escape culpability for crime com­mitted while in a state of self-induced intoxication is found in the writings of Coke (1 Inst. 247a), Blackstone (4 Commentaries 26) Hawkins (1 P.C. c. 1, s. 6) and Hale (1 Hale 31).
+
+In the nineteenth century, the old rule was gradually relaxed by judicial decisions (see R. U. Singh, "History of Drunkenness in English Crimi­nal Law" (1933), 49 L.Q. R. 528 at p. 536). In R. v. Grindley[13], Holyroyd J. held that the fact of a person being intoxicated could be taken into account where on a charge such as a murder the material question was whether the act was pre-meditated. This view was later rejected by Park J. in R. v. Carroll[14].
+
+In Regina v. Monkhouse[15], counsel for the
+
+[Page 37]
+
+defence cited Regina v. Cruse[16], in which the accused was charged with attempt to murder a child and Patteson J. had instructed the jury to this effect:
+
+... you must be satisfied that when he inflicted the violence he had in mind a positive intention of murder­ing that child. Even if he did it under circumstances which would have amounted to murder if death had ensued, that will not be sufficient, unless he actually intended to commit murder ... It appears that both these persons were drunk, and although drunkenness is no excuse for any crime whatever, yet it is often of very great importance in cases where it is a question of intention. A person may be so drunk as to be utterly unable to form any intention at all, and yet he may be guilty of a very great violence.
+
+
+
+Coleridge J. in Monkhouse said that he agreed with the substance of what Patteson J. was reported to have said in Cruse's case, but he expressed himself as not so clear as to the propriety of adopting the very words. Coleridge J. went on to say, at 56:
+
+Drunkenness is ordinarily neither a defence nor excuse for crime, and where it is available as a partial answer to a charge, it rests on the prisoner to prove it, and it is not enough that he was excited or rendered more irritable, unless the intoxication was such as to prevent his restraining himself from committing the act in question, or to take away from him the power of forming any specific intention.
+
+The direction is of interest in that it recognizes drunkenness as a "partial answer to a charge and the phrase "specific intention," source of such confusion since Beard, was used for the first time in a jury charge. There is nothing to suggest that the phrase was there used in any technical sense, or as a term of art in contrast to basic or general intent,
+
+In R. v. Moore[17], the prisoner was indicted for a misdemeanor in attempting to commit suicide when after a violent quarrel with her husband she threw herself into a garden well, thirty-eight feet deep. Fortunately, assistance was at hand and she
+
+[Page 38]
+
+was rescued, we are told, without much injury. The witness who proved these facts also stated that at the time the prisoner was so drunk as not to know what she was about. Jervis C.J. charged the jury in these words:
+
+If the prisoner was so drunk as not to know what she was about, how can you say that she intended to destroy herself?
+
+In R. v. Doherty[18]', a case of murder, tried in 1887, Stephen J. instructed the jury that the gen­eral rule as to intention was that a man intends the natural consequences of his acts but that this was not a necessary inference and in drawing it one had to consider whether the prisoner was drunk or sober. He continued, at p. 308:
+
+It is almost trivial for me to observe that a man is not excused from crime by reason of his drunkenness. If it were so, you might as well at once shut up the criminal courts, because drink is the occasion of a large propor­tion of the crime which is committed; but, although you cannot take drunkenness as any excuse for crime, yet when the crime is such that the intention of the party committing it is one of its constituent elements, you may look at the fact that a man was in drink in considering whether he formed the intention necessary to constitute the crime.
+
+The only other major case pre-Beard is R. v. Meade[19]. This was an appeal by a prisoner against conviction on a charge of murder. Darling J., on behalf of the Court of Criminal Appeal, set forth the following rule for determining whether the jury would be justified in returning a verdict of man-slaughter on the ground of the voluntary drunken­ness of the accused:
+
+A man is taken to intend the natural consequences of his acts. This presumption may be rebutted—(1.) in the case of a sober man, in many ways: (2.) it may also be rebutted in the case of a man who is drunk, by shewing his mind to have been so affected by the drink he had taken that he was incapable of knowing that what he was doing was dangerous, i.e., likely to inflict serious injury. If this be proved, the presumption that he intended to do grievous bodily harm is rebutted.
+
+[Page 39]
+
+Coming then to Beard’s case: After reviewing at some length the earlier cases, Lord Birkenhead L.C. listed under three heads the conclusions which he considered could be drawn therefrom:
+
+1. That insanity, whether produced by drunkenness or otherwise, is a defence to the crime charged. The dis­tinction between the defence of insanity in the true sense caused by excessive drinking, and the defence of drunk­enness which produces a condition such that the drunk-en man's mind becomes incapable of forming a specific intention, has been preserved throughout the cases. The insane person cannot be convicted of a crime: Felstead v. The King [1914] A.C. 534; but, upon a verdict of insanity, is ordered to be detained during His Majesty's pleasure. The law takes no note of the cause of the insanity. If actual insanity in fact supervenes, as the result of alcoholic excess, it furnishes as complete an answer to a criminal charge as insanity induced by any other cause.
+
+
+
+2. That evidence of drunkenness which renders the accused incapable of forming the specific intent essential to constitute the crime should be taken into consider­ation with the other facts proved in order to determine whether or not he had this intent.
+
+3. That evidence of drunkenness falling short of a proved incapacity in the accused to form the intent necessary to constitute the crime, and merely establish­ing that his mind was affected by drink so that he more readily gave way to some violent passion, does not rebut the presumption that a man intends the natural conse­quences of his acts.
+
+The third head has undergone change. Since Woolmington v. D.P.P.[20]. proof of incapacity has not rested upon the accused, and since Hosegood v. Hosegood[21] the presumption that a man intends the natural consequences of his acts is now regarded as a proposition of good sense rather than a proposition of law.
+
+
+
+VI
+
+It is the second head of Beard which particular­ly concerns us. The notion that drunkenness might negative an intent integral to a more serious
+
+[Page 40]
+
+charge, such as murder, and permit conviction of a lesser charge, such as manslaughter, of which the intent was not a constituent element, was con­ceived in response to humanitarian urgings which sought to distinguish between the homicide com­mitted in cold blood by a sober person and one committed by a drunken person. Capital punishment or deportation was considered on occasion to be unduly severe treatment for the inebriated offender. Although the motivation was under­standable and the legal mechanism by which the graver offence could be read down to the lesser offence seemed soundly conceived, the irrational "specific intent—basic intent" dichotomy has pre­sented difficulty ever since, for there are not, and have never been, any legally adequate criteria for distinguishing the one group of crimes from the other. Indeed, the question is often asked as to whether Lord Birkenhead intended any such dichotomy. Certain well-known dicta found later in the judgment would suggest the contrary, and leave the answer to the question far from clear. The dicta have been thought by some to accept the principle that drunkenness may negative mens rea in any and every crime.
+
+The words used by Lord Birkenhead were these, at p. 504: "I do not think that the proposition of law deduced from these earlier cases is an excep­tional rule applicable only to cases in which it is necessary to prove a specific intent in order to constitute the graver crime .. It is true that in such cases the specific intent must be proved to constitute the particular crime, but this is, on ultimate analysis, only in accordance with the ordinary law applicable to crime, for, speaking generally (and apart from certain special offences) a person cannot be convicted of a crime unless the mens was rea."
+
+Great difficulty has been experienced by the Courts in seeking to clarify what is meant by the phrase crimes of specific intent." This is under­standable for a person may have an intent which is specific but how does one identify a "specific intent" as distinguished from a "basic intent" or "general intent" or "ulterior intent." The phrase
+
+[Page 41]
+
+"specific intent" is not a concept known to psy­chology. The expression is not contained in the Criminal Code. How a juryman can be expected to recognize such an elusive cerebration in the mind of an accused is obscure. The attempts made to distinguish, in the cases, between so-called "specif­ic intent" crimes and "general intent" crimes serve only to confirm the difficulty of the task. It has been said that such words as "with intent to," "for a fraudulent purpose," "corruptly," "wilfully" [sic], "knowingly," and the like, contained in the defini­tion of the charge, identify crimes of specific intent. Why this should be so is not self-evident as there is no specificity to such words as "intentionally" or "knowingly." And it is conceded that the definition of the crime is not exhaustive, as a specific intention may sometimes be embodied by implication. None of this is very helpful to judge or jury, as many distinguished scholars have taken pains to point out. It is understandable that aca­demic discussion should have focused primarily upon the illogicality of distinguishing between crimes of so-called specific intent from those of general intent, with heavy emphasis upon the vio­lence said to be done to fundamental principles of criminal law in attributing to an accused person a mental state and an intent, which by reason of drunkenness, ex hypothesi he does not have. The argument is made that if a person is so drunk as to be incapable of forming the intent required, or in fact lacked that intent, he should not be convicted of a crime which is committed only if that intent be present and proven. The argument is com­pelling.
+
+Consider the position of the jury. The members of the jury will have heard all of the evidence as to drunkenness and are then, in effect, told to excise it from their minds. The result is that either (a) the Crown, because the accused was intoxicated, is relieved of the burden of proving a requisite mental state which would have had to be proven if the accused had been sober, (placing the intoxicat­ed offender in a worse position than the sober offender—the antithesis of the policy sought to be implemented by the nineteenth century jurists), or (b) in the alternative, the jury is required to examine the mental state of the accused, notionally
+
+[Page 42]
+
+absent the alcohol, an impossible task and, in the case of a general intent crime and a very drunk man, to find a fictional non-existing mental state as an ingredient of guilt. The jury is expected to consider only that part of the behaviour which had its genesis in considerations other than drunken­ness. All of this suggests that the distinction sought to be made between specific intent and general intent is neither meaningful nor intel­ligible.
+
+VII
+
+There seems little reason for retaining in the criminal law—which should be characterized by clarity, simplicity, and certainty—a concept as difficult of comprehension and application as "spe­cific intention". If "with intent" crimes are regarded as crimes of specific intent, it is apparent that many of these are as grave or graver crimes than those of so-called basic intent, such as common assault; drunkenness can absolve in respect of the graver crimes, yet not in respect of the lesser. Intent in respect of robbery can be negatived by drink but not the intent for rape or assault. Another incongruity lies in the fact that crimes of specific intent are also crimes of basic or general intent.
+
+
+
+In R. v. George[22], this Court added a gloss to Beard. The Court of Appeal for Ontario in R. v. Vandervoort, supra, had regard to these two authorities in reaching the conclusion that rape was a crime of specific intent. Upon the same authorities the Court of Appeal for British Columbia in R. v. Boucher, supra, concluded that rape was not a crime of specific intent and thus, drunkenness was no defence. This diversity reflects the difficulty in the practical application of Beard. The judgments in George appear to recognize the possibility of drunkenness negating general intent if a person were so drunk that he had no knowl­edge of what he was doing and, on principle, there is no reason why intoxication should not negative
+
+[Page 43]
+
+mens rea in crimes of basic or general intent.
+
+Whatever utility the concept of "specific intent" may have had in the past, it is very doubtful whether any good purpose is served by its reten­tion, having regard to the difficulties to which I have referred and, since Beard, to the greater knowledge of the nature of intoxication and alcoholism and the increasing emphasis on mental state as an element of criminal responsibility. Society and the law have moved away from the primitive response of punishment for the actus reus alone. The doctrine of mens rea has increas­ingly emerged as an essential element of criminal accountability. The effect of the second proposi­tion in Beard's case is to hold the accused to account, not for his self-induced drunkenness, but for whatever harm he may have done, without intending to do so, while in that state. There is much to be said for the view that drunkenness should not be regarded as standing alone but rather as possibly contributing to some condition inconsistent with criminal responsibility. Thus, insanity caused by excessive drinking affords an answer to a criminal charge but it is the insanity to which attention is directed and the cause of the insanity is irrelevant. The law has always distin­guished intoxication, however gross, from insanity, permanent or temporary, induced by intoxication; psychiatry draws no such distinction.
+
+VIII
+
+When an accused, in answer to a criminal charge, says that he was so sodden as to be virtual­ly an automaton, incapable of knowing what he was about, his defence is not drunkenness but an absence of voluntariness caused by excessive drink­ing. The question then is whether the act was voluntary. Likewise, when the offence with which he is charged includes a mental element which must be established by the Crown, such as inten­tion or recklessness, it should be open to an accused to contend that upon all of the evidence the Crown has failed to establish the requisite mental element. The law should take no note of the inducing cause which led to the incapacity or
+
+[Page 44]
+
+lack of intent. On the other hand, it is generally recognized that the usual effect of drinking is merely to remove self-restraints and inhibitions and induce a sense of self-confidence and, perhaps, aggressiveness. If the accused was drunk at the time of the alleged offence but it is proved that he did the act intentionally or recklessly, it is irrele­vant that but for the drinking he would never have done the act. The intent or recklessness, constitut­ing the necessary mental element, is present and the fact that, by reason of drink, his judgment and control relaxed so that he more readily gave way to his instinctual drives, avails him nothing.
+
+
+
+I return then to the charge facing the present appellant, that of rape. Cases where a man will have had intercourse without intending to do so must be rare; cases where an accused, notwith­standing resistance on the part of the woman, is under a drink-induced mistaken belief that the woman has consented must be rarer. Speaking generally, rape is committed by persons who intend to have intercourse with a woman knowing she has not consented, or who are indifferent to her wishes. Intent is present. What is lacking is control. This extends to the grossly intoxicated. Rape cannot be committed by accident. Inter-course is an act normally consented to and if there is little or no obvious resistance, "half-won argu­ments of couples in parked cars," there would seem to be no principle precluding a defence of belief in consent, though mistaken, and though alcohol be a contributing factor. Drunkenness is simply a piece of evidence relevant to the determi­nation of the presence of the requisite mental element. Drunkenness will not assist in exculpating an accused if he got drunk in order to get courage to commit the crime or to aid in his defence.
+
+The present law is an uneasy and, if I may venture to say so, an indefensible compromise between two other positions which might be taken. The first, that drunkenness can never excuse; the second, that drunkenness can excuse in all crimes except those of strict liability. The compromise was adopted for the reason I have mentioned, to
+
+[Page 45]
+
+permit a reading down in cases of murder or other violent crime, but it can only be justified at present on historical grounds.
+
+
+
+IX
+
+It is sometimes said that public policy demands retention of the "specific intent" concept no matter how illogical or difficult of application that concept may be; see Director of Public Prosecu­tions v. Majewski[23], at pp. 167-8. The point is made that a basic function of the criminal law is protection of the public from unprovoked violence and that to depart from the rule in Beard's case would leave no protection where such violence is consequent upon the taking of drink or drugs; (id. at p. 152). I have grave doubt that the rule in Beard deters or is capable of deterring the intox­icated offender. Such an offender only has an excuse if he acted in circumstances where he was incapable of forming an intent, or without an intent in fact. Certainly when that state is reached, no prohibitive rule could deter. But it is said (Austin, Jurisprudence, 5th ed. vol. I p. 496), that such a state is voluntarily reached by an accused only at his peril, and that he will be presumed to have intended any actus reus he commits as the result of voluntary intoxication. Austin’s point is that voluntarily ingesting an alcoholic substance to the point where one is incapacitated to form an intent is recklessness sufficient to support a finding of mens rea. The same point is made by Lord Elwyn-Jones L.C. and by Lord Russell in Majew­ski’s case at pp. 151 and 171.
+
+With great respect for those of another view, I think it is wrong to say that merely because a man voluntarily ingests a substance which causes him to cast off the restraints of reason, such conduct must inevitably be branded as reckless enough to support the crime charged, whatever that crime may be. There will be circumstances, no doubt, in which such will be the case. A good example is Attorney General for Northern Ireland v.
+
+[Page 46]
+
+Gallagher[24], at p. 382, where Lord Denning observed that a man may not form an intention and voluntarily, by drink, obliterate his will in order to give himself the Dutch courage to act in furtherance of that intention. But it is equally true that there are circumstances where the ingestion of drugs or drink is not reckless in the relevant sense. An example would be an inexperienced youth drinking with older companions at their instigation for the first time. Such an offender, who finds himself having committed a criminal actus reus while incapable of forming any intent, highlights the artificiality and possible injustice of presuming intention from the act of ingestion. This becomes clear when one considers that drinking, as such, is not prohibited nor socially stigmatized in contem­porary Canadian society. It may well be that an accused knows, or ought to have known, that drink or drugs makes him prone to certain kinds of conduct. A man who becomes violent when drunk, or a drug-taker who has reason to believe he will obliterate his will and hence become a danger to others may be reckless in the relevant sense. That is a question of fact to be determined in the circumstances of each particular case and not by the application of what is, in effect, an irrebuttable presumption against an accused.
+
+Recklessness in a legal sense imports foresight. Recklessness cannot exist in the air; it must have reference to the consequences of a particular act. In the circumstances of a particular case, the ingestion of alcohol may be sufficiently connected to the consequences as to constitute recklessness in a legal sense with respect to the occurrence of the prohibited act. But to say that everyone who gets drunk is thereby reckless and therefore account-able is to use the word "reckless" in a non-legal sense and, in effect, in the case of an intoxicated offender, to convert any crime into one of absolute or strict liability.
+
+If sanctions against drinking to excess be thought necessary then, in my view, they ought to
+
+[Page 47]
+
+be introduced by legislation—as in a crime of being drunk and dangerous—and not by the adop­tion of a legal fiction which cuts across fundamen­tal criminal law precepts and has the effect of making the law both uncertain and inconstant. If the point is deterrence from drink then such deter­rence ought to be specific and precise, in the form of a legislative command.
+
+X
+
+For the reasons which I have sought to express, I have concluded that it is no longer necessary nor desirable to maintain the fiction of "specific intent" and "general intent" crimes. From the acts and statements of the accused and all of the other evidence adduced, the jury should be entitled to draw inferences as to the mental state of the accused. The concern is with the mental state of the accused in fact, and not merely his capacity to have the necessary mental state. Intoxication is one factor which, with all of the other attendant circumstances, should be taken into account in determining the presence or absence of the requi­site mental element. If that element is absent, the fact that it was absent due to intoxication is no more relevant than the fact of intoxication giving rise to a state of insanity. The jury should be instructed that it is open to them to convict if they find that the accused intended to force intercourse notwithstanding absence of consent, or that he was reckless, in the sense I have indicated, as to wheth­er she consented or not. If the necessary intent or recklessness is there, the fact that he acted in a way in which he would not have acted had he been sober does not assist him at all (see R. v. Sheehan[25], at p. 312). The jury should also be instructed that if they are not satisfied beyond a reasonable doubt that the accused had the intent or recklessness required by law, he should be acquitted. In deciding this question, they should have regard to all of the evidence including the ages and background of the accused and the woman, the time and place and circumstances of the encounter, the conduct and statements at the time and following the event, the sobriety of each,
+
+[Page 48]
+
+and should draw such inferences therefrom as appear proper in the circumstances. In the case of an intoxicated or drugged accused, the jury may have little difficulty in drawing an inference of intent or recklessness in the relevant sense, but that remains an issue of fact for the jury to determine in each particular case.
+
+In my opinion, it was wrong for the trial judge in the present case to withdraw from the jury any consideration of drunkenness. Such evidence was open for consideration by the jury, as going not to defence but to the establishment by the Crown of the mental element requisite to a finding of guilt.
+
+The question remains as to whether the curative provision of s. 613 (1)(b)(iii) of the Criminal Code should be applied. The appellant’s degree of intoxi­cation would not appear to have been excessive but there can be no doubt, as Mr. Justice Bull of the Court of Appeal observed, that he was intoxicated. The complainant testified that he was "pretty drunk" and midway through the acts alleged "started to fall asleep." The degree of drunkenness and its effect upon the mental state of the accused is a question of fact, determination of which rests with the jury. I am unable to say that a properly charged jury could have no reasonable doubt that the accused, at the critical time, had the mental element essential to culpability.
+
+I would accordingly allow the appeal, set aside the convinction [sic] and direct a new trial.
+
+The judgment of Martland, Judson, Ritchie, Pigeon, Beetz and de Grandpré JJ. was delivered by
+
+PIGEON J.-At a jury trial the appellant was convicted of rape and his appeal to the Court of Appeal of British Columbia was dismissed unani­mously. This appeal is by leave of this Court on the following question of law:
+
+That the learned trial judge erred in law in directing the jury that drunkenness was not a defence to a charge of rape.
+
+[Page 49]
+
+The course of the trial was summarized as follows by Bull J.A.:
+
+It was common ground at the trial, and the jury was properly so told, that the only real issue was whether or not the sexual intercourse that admittedly took place was with or without the consent of the complainant, and whether or not any consent was extorted by threats of fear of bodily harm. The complainant testified that the coition took place against her will and objections and only after and because the appellant had threatened her with bodily harm with a knife. The appellant did not give evidence nor call witnesses. However, he made a voluntary statement to the police on the Monday, March 18, 1974, in which he confirmed generally the complai­nant’s recital of the events which led up to the inter-course, but said that it took place with her consent and no knife or threats were used. Hence the principal task for the jury was to determine whether to accept or reject the sworn evidence of the complainant in the light of the appellant's unsworn allegation of consent and his denial of force or compulsion.
+
+On the matter of drunkenness, the learned trial judge included in his charge to the jury this one sentence:
+
+"I should add too at this point, drunkenness is no defence to a charge of this sort."
+
+The Court of Appeal considered itself bound by its previous judgment in Regina v. Boucher[26], although noting that the view taken in the courts of Ontario seems to be different (Regina v. Vandervoort[27]; Regina v. Schmidt & Gole)[28].
+
+As it is clearly desirable to settle this conflict of opinion, I will deal with the points arising out of the main question in the following order:
+
+1. The distinction between crimes of specific intent and offences of general or basic intent;
+
+2. Rape as an offence of general intent;
+
+3. Whether there was evidence that the accused was so intoxicated that he could not form a crimi­nal intent;
+
+4. Whether there was a miscarriage of justice.
+
+[Page 50]
+
+In The Queen v. George[29], Fauteux J. (as he then was) said (at p. 877):
+
+In considering the question of mens rea, a distinction is to be made between (i) intention as applied to acts considered in relation to their purposes and (ii) intention as applied to acts considered apart from their purposes. A general intent attending the commission of an act is, in some cases, the only intent required to constitute the crime while, in others, there must be, in addition to that general intent, a specific intent attending the purpose for the commission of the act.
+
+Ritchie J. adopted the following passage from Kenny’s Outlines of Criminal Law, 17th ed., p. 58, para. 42 (at p. 891):
+
+... in Director of Public Prosecutions v. Beard, [1920] A.C. 479 ... it was laid down that evidence of such drunkenness as "renders the accused incapable of forming the specific intent, essential to constitute the crime, should be taken into consideration, with the other facts proved, in order to determine whether or not he had this intent". In such a case the drunkenness, if it negatives the existence of the indispensable mental ele­ment of the crime "negatives the commission of that crime". Thus a drunken man's inability to form an intention to kill, or to do grievous bodily harm involving the risk of killing, at the time of committing a homicide, may reduce his offence from murder to manslaughter (which latter crime requires no more than a realization that some bodily harm may be caused). Drunkenness may likewise show that a supposed burglar had no intention of stealing, or that wounds were inflicted without any "intent to do grievous bodily harm", or that a false pretence was made with no "intent to defraud". But it must be remembered that a man may be so drunk as not to form an intention to kill or do grievous bodily harm while yet in sufficient control of his senses to be able to contemplate some harm and so to be guilty of manslaughter or of an unlawful wounding.
+
+I find it unnecessary to review the numerous authorities available on the point seeing that they have just been fully dealt with by a unanimous seven-member House of Lords in Director of
+
+[Page 51]
+
+Public Prosecutions v. Majewski[30]. The facts of the case and the question raised are stated as follows by Lord Elwyn-Jones, L.C. (at pp. 144-5):
+
+The appellant's case was that when the assaults were committed he was acting under the influence of a com­bination of drugs (not medically prescribed) and alcohol, to such an extent that he did not know what he was doing and that he remembered nothing of the incidents that had occurred. After medical evidence had been called by the defence as to the effect of the drugs and drink the appellant had taken, the learned judge, in the absence of the jury, ruled that he would direct the jury in due course that on the charges of assault or assault occasioning actual bodily harm, the question whether he had taken drink or drugs was immaterial. The learned judge directed the jury that in relation to an offence not requiring a specific intent, the fact that a man has induced in himself a state in which he is under the influence of drink and drugs, is no defence. Since the counts for assault did not require proof of any specific intent, the fact that the accused might have taken drink or drugs was irrelevant, provided the jury was satisfied that the state which he was in as a result of drink and drugs or a combination of both was self-induced.
+
+…
+
+The Court of Appeal dismissed the appeal against conviction but granted leave to appeal to your Lord-ships' House certifying that the following point of law of general public importance was involved:
+
+"Whether a defendant may properly be convicted of assault notwithstanding that, by reason of his self-induced intoxication, he did not intend to do the act alleged to constitute the assault."
+
+Here are now some key passages of the speech with which Lord Diplock, Lord Simon and Lord Kilbrandon agreed: (at pp. 149-50):
+
+In Attorney-General for Northern Ireland v. Gal­lagher ([1963] A.C. 349 at p. 380), Lord Denning spoke of
+
+"the general principle of English law that, subject to very limited exceptions, drunkenness is no defence to a criminal charge nor is a defect of reason produced by drunkenness ...".
+
+Gallagher's case was followed by Bratty v. Attorney-General for Northern Ireland ([1963] A.C. 386), Lord Denning (at p. 410) said:
+
+[Page 52]
+
+", .. If the drunken man is so drunk that he does not know what he is doing, he has a defence to any charge, such as murder or wounding with intent, in which a specific intent is essential, but he is still liable to be convicted of manslaughter or unlawful wound­ing for which no specific intent is necessary, see Beard's case ([1920] A.C. 479)."
+
+The seal of approval is clearly set on the passage of the Beard (at p. 499) decision. In no case has the general principle of English law as described by Lord Denning in Gallagher's case and exposed again in Bratty's case been overruled in this House and the question now to be determined is whether it should be.
+
+I do not for my part regard that general principle as either unethical or contrary to the principles of natural justice. If a man of his own volition takes a substance which causes him to cast off the restraints of reason and conscience, no wrong is done to him by holding him answerable criminally for any injury he may do while in that condition. His course of conduct in reducing him-self by drugs and drink to that condition in my view supplies the evidence of mens rea, of guilty mind cer­tainly sufficient for crimes of basic intent.
+
+At p. 154, Lord Simon said of what I have quoted above from Fauteux J.’s judgment in George, that it was "the best description of specific intent in this sense that I know". None of the other Law Lords sitting differed. I find Lord Edmund-Davies saying (at pp. 167-8):
+
+The undeviating application of logic leads inexorably to the conclusion that a man behaving even as Lipman [R. v. Lipman, [1970] 1 Q.B. 152] unquestionably did must be completely discharged from all criminal liability for the dreadful consequences of his conduct. It was, as I recall, submissions of this startling character which led my noble and learned friend, Lord Simon of Glaisdale, to comment trenchantly to appellant's counsel: "It is all right to say 'Let justice be done though the heavens fall'. But you ask us to say, `Let logic be done even though public order be threatened', which is something very different".
+
+Are the claims of logic, then, so compelling that a man behaving as the Crown witnesses testified the appellant did must be cleared of criminal responsibility? As to this, Lawton LJ ([1975] 3 All E.R. 296 at p, 305) rightly said:
+
+[Page 53]
+
+"Although there was much reforming zeal and activity in the 19th century, Parliament never once considered whether self-induced intoxication should be a defence generally to a criminal charge. It would have been a strange result if the merciful relaxation of a strict rule of law has ended, without any Parliamen­tary intervention, by wittling it away to such an extent that the more drunk a man became, provided he stopped short of making himself insane, the better chance he had of an acquittal."
+
+If such be the inescapable result of the strict applica­tion of logic in this branch of the law, it is indeed not surprising that illogicality has long reigned, and the prospect of its dethronement must be regarded as alarming.
+
+II
+
+As previously noted, the view taken by the Court below following its previous judgment in Boucher differs from the view taken by the Court of Appeal of Ontario in Vandervoort. In that case, after reviewing the course of the trial, Aylesworth J.A. said for the Court (at pp. 384-5):
+
+It is clear that one of the essential elements demand­ing proof in a charge of rape is a specific intent by the accused to have intercourse without the woman's con-sent. This has been established in a long line of notable authority; it will be sufficient to refer to one or two cases only.
+
+In Regina v. Wright (1866), 4 F. & F. 967, 176 E.R. 869, Channell B. charged the jury that rape "required an intention on his (accused's) part to commit the act by force against her will". And see Regina v. Stanton (1844), 1 Car. & K. 415, 174 E.R. 872. In Rex v. Lloyd (1836), 7 C. & P. 318, 173 E.R. 141, the jury were told by Patteson J. "In order to find the prisoner guilty of an assault to commit a rape, you must be satisfied that the prisoner, when he laid hold of the prosecutrix, not only desired to gratify his passions upon her person, but that he intended to do so at all events, and notwithstanding any resistance on her part."
+
+In my opinion, Aylesworth J.A. erred in saying that a "specific intent by the accused to have intercourse without the woman’s consent" is one of the essential elements demanding proof in a charge of rape. The three early English cases on which he relied, antedate Beard by many years. None of
+
+[Page 54]
+
+them was referred to in Beard and drunkenness was not an issue in any of them. In the earliest, R. v. Lloyd, the charge was not rape but assault with intent to commit a rape and Patteson J. told the jury that in order to find the prisoner guilty "you must be satisfied that the prisoner, when he laid hold of the prosecutrix, not only desired to gratify his passions upon her person, but that he intended to do so at all events, and notwithstanding any resistance on her part." In the second, R. v. Stan-ton, again the charge was not rape but assault with intent to commit a rape and Coleridge J. instructed the jury that the intent required was intent to have a connexion by force. In the third case, R. v. Wright, Channell J. charged the jury that rape "required an intention on his (accused’s) part to commit the act by force against her will." I do not consider that any of these cases is helpful in determining whether rape is a crime of specific intent, as distinguished from general intent, in the context of drunkenness.
+
+Aylesworth J.A. then quoted the following pas-sage from Lord Birkenhead’s judgment in Beard, at p. 504:
+
+"Drunkenness, rendering a person incapable of the intent, would be an answer, as it is for example in a charge of attempted suicide. In Reg. v. Moore ((1852), 3 C. & K. 319, 175 E.R. 571) drunkenness was held to negative the intent in such a case and Jervis C.J. said: 'If the prisoner was so drunk as not to know what she was about how can you say that she intended to destroy herself?' My Lords, drunkenness in this case could be no defence unless it could be established that Beard at the time of committing the rape was so drunk that he was incapable of forming the intent to commit it, which was not in fact, and manifestly, having regard to the evidence, could not be contended."
+
+Aylesworth J.A. then observed:
+
+The "intent to commit it" referred to by the Lord Chancellor is, of course, the intent to commit rape and
+
+[Page 55]
+
+rape imports a specific intent to have intercourse with-out the woman's consent.
+
+The words from Beard quoted by Mr. Justice Aylesworth were part of a longer passage in which Lord Birkenhead also said:
+
+For in the present case the death resulted from two acts or from a succession of acts, the rape and act of violence causing suffocation. These acts cannot be regarded sepa­rately and independently of each other. The capacity of the mind of the prisoner to form the felonious intent which murder involves is in other words to be explored in relation to the ravishment; and not in relation merely to the violent acts which gave effect to the ravishment.
+
+
+
+Lord Russell of Killowen, in Majewski, con­sidered the entire passage and another short pas-sage from Beard reading at p. 507: "There was certainly no evidence that he was too drunk to form the intent of committing rape" and then said (at p. 172):
+
+In my opinion these passages do not indicate an opinion that rape is a crime of special intent. All that is meant is that conscious rape is required to supply "the felonious intent which murder involves". For the crime of murder special or particular intent is always required for the necessary malice aforethought. This may be intent to kill or intent to cause grievous bodily harm: or in a case such as Beard of constructive malice, this, required the special intent consciously to commit the violent felony of rape in the course and furtherance of which the act of violence causing death took place. Beard, therefore, in my opinion does not suggest that rape is a crime of special or particular intent.
+
+Mr. Justice Aylesworth referred also to the deci­sion of the Supreme Court of Victoria, Australia, in R. v. Hornbuckle[31]. In that case, on a charge of rape, MacFarlan J. held:
+
+... a specific intention to commit the crime of rape is, in my opinion, an essential element or ingredient of the crime of attempting to commit rape within the meaning of the judgment of the House of Lords in Beard's Case.
+
+[Page 56]
+
+Lowe and Martin JJ. were of the same opinion. They relied upon the two passages from Beard which Lord Russell considered in Majewski and upon the fact that the Crimes Act 1928, s. 456, permitted the jury to bring in a verdict on the included charge of not guilty of rape but guilty of an assault with intent to commit rape. Lowe and Martin JJ. found a possible anomaly in denying the defence of drunkenness to an attempt which succeeded but in making it available where the crime remained in the attempt. The judges resolved the anomaly in the following passage:
+
+Analysis of the crime of rape involves at least these elements, (a) an indecent assault, (b) an intent to have intercourse with the female without her consent, and (c) the intended assault completed by the having of inter-course. To hold that knowledge that the act of inter-course was occurring sufficiently establishes the intent, because the man who knows he is committing the act must intend it, even if prima facie warranted, seems to us to fail to distinguish "intent to have intercourse without the consent of the female". Once it is appreciat­ed that the above elements are involved, the alternative verdict of assault with intent (now specifically author­ized by the Crimes Act) follows naturally and any basis for the suggested anomaly disappears.
+
+Canadian law no longer knows of a crime of assault with intent to commit rape; therefore the possible anomaly which gave Lowe and Martin JJ. pause need not concern us.
+
+I do not propose to analyze the judgment of the Court of Appeal for British Columbia in R. v. Boucher, supra, in which the Court concluded that it is no defence to a charge of rape that the accused was too drunk to know that the complai­nant was not consenting. There are passages in the judgment which one might question, such as Shep­pard J.A.'s reference to the failure of the accused to prove that drunkenness resulted in that degree of incapacity necessary to rebut the presumption of intent (see Woolmington v. D.P.P.[32]) I agree, however, with the conclusion reached in Boucher.
+
+[Page 57]
+
+In my view, rape is a crime involving only a general intention as distinguished from a specific intention and is therefore a crime in which the defence of drunkenness can have no application.
+
+
+
+In R. v. Resener[33], the Court of Appeal of British Columbia held that a specific intent to act indecently was not an essential ingredient on a charge of indecent assault. This comports with the English decision in R. v. Burns to which I referred earlier. In Resener's case, after reference to Boucher and Vandervoort and to what had been said by Fauteux and Ritchie JJ. in George, Davey C.J.B.C. said:
+
+Without attempting an exhaustive analysis of their judg­ments, I consider it follows from them that a specific intent to assault indecently is not an essential ingredient of the crime of indecent assault, as distinguished from mens rea, which may be established, among other ways, by a general intent to assault.
+
+
+
+R. v. Schmidt & Gole[34] merely followed Vander­voort but see Bolton v. Crawley[35], where it was held that the offence of assault occasioning actual bodily harm did not need a specific intent and that intoxication due to drugs could not afford a defence.
+
+In R. v. King[36], the question was whether mens rea was a necessary element of the offence of driving a motor vehicle while ability to do so is impaired by a drug. The Court gave an affirmative answer to this question but in the course of a judgment with which Martland J. agreed, Ritchie J. said (at p. 763):
+
+If the driver's lack of appreciation when he undertook to drive was induced by voluntary consumption of alcohol or of a drug which he knew or had any reason-able ground for believing might cause him to be impaired, then he cannot, of course, avoid the conse­quences of the impairment which results by saying that he did not intend to get into such a condition, but if the impairment has been brought about without any act of
+
+[Page 58]
+
+his own will, then, in my view, the offence created by s. 223 cannot be said to have been committed.
+
+The existence of a rebuttable presumption that a man intends the natural consequences of his own conduct is a part of our law, but its application to any particular situation involves a consideration of what consequences a man might be reasonably expected to foresee under the circumstances.
+
+In Director of Public Prosecutions v. Morgan[37], the House of Lords considered whether in order to constitute a defence to a charge of rape an errone­ous belief that the woman was consenting required not only to be honestly held but also to be reason-able. In a controversial decision, a three to two division, the majority expressed the opinion that an honest belief in consent was a defence whether or not that belief was based on reasonable grounds. All were, however, unanimous in holding that no miscarriage of justice had occurred because as Lord Cross put it (at p. 353): ".. . the only real issue in the case was whether what took place in the Morgan's house that night was a multiple rape or a sexual orgy". Lord Simon, who dissented, saw fit to consider, although the others did not, wheth­er rape was an offence of specific intent. He said (at p. 365):
+
+This brings me to the fourth question, namely wheth­er rape is a crime of basic or ulterior intent. Does it involve an intent going beyond the actus reus? Smith and Hogan (Criminal Law (3rd Edn, 1973), p. 47) say No. I respectfully agree. The actus reus is sexual inter-course with a woman who is not in fact consenting to such intercourse. The mens rea is knowledge that the woman is not consenting or recklessness as to whether she is consenting or not.
+
+On the whole, I conclude that the British Columbia Court of Appeal was correct in differing from the view taken by the Ontario Court of Appeal that rape is an offence of specific intent.
+
+III
+
+I must now point out that while there is high authority for the proposition that in some circum­stances it is desirable to express an opinion on an
+
+[Page 59]
+
+important point of law although it is doubtful whether it can be said to emerge at all on the facts of the case, I know of no authority holding that it is ever proper, after dealing with the question of law in itself, to dispose of the case without pro­ceeding to consider whether on the facts it is material and if in the event, there is a miscarriage of justice.
+
+In Beard, supra, the question of law was decided adversely to the accused and, therefore, the convic­tion was restored. However, in Morgan, as previ­ously noted, the decision was unanimous that, although the trial judge's direction that belief in consent had to be reasonable was erroneous, never­theless on the facts as presented by the accused, an honest belief in consent was inconceivable and there had been no miscarriage of justice.
+
+In rape cases, some consideration should be given to the plight of a complainant and she must not be subjected to the humiliation of having to testify again unless justice makes it imperative. Therefore, in the circumstances, although it is not strictly necessary in view of my conclusion on the question of law, I wish to say that, even if I held a different view, I would have to hold that in the instant case there was no evidence that the accused was drunk to such a degree as to be incapable of forming the intent to commit rape. Here is what Bull J.A. said:
+
+The evidence was clear that the appellant was intox­icated (as was the boy friend Lesley) but there was no suggestion that he was in such a drunken condition either that he did not know what he was doing or that he would not appreciate that his menacing use of the knife, combined with this insistence on sexual intercourse, extorted submission or consent to the act. The appel­lant's position, as voluntarily made to the police, was merely that he "started petting" with her, removed her tampax for her and had intercourse. The whole statement was clear and concise as to event and details and negated any such drunken condition.
+
+I do not think that the trial judge’s remark indicates that he thought there was some evidence of drunkenness going to the extent of an inability
+
+[Page 60]
+
+to form a criminal intent. (Assuming this is at all possible in a rape case, see Glanville L. Williams, The Mental Element in Crime (1965), p. 47.) In my opinion, the trial judge merely wanted to guard against the erroneous view that mere drunken condition could be a defence.
+
+IV
+
+Even if it could be considered that there was some slight evidence of absence of intent due to impairment of the mind by drink, I would never­theless hold in this case that there was no miscar­riage of justice. It is clear that the accused deliber­ately chose to submit to the jury a defence of consent based on his statement to the police in which he admitted the fact of intercourse. An accused cannot very well at the same time ask the jury to believe his statement that the complainant did consent if, at the same time, he says he was so drunk as not to know what he was doing. In Morgan, the conclusion was unanimous that the accused could not at the same time ask the jury to accept that they honestly believed the complainant was consenting in spite of her resistance when they were also saying that, after initial resistance, she had indulged in an orgy with them.
+
+I am not unmindful of the rule that it is the duty of a trial judge to put to the jury every defence available to the accused. However, when the latter, with the advice of competent counsel, chooses not to raise a weak alternative defence so as not to prejudice his main defence, it would not in my view be consistent with the proper administration of justice to allow a new trial for the purpose of making it possible to raise the alternative ground of defence.

@@ -1,0 +1,103 @@
+Disposition
+[30]          So far as the decisions are concerned, there are four of them, of equal persuasiveness, two going each way; I am left, then, to my own devices - a perilous matter indeed.
+
+[31]          The four situations which may generally occur may be outlined briefly, as follows:
+
+(1) An accused is charged with murder, obtains an order of release, and is in due course committed to stand trial for murder.
+
+(2) An accused is charged with murder, is not released, and is committed to stand trial for murder.
+
+(3) An accused is charged with murder, is released and in due course is committed to stand trial for manslaughter.
+
+(4) An accused is charged with murder, is not released, and in due course is committed to stand trial for manslaughter.
+
+[32]          While I have referred only to the offence of murder it would apply equally to an accused charged with any offence to which 457.7 applies but committed to stand trial for an offence to which that section does not apply.
+
+[33]          In the case before me the learned Provincial Court judge was faced with an order of this court forbidding the accused’s release, and was of the view that he had no power to vary the order of a judge of a superior court.
+
+[34]          The basic scheme of the judicial interim release provisions is that an application may be made to a justice subject to the limitation that only a superior court judge may grant a release of an accused in certain cases.
+
+[35]          I acknowledge the straightforward logic of Degerness, and agree that the decision of the learned Chief Justice can not be challenged on a strict interpretation of the Code but only by a broad interpretation of the general scheme of the judicial interim review provisions. On such an interpretation, it is not illogical to suggest that the limitation becomes inoperative when an accused is no longer charged with a s. 457.7 offence or that, at that stage, an order of detention expires, and I so hold.
+
+[36]          This does not mean that an accused is entitled to go free. He is before the court and his continued incarceration rests not on the detention order but on the fact that he has been committed to stand trial (just as failure to commit would result in his release).
+
+[37]          In other words, he does not continue to be detained on the basis of an order under s. 457.7 but, rather, by virtue of his committal to stand trial. At that stage, I see no problem in having every order for detention expire on the committal of a person charged with an offence to which s. 457.7 applies but committed to stand trial for an offence to which s. 457.7 does not apply, thus allowing the judicial interim release process to begin anew.
+
+[38]          I reach this decision regretfully because it provides an exception to the status of orders made under 457.7 and exceptions tend unnecessarily to complicate the law. Degerness puts all orders under 457.7 on the same footing. The balance of convenience prompts me to depart from the principle of consistency.
+
+[39]          I would not do so in defiance of specific provisions of the Code. However, I am of the view that the situation before me was not contemplated by Parliament. It is therefore a choice of applying either specific words, on the one hand, or the general intent of the provisions, on the other, to a situation not addressed in the legislation.
+
+[40]          It is preferable to have the accused apply to a justice, because a review of an order of a justice may be had “at any time before “the trial”, and subject to s. 457.7(8) there is no limit on the number of times a review may be had. There is no section equivalent to s. 457.6 applicable to the order of a superior court judge. (Of course, no review may occur after the commencement of the trial because whether or not he is detained at that stage is part of the trial process and subject to the orders of the judge at trial.)
+
+[41]          An accused’s release or detention under s. 457 depends on his being
+
+(a) taken before a justice, and
+
+(b) charged with an offence other than an offence mentioned in s. 457.7.
+
+[42]          It may be argued that an accused who has been committed to stand trial is no longer before the justice who granted the order of committal. However, I am of the view that the words “taken before a justice”, and “an accused who is charged”, in s. 457 should be broadly interpreted. Words can mean quite different things in different circumstances.
+
+[43]          The words “charged” and “taken before a justice” include but are not limited to cases where a person is arrested and brought before the justice on an information.
+
+[44]          I hold that, for purposes of s. 457, a person who has been committed for trial after a preliminary hearing is “charged”, and that he is properly “taken before the justice” when, after the conclusion of the preliminary hearing, his application is heard for judicial interim release.
+
+[45]          The fact only of his having been committed for trial before another court, i.e. the Queen’s Bench, does not deprive the justice of jurisdiction to grant an order under 457.
+
+Doubtful Jurisdiction
+[46]          I am satisfied that, precisely construed, the limitation in s. 457.7 (1) applies only where an accused is charged with an offence under ss. 450 to 453 or ss. 76.1 to 76.3.
+
+[47]          Section 457.7(1) reads as follows:
+
+“457.7(1) Notwithstanding anything in this Act, where an accused is charged with an offence punishable by death, an offence under sections 50 to 53 or section 76.1 to 76.3 or non-capital murder, no court, judge or justice, other than a judge of or a judge presiding in a superior court of criminal jurisdiction for the province in which the accused is so charged, may release the accused before or after committal for trial.”
+
+[48]          I refer to the problem arising from the words “offence punishable by death” and “non-capital murder”.
+
+[49]          The Code no longer contains an offence punishable by death or non-capital murder.
+
+[50]          It may be argued that these words are intended to refer to the present offences of first degree murder and second degree murder. I do not accept that this is so.
+
+[51]          A brief review of the statutory amendments may be revealing.
+
+[52]          In 1954 murder was defined in s. 201 (identical to the present s. 212) and s. 202 (almost identical to the present s. 213). A sentence of death was mandatory.
+
+[53]          In 1961, s. 202A was added which categorized murder as capital and noncapital. Capital murder was defined in ss. 202A(2) as being:
+
+(a) planned and deliberate;
+
+(b) within s. 202 with the additional requirements therein set forth;
+
+(c) in relation to police officers and prison guards.
+
+[54]          The punishment for capital murder was mandatory, (“shall be sentenced to death”), with an exception for persons under the age of 18 years.
+
+[55]          All murder that was not capital murder was non-capital murder and a sentence of life imprisonment was mandatory.
+
+[56]          The effect of the 1961 amendments was, therefore, to reduce the number of offences for which the death sentence was mandatory.
+
+[57]          By Chapter 15 of S.C. 1967-68, s. 202A(2), was repealed, and capital murder was redefined to relate only to peace officers and prison officials acting in the course of their duties. Murders as defined in s. 202, were removed from the definition of capital murder, and each of these therefore become non-capital murder. (These amendments produced some curious results. The mandatory sentence for capital murder was death, but by s. 47 treason was an offence for which a person was liable to be sentenced to death. On the other hand, under s. 75 if, while committing or attempting to commit piracy a person murders or attempts to murder, the sentence of death was mandatory. In other words, where a person attempted to commit murder in attempting to commit piracy, the sentence of death was mandatory. But for treason, including the killing of Her Majesty, the accused was only liable to a sentence of death, as distinct from having it mandatory.)
+
+[58]          In 1972 the Bail Reform Act came into effect.
+
+[59]          At that time s. 457.7 quite properly referred to offences which were punishable by death and non-capital murder. Certain transitional provisions as they relate to the imposition of the death penalty do not affect the definitions of the offences to which I refer.
+
+[60]          On January 1, 1974, murder was classified as punishable by death or punishable by imprisonment for life. Murder punishable by death was limited to murder of a police officer, a prison warden or similar persons in the course of their respective duties.
+
+[61]          All murder that was not punishable by death was punishable by imprisonment for life.
+
+[62]          At this stage there was no reference to non-capital murder.
+
+[63]          On July 26, 1976 all punishments by death were deleted from the Code and murder was categorized as first degree and second degree.
+
+[64]          First degree murder was murder that was planned and deliberate, and murder where the victim is a peace officer or prison official in the course of his duties, but the definition of first degree murder added also:
+
+(a) contract murder,
+
+(b) murder where the victim is a person working in a prison with the permission of prison authorities, and
+
+(c) a reduced and altered form of former sections 202 and 202A(2) but with the addition of culpable homicide in the course of highjacking an aircraft.
+
+[65]          Of course, all murder that was not first degree murder was second degree murder. The important thing to note is that the definitions of murder punishable by death and non-capital murder have never been the same respectively as first degree murder and second degree murder. In particular, for the purposes of s. 457.7, it is to be observed that non-capital murder was never defined to include the present definition of first degree murder.
+
+[66]          As a result, it is obvious that a considerable stretching of the words is necessary if one is to assume that offences punishable by death and noncapital murder are intended to have reference to the first degree murder and second degree murder offences now in the Code or that non-capital murder now refers to all categories of murder.
+
+[67]          Consequently, s. 457.7 does not apply to the present offences of first degree murder and second degree murder.

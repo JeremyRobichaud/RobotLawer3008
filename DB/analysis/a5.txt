@@ -1,0 +1,109 @@
+Law and Analysis
+
+[12]        Manslaughter is a general intent offence.  Counsel agreed that if the jury accepted that Mr. Sparks committed the physical act of stabbing Ms. Gonzales, there would be no path to a conviction of manslaughter given the sheer number of stab wounds to Ms. Gonzales (some 40 wounds).
+
+[13]        In their instructions, the jury are directed to consider the following sequence of questions:
+
+1.                 Did Mr. Sparks cause the death of Nadia Gonzales?
+
+2.                 If so, did Mr. Sparks cause Nadia Gonzales’s death unlawfully?
+
+3.                 If so, did Mr. Sparks have the state of mind required for murder?
+
+4.                 If so, was the murder of Nadia Gonzales both planned and deliberate?
+
+[14]        If the jury gets as far as the third question, they will have identified Mr. Sparks as the person responsible for the killing of Ms. Gonzales.  The elements of the offence of unlawful act manslaughter are that the accused committed an unlawful act that was a contributing cause of the death of the victim but did not have the state of mind required for murder.
+
+[15]        Whether the jury should be instructed on a lesser included offence will depend on the presence or absence of an evidential foundation for the defence in a particular case.  In R. v. Cinous, 2002 SCC 29, McLachlin C.J. and Bastarache J., for the majority, discussed the “air of reality” test applied to defences, at paras. 48 to 55 (some citations omitted):
+
+    This Court has considered the air of reality test on numerous occasions. The core elements of the test, as well as its nature and purpose, have by now been clearly and authoritatively set out...  Nevertheless, a controversy has arisen in this case concerning the extent of a trial judge’s discretion to keep from a jury defences that are fanciful or far-fetched. More narrowly, the contentious issue is the correct evidential standard to be applied in determining whether there is an air of reality to the defence of self-defence on the facts of this case.
+
+ In our view, the controversy can be resolved on the basis of existing authority, which we consider to be decisive. The correct approach to the air of reality test is well established. The test is whether there is evidence on the record upon which a properly instructed jury acting reasonably could acquit… This long-standing formulation of the threshold question for putting defences to the jury accords with the nature and purpose of the air of reality test.  We consider that there is nothing to be gained by altering the current state of the law, in which a single clearly-stated test applies to all defences… There is no need to invent a new test, to modify the current test, or to apply different tests to different classes of cases. [Emphasis added.]
+
+(1)   The Basic Features of the Air of Reality Test
+
+ The principle that a defence should be put to a jury if and only if there is an evidential foundation for it has long been recognized by the common law. This venerable rule reflects the practical concern that allowing a defence to go to the jury in the absence of an evidential foundation would invite verdicts not supported by the evidence, serving only to confuse the jury and get in the way of a fair trial and true verdict. Following Pappajohn, supra, the inquiry into whether there is an evidential foundation for a defence is referred to as the air of reality test. See Park, supra, at para. 11.
+
+
+
+ It is trite law that the air of reality test imposes a burden on the accused that is merely evidential, rather than persuasive. Dickson C.J. drew attention to the distinction between these two types of burden in R. v. Schwartz, 1988 CanLII 11 (SCC), [1988] 2 S.C.R. 443, at p. 466:
+
+Judges and academics have used a variety of terms to try to capture the distinction between the two types of burdens. The burden of establishing a case has been referred to as the “ major burden,” the “primary burden,” the “legal burden” and the “persuasive burden.” The burden of putting an issue in play has been called the “minor burden,” the “secondary burden,” the “evidential burden,” the “burden of going forward,” and the “burden of adducing evidence.” [Emphasis in Cinous.]
+
+The air of reality test is concerned only with whether or not a putative defence should be “put in play”, that is, submitted to the jury for consideration. This idea was crucial to the finding in Osolin that the air of reality test is consistent with the presumption of innocence guaranteed by s. 11 (d) of the Canadian Charter of Rights and Freedoms.
+
+In applying the air of reality test, a trial judge considers the totality of the evidence, and assumes the evidence relied upon by the accused to be true… The evidential foundation can be indicated by evidence emanating from the examination in chief or cross-examination of the accused, of defence witnesses, or of Crown witnesses. It can also rest upon the factual circumstances of the case or from any other evidential source on the record. There is no requirement that the evidence be adduced by the accused…
+
+The threshold determination by the trial judge is not aimed at deciding the substantive merits of the defence. That question is reserved for the jury... The trial judge does not make determinations about the credibility of witnesses, weigh the evidence, make findings of fact, or draw determinate factual inferences…  Nor is the air of reality test intended to assess whether the defence is likely, unlikely, somewhat likely, or very likely to succeed at the end of the day.  The question for the trial judge is whether the evidence discloses a real issue to be decided by the jury, and not how the jury should ultimately decide the issue.
+
+Whether or not there is an air of reality to a defence is a question of law, subject to appellate review. It is an error of law to put to the jury a defence lacking an air of reality, just as it is an error of law to keep from the jury a defence that has an air of reality. The statements that “there is an air of reality” to a defence and that a defence “lacks an air of reality” express a legal conclusion about the presence or absence of an evidential foundation for a defence.
+
+[16]        While the court in Cinous was concerned with the air of reality test in the context of a defence, there is also authority for applying this analysis on the question of whether a lesser included offence should be put to a jury. That question was noted, though not expressly decided, by the Nova Scotia Court of Appeal in MacLeod, supra. I am proceeding on the basis that the air of reality test is the appropriate standard to apply. The air of reality test requires the court to consider whether there is evidence of the elements of a lesser included offence, but I am not to go so far as to weigh that evidence.  The question is whether there is an evidentiary foundation for a lesser included offence.
+
+[17]        There was no evidence identified by counsel, and none apparent from my own review, that provides an evidential foundation for manslaughter.  Put simply, there is no air of reality to an instruction for manslaughter.  Mr. Sparks did not say that he participated to a very small degree in the attack, that he was forced to do so, that he was provoked, or that he did not have the requisite intention for murder.  Mr. Sparks’ position is that he was not involved in the act at all, and that someone else did it.  If the jury concludes beyond a reasonable doubt that Mr. Sparks was the individual who caused the bodily harm to Ms. Gonzales, consisting of 40 stab wounds, there is no air of reality to the verdict of manslaughter. On the evidence, a properly instructed jury could not reach that verdict.
+
+[18]        I acknowledge Beveridge J.A.’s decision in R. v. Johnson, supra, that a person on trial for murder has the right to have manslaughter left to the jury if there is any evidence that would allow a verdict of manslaughter.  However, this is one of the rare cases where there is no evidence for such a possible verdict.
+
+[19]        In R. v. Aalders, 1993 CanLII 99 (SCC), [1993] 2 S.C.R. 482, the accused was charged with first degree murder.   The trial judge did not instruct the jury on manslaughter as an included offence.  The evidence was that the accused had gone to the victim’s house, found a loaded rifle, killed the victim’s dog, and later used a small calibre pistol and shot the victim eight times.  The accused fled the scene.  He testified that he did not intend to kill the victim, only to shoot him in the legs in order to allow himself to escape.  On the evidence, the court found there was no air of reality to manslaughter as an alternate verdict.  The accused was convicted of first-degree murder, and the verdict was affirmed by the courts above.
+
+[20]        This case is analogous to Aalder.  The sheer number of stab wounds leaves no air of reality to an instruction for manslaughter.  In deciding not to instruct the jury on manslaughter in relation to Mr. Sparks, I considered the comments by Beveridge J.A., for the majority, in R. v. MacLeod, supra:
+
+[90]      There is considerable authority for the proposition that ordinarily a jury must be instructed that if they have a reasonable doubt on the issue of intent to commit murder, they should return a verdict of manslaughter (see: R. v. Wright, 1979 ALTASCAD 187 (CanLII), [1979] 5 W.W.R. 481 (Alta. S.C.A.D.); The Queen. v. Kuzmack, 1955 CanLII 81 (SCC), [1955] S.C.R. 292; R. v. Stowe, 1978 CanLII 1800 (SK CA), [1979] 2 W.W.R. 90 (Sask. C.A.); [1978] S.J. No. 487).
+
+[91]        In Stowe, Culliton C.J.S., writing for the Court, described the settled nature of this proposition:
+
+17 I think the law is well settled that a person on trial for murder has the right to have the issue of manslaughter left to the jury if the evidence is such that a verdict of manslaughter is open to the jury.
+
+18 In Bullard v. R., [1957] A.C. 635, 42 Cr. App. R. 1, Lord Tucker, speaking for the Judicial Committee, said at p. 7:
+
+"Every man on trial for murder has the right to have the issue of manslaughter left to the jury if there is any evidence upon which such a verdict can be given. To deprive him of this right must of necessity constitute a grave miscarriage of justice and it is idle to speculate what verdict the jury would have reached.
+
+"Their Lordships are accordingly of opinion that the verdict of guilty of murder cannot stand in this case."
+
+19 Too, the issue of manslaughter must be left to the jury even if such a verdict appears to be improbable. This was made clear by Lord Tucker in Bullard v. R., supra, when at p. 7 he said:
+
+"Their Lordships do not shrink from saying that such a result would have been improbable, but they cannot say it would have been impossible. As was said by Humphreys J. in R. v. Roberts (1942), 28 Cr. App. R. 102 at 110, [1942] 1 All E.R. 187: 'As for the question whether it was open to them on the facts, counsel for the prosecution has argued with good reason that no reasonable jury could come to such a conclusion. The court may be disposed to take much the same view, but it cannot delve into the minds of the jury and say what they would have done if the issue had been left open to them.'"
+
+20 See also R. v. Golder; R. v. Jones; R. v. Porritt, [1960] 1 W.L.R. 1372, 45 Cr. App. R. 5, [1960] 3 All E.R. 457 (C.C.A.), and R. v. Kwaku Mensah, 1945 CanLII 516 (UK JCPC), [1946] A.C. 83, [1946] 2 W.W.R. 455, 2 C.R. 113 (P.C.).
+
+21 In my respectful view, the instructions to the jury that only one of two verdicts was open to them, either "guilty as charged" or "not guilty", were wrong. It was for the jury, giving due weight to the inferences which might properly be drawn, to decide whether the appellant had the necessary intent to make her guilty of murder. ...
+
+[emphasis added]
+
+[21]        I refer also to R. v. Chalmers, 2009 ONCA 268, where Blair J.A. said, for the court:
+
+[51] Some older jurisprudence suggests that manslaughter, based on the Crown’s failure to prove the requisite intent for murder beyond a reasonable doubt, must always be left to the jury in murder cases: see, for example, R. v. Wright (1979), 1979 ALTASCAD 187 (CanLII), 48 C.C.C. (2d) 334 (Alta. C.A.), at pp. 339-343, leave to appeal refused, 29 N.R. 623 n.  Current authority confirms, however, that manslaughter should only be left as a possible verdict where that verdict has an “air of reality”: R. v. Aalders, 1993 CanLII 99 (SCC), [1993] 2 S.C.R. 482, at p. 484.  Where there is an “air of reality”, it may be necessary to leave manslaughter to the jury as a possible verdict, even where the defence has objected to that possibility being put to the jury: see e.g. R. v. Murray (1995), 1994 CanLII 1692 (ON CA), 20 O.R., (3d) 156 (C.A.).   At the same time, however, an accused has a constitutional right, albeit not an unlimited one, to control his or her own defence.  This right has recently been re-affirmed by this Court – along with its corresponding consequence of not being able to paddle downstream on appeal when one had paddled vigorously upstream at trial – in R. v. MacDonald (2009), 2008 ONCA 572 (CanLII), 92 O.R. (3d) 180 (C.A.)
+
+[22]        Given the way in which Ms. Gonzales died, the testimony of Dr. Bowes, and the evidence of the magnitude of blood loss, if the identity of the individual who inflicted the wounds is proven beyond a reasonable doubt to be Mr. Sparks, there is no air of reality to manslaughter as a possible verdict.
+
+[23]        This case is similar to R. v. Chalmers, supra, where the evidence was that the deceased suffered five skull fractures from blows administered by a long pipe-like instrument.  Given the sheer magnitude, number and extent of the stab wounds inflicted on Ms. Gonzales, there is no air of reality to manslaughter to be left with the jury, in relation to Mr. Sparks. This is not similar to MacLeod, supra, where Dr. Bowes spoke about strangulation and testified that either strangulation or a physical struggle could have resulted in the death.
+
+[24]        There is no evidence upon which a properly instructed jury could conclude that if Mr. Sparks stabbed Ms. Gonzales, that it was for some other purpose other than to cause her death.   The Crown led evidence of planning and deliberation by Mr. Sparks of the murder of Ms. Gonzales through Joseph Fowler, John Patterson and Wayne Bruce.
+
+[25]        Mr. Sparks did not testify, as was his right.  The defence was that he was not involved in the death of Ms. Gonzales, but that third party suspects were responsible.  This was an all or nothing defence.
+
+[26]        The only issue here is identity.   If the jury is satisfied beyond a reasonable doubt that Mr. Sparks killed Ms. Gonzales there is no evidence that Ms. Gonzales was killed in a struggle or in some other confrontation that went wrong.  There is no basis for a conviction short of murder.  There is no evidence for self-defence or provocation or any other defence involving reduced culpability.  The means and cause of death do not support an air of reality to a verdict of manslaughter.
+
+Samanda Ritch
+
+[27]        All counsel agreed, with the defence reluctantly acknowledging, that manslaughter should be included as a possible verdict in the final jury instructions with regards to Samanda Ritch.
+
+[28]        In R. v. Jackson, 1993 CanLII 53 (SCC), [1993] 4 S.C.R. 573, McLachlin J. (as she then was), for the majority, confirmed that an aider can be convicted of manslaughter while the principal offender is convicted of murder.  The court addressed the argument that the trial judge had failed to properly instruct the jury respecting the accused’s potential liability for manslaughter. The accused was convicted of second-degree murder, while a co-accused was convicted of first-degree murder. Justice McLachlin said:
+
+(i) Aiding and Abetting: Section 21(1)(b) and (c)
+
+17     I turn first to Davy's potential liability for manslaughter as an aider and abettor under s. 21(1)(b) and (c). A person is a party to an offence if he or she aids or abets the commission of it. In this case, Jackson committed the offence of murder. It was open on the evidence for the jury to find that Davy aided and abetted him in that offence, and is guilty under s. 21(1)(b) and (c) of the Criminal Code. If he possessed the necessary mens rea for murder he could be guilty of murder. In the event that the jury did not find the intent required for murder, the question arises whether and in what circumstances Davy could be convicted under s. 21(1) for the lesser offence of manslaughter.
+
+18     The trial judge did not give the jury a specific direction that it could find Davy guilty of manslaughter as an aider and abettor under s. 21(1) of the Criminal Code. The Court of Appeal held that this was an error. It held that the trial judge should have told the jury that s. 21(1)(b) and (c) of the Code would lead to a verdict of manslaughter if Davy did not have the mental state required for murder but the unlawful act which was aided or abetted was one he knew was likely to cause some harm short of death. This follows from the decision of this Court in R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74, at p. 88, per Cory J., where it was held that a person who aids and abets in an attack which results in a death may be guilty of manslaughter where that person does not have the requisite mens rea for murder but possesses the requisite intention for manslaughter, and where his co-accused is guilty of murder. (See also Wilson J., at pp. 96-97.)
+
+19     I agree with the Court of Appeal that the jury could have convicted Davy of manslaughter under these sections while convicting Jackson of murder.
+
+20     I differ from the Court of Appeal, however, in the state of mind required to be guilty of manslaughter under s. 21(1)(b) and (c). The Court of Appeal held that the test was a subjective appreciation that the act was likely to cause some harm short of death. Since the date of the Court of Appeal's decision, this Court has held that unlawful act manslaughter -- that is, the killing of a person while engaged in an unlawful act -- does not require a subjective appreciation of the consequences of the act. The test is objective -- what a reasonable person would have appreciated in all the circumstances. Nor is it necessary that the risk of death be foreseeable. As long as the unlawful act is inherently dangerous and harm to another which is neither trivial nor transitory is its foreseeable consequence, the resultant death amounts to manslaughter: R. v. Creighton, 1993 CanLII 61 (SCC), [1993] 3 S.C.R. 3; see also R. v. DeSousa, 1992 CanLII 80 (SCC), [1992] 2 S.C.R. 944.
+
+21     I conclude that a person may be convicted of manslaughter who aids and abets another person in the offence of murder, where a reasonable person in all the circumstances would have appreciated that bodily harm was the foreseeable consequence of the dangerous act which was being undertaken. I further conclude that Davy might fall within this rule on the evidence presented at trial. [Emphasis added.]
+
+[29]        In this case Ms. Ritch did not testify.  If the jury accepts the evidence of the undercover officer, U/C Sherri, the evidence of Mr. Patterson, the evidence placing Ms. Ritch’s DNA on Ms. Gonzales’s fingernail, as well as the evidence of Mr. Bruce and Marion Graves placing her at the scene shortly before Ms. Gonzales’s death, they could be convinced beyond a reasonable doubt that she either was a principal or aided Mr. Sparks in committing an unlawful act.  However, they might not be convinced beyond a reasonable doubt that she had the requisite intent for murder.  In that case, it would be open to the jury to convict Ms. Ritch of manslaughter.
+
+[30]        The jury may also be convinced beyond a reasonable doubt that Ms. Ritch had the necessary intention for murder, but not for planning and deliberation, that is, first-degree murder. As such, a conviction for second-degree murder would be possible. If the jury is left with a reasonable doubt in relation to the states of mind for first- or second-degree murder, but finds that Ms. Ritch aided in the unlawful death of Ms. Gonzales, then Ms. Ritch could be convicted of manslaughter.
+
+[31]        It is possible for the jury to find that Ms. Ritch aided in the unlawful death of Ms. Gonzales without the intention to murder her if some of U/C Sherri’s testimony is accepted and some is rejected.  In addition, Mr. Patterson and Mr. Fowler had no evidence to offer in relation to Ms. Ritch’s participation with regards to the planning and deliberation in the murder except her presence with Mr. Sparks at certain times.  This further supports leaving a verdict of manslaughter to the jury in the circumstances.

@@ -1,0 +1,85 @@
+The grounds for appeal are three:
+
+(a) whether the combination of sections 213(d) and 21(2) of the Criminal Code effects a persuasive presumption that infringes s.11(d) of the Canadian Charter of Rights_ and Freedoms;
+
+[Page 3]
+
+(b) whether the learned trial judge erred in failing to leave to the jury the possible verdict of manslaughter;
+
+(c) whether the sentence of life imprison­ment imposed by the learned trial judge pursuant to s.669(b) of the Criminal Code constitutes cruel and unusual punishment within the meaning of s.12 of the Canadian Charter of Rights and Freedoms.
+
+The material provisions of s.213(d) are:
+
+Culpable homicide is murder where a person causes the death of a human being while committing or attempting to commit ... an offence mentioned in section ... 302 [robbery], 306 [breaking and entering] ... whether or not the person means to cause death to any human being and whether or not he knows that death is likely to be caused to any human being, if
+
+(d) he uses a weapon or has it upon his person
+
+(i) during or at the time he commits or attempts to commit the offence, or
+
+(ii) during or at the time of his flight after committing or attempting to commit the offence
+
+and the death ensues as a consequence.
+
+This section must be read in conjunction with s.21(2) where more than one person is involved in the commission of an offence:
+
+Where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein and any one of them, in carrying out the common purpose, commits an offence, each of them who knew or ought to have known that the commis­sion of the offence would be a probable consequence of the carrying out of the com­mon purpose is a party to that offence.
+
+It is significant, I think, to observe that s.21(2) does not concern itself with intent, or mens rea, but rather
+
+[Page 4]
+
+with knowledge, or constructive knowledge. In his charge the jury, the learned trial judge used the expression 'constructive murder" in describing the implications of this section when applied in conjunction with s.213(d). In my view, this was an unfortunate, and erroneous, description and one which can lead, as it has on this appeal, to a legal­istic and irrelevant approach.
+
+The section, as I read it, is straightforward. It concerns itself with the situation where two or more persons, acting together, plan (form an intention to carry out), a crime (an unlawful purpose), e.g. break and entry. If, while engaged together in that common unlawful enterprise, any one of them commits an offence, usually but not necessarily in the furthering thereof, e.g. -murder, then each are all equally guilty of that offence, murder, if that was a probable consequence which each could, or ought to have been able to foresee. If, for example, one of the joint perpetrators carried with him, during the initial enterprise, i.e. the break and entry, a lethal weapon, then this section imputes to the others the capacity to assume that the weapon in question may well be used with lethal effect, if the apparent need presents itself.
+
+What this section does, and all that it does, I suggest, is to hold each perpetrator engaged in a common illegal activity liable for all the reasonable foreseeable consequences which might flow from the carrying out of that illegal activity, regardless of the fact that such consequences
+
+[Page 5]
+
+might not have been an integral part of the original criminal plan. It simply codifies the long recognized principle that one is liable for any consequences of his own actions which he might or should have been able to foresee.
+
+I do not share the thought that the implications of s.21(2) are "harsh law" as certain academic writers would describe it. It is simply a recognition of human accountability a principle of fundamental justice to which s.7 of the Charter refers.
+
+Section 21(2) is not, of course, restricted in its applicability to s.213(d), but may be applied to a broad spectrum of situations.
+
+With reference to s.213(d), however, it simply means that, in the case of a break and entry, jointly engaged in by several participants, any one of whom has, to the know­ledge of the others, a lethal weapon, and in the course of such illegal activiity, that weapon is used with fatal conse­quences, all are equally guilty not only of the initial offence of break and entry but as well of the offence of culpable homicide.
+
+I consider s.11(d) of the Charter
+
+Any person charged with an offence has the right to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal
+
+to be irrelevant to the issue, on the basis of the argument advanced by the appellant that the combination of s.213(d) and 21(2) violates the presumption of innocence guaranteed
+
+[Page 6]
+
+by that section. Neither of those two sections, taken either separately or in concert, create a presumption of guilt, or violate a presumption of innocence. They simply say that if persons act in a certain way, with certain consequences, and an independent and impartial tribunal, i.e. a jury, finds that they have done so, in accordance with law, i.e. on the initial assumption of innocence, in a fair and public hearing, i.e. a trial, then certain sanctions will inevitaby [sic] follow, i.e. conviction and sentence. Indeed, it can be truly said that not only does the conjunctive effect of sections 213(d) and 21(2) not violate s.11(d) of the Charter, but rather is the practical embodiment of it.
+
+Accordingly, I find no merit in this ground and would dismiss it.
+
+As to the second ground, that of the alternative option of manslaughter not having been put to the jury, I find no substance to this. The Court is advised by counsel that this option was not put to the jury by himself; he was apparently advancing for the consideration of the jury, as well as for the consideration of the instructing trial judge himself, that he was concerned only with two alternatives, either a finding of murder, or his preferred choice, a finding of not guilty. Counsel can hardly now be heard to argue that the trial judge was in error in not placing before the jury an option which he, himself, speaking in the name of the appellant, did not consider worthy of consideration.
+
+Assuming, however, that it is open to a trial judge,
+
+[Page 7]
+
+in his instructions to the jury to tred a path favourable to the accused, which he, himself, is unwilling to walk, was, in fact, manslaughter available to him as an option? I think not.
+
+It must be remembered that Stephen Laviolette, brother to the accused-appellant, was the principal perpetrator of the ultimate offence. And the offence to which he pleaded guilty was that of murder, as defined by s.213(d), not manslaughter. Stephen Laviolette is "any one of them" referred to in s.21(2), and the offence which he committed, in the carrying out of the common purpose, i.e. the break and entry, was by his own admission, the crime of murder. Brian Laviolette is one of the "each of them" who would be, in consequence thereof, a party to that offence, i.e murder. Section 21(2), of its very nature does not permit of what might be termed a lesser and included offence, such as manslaughter or the causing of bodily harm. If the appellant was to be caught up in the net of s.21(2), it must have been on the charge of murder only, otherwise he could not have been enmeshed, and the charge on which he was indicted would thereby have been dismissed. It is clear, I think,, that not only did the learned trial judge consider this to be the situation, but so also did defence counsel and, in my view, both quite rightly. .
+
+Some passing reference has been made in the argument before us of the allegation that the appellant was under the duress of his older brother on the night in question.
+
+[Page 8]
+
+The evidence, in my view, does not support this contention, and neither, obviously, was the jury impressed by it.
+
+Even, however, if duress were a material factor, it would not support a finding of manslaughter as opposed to murder. The duress would require it to be of such a degree that he, the appellant, would have been unable, because he lacked the free mind to do so, to "form an intention in common to carry out an unlawful purpose" and to assist his confreres therein, that is to say, in the break and entry. Since s.21(2) concerns itself only with the intent with respect to the initial offence, and not with the consequential offence, the liability for which is founded only in presumed knowledge, then its application turns only on the existence of that initial intent. If that be lacking, then the sections can have no applicability and a person possessed only of a tabula erasa by reason of duress, could not be found to be a party to the consequential offence of murder. There exists no middle ground of manslaughter; it is either murder or nothing, as both defence counsel and the learned trial judge quite rightly concluded.
+
+With respect to the appellant's final ground, that the sentence imposed under s.669(b) constitutes cruel and unusual punishment within the meaning of s.12 of the Charter I am of the opinion that this ground is equally without merit. I have reviewed numerous cases dealing with this matter. The most appropriate criteria for the term cruel and unusual punishment would appear to be whether or not the punishment
+
+[Page 9]
+
+in question could be judged to be reasonable and appropriate when viewed against the standards of our society generally. Certainly, a minimum term of incarceration of ten years for second degree murder could hardly be judged to be unreason­able or inappropriate even by today's permissive society.
+
+Finally, from my observation, and from what I have read on the subject, it is exceedingly rare that a trial judge would not make some error in his charge to the jury. A trial judge, conducting a difficult jury trial, does not enjoy the luxury of extended and detailed research in the preparation of his charge in the, same way as does a Court of Appeal in its review. The issue before the latter Court is not so much was an error made in the charge (for this may well be a foregone conclusion) but rather, first, would a jury, if properly instructed, have reached a different conclusion, or, second, notwithstanding any such error, did the end result constitute a miscarriage of justice.
+
+In my view, even allowing for any error which might have occurred in the charge, I do not consider that on the face of the evidence a jury properly instructed would have reached a different conclusion, nor did it result in any miscarriage of justice.

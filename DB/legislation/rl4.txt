@@ -1,0 +1,70 @@
+ught before a justice the accused shall be released unless the prosecutor, having been given a reasonable opportunity of doing so, shows cause why the detention of the accused in custody is justified.
+
+[4]             In Saskatchewan, the word “justice”, in this section, includes a Provincial Court judge.
+
+[5]             Notwithstanding this, s. 457.7 provides that for certain offences only a judge of a superior court of criminal jurisdiction may release the accused before or after committal for trial. Accordingly, when the accused was charged on August 1, 1984, an application was made to a judge of the Queen’s Bench and resulted in the judgment of August 29, 1984.
+
+[6]             Here I may note, as an aside, that under s. 457.7 the Queen’s Bench judge “shall order that the accused be detained in custody” (emphasis added) unless the Crown fails to show that it is justified or the accused (where the burden is on him) shows that it is not justified.
+
+[7]             In other words, it is not enough to dismiss the accused’s application - an order must be made - an order granting judicial interim release or an order that the accused be detained in custody. The judgment of August 29, 1984, held by implication if not in actual words that the detention of the accused was necessary and dismissed the accused’s application. For purposes of this application I take it that an order that the accused be detained in custody was granted.
+
+[8]             The applicant asks either: (a) that the matter be returned to a judge of the Provincial Court (a justice) for determination, or (b) in the alternative, that the accused have leave to have the question reviewed pursuant to s. 457.5 of the Code.
+
+[9]             The Crown opposes the reference to the justice. The Crown argues that the Queen’s Bench order of August 29, 1984, continues until it is altered according to the provisions of the Code or until the accused is dealt with according to law, i.e., that the trial has been concluded.
+
+The Cases
+[10]          The problem of whether a detention order continues after an accused is committed for trial has troubled at least four other superior court judges, and those four have split evenly on the answer in the following decisions which show the highly technical questions which block an orderly procedure which is both practical and, without violating the provisions of the Code, intellectually sound.
+
+R. v. Lafontaine (1973), 23 C.R.N.S. 4 (Ontario).
+[11]          Mr. Justice Zuber held that when the accused is committed for trial for manslaughter the previously existing detention order granted by a supreme court judge under 457.7 comes to an end.
+
+Comment
+[12]          This has the joy of simplicity. I am, however, troubled by the status of an accused at that stage. If the order by which he is detained is ended, is it possible that prompt release is required or could be compelled on habeus corpus by virtue only that the detention order has expired.
+
+Ex Parte Walker (1975), 1974 CanLII 1458 (ON SC), 20 C.C.C.(2d) 539 (Ontario).
+[13]          Mr. Justice O’Driscoll held that where an accused charged with robbery is subsequently committed for trial on a charge of attempted theft the detention order remains in force and the accused is not unlawfully detained.
+
+[14]          The accuseds alternative ground on the application (at p. 541) was that upon the committal for trial on a charge of attempted theft the previous detention order relating to the offence of attempted robbery terminated and thus the applicant was being unlawfully held in custody. Undoubtedly this argument was based on an interpretation of Lafontaine that, upon being committed for a lesser charge, the previous detention order terminated.
+
+[15]          Mr. Justice O’Driscoll held specifically that:
+
+“I am not persuaded that when an accused is committed for trial on some indictable offence other than the indictable offence set out in the information that the detention order is thereby spent.”
+
+Comment
+[16]          This decision is consistent with the later case of R. v. Archer (1981), 1981 CanLII 3375 (ON CA), 59 C.C.C.(2d) 384; 21 C.R.(3d) 352 (Ont. C.A.).
+
+Re Degerness and R. (1981), 1980 CanLII 341 (BC SC), 57 C.C.C.(2d) 534 (British Columbia).
+[17]          McEachern, C.J.S.C., held that notwithstanding that an accused who was originally charged with second degree murder was committed for trial for manslaughter the detention order by a superior court judge remained in effect and the magistrate presiding at the preliminary inquiry had no jurisdiction to vary that order.
+
+[18]          Degerness agrees with Walker. The learned Chief Justice said that:
+
+“While the words ‘dealt with according to law’ do not appear in s. 457.7 it is my view that a detention order made by a judge of a superior court of criminal jurisdiction is subject to precisely the same limitation and this accused has not been dealt with according to law.”
+
+Comment
+[19]          By s. 457(5) the justice (where required) “shall order that the accused be detained in custody until he is dealt with according to law”. In s. 457.7(2) the words are simply “detained in custody”.
+
+[20]          I am not sure that the words “dealt with according to law”, which apply to an order of a justice, should apply to an order of a superior court judge, if for no other reason than that the review provisions are not the same.
+
+[21]          The learned Chief Justice said, at p. 535, referring to Zuber, J., and O’Driscoll, J.:
+
+“These two learned justices reached entirely different conclusions on this point, but in neither case were they dealing with a s. 457.7 offence.”
+
+[22]          With respect this is correct as to Walker but not as to Lafontaine.
+
+R. v. Manuel (1981), 1981 CanLII 3314 (ON SC), 60 C.C.C.(2d) 97 (Ontario).
+[23]          The accused had been charged with second degree murder. Mr. Justice Cory had made an order of interim release, subject to numerous conditions. At the conclusion of the preliminary hearing the accused was committed to stand trial for manslaughter.
+
+[24]          An application was then made to Mr. Justice Cory to vary the terms of his original order. The question was whether it was before him to vary his own order or, if his order had expired, whether the application ought to be made to a justice rather than to a judge. He agreed with Lafontaine (and obviously did not agree with Walker) and stated that:
+
+“In my view then, once Manuel was charged with an offence that was not within s. 457.7 the terms of the original interim release order were no longer applicable.”
+
+Comment
+[25]          I assume that he means that the order expired. If the terms were “no longer applicable” but the order continued, it was simply a question of whether he could vary the order and delete the inapplicable provisions. However, I take his words to mean that the order itself expired, from which the question arose as to whom an application ought to be made. Manuel does not resolve a number of interesting problems. For example, if no order is in existence, the accused hardly needs to apply to have it varied. Moreover, it is not clear how he was detained or brought before the judge, (whether or not he acts as a justice) because the accused’s presence there was solely to vary an order which did not exist.
+
+[26]          Mr. Justice Cory referred to the case of R. v. Rawlings, an unreported decision of the Ontario Court of Appeal. In that case Mr. Justice Morand heard an application for interim release, considered that the decisions of Lafontaine and Walker were in conflict, and referred the matter to the Ontario Court of Appeal. The Chief Justice of that court granted leave to review the order and the court dealt with the matter by ordering that the order of Callon, J., of an earlier date “be and the same is hereby varied to provide that the applicant be detained in custody so long as he remains charged with an offence referred to in s. 457.7 of the Criminal Code”.
+
+[27]          Manuel does not disclose the authority by which Mr. Justice Morand referred the matter to the Ontario Court of Appeal and I assume therefore that it was, in effect, a variation under s. 608.1 of the Code.
+
+[28]          In Rawlings, the applicant must still have been charged with an offence under s. 457.7 but the Ontario Court of Appeal may have been looking ahead to the possibility that this would not necessarily be so throughout the case because the Court of Appeal provided specifically that the accused be detained “so long as he was charged” with such an offence.
+
+[29]          Apart from concurring with Lafontaine the Manuel decision adds little. It did not refer to Degerness which had been decided (but perhaps not yet reported) sometime earlier.
