@@ -10,6 +10,8 @@ import pickle
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.classify.scikitlearn import SklearnClassifier
+from sklearn.base import ClassifierMixin
+from sklearn.utils import all_estimators
 
 # These are all grading algs that I could look into
 from sklearn.naive_bayes import MultinomialNB, GaussianNB, BernoulliNB
@@ -28,6 +30,7 @@ class CaseTextClassifier:
 
         def __init__(self, name, c, reload):
             # This will get us the name of all subfolders in the DB #
+            self.name = name
             classifiers = []
             paths = []
             for x in os.walk("./DB"):
@@ -45,6 +48,9 @@ class CaseTextClassifier:
                     classifier = pickle.load(classifier_f)
                     classifier_f.close()
                     classifiers[paths.index(d)] = classifier
+                    features_f = open("./PICKLE_FILES/" + name + "_features.pickle", "rb")
+                    self.word_features = pickle.load(features_f)
+                    features_f.close()
                     continue
 
                 documents = []
@@ -59,13 +65,12 @@ class CaseTextClassifier:
                         nono_words = ["TO", "LS", "DT", "CD", "IN", "NNP", "PRP", "POS", ":", "''", "CC", "``"]
                         filtered_sentence = []
                         for w in pos:
+                            word = w[0].lower()
+                            all_words.append(word)
                             if w[1] in nono_words:
                                 continue
-                            word = w[0].lower()
                             if len(word) == 1:
                                 continue
-
-                            all_words.append(word)
                             if word not in stop_words:
                                 filtered_sentence.append(word)
                         documents.append((filtered_sentence, d2 == d))
@@ -73,26 +78,27 @@ class CaseTextClassifier:
 
                 random.shuffle(documents)
                 all_words = nltk.FreqDist(all_words)
-                word_features = list(all_words.keys())
+                self.word_features = list(all_words.keys())[:2000]
+                save_features = open("./PICKLE_FILES/" + name + "_features.pickle", "wb")
+                pickle.dump(self.word_features, save_features)
+                save_features.close()
 
                 def find_features(doc):
                     words = set(doc)
                     features = {}
-                    for w in word_features:
+                    for w in self.word_features:
                         features[w] = (w in words)
                     return features
-
                 feature_set = [(find_features(rev), category) for (rev, category) in documents]
-
                 training_set = feature_set
-                # training_set = feature_set[:int(len(feature_set)/2)]  # Arbitrary nums
-                # testing_set = feature_set[len(training_set):]  # Arbitrary nums
+                #self.training_set = feature_set[:int(len(feature_set))]  # Arbitrary nums
+                #self.testing_set = feature_set[len(training_set):]  # Arbitrary nums
 
                 #  This is stats
                 classifiers[paths.index(d)] = classifiers[paths.index(d)].train(training_set)
 
-                # print("Classifier: " + name + "_" + d)
-                # print(nltk.classify.accuracy(classifiers[paths.index(d)], testing_set))
+                #print("Classifier: " + name + "_" + d)
+                #print(nltk.classify.accuracy(classifiers[paths.index(d)], self.testing_set))
                 # print(testing_set)
 
 
@@ -106,40 +112,62 @@ class CaseTextClassifier:
         def calculate(self, wordList):
             retval = []
             for c in self.__classifiers:
-                dataT = {}
-                dataF = {}
-                accT = []
-                accF = []
+                data = {}
                 for w in wordList:
-                    dataT[w]: True
-                    dataF[w]: False
-                    accT.append(({w: True}, True))
-                    accF.append(({w: False}, False))
-
-                retT = (c.classify(dataT), (nltk.classify.accuracy(c, accT)))
-                retF = (c.classify(dataF), (nltk.classify.accuracy(c, accF)))
-                retval.append(retT if retT[1] > retF[1] else retF)
+                    data.update({w: w in self.word_features})
+                retval.append(c.classify(data))
             return retval
 
     def labels(self):
         pass
 
     def __init__(self, reload=False):
-        classifiers = [
-            self._HelperClassifier("Bayes", nltk.NaiveBayesClassifier, reload=reload),
-            self._HelperClassifier("MultiNomial", SklearnClassifier(MultinomialNB()), reload=reload),
-            self._HelperClassifier("Bernoulli", SklearnClassifier(BernoulliNB()), reload=reload)
+        classifiers = []
+        # With 41 potential classifiers,
+        # It's easier to list the classifiers that don't suit our needs over those that does
+        # Some would fit, but require additional calls
+        nono = [
+            "CategoricalNB",
+            "ClassifierChain",
+            "GaussianNB",
+            "GaussianProcessClassifier",
+            "HistGradientBoostingClassifier",
+            "LabelPropagation",
+            "LabelSpreading",
+            "LinearDiscriminantAnalysis",
+            "LinearSVC",
+            "LogisticRegressionCV",
+            "MultiOutputClassifier",
+            "NuSVC",
+            "OneVsOneClassifier",
+            "OneVsRestClassifier",
+            "OutputCodeClassifier",
+            "QuadraticDiscriminantAnalysis",
+            "StackingClassifier",
+            "VotingClassifier",
+            "RadiusNeighborsClassifier"
         ]
+        clas = [est for est in all_estimators() if issubclass(est[1], ClassifierMixin)]
+        for c in clas:
+            if c[0] in nono:
+                continue
+            #print(c[0])
+            classifiers.append(self._HelperClassifier(c[0], SklearnClassifier(c[1]()), reload=reload))
         self.__classifiers = classifiers
 
     def classify(self, wordList):
         votes = [0, 0, 0, 0]
         for c in self.__classifiers:
             ret = c.calculate(wordList)
-            # print(ret)
-            for index, b in enumerate(ret):
-                if b[0]:
-                    votes[index] = + b[1]
+            assert len(ret) == 4
+            if ret[0]:
+                votes[0] += 1
+            if ret[1]:
+                votes[1] += 1
+            if ret[2]:
+                votes[2] += 1
+            if ret[3]:
+                votes[3] += 1
         for index, v in enumerate(votes):
             votes[index] = v/len(self.__classifiers)
         return votes

@@ -1,5 +1,6 @@
 import requests
 import nltk
+from helpers import clean_text
 nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
 from bs4 import BeautifulSoup
@@ -65,7 +66,7 @@ class Case:
         if self._facts:
             return self._facts
         text = self._getAT()
-        paragraphs = text.split('\n\n')
+        paragraphs = text.split('\n')
         facts = []
         for p in paragraphs:
 
@@ -84,9 +85,9 @@ class Case:
             if not filtered_sentence:
                 continue
             votes = self._classifier.classify(filtered_sentence)
-            if votes[2] > 0:
+            if votes[2] > votes[0] and votes[2] > votes[1] and votes[2] > votes[3]:
+                facts.append(clean_text(p))
                 print(votes)
-                facts.append(p)
         self._facts = facts
         return self._facts
 
@@ -112,9 +113,9 @@ class Case:
             if not filtered_sentence:
                 continue
             votes = self._classifier.classify(filtered_sentence)
-            if votes[3] > 0:
+            if votes[3] > votes[0] and votes[3] > votes[1] and votes[3] > votes[2]:
+                legislation.append(clean_text(p))
                 print(votes)
-                legislation.append(p)
         self._legislation = legislation
         return self._legislation
 
@@ -141,9 +142,10 @@ class Case:
             if not filtered_sentence:
                 continue
             votes = self._classifier.classify(filtered_sentence)
-            if votes[1] > 0:
+            if votes[1] > votes[0] and votes[1] > votes[2] and votes[1] > votes[3]:
                 # print(votes)
-                verdict.append(p)
+                verdict.append(clean_text(p))
+                print(votes)
         self._verdict = verdict
         return self._verdict
 
@@ -169,9 +171,9 @@ class Case:
             if not filtered_sentence:
                 continue
             votes = self._classifier.classify(filtered_sentence)
-            if votes[0] > 0:
+            if votes[0] > votes[3] and votes[0] > votes[1] and votes[0] > votes[2]:
+                analysis.append(clean_text(p))
                 print(votes)
-                analysis.append(p)
         self._analysis = analysis
         return self._analysis
 

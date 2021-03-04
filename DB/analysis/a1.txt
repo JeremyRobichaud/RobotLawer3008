@@ -1,0 +1,243 @@
+[59]         With these principles in mind, I now turn to the issues raised on this appeal.
+
+Issue #1      Did the trial judge err in his charge to the jury on the mental state required for first degree murder on the part of an aider to the offence?
+
+[60]         To address this ground of appeal, some further context is necessary.
+
+[61]         The Crown evidence and the appellant’s April 17, 2001 police statement correspond on most issues other than the events of the shooting itself.
+
+[62]         Derry and Potts, like the appellant’s statement, place the appellant in the car on the drive to Dartmouth, the gun in his hand as he left the car and returned to it, and him in the company of Gareau as they entered 12 Trinity Avenue.
+
+[63]         However, Derry and Potts did not see the shooting. They offered circumstantial evidence about it.  In particular, they gave evidence about the appellant’s possession of the gun before and after the murder occurred and the appellant’s admission of the shooting when he returned to the car and in later conversations.
+
+[64]         I will come back to Derry and Potts’ evidence later.
+
+[65]         Section 21(1) of the Criminal Code of Canada, R.S.C. 1985, c. C-46 provides:
+
+21 (1) Every one is a party to an offence who
+
+(a)               actually commits it;
+
+(b)               does or omits to do anything for the purpose of aiding any person to commit it; or
+
+(c)               abets any person in committing it.
+
+[66]         Beveridge, J.A. undertook an extensive review of s. 21(1) of the Code in R. v. N.T.J., 2017 NSCA 64 concluding:
+
+(i)               Because of the parity among principals and aiders where the offence is committed, there is no legal requirement for the Crown to specify in the Information the accused’s precise mode of participation in the alleged crime (¶61); and
+
+(ii)              A jury need not be unanimous as to which mode of participation led to the finding of party liability, i.e., as a principal or an aider, only that the jury be unanimous that guilt had been established beyond reasonable doubt (¶64).
+
+[67]         At trial, the Crown argued that the appellant should be convicted of first degree murder as a principal.  In the alternative, it argued that even if the jury accepted the appellant’s statement that it was Gareau, not he, who fired the fatal shots, he would still be guilty as a party. The Crown put the issue to the jury as follows:
+
+            We suggest to you, ladies and gentlemen, that the overwhelming volume of the evidence that’s been put before you is that the accused, Mr. Kelsie, is the principal in the murder of Sean Simmons.
+
+            However, even if you accept it, that part of his statement with respect to the issue that he didn’t know Sean Simmons was going to be killed, he’s still guilty as a party.  And I’ll discuss this specific evidence on this shortly.
+
+The Crown’s theory being that whether Kelsie did the shooting himself or gave the gun to Mr. Gareau to commit the murder, he was guilty of first degree murder.
+
+[68]          A day into the deliberations and four days before returning their guilty verdicts, the jury asked the following question:
+
+Must the identity of a principal be determined to find someone a party or is it sufficient to find that a person was either a party or a principal?
+
+[69]         The jury was correctly instructed that they did not have to agree on a path to a verdict of first degree murder, just on the verdict itself.  The trial judge then reread his charge to the jury on what was necessary for the Crown to prove to convict Mr. Kelsie of first degree murder as an aider.  I will set out his charge in more detail below.
+
+[70]         At this point it would be helpful to point out the difference between first degree murder, second degree murder and manslaughter as they apply to this case.  Homicide is any human death.  To be culpable homicide, the death must have been caused by the unlawful act of one or more accused.
+
+[71]         For manslaughter, it is only necessary to prove:
+
+(i)               that the accused caused the victim’s death; and
+
+(ii)              that the accused caused the victim’s death unlawfully (Watts, Manual of Criminal Jury Instructions, 2nd ed. Carswell 2015, 637).
+
+[72]         For second degree murder, the Crown must prove each of the following elements beyond a reasonable doubt:
+
+     (i)      that the accused caused the victim’s death;
+
+     (ii)      that the accused caused the victim’s death unlawfully;
+
+     (iii)     that the accused had a state of mind required for murder (Watts, 655).
+
+[73]         To be first degree murder, the Crown must prove each of the following elements beyond a reasonable doubt:
+
+(i)               that the accused caused the death of the victim;
+
+(ii)              that the accused caused the death of the victim unlawfully;
+
+         (iii)     that the accused had the state of mind required for murder; and
+
+(iv)     that the accused’s murder of the victim was both planned and deliberate (Watts, pp. 687,688).
+
+[74]         In R. v. N.T.J., Justice Beveridge explained what was necessary for a murder to be “planned and deliberate”:
+
+[67]      To attract liability for first degree murder, the trier of fact must be satisfied beyond a reasonable doubt that the murder was both planned and deliberate.  The suggested wording to explain these requirements to a jury are found in Watt’s, supra, p. 691:
+
+A planned murder is one that it is committed as a result of a scheme or plan that has been previously formulated or designed. It is the implementation of that scheme or design. A murder committed on a sudden impulse and without prior consideration, even with an intention to kill is not a planned murder.
+
+“Deliberate” is not a word that we often use when speaking to other people. It means “considered, not impulsive”, “carefully thought out, not hasty or rash”, “slow in deciding”, “cautious”.
+
+A deliberate act is one that the actor has taken time to weigh the advantages and disadvantages of. The deliberation must take place before the act of murder (briefly describe) starts. A murder committed on a sudden impulse and without prior consideration, even with an intention to kill is not a deliberate murder.
+
+[75]         To understand why the appellant complains the judge’s charge was problematic, it is first necessary to consider the possible pathways to criminal liability for first degree murder on the evidence before the jury:
+
+1.                 The appellant could have been guilty of planned and deliberate murder if he found out that Simmons was to be killed when James handed the gun to him in Dartmouth, minutes before the shooting took place.  This would require the jury to conclude that the appellant formulated or participated in a plan to kill Simmons and, in the minutes between being given the gun and the shooting, planned and deliberated on the murder before personally committing it;
+
+2.                 The second pathway to liability for first degree murder through planning and deliberation is as a party to that offence.  This would require that the events described in the appellant’s statement are substantially true, and the Crown’s argument about them is also correct: the appellant gave Gareau the gun as they approached 12 Trinity Avenue, aware that it would be used by Gareau to carry out the planned and deliberate murder of Simmons.
+
+[76]         It is on the second pathway to liability that the appellant says the trial judge failed to properly instruct the jury on the mental element for a finding of guilt for first degree murder as a party.
+
+[77]         The evidence on this pathway has Gareau as the principal and the appellant, at some point before the shooting,  turning over the gun to him, aware that Gareau was going to commit the murder that the appellant either never intended to commit (as his statement asserts), or decided on the way not to commit.  The jury’s focus regarding planning and deliberation would have to be on this specific issue: did the appellant know, when he turned over the gun to Gareau, that Gareau himself had planned and deliberated the murder?
+
+[78]         The liability of an aider of a planned and deliberate murder depends on two things: (i) whether the principal had in fact planned and deliberated on the murder; and (ii) whether the aider knew of the planning and deliberation by the principal. The Court of Appeal for Ontario in R. v. Maciel, 2007 ONCA 196 explained:
+
+[78]      The trial judge instructed the jury that it must consider the appellant's potential liability for first degree murder both as a perpetrator and as a secondary party (an aider).  With respect to the appellant's potential liability as an aider, the trial judge told the jury:
+
+For the accused to be guilty as a secondary party to the first degree murder committed by someone else, presumably by his father, the Crown must prove beyond a reasonable doubt that the accused, Richard Maciel, participated in the planning and deliberation leading up to the intentional killing of Emel Silva or that he knew that the actual shooter, again presumably his father, had planned and deliberated over the killing of Emel Silva.  The accused must then have aided or abetted his father for the purpose that Emel Silva be murdered.  [Emphasis added]
+
+[79]      The appellant submits that a person can be convicted of first degree murder that is planned and deliberate only if he or she was actually involved in the planning and deliberation.  He submits that the trial judge erred in telling the jury that it could convict the appellant of first degree murder as long as he knew that the person he was aiding, presumably his father, had planned and deliberated the murder.
+
+…
+
+[88]      The knowledge component of the fault requirement flows from the intention component.  An aider can only intend to assist the perpetrator in the commission of the crime if the aider knows the crime that the perpetrator intends to commit.  While the aider must know the crime the perpetrator intends to commit, the aider need not know the details of that crime:  Dunlop and Sylvester v. The Queen (1979), 1979 CanLII 20 (SCC), 47 C.C.C. (2d) 93 at 110 (S.C.C.); Regina v. Yanover and Gerol (1985), 1985 CanLII 3619 (ON CA), 20 C.C.C. (3d) 300 at 329-30 (Ont. C.A.); V. Gordon Rose, Parties to an Offence (Toronto: Carswell, 1982) at 11. Consequently, a person who is said to have aided another in the commission of an attempted murder must know that the perpetrator intended to kill the victim:  R. v. Adams (1989), 1989 CanLII 7161 (ON CA), 49 C.C.C. (3d) 100 at 110 (Ont. C.A.).  Similarly, a person who is alleged to have aided in a murder must be shown to have known that the perpetrator had the intent required for murder under s. 229(a):  R. v. Kirkness (1990), 1990 CanLII 57 (SCC), 60 C.C.C. (3d) 97 at 127 (S.C.C.).
+
+[89]      The same analysis applies where it is alleged that the accused aided a perpetrator in the commission of a first degree murder that was planned and deliberate.  The accused is liable as an aider only if the accused did something to assist the perpetrator in the planned and deliberate murder and if, when the aider rendered the assistance, he did so for the purpose of aiding the perpetrator in the commission of a planned and deliberate murder.  Before the aider could be said to have the requisite purpose, the Crown must prove that the aider knew the murder was planned and deliberate.  Whether the aider acquired that knowledge through actual involvement in the planning and deliberation or through some other means, is irrelevant to his or her culpability under s. 21(1).
+
+ [original underlining; italics added]
+
+See also R. v. N.T.J., ¶75-79.
+
+[79]         In R. v. N.T.J., after canvassing the law, Beveridge, J.A. provides a useful summary of what is necessary for a trial judge to convey to a jury regarding the requirements of an aider’s potential liability for a planned and deliberate first degree murder:
+
+[80]      From this brief canvas of the law, there are some fundamental principles that emerge.  In the context of an aider’s potential liability for a planned and deliberate first degree murder, a trier of fact must be satisfied beyond a reasonable doubt that the accused:
+
+-           did or omitted to do something that aided another person to unlawfully cause the victim’s death
+
+-           did those things (or at least one of them) for the purpose of aiding that other person to unlawfully cause the victim’s death
+
+-           when he did those things (or at least one of them) he either had the requisite intent for murder or knew that the principal offender had the requisite intent for murder
+
+-           when he did those things (or at least one of them), he did so for the purpose of aiding the principal offender to commit a planned and deliberate murder
+
+-           when he did those things, he planned and deliberated the murder, or knew that the murder was planned and deliberate
+
+[80]         In this case, the trial judge’s only instruction on the knowledge that an aider must have of a principal's state of mind was as follows:
+
+The Crown must also prove that Kelsie intended to aid Gareau to commit the offence of murder.  As I said previously, it is not enough that Kelsie's act actually aided Gareau, it must be proven that Kelsie knew or intended that his action would aid Gareau to commit the offence of murder.  If Kelsie knew that his act was likely to assist Gareau to commit the offence of murder then you are entitled to conclude that Kelsie intended to aid Gareau to commit the offence.  A mere suspicion on the part of Kelsie that Gareau may rely on Kelsie's act in committing an offence is not sufficient to prove an intent to aid.
+
+The Crown is not required to prove that Kelsie knew the exact or precise details of the offence that Gareau would commit.  It is sufficient if he has knowledge of the type of offence Gareau would commit, or that he had the intention of helping Gareau, regardless of the offence Gareau intended to commit.  Again, it is hard to look into other people's minds and determine what their intention is.
+
+[Emphasis added]
+
+[81]         The trial judge was directing the jury's attention to what state of knowledge the appellant was required to have of Gareau's intention in order to make him liable for murder as an aider. This instruction related to murder in general, not first degree murder.  Without more, simply telling the jury that "knowledge of the type of offence Gareau would commit" would make the appellant a party to the offence, was an improper instruction.
+
+[82]         On the evidence in this case, the jury should have been instructed that when Kelsie gave the gun to Gareau:
+
+•                    He either had the requisite intent for murder or knew that Gareau had the requisite intent for murder;
+
+•                    He did so for the purpose of aiding Gareau to commit a planned and deliberate murder; and
+
+•                    He planned and deliberated the murder or knew that Gareau had planned and deliberated the murder.
+
+[83]         For jurors who might have attached weight to the appellant's statement, the trial judge’s instructions could have led them to convict Kelsie when he did not possess the requisite mens rea for first degree murder. The jury could easily conclude that Gareau planned and deliberated the murder, since Derry testified Gareau was told the purpose of hunting for Simmons in the week before the shooting was to murder him.
+
+[84]         On the Crown's theory of the appellant's statement, when the appellant backed out of the murder but gave the gun to Gareau, his own liability for planned and deliberate murder turned on what he then knew of Gareau's state of mind at that time. There was no evidence that the appellant knew Gareau had been part of the murder plot for a week or more. If the appellant did not know that Gareau had planned and deliberated the murder, he would not be guilty of first degree murder even if Gareau was guilty. The jury charge provided no instruction along these lines.
+
+[85]         On the instructions the jury received, there is a real danger that if they concluded Gareau planned the killing and the appellant handed him the gun aware that he would likely use it to kill, the appellant would be guilty of planned and deliberate first degree murder. This was incorrect.
+
+[86]         The Crown acknowledged the trial judge did not refer to the mental element of first degree murder in this portion of his charge but suggested he, elsewhere in his charge, defined the elements of planning and deliberation and, this was sufficient instruction.  In its factum it says:
+
+91.      In regard to the mental element required for proof of “aiding”, the trial judge gave the jury a careful definition of what was required to prove that the Appellant aided Steven Gareau in committing the offence of murder.
+
+92.      Although the trial judge did not refer to the mental element of first degree murder in this portion of his charge and recharge, he had clearly defined the requirements of “planning” and “deliberation” earlier in his charge.
+
+93.      When the charge is read in its entirety, it educated the jury on the need for proof beyond a reasonable doubt that aiding in first degree murder required knowledge by the Appellant of planning and deliberation by Steven Gareau.  The charge therefore was functionally correct.
+
+[Emphasis added]
+
+[87]         With respect, I disagree.  The trial judge only defined the requirements of “planning” and “deliberation” in respect to whether a principal is guilty of first degree murder.  This was not sufficient. In R. v. N.T.J., this Court makes it clear that the actus reus and mens rea for liability as an aider or abettor are different than for a principal (¶70).  Again citing Beveridge, J.A:
+
+[71]      R. v. Briscoe, 2010 SCC 13 firmly established that the knowledge component of the mens rea for party liability can be satisfied by the doctrine of wilful blindness.  Before coming to that conclusion, the Court canvassed the cardinal principles of party liability.
+
+[72]      Charron J. wrote for the unanimous court.  After referring to the parity for criminal liability between one that aids a murder with anyone that actually commits it, she stressed: “The actus reus and mens rea for aiding or abetting, however, are distinct from those of the principal offence” (para. 13).
+
+[Emphasis added]
+
+[88]         It is not sufficient for the trial judge to have charged on planning and deliberation as a principal and then, without the jury being told, assume that they would necessarily come to the conclusion that aiding first degree murder required the appellant to have knowledge of planning and deliberation by Gareau.
+
+[89]         The danger with this approach is,  as I have set out above, the jury could have been satisfied that Gareau planned and deliberated the murder and that Kelsie, by giving him the gun, aided in the commission of that murder without the knowledge that Gareau had planned and deliberated the murder.
+
+[90]         Even applying a functional and contextual approach, I cannot conclude that the jury would have been aware that in order to convict the appellant of first degree murder that he would have had to know that Gareau had planned and deliberated the murder.
+
+Defence Counsel’s Failure to Object
+
+[91]         The Crown invites us to consider that there was no objection to this aspect of the charge by defence counsel.  It is well settled that defence counsel’s failure to comment on the jury charge at the trial is worthy of consideration when determining the seriousness of the misdirection (R. v. Jacquard, supra,  ¶38).
+
+[92]         Despite our ability to take trial counsel’s failure to object into consideration, we cannot lose sight of the fact that the jury charge is the responsibility of the trial judge, not defence counsel (R. v. Jacquard, supra, ¶37 citing R. v. Arcangioli, 1994 CanLII 107 (SCC), [1994] 1 S.C.R. 129).
+
+[93]         The trial judge’s error goes directly to the mens rea requirement for an aider to a first degree murder.  It was not a minor error; to the contrary, it is fundamental to a finding of guilt for first degree murder.
+
+[94]         Trial counsel’s failure to object, in the circumstances of this case, does not diminish or allow us to excuse the seriousness of the misdirection.
+
+The Curative Provision
+
+[95]         Finally, the Crown asks that if we are of the view that the trial judge erred in his charge on mens rea for an aider, we should apply the curative provision in s. 686(1)(b)(iii) of the Criminal Code which allows us to dismiss the appeal where there has been no substantial wrong or miscarriage of justice:
+
+686 (1) On the hearing of an appeal against a conviction or against a verdict that the appellant is unfit to stand trial or not criminally responsible on account of mental disorder, the court of appeal
+
+…
+
+(b) may dismiss the appeal where
+
+            …
+
+            (iii) notwithstanding that the court is of the opinion that on any ground mentioned in subparagraph (a)(ii) the appeal might be decided in favour of the appellant, it is of the opinion that no substantial wrong or miscarriage of justice has occurred, or
+
+            (iv) notwithstanding any procedural irregularity at trial, the trial court had jurisdiction over the class of offence of which the appellant was convicted and the court of appeal is of the opinion that the appellant suffered no prejudice thereby;
+
+[Emphasis added]
+
+[96]         The test we are to apply when determining whether there has been no substantial wrong or miscarriage of justice as a result of the trial judge’s error, is to determine whether there is any reasonable possibility that the verdict would have been different had the error not been made (R. v. Bevan, 1993 CanLII 101 (SCC), [1993] 2 S.C.R. 599).
+
+[97]         The Crown says the evidence is overwhelming against the appellant.  It cites evidence which would implicate the appellant as the principal in the murder.  I will now return to the evidence of Derry and Potts which the Crown cites in support of its position:
+
+1.         The Appellant was involved in Wayne James’ and Paul Derry’s drug operation;
+
+2.         The Appellant drove with Derry, Potts and James to the vicinity of 12 Trinity Avenue in Dartmouth;
+
+3.         The proposed murder was discussed during the drive and Derry suggested to James that he should not do the murder.  The handgun was passed by James to the Appellant.  James told the Appellant “You’re going to have to do it then”.  The Appellant agreed, was given directions by James, and asked for gloves;
+
+4.         Tina Potts gave the Appellant gloves from a hair streaking kit but they ripped when he tried them on;
+
+5.         Tina Potts also gave the Appellant her vest in order to assist the Appellant’s hood staying up on his head;
+
+6.         The Appellant and Steven Gareau left the car and walked in the direction of Trinity Avenue.  The Appellant had the gun in his possession when he left the car;
+
+7.         Five to ten minutes later the Appellant, by himself, ran back to the car and got in.  He was very excited.  He told Wayne James, Tina Potts and Paul Derry that he had shot the victim three times and one shot creased the victim’s head like a “watermelon”;
+
+8.         At Wayne James’ instructions, Tina Potts checked the gun the Appellant passed to her and saw that there were three empty casings in the gun;
+
+9.         Tina Potts received her vest that the Appellant passed back to her.  When she disposed of the vest later that day she noticed there were blood spots on it.  They had not been on the vest before she gave it to the Appellant; and
+
+10.      About three months after the murder the Appellant admitted to Tina Potts that “…I shot him and you know Wayne is taking credit for it”.
+
+[98]          At trial, the defence mounted an argument that Derry and Potts were dangerous witnesses, in view of their criminal histories, extraordinary immunity and cooperation deals with the Crown.  The defence argued Derry and Potts were likely to invent evidence to deflect blame from their close friend Gareau, of whom they were protective.
+
+[99]         When considering the broader context of this trial, to say that the people involved, including Derry and Potts, were unsavoury characters would be an understatement.  They lived a life of crime. They admitted to being fraud artists and drug dealers.  Derry and Potts by all outward appearances, were involved in the planning and deliberation of Mr. Simmons’ death.  It would not be unusual for them to say whatever was necessary to deflect the blame from themselves and their friend, Gareau.  It would be extremely dangerous to rely on the evidence of Derry and Potts to conclude the case against the appellant was overwhelming.  I would decline to do so.
+
+[100]     The Crown refers to two other instances where they say that the evidence overwhelmingly proves the guilt of Kelsie as a principal.  They are:
+
+1.         About five months after the murder Paul Derry, using a body pack recorder, recorded a face-to-face conversation he had with the Appellant when he visited the Appellant at the Halifax County Correctional Centre.  The Appellant recounted a conversation he had with Neil Smith where Smith expressed displeasure at finding out that Wayne James took credit for something he did not do.  In the conversation, the Appellant implied that he killed Sean Simmons
+
+2.         On March 6, 2001, the Appellant spoke to Paul Derry in a recorded telephone call to the Halifax Correctional Centre.  Appeal Book, Vol. VI, p. 2362, line 15 refers to this as Intercept 41.  In the recorded call the Appellant told Paul Derry that he wanted Paul Derry to tell Wayne James that he just called him to hear his voice.  Most importantly, the Appellant admitted that he was not calling for money for the “hit”.
+
+[101]     This evidence is far from an express admission or acknowledgement that the appellant committed the murder.  If the evidence was so overwhelmingly convincing that Kelsie personally committed this murder, one has to ask the question why the Crown put Kelsie’s statement into evidence where he denies having committed the crime.  If this was such a “cut and dried case”, why raise the spectre that he may have been an aider instead of the principal.
+
+[102]     Finally, we cannot ignore the question the jury asked the trial judge.  For ease of reference, I will repeat it here:
+
+Must the identity of a principal be determined to find someone a party or is it sufficient to find that a person was either a party or a principal?
+
+[103]     Questions from a jury must be assumed to be of significance and importance (R. v. Miller, supra).
+
+[104]     This question, which arose a day into deliberations, indicates the jury was considering the possibility that the appellant was an aider as opposed to the principal and wanted to understand the ramifications of such a finding.
+
+[105]     I am not satisfied that the verdict would have been the same despite the error.  In these circumstances, I would not apply the curative provision.
