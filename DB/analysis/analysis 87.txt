@@ -1,0 +1,294 @@
+﻿[32]            I understand that I have a limited ability to deal with an assessment of liability or credibility.  Again I begin with the Shephard case, where Justice Ritchie stated:
+
+ 
+
+“... Credibility in my view must always be a question for the jury and if the function of an extradition judge is equivalent to that of a judge in determining whether or not a case should be left to the jury, if follows that credibility is not within his sphere.” (see paragraph 19)
+
+ 
+
+Justice Ritchie also noted:
+
+ 
+
+“... the weighing of evidence is always a matter for the jury under proper instructions from the judge, and it forms no part of the functions of a ‘justice’ acting under s. 475 of the Criminal Code ....” (See R. v. Shephard, supra paragraph 30.)
+
+ 
+
+[33]            These principles remain today and were recently affirmed by Chief Justice McLachlin in R. v. Arcuri, 2001 SCC 54, [2001] 2 S.C.R. 828 at para. 1, where she said:
+
+ 
+
+“This appeal raises the question of whether a preliminary inquiry judge may ‘weigh the evidence’ in assessing whether it is sufficient to warrant committing an accused to trial.  For the following reasons, I reaffirm the well‑settled rule that a preliminary inquiry judge must determine whether there is sufficient evidence to permit a properly instructed jury, acting reasonably, to convict, and the corollary that the judge must weigh the evidence in the limited sense of assessing whether it is capable of supporting the inferences the Crown asks the jury to draw.  As this Court has consistently held, this task does not require the preliminary judge to draw inferences from the facts or to assess credibility.  Rather, the preliminary inquiry judge must, while giving full recognition to the right of the jury to draw justifiable inferences of fact and assess credibility, consider whether the evidence taken as a whole could reasonably support a verdict of guilty.”
+
+ 
+
+See also R. v. Sazant, 2004 SCC 77 at paragraph 18.
+
+ 
+
+Circumstantial Evidence: Drawing Inferences
+
+ 
+
+[34]            The test for committal is the same whether the evidence is direct or circumstantial. R. v. Arcuri (2001), 2001 SCC 54 (CanLII), 157 C.C.C. (3d) 21 (S.C.C.) at paragraph 21, citing, R. v. Mezzo 1986 CanLII 16 (SCC), [1986] 1 S.C.R. 802, at p. 842-43
+
+ 
+
+[35]            However, if circumstantial evidence is tendered with respect to any element of the offence, there are some additional considerations.
+
+ 
+
+
+“The judge's task is somewhat more complicated where the Crown has not presented direct evidence as to every element of the offence. The question then becomes whether the remaining elements of the offence -- that is, those elements as to which the Crown has not advanced direct evidence -- may reasonably be inferred from the circumstantial evidence. Answering this question inevitably requires the judge to engage in a limited weighing of the evidence because, with circumstantial evidence, there is, by definition, an inferential gap between the evidence and the matter to be established -- that is, an inferential gap beyond the question of whether the evidence should be believed.”
+
+ 
+
+R. v. Arcuri, supra at paragraph 23.
+
+ 
+
+[36]            The matter of considering inferences reasonably available from circumstantial evidence was affirmed in R. v. Monteleone (1987), 1987 CanLII 16 (SCC), 35 C.C.C. (3d) 193 (S.C.C.) at 198 where McIntyre J. stated on behalf of a unanimous court:
+
+ 
+
+“Where there is before the court any admissible evidence, whether direct or circumstantial which, if believed by a properly charged jury acting reasonably, would justify a conviction, the trial judge is not justified in directing a verdict of acquittal. It is not the function of the trial judge to weigh the evidence, to test its quality or reliability once a determination of its admissibility has been made. It is not for the trial judge to draw inferences of fact from the evidence before him. These functions are for the trier of fact, the jury.”
+
+ 
+
+Drawing Inferences
+
+ 
+
+[37]            The preliminary inquiry is not the forum for weighing competing inferences or selecting from among them.  Where more than one inference can be drawn from the evidence, only the inferences that favour the Crown are to be considered by the preliminary inquiry judge. Those tasks are reserved for the trier of fact at trial.  R. v. Sazant, supra at paragraph 18.
+
+ 
+
+[38]            In R. v. Dubois, 1986 CanLII 60 (SCC), [1986] 1 S.C.R. 366, [1986] S.C.J. No. 21..., Estey, J., made it clear that it is jurisdictional error for a preliminary hearing judge to enter upon this province (at p. 380):
+
+ 
+
+"In applying the wrong test for sufficiency, a preliminary inquiry judge does not commit jurisdictional error. In deciding an issue reserved to another forum, however, he does."
+
+ 
+
+[39]            Nonetheless, the preliminary inquiry judge must often exercise his or her discretion by drawing inferences from circumstantial evidence. To that end I apply the logic expressed by Ducharme, J. in R. v. Munoz (2006), 2006 CanLII 3269 (ON SC), 205 C.C.C. (3d) 70 (Ont. S.C.J.), where he states at paragraph 22:
+
+ 
+
+ “. . . [D]espite the very circumscribed scope of the preliminary inquiry judge's function with respect to the drawing of inferences, the weighing of the evidence involved, while limited, is of great importance. Any inferences relied upon by the judge to commit the accused must be both: (1) reasonably based on the evidence heard at the preliminary inquiry; and (2) reasonable. Such inferences cannot be based on speculation, no matter how seemingly reasonable. If the committal of an accused depends on an inference or inferences that cannot be reasonably drawn from the evidence -- the accused must be discharged as there would be an absence of evidence on an essential element.”
+
+ 
+
+[40]            In considering the whole of the evidence adduced at the inquiry I also bear in mind the principle stated by Croll J. in R. v. Ceballo, [2006] O.J. No. 4448 (S.C.J.), at paragraph 14:
+
+ 
+
+
+“In sum, it is well established that the preliminary inquiry is not the forum to weigh competing inferences, or to assess the quality and reliability of the evidence. (See R. v. Martin, [2001] O.J. No. 4158 (Ont. C.A.); R. v. Tuske, [1978] O.J. No. 1253 (Ont. C.A.); R. v. Manickavasagar, [2004] O.J. No. 600 (Ont. C.A.).) Rather, any reasonable interpretation or permissible inference from the evidence adduced at a preliminary inquiry, if properly admissible against the accused, must be resolved in favour of the prosecution. (See R. v. Coke, [1996] O.J. No. 808 (Gen. Div.), cited in R. v. Ghazzi, 2006 CanLII 34260 (ON CA), [2006] O.J. No. 4052 (Ont. C.A.) at para. 2.) Further, simply because an inference may by difficult or intricate does not mean that it cannot be drawn. (See R. v. Katwaru (2001), 2001 CanLII 24112 (ON CA), 153 C.C.C. (3d) 433 (Ont. C.A.).) In this case, I am satisfied that there is evidence that is reasonably capable of supporting the inferences ...”
+
+ 
+
+[41]            Accordingly in assessing the evidence led at the preliminary inquiry, I am mindful that I must respect the role of the jury and I must not usurp it; I must leave questions of credibility and which inferences to draw to the jury.
+
+ 
+
+[42]            With that background I now turn to the issue before me: should the committal be for first or second degree murder.
+
+ 
+
+First Degree Murder
+
+ 
+
+[43]            The Crown puts forward its argument in support of committal on first degree murder on two basis.  The first is that the murder was planned and deliberate.  Alternatively, The Crown relies on s. 231(5) of the Criminal Code of Canada, arguing that since the death was caused by the accused while they were committing the offence of kidnapping and forcibly confining Oystryk, the murder is first degree.
+
+ 
+
+[44]            I will deal with each argument in turn, and then apply the facts to each accused in turn.
+
+ 
+
+Was the Murder Planned and Deliberate?
+
+ 
+
+[45]            The law is clear that there must be evidence on both points, that is, there must be evidence of both planning and deliberation on the part of the accused before I can commit on the charge of first degree murder.
+
+ 
+
+[46]            Planning means that the scheme was conceived and carefully thought out before it was carried out.  The plan need not be complicated.  Deliberate means considered, not impulsive.  See R. v. Nygaard; R. v. Schimmens 1989 CanLII 6 (SCC), [1989] 2 S.C.R. 1074 and see R. v. Aalders 1993 CanLII 99 (SCC), [1993] 2 S.C.R. 482
+
+ 
+
+[47]            The Crown submits that the evidence called at the preliminary inquiry that could bear on these points comes principally from two sources: David Cortes and the post offence conduct of the accused.
+
+ 
+
+
+[48]            David Cortes testified that some weeks before the 9th of December, he and the accused Avalos discussed robbing Arguello.  The two men had been in Arguello’s house earlier and had seen Arguello in possession of both money and cocaine and they decided that Arguello would be a good target for a robbery.
+
+ 
+
+[49]            Cortes further testified that in his discussions with Avalos about the robbery, the topic of killing Arguello arose.  Cortes’ testimony on the discussion of the killing was brief and not completely consistent.  At one point he said that their plan was to rob Arguello of his drugs and money, kill him and set fire to the house.  At another point he said the initial discussion was to rob Arguello and only later did they talk about killing him, if necessary.  At still another point he said that the plan was to rob Arguello but they took precautions, just in case.
+
+ 
+
+[50]            Cortes described their efforts to put this plan into action.  He recalled that he and Avalos went to a dollar store and purchased gloves, ski masks and hair nets.  They got the gun, an old shotgun with one shell jammed and rusted in it.  When they ready to put their plan into action, they called Cody Oystryk to get a ride to Arguello’s home.  However, when Oystryk finally picked them up, he mentioned that Arguello had his family over for dinner that night.  With so many people in the house, Cortes and Avalos decided not to do the robbery that night.
+
+ 
+
+[51]            On cross-examination, Cortes noted that Oystryk was to be their ride to Arguello’s and possibly a hostage.  They really had no further plan about what to do with Oystryk.
+
+ 
+
+[52]            Cortes also testified that roughly three days after the murder, Avalos described to him what happened that night.  He recalled Avalos saying that Arugello put up a fight, that he got the gun away from Zuria, that he, that is Avalos, kicked Arguello, making him drop the gun, that Zuria picked the gun up and Zuria shot him in the upper chest.
+
+ 
+
+[53]            At one point in the cross-examination Cortes also agreed that their ultimate goal was to rob Arugello.
+
+ 
+
+Evidence of Post Offence Conduct
+
+ 
+
+[54]            Cortes’ description of the plan is apparently similar, if not identical, to what Oystryk testified eventually took place.  Oystryk testified that after the murder, Avalos and Zuria wanted to burn the house down to destroy evidence and he helped them to set fire to the house. The Crown points out that the evidence of Cortes was that the original plan was to burn the house and destroy the evidence.  Accordingly, she argues, the fact that this was, in fact, done, supports the inference that the accused planned to murder Arguello from the outset.
+
+ 
+
+[55]            Generally speaking, evidence relating to the post offence conduct of an accused person must be treated as any other piece of circumstantial piece of evidence. A trier of fact must be careful to assess that evidence in light of all of the circumstances of the case, including the relevance of the evidence to the live issues in the case.  See R. v. White 1998 CanLII 789 (SCC), [1998] 2 S.C.R. 72, 125 C.C.C. (3d) 385.
+
+ 
+
+
+[56]            Here, given the position of the accused that there is evidence of murder, the live issue is whether the accused were acting in a planned and deliberate manner.  The defence argues that evidence of planning to destroy evidence of the crime speaks to covering up evidence of the commission of a crime be it robbery or murder and is not specifically relevant to the issue of the classification of the murder as either first or second degree.  In other words, assuming that the plan, from the outset, was to destroy any evidence that might be left behind does not assist in determining if there was either planning or deliberation about murder as opposed to robbery on the part of the accused.
+
+ 
+
+[57]            I understand that the relevance of after the fact conduct to the issue of whether a murder was planned and deliberate depends on the circumstances of the particular case.  See the Ontario Court of Appeal in R. v. Poitras, (2002), 2002 CanLII 23583 (ON CA), 1 C.R. (6th) 366, at para. 11.
+
+ 
+
+[58]            For example, in Poitras, the plan of the accused was to lead the deceased’s family and the investigators to believe that the deceased had left town and was in Timmins.  To facilitate this deception, the accused testified that he had dropped the accused off at the bus station.  The deceased had, in fact, been dismembered and parts of the body were hidden in various places.
+
+ 
+
+[59]            One can readily see how, in that specific case, evidence of the manner of disposal of the body supported the lie the accused wished the world at large to believe by making it difficult to locate the body and, once the body was located, to identify it.
+
+ 
+
+[60]            In my opinion, the potential difficulty with the alleged post offence conduct in this case is that it is very general: pointed out by the Defence, this type of evidence could possibly relate to any criminal offence, not specifically murder.
+
+ 
+
+[61]            However, I must now return to my proper role.  Is it my role to determine if this evidence is so general that it does not properly form part of the factual matrix that the trier of fact should consider or is it for a properly instructed jury to make that determination?
+
+ 
+
+[62]            In my opinion, that type of frailty is for the trier of fact to weigh, not the justice hearing the preliminary inquiry.  Therefore, I will treat this as evidence to go to the trier of fact.
+
+ 
+
+Cortes’ Evidence
+
+ 
+
+[63]            There are potentional issues with the reliability of Cortes’ evidence.  He initially gave his information to the police because he had been arrested on other, outstanding charges and wanted to get released from custody.  Furthermore, his testimony has not been consistent.  He gave different details of the events in his statements.  He omitted the discussion about killing Arguello from his sworn K.G.B, statement.
+
+ 
+
+
+[64]            However, these factors are for the trier of fact to consider.  As noted above, I must not intrude on the role of the trier of fact to make the credibility determination.  My role is to determine if there is something for the trier of fact to consider, not to weigh it and determine its credibility.
+
+ 
+
+[65]            Was this a planned and deliberate murder or was it a robbery that went horribly wrong?  At this stage of the proceedings that is not for me to say.  What I must say is that there is sufficient evidence for a trier of fact to weigh on the issue of whether this murder was planned and whether it was deliberate and I must respect their role in determining whether that evidence, is credible and whether it proves the point beyond a reasonable doubt.  I now turn to the Crown’s alternative theory.
+
+ 
+
+Section 231(5)
+
+ 
+
+[66]            I turn now to the alternative theory of the Crown, could the allegation of first degree murder be supported by section 231(5).
+
+ 
+
+[67]            The relevant portions of that section read as follows:
+
+ 
+
+“231.(5) Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder in respect of a person when the death is caused by that person while committing or attempting to commit an offence under one of the following sections:
+
+ 
+
+(e) section 279 (kidnaping and forcible confinement); ...”
+
+ 
+
+[68]            The evidence that relates to this point is that of Cortes and Oystryk.
+
+ 
+
+[69]            The evidence of Oystryk clearly supports the allegation that he was kidnaped and confined by Avalos and Zuria.  According to Oystryk, he was forced, at gun point, to take Avalos and Zuria to Arugello’s home.  Once in the home, he was taped up to prevent his escape from the home.
+
+ 
+
+[70]            Cortes says that the original plan was to use Cortes to get to Arguello’s house and to gain entry to the house.  He spoke of Oystryk as their ride and a potential hostage, but noted that nothing further was planned with respect to his fate.
+
+ 
+
+[71]            The Crown agues that it is not necessary that the person who is the object of the kidnaping be the intended murder victim, provided the kidnaping and forcible confinement is closely connected.  In this case, it is argued, that connection exists because the accused’s plan included forcibly compelling Oystryk to get them to and into Arugello’s house.
+
+ 
+
+[72]            In R. v. Russell, 2001 SCC 53 (CanLII), 157 C.C.C. (3D) 1, the Supreme Court addressed this issue.  Justice McLachlin explained that section 231(5):
+
+ 
+
+
+“43     In my view the appellant states the organizing principle of s. 231(5) too narrowly. The provision reflects Parliament's determination that murders committed in connection with crimes of domination are particularly blameworthy and deserving of more severe punishment. "[W]hile committing or attempting to commit" requires the killing to be closely connected, temporally and causally, with an enumerated offence. As long as that connection exists, however, it is immaterial that the victim of the killing and the victim of the enumerated offence are not the same.”
+
+ 
+
+She then went on to note:
+
+ 
+
+“46     The appellant rightly points out that s. 231(5) imposes a severe penalty ‑‑ indeed, the most severe penalty imposed under our Criminal Code ‑‑ and accordingly it is particularly important that the provision be strictly construed. While this principle is unimpeachable, it cannot in itself justify restricting the ordinary meaning of the provision's words. The cases of this Court dealing with s. 231(5) make clear that an accused commits a murder "while committing or attempting to commit" an enumerated offence only if there is a close temporal and causal connection between the murder and the enumerated offence: see, e.g., Paré, supra, at p. 632 (stating that a murder is committed "while committing" an enumerated offence only "where the act causing death and the acts constituting [the enumerated offence] all form part of one continuous sequence of events forming a single transaction"); R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74, at p. 86. In my view this requirement appropriately restricts the application of s. 231(5) to contexts within the intended scope of the provision.”
+
+ 
+
+[73]            Does the evidence in this case support a conclusion that there is a close and causal connection between the murder and the kidnaping and forcible confinement?
+
+ 
+
+[74]            I must say that there is such evidence on the record.  The testimony of both Cortes and Oystryk supports the theory that Oystryk was always seen as the ride to Arguello’s home and a way of getting into the house.  Thus, his kidnaping and confinement forms part of one continuous sequence of events forming a single transaction as envisioned in the quote above from Russell.
+
+ 
+
+[75]            The defence argues that the object of the plan was the robbery of Arguello, not his murder.  They emphasis their position that the murder was the unplanned adjunct or consequence of a robbery gone wrong, not part of a planned and deliberate decision to murder Arguello.
+
+ 
+
+[76]            However, given that this is the preliminary inquiry, not the trial, my function is to determine if there is some evidence on which a jury properly instructed could, not must, come to the conclusion that the murder fits within the section. Bearing that in mind, I must conclude that, on the evidence that I have heard in this case, there is some evidence which meets that standard.
+
+ 
+
+[77]            Again, I come to this conclusion respecting the fact that it is the proper function of the trier of fact to determine the credibility of these witnesses on the point.
+
+ 
+
+Application of the Facts to the Accused
+
+ 
+
+[78]            With respect to the accused Avalos, I find that the evidence of Oystryk and Cortes as set out above is some evidence upon which a jury reasonably instructed could convict of first degree murder either because the murder is planned and deliberate or because it falls under s. 231(5).
+
+ 
+
+
+[79]            However, the accused Zuria is in a slightly different position.  I do not recall Cortes mentioning him in connection with the events of December 9, 2005, other than when he recounted Avalos’ version of those events.  See paragraph 52 above.  It appears, then, that the only evidence that could point to Zuria acting in a planned and deliberate manner are the following.  Firstly there are the Cortes / Avalos discussions which seem to contemplate the involvement of two persons.  Secondly there is evidence that Zuria arrived in Edmonton just before the murder and left just after.  This leaves it open to a trier of fact to draw the inference that his trip had one limited purpose: participation in the robbery and killing of Arguello.  Finally there is the evidence that puts the shotgun in his hands only throughout both the kidnapping and the robbery.  Even if one were to hesitate to say that these facts are some evidence of planning and deliberation on his part, I must conclude, in light of the decision in Russell (Supra) there is evidence to find that s. 231(5) applies in his case.
+
+ 

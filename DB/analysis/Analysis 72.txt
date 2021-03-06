@@ -1,0 +1,42 @@
+﻿C.           DID THE TRIAL JUDGE ERR IN ADMITTING THE MR. BIG STATEMENTS?
+[23]      In ruling that the Mr. Big statements were admissible, the trial judge did not have the benefit of the decision in Hart. Hart altered the law in important ways. First, the onus on the admissibility question has been reversed and now rests with the Crown: Hart, at paras. 10, 89. Second, the former focus on whether the subject is in the “functional control of the state” has been pushed aside in favour of a more dedicated focus on the balance between the probative value or reliability of the evidence, and the prejudice entailed in admitting harmful character evidence: Hart, at para. 10. Third, the abuse of process standard used to address problematic police behaviour has been “reinvigorated” to impose more exacting standards of admission: Hart, at paras. 11, 111-118.
+
+[24]      To be clear, “although the precise test for determining the admissibility of Mr. Big confessions has changed, the issues [or factors relevant for consideration] have not”: Hart, at para. 128.
+
+[25]      Mr. Niemi raises two grounds of appeal relating to the admission of the Mr. Big statements, arising out of the change in law. 
+
+[26]      First, Mr. Niemi argues that the statements he made to Mr. Big operatives do not meet the current context specific probative value versus prejudicial effect formulation required by Hart, which applies on appeal even though the trial judge did not have the advantage of that decision during the trial.
+
+[27]       Second, Mr. Niemi contends that his statements were secured by “abuse of process”, according to the standards enunciated in Hart, and should not have been admitted.
+
+[28]      I would reject both grounds of appeal. Even though the trial judge naturally applied the law as it was understood to be at the time, the facts found by the trial judge on the relevant factors for consideration show that he would not have been wrong in admitting Mr. Niemi’s Mr. Big statements, even under current standards.
+
+[29]      With respect to the probative value and prejudice evaluation, as Mr. Niemi’s counsel candidly acknowledged during oral submissions, the confirming details contained in Mr. Niemi’s admission present an imposing case that the confessions were probative. His statements to Mr. Big operatives contain a raft of unpublicized and impressive detail, stamping them as reliable in spite of the non-coercive inducements that were used to encourage Mr. Niemi to admit the crime. When this is combined with the trial judge’s reasonable findings that Mr. Niemi is “not a pushover” but a self-assured and street smart individual who was not dependent on the income of the fictitious criminal organization or emotionally bonded to its operatives, the probative value of the statements is impressive.
+
+[30]      To be sure, the narrative required to unfold the statements in evidence disclosed a good deal of prejudicial information. Still, in this case, the probative value of the evidence easily outweighs its prejudice.
+
+[31]      Nor would the reinvigorated abuse of process standard require exclusion of the Mr. Big statements under the current law. On the evidence, the trial judge properly characterized this Mr. Big operation as “exemplary” and “excellent police work”. Admitting these statements would neither damage the integrity of the administration of justice nor compromise the fairness of Mr. Niemi’s trial.
+
+[32]      No error of law occurred in admitting the Mr. Big statements.
+
+D.           DID THE TRIAL JUDGE ERR IN NOT QUASHING THE ONE-PARTY CONSENT WIRETAP AUTHORIZATION?
+[33]      Mr. Niemi acknowledges that there were adequate grounds for issuing the initial one-party consent wiretap order pursuant to s. 184.2 of the Criminal Code, used to record conversations in the first stage of the Mr. Big operation. He contends, however, that since no new information implicating Mr. Niemi had surfaced, there were no reasonable grounds to believe that another one-party consent wiretap would obtain evidence. He argues that the subsequent wiretap order used in the second stage of the Mr. Big operation should therefore not have issued, and that the trial judge erred by not quashing it.
+
+[34]      I disagree. The trial judge was not called upon to decide whether he would have granted the authorization. His task was to decide whether the issuing judge could reasonably have done so: R v Araujo, 2000 SCC 65, [2000] 2 S.C.R. 992. In this case, there was an evidentiary basis that entitled the issuing justice to find there to be reasonable grounds supporting this second authorization.
+
+[35]      The grounds that supported the initial order were still in place, and while no decisively incriminating admissions were secured from Mr. Niemi when the first order was in force, Mr. Niemi did speak frequently about Ms. Watson’s murder, demonstrating a readiness to discuss the subject. At the end of the first stage of the operation, he said that he may have committed the murder and blocked it out of his memory. This comment, along with his willingness to discuss the murder, could fairly be taken as increasing the prospect he would say more, including offering incriminating information.
+
+[36]      Mr. Niemi had also lost his babysitting job. While this changed his financial situation only marginally for the worse, an issuing justice could take this job loss as a factor increasing the prospect that Mr. Niemi would succumb to the financial incentives he had been resisting.
+
+[37]      This Court owes deference to the trial judge’s review of the wiretap authorization. Mr. Niemi has not demonstrated any errors of law, or misapprehension of evidence, or failure to consider relevant evidence by the trial judge. There is therefore no basis for this court to intervene: R. v. Sadikov, 2014 ONCA 72, 314 O.A.C. 357 at para. 89.
+
+E.           WERE THERE ERRORS RELATING TO THE FIRST DEGREE MURDER CONVICTION?
+[38]      Mr. Niemi was convicted of first degree murder on the footing that he murdered Ms. Watson “while committing or attempting to commit an offence under… section 271 (sexual assault)”: Criminal Code, s. 231(5)(b). He raises four grounds of appeal from this finding. Specifically, he argues (1) that the jury verdict was unreasonable, (2) that the trial judge erred by instructing the jury that strangulation could itself be found to be a sexual assault, (3) that the trial judge failed to provide a proper “single transaction” instruction relating to when a murder occurs “while committing” a sexual assault, within the meaning of s.321(5)(b), and (4) that the trial judge misdirected the jury by failing to review the evidence relating to the “while committing” issue.
+
+[39]      These four grounds overlap and are fed largely by Mr. Niemi’s contention that the evidence shows that Ms. Watson died before Mr. Niemi committed the acts relied upon by the Crown to prove a sexual assault. As a result, he contends that there was no causal connection between the murder and the sexual acts, as the law requires, and this should have featured in the jury direction. He also disputes that he has properly been proved to have sexually assaulted Ms. Watson at all, given that the sexualized activity did not commence until after Ms. Watson was dead, and that it is impossible in law to commit a sexual assault against a dead person.
+
+[40]      Mr. Niemi’s contentions raise questions about the reach of liability under s. 231(5)(b). Specifically, the questions relate to the operation of the section when the victim’s death precedes the acts said to constitute the sexual assault. There are essentially two questions:
+
+•        Can one commit a sexual assault on a dead person?
+
+•        If death precedes the sexual assault, when, if ever, can it be said that the death was caused while committing a sexual assault?

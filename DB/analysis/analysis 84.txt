@@ -1,0 +1,55 @@
+﻿II.               Analysis
+[10]            Exculpatory out-of-court statements made by an accused have generally been held to be inadmissible under the exclusionary rule against hearsay. Where the accused testifies, the statements are generally inadmissible as they are considered self-serving (oath helping) and lacking in probative value. As a general rule, out-of-court statements of the accused may be admitted into evidence, if made voluntarily, against the accused but not for the accused:  R v Rojas, 2008 SCC 56, [2008] 3 SCR 111 at para 36; R v Simpson, 1988 CanLII 89, [1988] 1 SCR 3 at para 24.
+
+[11]            In R v Edgar, 2010 ONCA 529, the Court recognized that there are four exceptions to the traditional rule.  A prior consistent statement may be admitted where: it is relevant to the accused’s state of mind at the time the offence was committed; to rebut an allegation of recent fabrication; as part of a “mixed” statement, introduced by the Crown, that is partly inculpatory and partly exculpatory and; as part of the res gestae. The court emphasized that this list of exceptions is not exhaustive (paras 35-36).
+
+[12]           The Court in Edgar introduced another exception. It recognized that exculpatory defence evidence may have substantive probative value that is not outweighed by its prejudicial effect. It concluded that an accused’s spontaneous out-of-court statement made upon arrest or when first confronted with an accusation is an exception to the general rule excluding prior consistent statements as evidence of the reaction of the accused to the accusation and as proof of consistency, provided the accused takes the stand and is exposed to cross-examination. Such evidence is relevant to the credibility of the accused and is considered circumstantial evidence that may have a bearing on guilt or innocence, though it is not strictly evidence of the truth of what was said unless it falls under the principled approach to hearsay (para 72).
+
+[13]           In R v Badhwar, 2011 ONCA 266, the Court distinguished Edgar and held that an accused statement made five hours after the subject incident lacked spontaneity. The accused had five hours to consider his position, “think things out” and speak to his friends.
+
+[14]           In R v Liard, 2015 ONCA 414, the Court considered Edgar in considering the admissibility of a statement given by the accused 13 hours after a murder was committed. The statement itself was almost 8 hours long and the accused sought to introduce the first seven hours and 42 minutes. The Court upheld the decision of the trial judge to admit the statement and held it to be spontaneous, a critical requirement for admissibility under the Edgar exception. While there was clearly a gap of 13 hours between the time of the murder and the beginning of the police interview, the statement was still considered spontaneous in all of the circumstances. Of particular importance was an implicit finding of fact by the trial judge that the accused was first confronted with the allegation of murder during the police interview. This finding made the police statement spontaneous and entitled to deference (para 58).
+
+[15]           In Liard at para 50, the Court listed the three requirements an accused must meet to satisfy the Edgar test:
+
+a)                  The accused must testify.
+
+b)                  The statement must be made when the accused was arrested or when first accused of committing a crime.
+
+c)                  The statement must be spontaneous.
+
+If the Edgar test is met, the prior exculpatory statement may be admissible as evidence of the reaction of an accused when first confronted with the allegations and as proof of consistency with the accused’s trial testimony. I will now consider each of those requirements:
+
+a)      Accused must testify
+[16]           I have been advised that Ray Nickerson will be testifying. He will be subject to cross-examination by the Crown. The first requirement has been met.
+
+b)     When arrested or first accused
+[17]            It is only an accused’s spontaneous reaction when arrested or first accused of committing a crime that renders a prior consistent statement admissible under Edgar. This requirement is linked to the requirement of spontaneity. “The natural reaction of a person first confronted with a false accusation of criminal wrongdoing would be to immediately assert one’s innocence.”:  Liard para 54.
+
+[18]           Mr. Nickerson is alleged to have committed the subject offences late in the evening of April 2, 2017. He was arrested at 00:22 o’clock in the morning of April 3, 2017 on charges of murder and attempted murder. He was transported to the Fort Saskatchewan RCMP detachment. He spoke with a lawyer and indicated that he was satisfied with the advice he had received. At 11:51 he was advised of his change of jeopardy to two counts of murder. He was advised of his right to again contact a lawyer but declined to do so.
+
+[19]           Statement 1 given by Mr. Nickerson began at 12:33 and concluded at 14:33. Statement 2 given by Mr. Nickerson began at 19:57 on April 3, 2017 and concluded at 21:28.
+
+[20]           Statement 1 began more than 12 hours after Mr. Nickerson was placed under arrest on charges of murder and attempted murder. Although the attempted murder charge was upgraded to one of murder, of which he was advised at 11:51, I do not consider this fact important, in the circumstances of this case, on this issue. He was advised on his arrest 12 hours earlier that he was charged with murder and attempted murder. His knowledge of the facts, surrounding circumstances and his own participation in the events that led to the charges did not change between the time of his arrest and first accusation at 00:22 and the conclusion of Statement 1 at 14:33. Nor did it change as a consequence of being advised that the attempted murder charge had been upgraded to one of murder.
+
+[21]           Statement 2 began about 19 ½ hours after Mr. Nickerson was arrested and told of the charges against him. Again, his knowledge of the facts, surrounding circumstances and his own involvement did not change with the advice that the attempted murder charge had been upgraded to murder.  Indeed, they had not changed from his arrest at 00:22 to the conclusion of Statement 2 at 21:28.
+
+[22]           Neither Statement 1 nor Statement 2 was given at or near the time when Mr. Nickerson was arrested nor when he was first accused of committing a crime. At 00:22 on April 3, 2017, Mr. Nickerson knew that he was facing extremely serious charges including one murder charge and one attempted murder charge. The two statements began 12 and 19 ½ hours after he was arrested and first accused. Unlike the situation in Liard, he was not first confronted with new accusations during the interviews themselves.
+
+[23]           Mr. Nickerson has failed to satisfy the second requirement under Edgar.
+
+c)      Spontaneity
+[24]            The requirement of spontaneity is critical as it gives a statement its probative value. “A spontaneous reaction is more likely to truly reflect the individuals honest and genuine reaction to the allegation, and thus is more likely to be a reliable reaction. Conversely, when an accused has an opportunity to “think things through”, the spontaneity of the statement is diminished, and in some cases eliminated altogether.”:  Liard at para 62.
+
+[25]            As outlined above, the two statements by Mr. Nickerson were given 12 hours and 19 ½ hours, respectively, after he was arrested and first accused of committing two serious crimes, one murder and one attempted murder.
+
+[26]           I have considered the length of time that passed between Mr. Nickerson’s arrest and his statements. The passage of time is relevant, though not determinative, and the Court must consider a contextual approach to the issue of spontaneity. I have watched the two video statements which, combined, were about 3 ½ hours in length. I observed Mr. Nickerson’s demeanour and considered his statements regarding the circumstances and events of the previous evening.
+
+[27]           Mr. Nickerson had ample time before the statements were given to reflect on what had transpired during the fateful evening. He was able to consider and attempt to recall the events of the evening before, the specific circumstances leading up to the shooting of the two victims, his own involvement, that of the others involved, and his resulting jeopardy.  He had time to consider his position and how he wished to put forward his view of the facts. He was able to “think things out”. Or, as he puts it in Statement 1, “I’ve been trying to run it through my head for 12 hours”. His verbal utterances during the interviews were not spontaneous responses to his arrest or when he was first accused. That spontaneity is lacking in this case. 
+
+[28]           Mr. Nickerson shows great emotion throughout both statements and the magnitude of what has occurred and his fear of what the future holds clearly placed a great weight on his shoulders. However, Mr. Nickerson’s emotional reactions were not spontaneous reactions to his being arrested or when first confronted with the charges against him. Rather, they are the honest and genuine reactions of a man who has realized the profound effect and impact the events of the evening before have had, and will have, on he, his family, at least two other families and numerous others who are and will continue to be affected by those events. Indeed, he says this a number of times during the interviews. While his reactions were also partly in response to the jeopardy he knew he was facing, his understanding of that jeopardy primarily resulted from his knowledge and understanding of his actions and involvement in the events of the evening before and not as a consequence of his arrest or the accusations against him. The spontaneity required by Edgar relates specifically to the reaction of an accused to their arrest or when first accused. That spontaneity is lacking in this case.
+
+[29]           In circumstances where spontaneity is lacking, the statement will be excluded. Where spontaneity remains in doubt, however, the trial judge should admit the statement and allow the jury to assess its weight. If admitted, the degree of spontaneity can be explored in cross-examination and the jury provided with an instruction as to the weight that may given to the statement:  Edgar at para 69; Liard at para 64.
+
+[30]           Unlike the finding in Liard, I do not believe that either of the Accused’s statements were made spontaneously after arrest or when first accused and unlike the finding in R v Johnson, 2020 ONSC 3672, I am not left in doubt as to whether they were.  The statements made by the Accused were not made spontaneously after he was arrested or first accused of committing the crimes.
+
+[31]           Mr. Nickerson has failed to satisfy the third requirement under Edgar.

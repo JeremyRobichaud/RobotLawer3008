@@ -1,0 +1,79 @@
+﻿III. Legislation
+
+ 
+
+[6]               The defence brings this application pursuant to section 599(1) of the Criminal Code, R.S.C. 1985, c. C-46 which reads as follows:
+
+ 
+
+599(1) A court before which an accused is or may be indicted, at any term or sittings thereof, or a judge who may hold or sit in that court, may at any time before or after an indictment is found, upon the application of the prosecutor or the accused, order the trial be held in a territorial division in the same province other than that in which the offence would otherwise be tried if
+
+(a) it appears expedient to the ends of justice, or
+
+(b) a competent authority has directed that a jury is not to be summoned at the time appointed in a territorial division where the trial would otherwise by law be held.
+
+ 
+
+
+[7]                Under subsection 599(1)(a), upon the application of the prosecutor or the accused, a judge is given discretion to change the location of a trial.
+
+ 
+
+IV. Case Law
+
+ 
+
+[8]               In a decision of this court in R. v. Pappas, 2004 ABQB 668, Clackson J. summarized the principles governing an application for change of venue, at para. 2:
+
+ 
+
+1. It is well established that criminal trials should be held in the venue in which the alleged crime took place;
+
+ 
+
+2. The onus in such an application is upon the applicant;
+
+ 
+
+3. The onus upon the applicant to discharge the presumption of venue is a heavy one;
+
+ 
+
+4. The applicant must establish on a balance of probabilities that there is a fair and reasonable likelihood of partiality or prejudice among the prospective jurors in the presumed venue;
+
+ 
+
+5. The applicant must also show on a balance of probabilities that partiality or prejudice cannot be overcome by jury screening, peremptory challenges, challenges for cause and the cleansing inherent in the trial process;
+
+ 
+
+6. The goal is to ensure that both Crown and the accused have a fair trial with an impartial jury.
+
+ 
+
+[9]               Factors to consider in deciding whether a trial will be fair are referred to in the case R. v Daunt, 2005 YKSC 33 where the Yukon Supreme Court set out the following, at para. 8:
+
+ 
+
+1. the size of the community;
+
+2. prejudicial pre-trial publicity;
+
+3. widespread animosity that people may have towards the accused or the victim;
+
+4. widespread sympathy for the accused or the victim;
+
+5. fear or revulsion in the community;
+
+6. the nature of the crime; and
+
+7. the nature of the issues.
+
+ 
+
+[10]            In R. v. Charest (1990), 1990 CanLII 3425 (QC CA), 28 Q.A.C. 258, 57 C.C.C. (3d) 312, the Court of Appeal of Quebec held that when deciding whether a change of venue is warranted, courts should not restrict themselves to evaluating the impartiality of potential jurors; rather, courts should take a broader approach, at p. 348 the Court of Appeal said:
+
+ 
+
+
+With respect, I prefer the test formulated in Collins to the narrower one laid down by Aikins J. in Beaudry. It adds to the “impartial jury” standard the additional and broader concept of a fair trial. In my view, a fair trial can be conducted only in a reasonably serene environment. Extensive prejudicial publicity shortly before the trial, pronounced hostility toward the accused, widespread sympathy for the victim, and a frightened or enraged community, surely create – especially in a small judicial district – the kind of emotionally charged atmosphere in which the end of justice may be best served by removal of the trial to another venue. [Emphasis in original]

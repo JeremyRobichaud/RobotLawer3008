@@ -1,0 +1,25 @@
+Standard of Review
+
+[56]         Grounds 1, 2, 3 and 5 all arise from the trial judge’s instructions to the jury.  In charging a jury, the trial judge explains legal principles to the jury so they will understand how to apply the law to the facts.  The trial judge’s instructions on the law must be correct.  In an appellate assessment of instructions to a jury, the standard of review is correctness  (R. v. Miller, 2009 NSCA 71, ¶14)
+
+[57]         In determining whether the charge is correct some general principles apply.  When reviewing a jury charge an appellate court is required to take a functional approach to the review.  An accused is entitled to a properly instructed jury, not a perfectly instructed jury (R. v. Jacquard, 1997 CanLII 374 (SCC), [1997] 1 S.C.R. 314, ¶32)
+
+[58]         In R. v. G.K.N., 2016 NSCA 29, this Court explained how courts of appeal should review a jury charge:
+
+[30]        Before considering G.K.N.’s complaints in this context it is useful to consider how courts of appeal should review a jury charge.  In R. v. Araya, 2015 SCC 11, the Supreme Court cautioned:
+
+[39]      When considering an alleged error in a trial judge's jury instructions, "[a]n appellate court must examine the alleged error in the context of the entire charge and of the trial as a whole".  Further, trial judges are to be afforded some flexibility in crafting the language of jury instructions. While trial judges must seek to ensure that their instructions adequately prepare the jury for deliberation, the standard for jury instructions is not perfection. Appellate review of jury instructions is meant to "ensure that juries are properly - not perfectly - instructed".  This Court has emphasized that the charge generally should not be "endlessly dissected and subjected to minute scrutiny and criticism".  As Bastarache J. has summarized it:
+
+The cardinal rule is that it is the general sense which the words used must have conveyed, in all probability, to the mind of the jury that matters, and not whether a particular formula was recited by the judge. The particular words used, or the sequence followed, is a matter within the discretion of the trial judge and will depend on the particular circumstances of the case.
+
+
+
+Appellate courts should not examine minute details of a jury instruction in isolation. "It is the overall effect of the charge that matters".
+
+[…]
+
+[52]      Parsing the language in one particular sentence to determine whether it was sufficient to warn of an impermissible line of reasoning, without taking into consideration the greater context of the jury instructions and the trial itself, represents the kind of dissection and minute scrutiny this Court warned against…
+
+                                                                        [Emphasis added; citations omitted]
+
+[59]         With these principles in mind, I now turn to the issues raised on this appeal.

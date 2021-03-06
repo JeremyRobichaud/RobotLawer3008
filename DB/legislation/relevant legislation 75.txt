@@ -1,0 +1,43 @@
+﻿21(1) Every one is a party to an offence who
+
+(a) actually commits it,
+
+(b)does or omits to do anything for the purpose of aiding any person to commit it, or
+
+(c) abets any person in committing it.
+
+(2) Where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein and any one of them, in carrying out the common purpose, commits an offence, each of them who knew or ought to have known that the commission of the offence would be a probable consequence of carrying out the common purpose is a party to that offence.
+
+In general terms, s. 21(1)(b), (c) contemplates a relatively straightforward situation wherein one person will be guilty of an offence if he aids or abets a principal actor in the commission of that offence. Section 21(2) contemplates a situation which is slightly more complicated. A person who takes part with another in the commission of a first offence will be guilty not only of that offence but also of a second offence committed by the principal actor if that second offence was a foreseeable, probable consequence of the carrying out of the first offence. The learned trial judge instructed the jury as to the possible responsibility of Newstead for second degree murder on both s. 21(1)(b), (c) and s. 21(2).
+
+The trial judge's instructions with respect to s. 21(2) are consistent with the judgment of this court in R. v. Riezebos (1975), 1975 CanLII 1482 (ON CA), 26 C.C.C. (2d) 1, and are not challenged on this appeal. The evidence supporting Newstead's guilt under this subsection is strong indeed and may even be described as overwhelming. The appellant Newstead, however, takes the position that the instructions with respect to her responsibility pursuant to s. 21(1)(b), (c) were in error. Mr. Greenspan argues that we cannot know whether the jury found Newstead guilty as an aider or abettor pursuant to s. 21(1)(b), (c) or as a party pursuant to s. 21(2) and if the instructions respecting aiding and abetting were in error, Mrs. Newstead is entitled to a new trial.
+
+Ordinarily the application of s. 21(1)(b), (c) is not difficult but in this case the matter becomes somewhat more complex because of the constructive murder provisions in the Criminal Code. Dollan's responsibility for murder is based on s. 213(d) [am. 1974-75-76, c. 93, s. 13; c. 105, s. 29]. He caused the death of Mr. Kehoe while committing or attempting to commit robbery or unlawful confinement or both. The question that arises is the extent of the aiding and abetting necessary to render Mrs. Newstead guilty of murder. Is it sufficient that she aid and abet only in the underlying offence (the attempt or commission of robbery or unlawful confinement) to attract guilt for murder or must she aid and abet the use or possession of a firearm in the commission of the underlying offence which is murder if death ensues from such use or possession? In Cathro v. The Queen, 1955 CanLII 46 (SCC), [1956] S.C.R. 101, 2 D.L.R. (2d) 270, 113 C.C.C. 225, the Supreme Court of Canada dealt with the relationship between s 21 (then s. 69) and s. 213 (then s. 260) of the Code. At p. 237 C.C.C. Estey J. said:
+
+It was, however, the contention on behalf of the appellant that, however much he may have aided and abetted in the commission of the robbery, he never did aid or abet, or in any way assist Chow Bew in the commission of the murder within the meaning of s. 69(1).
+
+Under s-s. (2) (s. 69), if, as here, the appellant and Chow Bew had formed a common intention to rob Ah Wing and, while assisting each other in the prosecution of that robbery, Chow Bew murdered Ah Wing, the appellant would be a party to the offence of murder if the commission thereof was, or ought to have been known by him to be a probable consequence of the prosecution of such robbery. I agree with the appellant that these subsections ought to have been explained in such a manner that the jury would understand the difference between the two and the respective effects thereof in relation to the facts as adduced in evidence.
+
+And, at p. 238:
+
+It would seem, and with great respect to the learned trial Judge, that in his summary these two subsections of s. 69 were not sufficiently distinguished in relation to the facts. In particular, the summary did not include a statement to the effect that the appellant could only be a party to the offence of murder under s-s. (1) of s. 69 if the jury thought Chow Bew had committed the murder and the appellant had aided or abetted Chow Bew in the commission of the murder, and the under s-s. (2) of s. 69 the appellant would be guilty only if the commission of the murder was known or ought to have been known by him to be a probable consequence of the prosecution of the robbery.
+
+It is plain that when Estey J. speaks of aiding and abetting in the commission of the murder he is speaking of aiding and abetting in the acts which under s. 213 (s. 260) constitute murder not merely aiding and abetting in the underlying offence. If aiding and abetting in the underlying offence were sufficient to render a party guilty pursuant to s. 21(1)(b), (c) this section would become a far broader base of criminal liability than s. 21(2) which at least requires that murder be a foreseeable probable consequence of a first offence.
+
+With respect I subscribe to the view of Estey J. that criminal responsibility for murder by a party pursuant to s. 21(1)(b), (c) requires aiding and abetting in the murder (i.e., the acts defined in s. 213 as murder and not merely the underlying offence).
+
+The question remaining is whether the trial judge's instructions reflect this view. The trial judge, after dealing with the definition of murder as it applied to the acts of Dollan, then instructed the jury as follows:
+
+But if you find that the accused, Dollan, did commit murder, as I have defined it, then, the next question you must direct your mind to is whether Miss Newstead is also guilty of that murder as a party to the offence, even if she did not discharge the gun.
+
+You see, at this stage, we have defined murder. Now, you must decide whether Miss Newstead was a party to that offence of murder. In this respect, I want to call your attention to s. 21(1) of the Criminal Code, which reads:
+
+21. (1) every one is a party to an offence who . . . . .
+
+(b) does or omits to do anything for the purpose of aiding any person to commit it, or
+
+(c) abets any person in committing it.
+
+In other words, under this subsection, any person can become a party to an offence by aiding or abetting, not necessary both; one or the other. So if you find that the offence of murder has been committed, then, of course, the accused, Newstead, would be guilty if she aided or abetted in the commission of that crime, that is, the crime of murder.
+
+The word "aid" of course, simply means to help or assist. The helping may consist of doing something or omitting to do something. On the other hand, the word "abet" means to encourage and to urge, to invite, to instigate a person into committing a crime. That is what "abet" means. And person who actually aid or abet in the commission of a crime are as guilty as the person who commits the crime.

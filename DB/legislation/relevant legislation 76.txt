@@ -1,0 +1,277 @@
+﻿[41] In order to commit the accused to stand trial, there must be evidence before the court upon which a reasonable jury, properly instructed, could return a verdict of guilty. See United States of America v Shephard, 1976 CanLII 8 (SCC), [1977] 2 S.C.R. 1067, 34 C.R.N.S. 207, 30 C.C.C. (2d) 424 at [C.C.C.] 427.
+
+ 
+
+[42] Campbell J. described the task set by Shephard in R v McIlwain (1988), 67 C.R. (3d) 393 (Ont.H.C.J.) at 399 as "to weigh or balance in the scales or to measure or to ponder and examine the force of evidence to determine whether or not it is any evidence upon which a reasonable jury properly instructed could return a verdict of guilty". This is the sole purpose for which the evidence is to be weighed or scrutinized at the preliminary inquiry. It is not the forum for weighing competing inferences or for selecting from among them: R v Campbell (1999), 1999 CanLII 2372 (ON CA), 140 C.C.C. (3d) 164 (Ont.C.A.) at 165. See also R v Sagevicius (2001), 10 M.V.R. (4th) 144 (Ont.S.C.J.) at 147. Indeed, any doubt as to the inferences to be drawn from the evidence must be resolved, at the preliminary inquiry stage, in the Crown's favour: R v Cowden, 1947 CanLII 336 (ON SC), [1947] O.W.N. 1018, 5 C.R. 18, 90 C.C.C. 101 (H.C.J.); Ex parte Hill, 1969 CanLII 491 (ON SC), [1970] 1 O.R. 699, 8 C.R.N.S. 124, [1970] 2 C.C.C. 264 (H.C.J.); R v Coke, [1996] O.J. No. 808 (QL) (Gen.Div.).
+
+ 
+
+[43] Hence, the weighing of the evidence for competing inferences, frailties or contradictions has no place in the Shephard test. Neither does the dubious nature of the Crown's case or the reliability of the evidence or concerns about its weight: Dubois v The Queen, 1986 CanLII 60 (SCC), [1986] 1 S.C.R. 366, 51 C.R. (3d) 193, 25 C.C.C. (3d) 221; Mezzo v The Queen, 1986 CanLII 16 (SCC), [1986] 1 S.C.R. 802, 52 C.R. (3d) 113, 27 C.C.C. (3d) 97.
+
+ 
+
+[44] The Supreme Court of Canada reformulated the Shephard test in R v Arcuri, 2001 SCC 54 (CanLII), [2001] 2 S.C.R. 828, 44 C.R. (5th) 213, 157 C.C.C. (3d) 21. While the test is the same, the Court explained, whether the evidence at the preliminary inquiry is direct or circumstantial, the nature of the judge's task varies according to the type of evidence that the Crown tenders. Where the Crown has not presented direct evidence as to every element of the offence, the question becomes whether the remaining elements of the offence, that is, those elements as to which the Crown has not advanced direct evidence, may "reasonably be inferred" from the circumstantial evidence.
+
+ 
+
+[45] Answering this question, as McLachlin CJC stated for the unanimous court at [C.C.C.] 31, "inevitably requires the judge to engage in a limited weighing of the evidence because, with circumstantial evidence, there is, by definition, an inferential gap between the evidence and the matter to be established - that is, an inferential gap beyond the question of whether the evidence should be believed".
+
+ 
+
+[46] The Court went on to note that while the judge must therefore weigh the evidence, in the sense of assessing whether it is reasonably capable of supporting the inferences the Crown asks the jury to draw, this weighing, however, "is limited". The judge does not ask whether he or she would conclude that the accused is guilty; neither does the judge draw factual inferences or assess credibility. The question to be addressed is "whether the evidence, if believed, could reasonably support an inference of guilt: R v Arcuri, supra, [C.C.C.] 32. That is, the “decisive question” is whether there exists “an evidential foundation on the issue of guilt”. See R v Fontaine, 2004 SCC 27 (CanLII), [2004] 1 S.C.R. 702, 18 C.R. (6th) 203, 183 C.C.C. (3d) 1 at 16, applying Arcuri.
+
+ 
+
+[47] Stated shortly, if there is sufficient evidence upon which a reasonable and properly instructed jury could convict, the preliminary inquiry judge must commit the accused to stand trial. Guilt or innocence is to be determined at trial: R v Sazant, [2004] 3 S.C.R. 635, 2004 SCC  77, 193 C.C.C. (3d) 446, per Major J. at [SCC] paras 14-16; R v Deschamplain, [2004] 3 S.C.R. 601, 2004 SCC 76, 196 C.C.C. (3d) 1.
+
+Analysis of Law
+ 
+Requisite Intent to Commit Murder: Culpable Homicide
+ 
+
+[55] Section 229 of the Criminal Code defines the culpable homicide required for murder in certain enumerated circumstances. Section 229(a)(i) states that murder is committed where the person causing the death of a human being means to cause his/her death. Pursuant to s.229(a)(ii), it constitutes murder where the person who causes the death of a human being means to cause bodily harm to the person that he/she knows is likely to cause death, and is reckless whether death ensues or not.
+
+ 
+
+[56] While s.229(a)(i) provides for intentionally causing the death of a human being, s.229(a)(ii) requires proof by the Crown that the accused meant to cause the victim such bodily harm that he/she knew it was likely to cause the death of the victim, and was reckless whether death ensued or not as a result of causing that bodily harm. The essential element is that of intending to cause bodily harm of such a “grave and serious nature” that the accused knew that it was likely to result in the victim’s death. The aspect of recklessness is “almost an afterthought” in terms of the requisite basic intent. See R v Nygaard, 1989 CanLII 6 (SCC), [1989] 2 S.C.R. 1074, 72 C.R. (3d) 257, 51 C.C.C. (3d) 417 at 435.
+
+ 
+
+[57] There is only a “slight relaxation” in the mens rea required for a conviction for murder under s.229(a)(ii) as compared to s.229(a)(i). The intent that must be demonstrated to convict under the former has two aspects: (1) subjective intent to cause bodily harm; and (2) subjective knowledge that the bodily harm is of such a nature that it is likely to result in death. Such guilty mind, intent or mens rea must not only be present, but it must also be concurrent with the impugned act, although it is not always necessary for the guilty act and the intent to be “completely concurrent”, or that the mens rea persist throughout the entire commission of the wrongful conduct: R v Cooper, 1993 CanLII 147 (SCC), [1993] 1 S.C.R. 146, 18 C.R. (4th) 1, 78 C.C.C. (3d) 289. 
+
+ 
+
+[58] To put it another way, s.229(a)(ii) “modestly expands” the simple definition of murder set out in s.229(a)(i). There is close proximity, however, between the respective states of mind described in these two subsections, given that the distinction between meaning to kill, and causing bodily harm knowing that such harm is likely to cause death, is “slim”: R v Watkins (2003), 2003 CanLII 3874 (ON CA), 181 C.C.C. (3d) 78 (Ont.C.A.) at 94-96, per Doherty JA.
+
+ 
+
+Planning and Deliberation: First Degree Murder
+ 
+
+[59] Pursuant to s.231(2) of the Criminal Code, murder is first degree murder when it is planned and deliberate.
+
+ 
+
+[60] Intent, as discussed above, is a separate element, distinct from planning and deliberation: R v More, 1963 CanLII 79 (SCC), [1963] S.C.R. 522, 41 C.R. 98, [1963] 3 C.C.C. 289.
+
+ 
+
+[61] The words "planned" and "deliberate", as they are used in s.231(2), are well-understood. In R v Widdifield (1961), 6 Crim.L.Q. 152 (Ont.H.C.J.) at 153, Gale. J. instructed the jury on the meaning of these terms as follows:
+
+ 
+
+                        I think that in the Code "planned" is to be assigned, I think, its natural meaning of a calculated scheme or design which has been carefully thought out, and the nature and consequences of which have been considered and weighed. But that does not mean, of course, to say that the plan need be a complicated one. It may be a very simple one, and the simpler it is perhaps the easier it is to formulate.
+
+ 
+
+                        The important element, it seems to me, so far as time is concerned, is the time involved in developing the plan, not the time between the development of the plan and the doing of the act. One can carefully prepare a plan and immediately it is prepared set out to do the planned act, or, alternatively, you wait an appreciable time once it has been formed.
+
+ 
+
+                        As far as the word "deliberate" is concerned, I think the Code means that it should also carry its natural meaning of "considered", "not impulsive", "slow in deciding", "cautious", implying that the accused must take time to weigh the advantage and disadvantages of his intended action. That is what, as it seems to me, "deliberate" means.
+
+ 
+
+[62] The Supreme Court of Canada approved this definition of "planned" and "deliberate" in R v Nygaard, supra at [C.C.C.] 432.
+
+ 
+
+[63] To determine whether a murder is planned and deliberate, the trier of fact is entitled to consider all the circumstances surrounding the killing: R v Mitchell, 1964 CanLII 42 (SCC), [1964] S.C.R. 471, 43 C.R. 391, [1965] 1 C.C.C. 155 at [C.C.C.] 162, per Spence J.
+
+ 
+
+[64] Hence, for there to be a planned and deliberate murder within the meaning of s.231(2) of the Code, there must be evidence that the murder was the result of a design or scheme previously formulated or designed by the accused. The murder must be the implementation of that design or scheme; a murder committed on sudden impulse, without prior consideration, however intentional, is not a planned and deliberate murder. See R v Smith (1979), 1979 CanLII 2233 (SK CA), 1 Sask. R. 213, 51 C.C.C. (2d) 381 (C.A.) at [C.C.C.] 387 per Culliton CJS; R v Ruptash (1982), 1982 ABCA 165 (CanLII), 36 A.R. 346, 68 C.C.C. (2d) 182 (C.A.).
+
+ 
+
+[65] A conviction for first degree murder can be based upon the s.229(a)(i) or (ii) intent, provided the requisite intention was planned and deliberated upon before the offence. With respect to the subsection 229 (a)(ii), a person may plan and deliberate to cause “terrible bodily harm” that the person knows is likely to result in death: the planning and deliberation to cause that type of bodily harm must necessarily include the planning and deliberation to continue and persist in such conduct, notwithstanding knowledge of the risk. See R v Nygaard, supra, para 31; R v Papadopoulos, Doc. M2303/03, June 21, 2004 (Ont.S.C.J.) at para 70, aff’d 2005 CanLII 8662 (ON CA), [2005] O.J. No. 1121 (QL), 196 O.A.C. 335 (C.A.), application for leave to appeal to S.C.C. filed, [2005] S.C.C.A. No. 314 (QL).
+
+ 
+
+[66] Therefore, a murder can be planned and deliberate even where the accused did not intend to kill a specific person, as it will suffice if it is proved that he/she planned and deliberated to kill “one of a class of persons” even though the accused did not know that the particular victim would be present at the time when, and at the place where, it was intended to carry out the plan which had been deliberated. Consequently, in a case where the killing of the victim forms part of a deliberate plan to kill anyone who tried to prevent the defendant from killing his wife, and the victim was such a person, such killing constitutes first degree murder: R v Dipchand, [1991] O.J. No. 1775 (QL) (C.A.) at 3.  
+
+ 
+
+[67] In order to fashion a committal for trial on the basis of planning and deliberation, however, the evidence must establish that the murder was planned; it does not suffice if some other offence of violence, such as robbery or assault, was planned and deliberated upon: R v Palmer (1986), 1986 CanLII 4630 (ON CA), 12 O.A.C. 181, 24 C.C.C. (3d) 557 (C.A.); R v Howard and Trudel (1983), 1983 CanLII 3507 (ON CA), 3 C.C.C. (3d) 399 (Ont.C.A.); R v Papadopoulos, supra, para 73.
+
+ 
+
+            Attempted Murder
+
+ 
+
+[68] The offence of attempted murder under s.239 of the Criminal Code is distinct from the substantive offence of murder. However, as the “completed offence” of murder involves a killing, the intention to commit the complete offence of murder must likewise include an intention to kill. The mens rea for attempted murder therefore consists of the specific intent to kill. See R v Ancio, 1984 CanLII 69 (SCC), [1984] 1 S.C.R. 225, 39 C.R. (3d) 1, 10 C.C.C. (3d) 385 at 403-404.
+
+ 
+
+[69] It is not sufficient then, for the attempted murder offence, that the person intends to cause bodily harm that he/she knows is likely to cause death and is reckless whether death ensues or not. A specific intent to kill must be present: R v Ancio, supra; R v Logan, 1990 CanLII 84 (SCC), [1990] 2 S.C.R. 731, 79 C.R. (3d) 169, 58 C.C.C. (3d) 391.
+
+ 
+
+[70] In cases where loaded firearms are discharged at close range, it is open to the trier of fact to consider that “all firearms are designed to kill” and that a deadly weapon may be used “in the very manner for which it was designed – to cause death”. See R v Bains (1985), 7 O.A.C. 67 (C.A.), leave to appeal to S.C.C. refused, [1985] 1 S.C.R. v, 59 N.R. 78, 9 O.A.C. 255.
+
+ 
+
+[71] However, the mere fact that the defendant shoots and wounds another will not, in and of itself, suffice to constitute evidence of intention to kill. There must be some evidence from which the trier of fact may draw the inference that the person intended “something more than the actual or natural consequences of his wounding act”. See R v Rajanayagam, [2001] O.J. No. 393 (S.C.J.) at para. 16, aff’d [2001] O.J. No.3236 (C.A.).
+
+ 
+
+[72] The uttering of death threats by the defendant, followed by his/her return to the place where the threats were uttered, while armed with a loaded firearm which is then discharged several times, may furnish the trier with evidence permitting the drawing of such an inference of intention to kill: R v Marshall (1986), 1986 CanLII 4617 (NS CA), 71 N.S.R. (2d) 245, 25 C.C.C. (3d) 151 (C.A.); R v Dipchand, [1991] O.J. No. 1775 (QL) (C.A.). In such circumstances, the defendant may be considered to have formed the specific intent to cause the death of a person, by engaging in conduct for the purpose of carrying out his/her intent, by any means, even though it does not appear that the defendant formed the intent to kill “specifically named targets”. See R v Marshall, supra, [C.C.C.] 159. The intent to kill need not be directed towards the “ultimate victim”: I. Grant, D. Chunn, C. Boyle, The Law of Homicide (Toronto: Carswell, 1994) p.5-27.
+
+ 
+
+            Transferred Intent and Murder
+
+ 
+
+[73] The English common law concept of “transferred intent” or “transferred malice” is described by Glanville Williams, Criminal Law, The General Part, 2nd ed. (London: Stevens & Sons Limited, 1961), p.126, in these terms:
+
+ 
+
+Transferred intention (transferred malice) occurs when an injury intended for one falls on another by accident. In other words, if the defendant intends a particular consequence, he is guilty of a crime of intention even though his act takes effect upon an object (whether person or property) that was not intended. His ‘malice’ (i.e, his intention), is by a legal fiction transferred from the one object to the other. The defendant is then treated for legal purposes as though he had intended to hit the object he did hit, though in fact he did not have the intent, nor even was reckless as to it.
+
+ 
+
+[74] J.C. Smith and Brian Hogan, Criminal Law, 6th ed. (London: Butterworths, 1988), pp.73-74 explain “transferred malice” in similar terms:
+
+ 
+
+If D, with the mens rea of a particular crime, does an act which causes the actus reus of the same crime, he is guilty, even though the result, in some respects, is an unintended one.
+
+ 
+
+[75] The Supreme Court of Canada applied the concept or doctrine of transferred intent in Droste v The Queen, 1984 CanLII 68 (SCC), [1984] 1 S.C.R. 208, 39 C.R. (3d) 26, 10 C.C.C. (3d) 404, a first degree murder case, where the defendant formed a plan to kill his wife in a staged motor vehicle accident, but his two children died instead. His conviction for two counts of first degree murder was upheld on appeal.
+
+ 
+
+[76] In determining that the planning and deliberation under the Criminal Code provision may relate to the murder of an intended victim whereas the actus reus related to an unintended victim, the trial judge in Droste considered that such an approach was consistent with the doctrine of transferred malice as set out by Glanville Williams.
+
+ 
+
+[77] Martin J.A., on behalf of the unanimous Ontario Court of Appeal, agreed with the trial judge’s interpretation. In R v Droste (No. 2) (1981), 1981 CanLII 82 (ON CA), 34 O.R. (2d) 588, 63 C.C.C. (2d) 418 at 423-424, he explained:
+
+ 
+
+We are also of the view that the transference of a planned and deliberate intention to kill one person to the actual victim is in accord with the general principles of the criminal law. Clearly, the moral culpability of one who intends to kill one person, preceded by planning and deliberation, but who by accident or mistake kills another person, is the same as if he had succeeded in killing his intended victim. As Rothman J. said in Charest v Beaudoin (1980), 18 C.R. (3d) 58 at pp.62-3, [1980] Que. S.C. 90:
+
+ 
+
+An accused may deliberate for months, weighing the advantages and consequences of killing his intended victim, “A”. He may do a great deal of planning: recruiting an accomplice, selecting a weapon, keeping “A” under surveillance and finally choosing his moment to do the killing. If by some mischance – poor marksmanship or the sudden emergence of another person – he kills “B” instead of “A”, surely his planning and deliberation is no less than it would have been if he had killed “A”. All of the same ingredients of planning and deliberation remain unchanged. The only change is in the identity of the person whose death is caused, and this, it seems to me, is entirely irrelevant to the question of whether the murder was planned and deliberate.
+
+ 
+
+Any other conclusion would, in my opinion, be logically ludicrous and absurd in its consequences. Parliament could hardly have intended to punish premeditated murder less severely where an accused kills a perfect stranger than it would otherwise punish an accused for the same premeditation if he had managed to kill his intended victim.
+
+ 
+
+In short, I conclude that a murder that is planned and deliberate does not cease to be planned and deliberate because a mistake is made in the victim. In my opinion, s.214(2) is applicable to murders committed under s.212(b).
+
+ 
+
+It is well established that if an accused acting under such provocation as would reduce murder to manslaughter, shoots at one person with the intention of killing him, but accidentally kills a third person the intention extenuated by provocation is transferred from the intended victim to the actual victim and the accused in those circumstances is guilty of manslaughter only: see R v Gross (1913), 23 Cox. C.C. 455. By parity of reasoning the transference of an intention which is aggravated by the fact that it is planned and deliberate is transferred from the intended victim to the actual victim.
+
+ 
+
+[78] The Supreme Court of Canada agreed, in turn, with the analysis of  Martin J.A. in Droste v The Queen, supra. Dickson J, rendering the principal judgment of the court, observed that the identity of the victim is not an essential element of the offence of murder under s.214(2), given that s.214 does not create a separate substantive offence of first degree murder, but instead constitutes a characterization, for the purposes of sentencing, of the substantive offence of murder as provided under ss.212 and 213 of the Criminal Code: see R v Farrant, 1983 CanLII 118 (SCC), [1983] 1 S.C.R. 124, 32 C.R. (3d) 289, 4 C.C.C. (3d) 353.
+
+ 
+
+[79] As part of his analysis, Dickson J. referred to the policy considerations which justify treating planned and deliberate murders as a category of murder deserving of greater punishment. He stated in this regard at [C.C.C.] 415:
+
+ 
+
+The rationale behind s.214(2) is that there is an added moral culpability to a murder that is planned and deliberate which justifies a harsher sentence. This added culpability is present by virtue of the planning and deliberation with relation to the taking of a human life, not with relation to the identity of the intended victim. A mistake or accident as to the victim is not a mitigating factor. The legal evaluation of the magnitude of the crime should not be affected by the fact that the accused is a poor marksman, hitting and killing B rather than A. The point is quaintly, but cogently, made in (1809) Foster’s Crown Cases, Discourse II, “Of Homicide”, p.262.
+
+ 
+
+… where the injury intended against A proceeded from a wicked, murderous, or mischievous motive, the party is answerable for all of the consequences of the action, if death ensueth from it, though it had not it’s effect upon the person whom he intended to destroy. The malitia I have already explained, the heart regardless of social duty and deliberately bent upon mischief, and consequently the guilt of the party is just the same in the one case as in the other.
+
+ 
+
+When s.214(2) is combined with s.212(b) the identity and character of any victim is entirely irrelevant. The requirement of planning and deliberation is a requirement that relates to the intention to take a human life and not to the identity of the victim.
+
+ 
+
+[80] The holding of the Supreme Court of Canada in Droste, whether viewed on the basis of the relationship of s.214(2) to the “substantive offence” in s.212(b), or the “underlying policy rationale” of s.214(2), or the concept of “transferred intent”, thus produces the same conclusion, namely, that planning and deliberation with relation to the killing of a specified person suffices to establish the offence of first degree murder, even where in the course of carrying out the plan the accused in fact kills a different party.
+
+ 
+
+[81] While the application of the common law doctrine of transferred intent has thus found support in both the Supreme Court of Canada and Ontario Court of Appeal decisions in Droste, its acceptance in Canadian law is not without criticism. Professor Stuart, Canadian Criminal Law, 4th ed. (Toronto: Carswell, 2001), p.246 calls the doctrine of transferred malice “an historical aberration from the fundamental principle that mens rea be in respect of the prohibited consequence and/or circumstances”. See more generally, A.J. Ashworth, “Transferred Malice and Punishment for Unforeseen Consequences” in P.R. Glazebrook, Reshaping the Criminal Law. Essays in Honour of Glanville Williams (London: Stevens & Sons, 1978). 
+
+ 
+
+[82] Professor Stuart goes on to advocate that the two statutory instances in the Criminal Code which expressly provide for liability even in the case where a different party other than the intended victim is the subject of either murder (s.229(b)), or causing bodily harm with intent (s.244), should be repealed and the transferred intent common law doctrine not followed. This view was also echoed by Lilles J. in R v Delaney, [1989] Y.J. No. 182 (QL) (T.C.) where the court considered that the common law doctrine of “transferred intent” cannot be invoked to apply to the crime of assault as defined under s.265 of the Code. Lilles J. further queried whether this doctrine has survived the Charter of Rights and Freedoms, particularly the principle of fundamental justice under s.7.
+
+ 
+
+[83] Conversely, the Manitoba Court of Appeal in a pre-Droste case, R v Deakin,  1974 CanLII 1464 (MB CA), [1974] M.J. No. 8 (QL), 26 C.R.N.S. 236, 16 C.C.C. (2d) 1, ruled that a conviction for assault causing bodily harm should have been imposed in a case where the defendant, a guest at a house party, was asked to leave the premises by the host, but in attempting to take a swing at the host, missed, and instead struck glass ornaments on a television set. Upon the glass shattering, the wife of the intended victim was injured. In the court’s view, the accused’s intention to strike the intended victim was deemed to have been directed or transferred to the assault on the actual victim. It was therefore legally irrelevant that there was a lack of hostility by the accused to the party who was actually injured, or that there was a lack of specific intent to harm her. 
+
+ 
+
+[84] Although Lilles J. in R v Delaney, supra, declined to follow the Deakin decision and considered it to be wrongly decided, it has been applied in numerous other cases, such as R v Abbaya, [2000] A.J. No. 1645 (QL), 2000 ABPC 202, 289 A.R. 82 (Prov.Ct.), where the accused was charged with two counts of assault with a weapon and two counts of assault causing bodily harm. The incident occurred at a pub. One of the complainants was the head bouncer; the other was a patron. A confrontation had occurred between a group of others, during which time the two complainants, who were not originally involved in the dispute, received their injuries. The trial judge considered at [ABPC] para. 91, the doctrine of transferred intent to be properly applicable, and that while the court was not bound by either the Deakin or Delaney decisions, the former remained “compelling and persuasive despite the passage of time and the criticism”.
+
+ 
+
+[85] Other instances in which the doctrine of transferred intent has been held to apply so as to impose liability for assaultive behaviour towards an unintended victim include R v Davis, 1995 CanLII 17978 (AB PC), [1995] A.J. No. 542 (QL), 30 Alta. L.R. (3d) 361, 170 A.R. 238 (Prov.Ct.); R v Randhill, [1998] S.J. No. 857 (QL) (Prov.Ct.). See too R v Hem, [1989] B.C.J. No. 1566 (QL), 72 C.R. (3d) 233 (Co.Ct.) where the accused was found not guilty of assault with a weapon on the basis that the evidence was equivocal as to the intended target of the swing, although the court considered that had the son of the intended victim been injured by the blow, the law would have deemed it to be “a situation of assault by transferred intent to another”. The Deakin case has also been distinguished where the accused engaged in a consensual fight, and although the unintended victim suffered bodily harm, the “initial intention” was not illegal, such that “there is no malice to transfer”: R v Blake, [2000] Y.J. No. 109 (QL), 2000 YTTC 518 (T.C.), para. 27.  
+
+ 
+
+[86] It is thus clear that the common law concept of transferred intent has found expression in the Canadian jurisprudence, both as a matter of statutory interpretation in the case of the Criminal Code murder and causing bodily harm with intent provisions, but also in respect of other forms of assaultive behaviour as illustrated by the Manitoba Court of Appeal’s decision in R v Deacon, supra. See further in this regard David Watt, The New Offences Against the Person. The Provisions of Bill C-127 (Toronto: Butterworths, 1984), pp. 33-34; Eric Colvin, Principles of Criminal Law (Toronto: Carswell, 1986), p. 122. For a historical analysis of the doctrine of transferred intent and Criminal Code provisions, see Sir James Fitzjames Stephen, A Digest of the Criminal Law (Crimes and Punishments) (London: MacMillan and Co., 1877), p.147: “A shoots at B, intending to kill him, and kills C. A commits murder”; Henri E. Taschereau, The Criminal Code of Canada (Toronto: Carswell, 1980), pp.153-155; J.C. Martin, The Criminal Code of Canada (Toronto: Cartwright & Sons, Ltd., 1955), pp. 384-385.
+
+ 
+
+[87] This understanding of the common law doctrine of transferred intent has been accepted in numerous other jurisdictions, including Australia (Howard’s Criminal Law, 5th ed. (Sydney: Law Book Company Ltd., 1990), p.46: “Provided that D has the intention to kill someone, it is immaterial that he has no particular victim in view; so that it would be intentional murder for D to kill V by shooting into a crowd of people”); New Zealand (Sir Francis Boyd Adams, Criminal Law and Practice in New Zealand, 2nd ed. (Wellington: Sweet & Maxwell Ltd., 1971), p.322: “Unlawful killing of the wrong person is murder or manslaughter according to the offence that would have been involved in relation to the intended victim”); Scotland (G.H. Gordon, Criminal Law, 2nd ed. (Edinburgh: W. Green & Son Ltd., 1978), p.215: “The notion of general mens rea makes possible legal doctrines which depend on the transferring of a criminal mind directed to one crime from that crime to another, so that a person who accidentally does X while criminally doing Y may be deemed to have done X criminally…”); South Africa (Gardiner and Lansdown, South African Criminal Law and Procedure, Vol II, Specific Offences, 6th ed. (Cape Town: Juta & Company Ltd., 1957), p.1551: “Intention to kill is not restricted to a positive wish to bring about the death of the person attacked. If one person commits an act upon another, knowing that this act is likely to cause death but reckless whether death results or not, he is held in law to intend to kill”; as well as the United States (Wayne R. LaFave, Substantive Criminal Law, 2nd ed. (St. Paul: Thomson, 2003), p.473: “In the unintended-victim (or bad aim) situation – where A aims at B but misses, hitting C – it is the view of the criminal law that A is just as guilty as if his aim had been accurate.”)
+
+ 
+
+[88] In view of the abundance of jurisprudence and scholarly writings on the common law concept of transferred intent and murder, it seems curious that there are few cases on point dealing with the offence of attempted murder. Indeed, the Supreme Court of Canada’s decision in R v Ancio, 1984 CanLII 69 (SCC), [1984] 1 S.C.R. 225, 39 C.R. (3d) 1, 10 C.C.C. (3d) 385, holding that for the attempted murder offence the requisite mens rea is an intention to kill, was released concurrently with its decision in Droste, where the transferred intent doctrine was considered in relation to a planned and deliberate murder. One explanation might be, as noted by Hackett J. in R v Santhankumar, [1992] O.J. No. 818 (QL) (Prov.Div.) at 7, “if ‘A’ intends to kill ‘B’, but by mistake instead tries to kill ‘C’, under section 24 of the Canadian Criminal Code those facts could result in a conviction for an attempt murder on ‘B’.”
+
+ 
+
+[89] Another reason may be that while the accused must be shown to have formed the specific intent to kill in order to commit the offence of attempted murder, there is no requirement that he/she must have the specific intention to murder the victims who are specified by their names in the indictment. Hence, in R v Marshall (1986), 1986 CanLII 4617 (NS CA), 71 N.S.R. (2d) 245, 25 C.C.C. (3d) 151 (C.A.) convictions for attempted murder were properly returned where the accused returned to a tavern with a gun after threatening to kill the bouncer, and in firing his rifle at him also struck two patrons in the area. Clarke C.J.N.S., for the court, explained at [C.C.C.] 159: 
+
+ 
+
+The principal issue in this case was whether Marshall had a specific intent to murder Williams, MacLean and Borden. There was direct evidence of his intention to kill Williams. There was sufficient evidence from all the circumstances by which the jury could conclude that Marshall had the mens rea, as described in Ancio, to murder MacLean and Borden even though, according to the evidence, they were not specifically named targets of Marshall. All three men were in the general area of that portion of the lounge to which Marshall directed his gunfire. The learned trial judge committed no error in his explanation of the law to the jury.
+
+ 
+
+[90] The Marshall decision has been applied in Ontario in cases where the accused shot and killed a party, for which he was ordered to stand trial for first degree murder as well as three counts of attempted murder in relation to three others who were shot in the same area: R v Edwards, [1997] O.J. No. 3193 (QL) (Prov.Div.) at para. 21, and where a gunman opened fire on a car containing the five victims, injuring at least some of them, so as to be committed for trial on five counts of, inter alia, attempted murder: R v Vaz, [2000] O.J. No. 5245 (QL) (C.J.) at para. 25.
+
+ 
+
+[91] However, in R v Santhankumar, supra, Hackett J. distinguished R v Marshall, supra, and ruled, in addition, that transferred intent did not apply in a case where the complainant was stabbed a number of times after he opened the door to the premises where he was a border; however, the assailant had asked for a different party at the time of the stabbing, who was also at that same location. There was no evidence of any ill will between the accused and the victim, whereas there was an animus between the accused and the person he asked for when he knocked at the door.
+
+ 
+
+[92] Hackett J. reasoned that in the absence of “a clear Parliamentary intention”, such as that demonstrated by the wording under s.229 of the Code for murder or the former aggravated assault provisions pursuant to s.228, it was not open to the court to find that a specific intention to kill “A” could be transferred for the purposes of finding an attempt murder in relation to “B”. She added that the principle of transferred intention, even if it exists for the purposes of general intent offences, should not be extended to offences of specific intent.
+
+ 
+
+[93] It can hardly be gainsaid, as Hackett J. points out in Santhankumar, that the attempted murder provision under s.239 is not expressly worded so as to invoke the doctrine of transferred intention, as is the case under s.229(b) for murder or the s.244 aggravated assault crime of causing bodily harm. To this extent it is accurate to state that the finding in Droste was based upon a “statutory interpretation” of the murder provisions of the Criminal Code: Santhankumar, p.7. However, this does not preclude the operation of the common law concept of transferred intent, for as Colvin, Principles of Criminal Law, supra, p.122 observes, “There are some offences which specifically provide for the transference of mens rea. For others, however, the doctrine can be invoked as a matter of common law.” 
+
+ 
+
+[94] Colvin goes on to comment that the doctrine permits mens rea to be transferred, not substituted. He adds at p.122:
+
+ 
+
+The doctrine operates an exception to the principle requiring concurrence of the actus reus and the mens rea. It has been generally thought to give recognition to a measure of culpability which is not significantly different from that found in the standard cases where concurrence is present.
+
+ 
+
+[95] In the case of attempted murder where there is evidence for the trier of fact to infer a specific intention to kill, it is not inappropriate, in my respectful opinion, to invoke the common law doctrine of transferred intent as a basis of culpability. It will be recalled that the identity of the specific victim does not constitute an essential element of the offence: Droste v The Queen, supra, [C.C.C.] 412. Indeed, the victims need not be “specifically named targets” of the defendant; proximity to the general area of the intended target will suffice: see R v Marshall, supra, [C.C.C.] 159. Lack of “hostility” or a “specific intent to harm” in respect of such persons is thus a matter of legal irrelevance: R v Deakin, supra.
+
+ 
+
+[96] A different conclusion would, in my view, produce absurd and illogical results that Parliament cannot be taken to have intended. For example, where the defendant forms an intention to kill his/her former spouse and the spouse’s new partner, and as part of one transaction sprays a car with gunfire in which his/her estranged spouse is driving, but unbeknown to the defendant also contains the spouse’s partner to whom there is also an animus, the defendant might be taken to have formed the specific intent to attempt to kill one party (his/her spouse) but, in the absence of transferred intent, not the other party although he/she had formed the specific intent to do so. Equally, where the defendant stalks a person with whom he/she has had a falling out, but mistakenly shoots and injures another party in error due to mistaken identity at the location in which the person is found, it would not constitute an attempt to commit murder, absent transferred intent, notwithstanding the defendant’s clear intention to commit the offence. Indeed, in the factual scenario presented in Droste, had one of the defendant’s children not succumbed to their injuries, the defendant would be found guilty of first degree murder in relation to the deceased child, on the basis of transferred intent, but in the absence of the application of the transferred intent doctrine, would be liable only for a general intent assault offence in relation to the surviving child and not attempted murder, notwithstanding the evidence of planning and deliberation to kill the intended victim, namely, his wife.
+
+ 
+
+[97] If Parliament could hardly have intended to punish premeditated murder less severely where the accused kills a “perfect stranger” than it would otherwise punish an accused whom with the same premeditation manages to kill the “intended victim”, as Martin JA explained in R v Droste (No. 2), by parity of reasoning the accused should be in no different a legal position in terms of punishment where the “perfect stranger” survives the accused’s attempt to murder him/her, in circumstances where the defendant formed the intention to kill the “intended victim”. In each instance there is “malice” to transfer; it is not a substitution of mens rea. The accused has not been placed in a “worse situation” against the party who was not the intended victim, than the accused would be against the intended victim, based on the accused’s unlawful actions: see R v Blake, supra, para.27.
+
+ 
+
+[98] I therefore conclude that where there is evidence that the accused forms the specific intention to commit murder, which intention is accompanied by evidence of planning and deliberation, the common law concept of transferred intent applies such that where in the course of the transaction the defendant kills and injures a number of persons on scene, liability may be imposed both for first degree murder in respect of the deceased parties, and attempted murder for those persons who survive.  
+
+ 

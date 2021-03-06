@@ -1,0 +1,334 @@
+﻿B.  Elements of the Offence of Manslaughter
+[144]      Both of the Accused have conceded that they are guilty of manslaughter but deny that the evidence supports an inference that they failed to provide insulin and medical care because they intended to murder Alex.
+
+[145]      The common law classification of manslaughter is reflected in the definition of culpable homicide in s 222(5)(a) and (b): R v Creighton, 1993 CanLII 61 (SCC), [1993] 3 SCR 3 at 42.
+
+[146]      Case law has established that to prove an offence of unlawful act manslaughter as per s 222(5)(a) the Crown must prove, inter alia, beyond a reasonable doubt that:
+
+1.      the accused has committed a predicate offence of an unlawful act;
+
+2.      the accused has caused a homicide; and
+
+3.      it must have been reasonably foreseeable that the conduct of the accused risked bodily harm to the victim.
+
+[147]      Similarly, case law has established that to prove an offence of manslaughter by criminal negligence as per s 222(5)(b) the Crown must prove, inter alia, beyond a reasonable doubt that:
+
+1.      the accused has caused a homicide; and
+
+2.      the accused showed wanton or reckless disregard for the life and safety of the victim.
+
+[148]      Due to the constituent elements of the offence of manslaughter conceding to the offence of either unlawful act manslaughter or manslaughter by criminal negligence, the Raditas have agreed that the evidence proves beyond a reasonable doubt that they failed to provide Alex with the necessaries of life in not providing insulin and medical care and that it was foreseeable that their failure carried a risk of bodily harm to Alex.
+
+[149]      Alternatively, they have agreed that their conduct, by failing or omitting to provide Alex with insulin and medical care caused Alex to die and showed a marked and substantial departure from the conduct of a reasonable person in the circumstances and that they knew or should have known that their conduct posed a safety risk to Alex’s life.
+
+[150]      It is clear from the case law that an omission or series of omissions may serve as a basis for a finding of unlawful killing, even murder: see R v Bottineau, 2006 CarswellOnt 8510 (ONSC); R v Bottineau, 2007 CarswellOnt 2330 (ONSC); R v Bottineau, 2011 ONCA 194.
+
+[151]      Of the three Bottineau decisions noted above, the 2007 decision deals with the accused’s application for a directed verdict. Justice Watt determined that the Crown met the test for first degree murder and denied the application.
+
+[152]      The 2006 decision is the trial decision. Justice Watt convicts both accused of second degree murder. The 2011 Ontario Court of Appeal upheld the trial courts convictions for second degree murder. The Crown did not appeal the acquittal of first degree murder.
+
+C. Elements of the Offence of Murder
+[153]      To establish murder pursuant to s 229 (a)(i)(ii) the Crown must prove several elements beyond a reasonable doubt that the person(s)  either:
+
+1.      Meant to cause the death, or
+
+2.      Meant to cause bodily harm that he/she knows is likely to cause death and is reckless whether death ensues.
+
+[154]      The Crown must establish (a) subjective intent to cause death or (b) the subjective intent to cause serious bodily harm together with a subjective knowledge that the harm is of such a nature that it is likely to result in death: Cooper at para 155.
+
+[155]      To prove the Accused guilty of killing Alex the Crown must prove that the Radita’s conduct, caused directly or indirectly his death. Conduct is either an act or an omission.
+
+[156]      Pursuant to s 224 of the Criminal Code anyone who, by an act or omission does anything that results in the death of another causes that person’s death. As stated, the Accused have conceded that their omissions in providing Alex with adequate insulin and medical care caused Alex’s death. I agree. On these facts, the Crown has proven beyond a reasonable doubt that Alex’s death was an unlawful killing and causation is therefore not in issue.
+
+[157]      For the Crown to prove that each of the defendants murdered Alex, it must prove beyond a reasonable doubt that each of them had the requisite mental state.
+
+[158]      To establish murder the Crown must prove that each of the defendants intended to cause the death of Alex or that they intended to cause him bodily harm that each of them knew was likely to cause his death and each of them was reckless as to whether death ensued.
+
+[159]      Proof of the mental state necessary to establish murder, like proof of any other essential element of a crime, may be done by direct, circumstantial or a combination of both types of evidence.
+
+[160]      Where circumstantial evidence is relied upon by the Crown to prove intent, as in this case, all tenses of the evidence may be relied upon, those being:
+
+1.      prospectant (acts or omissions prior to);
+
+2.      concomitant (acts or omissions at the time of death); and/or
+
+3.      retrospectant (after the fact acts or omissions).
+
+ Bottineau (2006) at para 62
+
+[161]      The difference between the mental state required for s 229(a)(i) and 229(a)(ii) is slight: Bottineau (2006) at para 64, R v Cooper, 1993 CanLII 147 (SCC), [1993] 1 SCR 146 at 155.
+
+[162]      In proving intent under either section the Crown will often use the common sense inference; that is the basic tenant that a person intends the natural consequences of his or her acts. Justice Watt stated at para 66 in Bottineau (2006):
+
+A frequent prosecutorial ally in proof of the mental element in section 229(a) of the Criminal Code is the common sense inference of intention from proof of conduct. A trier of fact may conclude, as a matter of common sense, that if a sane and sober person does something that has predictable consequences, that person usually intends or means to cause those consequences. To be more specific, if the sane and sober person does something that has the predictable consequence of another's death, that person likely intends or means to cause that other person's death. This common sense inference is simply one way or one method a trier of fact may use to determine an accused's actual state of mind, what she or he actually meant to do. It is a conclusion that a trier of fact may only reach, however, after taking into account all the evidence that is relevant to the issue.
+
+[163]      In the context of this case, the Crown submits that each of Mr. and Mrs. Radita understood that if Alex did not receive the daily dosage of insulin he required to absorb his food properly over time he would become sick enough to die. With this knowledge they withheld the needed insulin and failed to seek medical attention when Alex failed to thrive. This conclusion however can only be reached after taking into account all the evidence before this Court.
+
+[164]      The crime of murder consists of an act or acts and the mental element or state, both of which must occur at the same time. The concurrence of each element need not be present at precisely the same time, but must coincide at some point in the transaction. When the conduct that causes the death is part of a transaction that extends over a long period of time it is enough that the defendant(s) had the requisite mental state at some time during the transaction, even if not at the precise moment the death occurs. This is particularly so when the transaction consists of a repetition of the same acts over a prolonged period of time: Cooper at 158, Bottineau, (2006) at para 77 and R v Williams, 2003 SCC 41 at para 64.
+
+[165]      The contemporaneity principle is satisfied in murder based on omissions rather than overt acts provided the mental element or mens rea essential to make an unlawful killing murder coincides with the external circumstances or actus reus at some point during their occurrence:  Bottineau (2006)  at para 78.
+
+[166]      Another point that must be kept in mind within the context of this case is that a person may commit murder either alone or in concert with another or others. Section 21 of the Criminal Code makes an accused a party to murder if he or she acted solely or as a joint principal, as an aider or abettor, as a participant in a common unlawful purpose and /or as a person who counsels another or is counselled to commit and does commit or the other does commit, a murder. For a person to be found guilty of being an aider or abettor, the Crown must prove beyond a reasonable doubt that the person knew the principal intended to kill the victim or cause the victim bodily harm of the kind that was likely to cause death and was reckless as to whether death ensued, and intended to help or encourage the principal in committing the murder.
+
+[167]      The fact that one parent is a primary caregiver does not mean that the other parent is relieved from ensuring their child gets proper care. Failure to act to protect a child from the acts of the other parent has been found to be a sufficient basis for murder with the observant party liable as an aider or abettor: see R v Dooley, [2002] OH No 5921 (ONSCJ) at para 30. The observer status of the non-primary caregiving parent can be elevated to one of joint principal when the circumstances are such that the failure to intervene is particularly egregious: see Bottineau (2006) at para 391.
+
+[168]      Irrespective of whether a murder is planned and deliberate, murder is also first degree murder when the death is caused by a person while committing or attempting to commit an offence under s 231(5). In this case, the alleged offence is unlawful confinement. A constructive first degree murder requires that the guilty party cause the death. A party to the offence under s 231(5)(e) of the Code must be the immediate, direct and substantial cause of the death: Nette. It is likely then that an Accused cannot therefore aid or abet a constructive first degree murder under s 231(5). Bottineau (2006) at para 460.
+
+[169]      Once the Crown has proven beyond a reasonable doubt on all the evidence that the unlawful killing was in fact a murder under s 229, then s 231 of the Criminal Code classifies the murder as either first or second degree.
+
+[170]      The Crown’s position is that on the evidence before this Court there are two pathways to first degree murder:
+
+1.      planned and deliberate under s 231(1); or
+
+2.      unlawful confinement under s 231(5)(e).
+
+1.      Planned and Deliberate
+[171]      For a murder to be first degree it must be both planned and deliberate, and the planning and deliberation must precede the conduct that causes death. The ordinary meaning of “planned”, within Canadian jurisprudence, is of a calculated scheme or design that has been carefully considered or thought out as having  consequences. The plan need not be complicated but it must be deliberate, meaning not impulsive but thought out and considered. Again, the court must consider all the evidence to determine whether the Crown has proven beyond a reasonable doubt that the murder was planned and deliberate.
+
+[172]      In R v MMK, 2006 ABCA 284, the Court of Appeal summarized “planned” and “deliberate” at paras 8 and 9:
+
+A planned murder is one that was conceived and carefully thought out prior to being committed: Nygaard, 1989 CanLII 6 (SCC), [1989] 2 S.C.R. 1074, at para. 18. It requires that a design or scheme be arranged beforehand: R. v. Jacquard, 1997 CanLII 374 (SCC), [1997] 1 S.C.R. 314 at para. 26.
+
+A deliberate murder is one that is considered, not impulsive: R. v. More, 1963 CanLII 79 (SCC), [1963] S.C.R. 522 at para. 35. A person commits deliberate murder when he thinks about the consequences and carefully thinks out the act, rather than proceeding hastily, rashly or impulsively: Jacquard, at para. 26.
+
+[173]      A murder may be planned and deliberate when the evidence supports a mental state as described in s 229(a)(ii).
+
+2.      The Essential Elements of Unlawful Confinement First Degree Murder (Constructive Murder)
+[174]      The Crown submits that the second pathway to first degree murder in this case, is that Mr. and Mrs. Radita murdered Alex while they were unlawfully confining him or attempting to do so, as per s 231(5)(e).
+
+[175]      The term “crime of domination” is used to describe the offences listed in paras (a) through (f) of subsection 231(5): R v Russell, 2001 SCC 53 at para 43. A murder committed in connection with a crime of domination is particularly blameworthy and deserving of more severe punishment: R v Pritchard, 2008 SCC 59 at para 19. Where a murder is committed by someone already abusing his power by unlawfully dominating another, the high degree of moral blameworthiness to support a conviction of first degree murder exists: R v Paré, 1987 CanLII 1 (SCC), [1987] 2 SCR 618 at 633.
+
+[176]      In Pritchard, the Supreme Court held that an unlawful confinement occurs if for any significant period of time the victim was coercively restrained or directed contrary to his wishes so that he could not move around at his own will and desire. The Court cited a definition proposed by Cory JA in R v Gratton,18 CCC (3d) 462, [1985] OJ No 36 (ONCA) at para 29: that an unlawful confinement consists of “physical restraint, contrary to the wishes of the person restrained, but to which the victim submits unwillingly, thereby depriving the person of his or her liberty to move from one place to another...such confinement need not be by way of physical application of bindings”.
+
+[177]      In essence, unlawful confinement is a deprivation of another person’s liberty: R v Magoon, 2016 ABCA 412 at para 107; Gratton at para 29; R v Kematch, 2010 MBCA 18 at para 60.
+
+[178]      Our Appeal Court in R v B(SJ), 2002 ABCA 13 at para 41 stated that a minimal intent to effect deprivation of freedom of movement will be sufficient to establish unlawful confinement.
+
+[179]      The Manitoba Court of Appeal considered unlawful confinement in the case of Kematch at para 89, where the court outlined that a child can be confined by fear, intimidation and psychological or other means. And further, also in para 89, the  Court stated:
+
+In a case of a child and a parent, or an adult and a child, the need for physical bindings or the like would be even less of a requirement because of the unequal relationship that already exists.
+
+[180]      Our Appeal Court in R v Magoon, 2016 ABCA 412, recently considered an unlawful confinement first degree murder of a child by her parents. Justice Paperny at para 117 sets out that:
+
+The first part of the analysis must be: is there a confinement within the meaning of s 279? If there is confinement, the question then becomes whether there is lawful authority for that confinement.
+
+[181]      The Court of Appeal in Magoon went on to find that the six year old daughter of the accused, Spencer Lee Jordan and step-daughter of his co-accused, Marie Eve Magoon, was confined over the course of a weekend where she was severely burned, threatened with violence and repeatedly assaulted. These acts by the accused, conducted by each separately but with each other’s knowledge effected a confinement sometimes by psychological means such as  fear and intimidation but also by physical means as the child was pushed and shoved about the home.
+
+[182]      Further at para 123, Justice Paperny makes it clear that the confinement need not be a single incident but can arise as a result of an entire sequence of events. On the facts the court found that there was no lawful authority for the confinement as their actions went far beyond any acceptable form of parenting.
+
+[183]      In R v Harbottle, 1993 CanLII 71 (SCC), [1993] 3 SCR 306, Cory J described the requirements for constructive first degree murder at 325:
+
+Therefore, an accused may be found guilty of first degree murder pursuant to s 215(5) if the Crown has established beyond a reasonable doubt that:
+
+1.      the accused was guilty of the underlying crime of domination or of attempting to commit that crime;
+
+2.      the accused was guilty of the murder of the victim;
+
+3.      the accused participated in the murder in such a manner that he was a substantial cause of the death of the victim;
+
+4.      there was no intervening act of another which resulted in the accused no longer being substantially connected to the death of the victim, and
+
+5.      the crimes of domination and murder were part of the same transaction, that is to say, the death was caused while committing the offence of domination as part of the same series of events.
+
+[184]      Participation as mentioned in the third element has been found to mean that the accused must participate in the murder in such a way that he/she was the substantial cause of the victim’s death. The standard of participation is tougher than what is required for manslaughter or murder: Bottineau (2007) at para 37.
+
+[185]      As Justice Arbour in Nette at para 61 described it:
+
+I agree with the appellant that what Harbottle really stresses is not solely or even primarily a higher causation requirement to raise murder to first degree murder under s 231(5) of the Code, but rather the increased degree of participation required before the accused may be convicted of first degree murder under s 231(5).
+
+[186]      And further at para 62:
+
+The underlying offences listed in s 231(5) of the Code all involve the unlawful domination of victims. Where an accused exploits this position of power and commits murder, such an egregious crime warrants the increased stigma and sentence attached to first degree murder: see Paré, supra. As explained by Cory J. in Harbottle, in order to raise culpability to first degree murder under s 231(5), something more is required. The “something more” is not that the accused caused more the death of the victim. What is required is that his participation in the killing be sufficiently immediate, direct and substantial to warrant the greater stigma in sentence attached to first degree murder.
+
+[187]      And as the Court of Appeal in Magoon stated at para 134:
+
+The "substantial cause" test expresses the increased degree of moral culpability inherent in a finding of first degree murder, as evidenced by the accused person's degree of participation in the killing: Nette at para 65. The actions of the accused must be "an essential, substantial and integral part of the killing of the victim" (Harbottle at p 324) in order to warrant that high degree of blameworthiness.
+
+[188]      Where an omission or a series of omissions form the basis of the Crown’s case, it or they, too, must be an essential, substantial and integral part of the killing of the deceased if they are to satisfy the substantial cause test.
+
+[189]      At first, omissions by their very nature may appear passive and therefore incompatible with the increased level of participation required to prove first degree murder. However the Court of Appeal in Bottineau, (2011) at para 34 has made it clear that omissions can be viewed as a series of actions and that a series of omissions can then amount to substantial causation sufficient to meet the substantial cause test.
+
+[190]      As for the “continuous transaction” element as the fifth element of s 231(5), this requires that the Accused caused the death of the victim while committing unlawful confinement as part of the same series of events. It is clear from the case law that the confinement and the murder cannot be one and the same act but must constitute distinct criminal acts. The confinement must go beyond what is integral to the act of killing.
+
+[191]      The evidence must also establish that the murder was committed in the course of the confinement, such that the series of events may be characterized as a single transaction: Pritchard at para 27.
+
+[192]      There is no legal reason that conduct that consists of omissions cannot ground murder and unlawful confinement.
+
+[193]      Each of the Accused in this case have conceded that the evidence adduced by the Crown supports a conviction for unlawful act manslaughter or manslaughter by criminal negligence under s 222(5)(a) and (b) of the Code, such as where one parent or guardian stands by while the other parent or guardian mistreats a child to such a degree that the abuse leads to the child’s death: R v Popen (1981), 1981 CanLII 3345 (ON CA), 60 CCC (2d) 232 at para 16 (ONCA).
+
+[194]      I am satisfied on the evidence that Mr. and Mrs. Radita, as joint principals did commit unlawful act manslaughter in that their conduct caused the death of Alex Radita, their son. Together, they deprived Alex of the necessaries of life, that being adequate insulin and medical attention both in the treatment of his disease and then when his health was so clearly deteriorating. Their conduct constituted a marked departure from what is expected of a reasonable person in similar circumstances.
+
+[195]      A reasonable person in their position would have foreseen that the failure to provide these things would lead to a risk of danger to the life or permanent impairment to the health of Alex Radita. Further, on the evidence I am satisfied beyond a reasonable doubt that both of the Accused actually understood and foresaw that the deprivations they perpetrated upon Alex over a protracted period of time would lead to a risk of danger to Alex’s life or a permanent endangerment of his health.
+
+[196]      Having concluded that each Accused is guilty of manslaughter then it follows that I must determine whether either or both of them are guilty of murder, and if so, whether the murder is first degree.
+
+V.               Issues
+[197]      The issues in this case are as follows:
+
+1.      Did either or both of Mr. and Mrs. Radita mean to kill Alex or mean to cause Alex bodily harm that each or both of them knew was likely to cause Alex’s death and each were reckless as to whether Alex died or not, such that either or both of them are guilty of murder?
+
+2.      If either or both of Mr. and Mrs. Radita are guilty of murder, then is that party guilty of first degree murder?
+
+VI.            Position of the Parties
+A.   The Crown’s Position
+[198]      The Crown submits that the Raditas acted as joint principals throughout. Mrs. Radita was the primary caregiver to Alex as the stay-at-home mother and as such received the bulk of the initial diabetes training. Mr. Radita, however, was also trained in 2000 and in attendance for training in 2001, and again for nearly every visit to both Dr. White and then Dr. Metzger over a period of years. Mr. Radita attended Alex in the hospital in 2003 and saw first-hand the effects of insulin deprivation.
+
+[199]      According to the Crown, as joint principals, and in light of their history between early 2001 and early 2005, when Alex was returned to their care until their last visit with Dr. Metzger in 2008, it is plain on the evidence that they both knew that the reason for Alex’s stunted growth and emaciated state was his disease and their failure to provide him with proper amounts of insulin over a protracted period. With this knowledge, they knew what they were doing would cause him bodily harm that would likely lead to his death and were reckless as to whether his death occurred and as such they are guilty of murder.
+
+[200]      As for whether Alex’s murder is either second degree or first degree, the Crown urges that on this evidence it must be first degree on the part of each of the Accused, either as a result of their planning and deliberation or as a result of Alex’s death occurring during their unlawful confinement of him.
+
+[201]      The Crown submits that there is sufficient evidence before this Court to infer that as they witnessed Alex’s continual physical deterioration and knowing that he had fallen off the radar of school, medical, and government officials, the Raditas planned to continue to pursue the medically unsupervised insulin and diet protocol that starved Alex to death. As a result of what happened to Alex and to them in 2003, they knew that if they took Alex to a doctor they would risk losing him to the authorities again. They understood  the consequences of continuing and chose to do so anyway. They accepted the consequences of their actions.
+
+[202]      Although it is not possible to pinpoint the moment that the Raditas understood the eventuality of Alex’s death, it is inescapable that at some point they knew and persisted with their conduct in the face of that knowledge.
+
+[203]      The Raditas may not have intended to murder Alex when they first moved to Alberta and failed to register him in public school in 2009, or even started to purchase less and less insulin in the years 2011 and 2012. But they clearly planned to do so sometime prior to his death. They deliberated on the consequences of their conduct and accepted that the eventual death of Alex would occur.
+
+[204]      Alternatively, the Crown submits that the evidence here supports the finding of constructive first degree murder. The Raditas had purposely isolated Alex from anyone who would or could intervene on his behalf. The evidence is strong that Alex was bed ridden and unable to leave his parent’s bedroom, at least, in the last week of his life. As a result of his emaciated state his physical liberty had been taken from him. Additionally, as per the medical evidence he would have been lethargic and likely depressed. These factors must have contributed to a feeling of psychological confinement as well. There is no lawful excuse for the Accused to have confined Alex in this way: see Magoon at para 103. The Crown submits that it is not possible to know what Alex understood of his condition but it is outrageous to suggest that he was in some way responsible for his own death due to his failure to act.
+
+[205]      The Crown distinguishes Bottineau (2006) and submits that the substantial causation element of this offence can be satisfied in this case, even if it could not in Bottineau (2006). Here, the Raditas as a result of their prior experience with Alex and treating his diabetes improperly in 2003 understood very well that to continue as they were meant certain death for Alex. There is no legal authority that holds that the substantial causation element cannot be satisfied by a series of omissions having regard to the Ontario Court of Appeal decision in Bottineau (2011) at para 36. There is no question that Alex’s confinement was primarily caused by his relative isolation and his emaciated state which in turn was caused by the omission to provide adequate insulin and medical care.
+
+B.     Mrs. Radita’s Position
+[206]      Counsel for Mrs. Radita argued that the medical records and evidence of the physicians who attended Alex and interacted with her confirms that she stubbornly refused to accept the diagnosis of diabetes and thereafter simply refused to administer the proper insulin protocol until Alex died. She submits that her client loved her child as evidenced by her behaviour in the family videos, the photos of his last birthday, and on May 7, 2013, the day of Alex’s death. Counsel submits that she simply was never trained sufficiently to understand the proper protocol or refused to apply the protocol either through stubbornness or stupidity.
+
+[207]      Counsel submits that the evidence does not support more than a finding of unlawful act manslaughter as this Court cannot draw a sufficiently strong enough inference that Mrs. Radita intended to cause Alex bodily harm or knew that her acts or omissions would probably kill him and she was reckless whether Alex died or not. As such, the evidence does not support beyond a reasonable doubt proof of intent to murder. Furthermore, the evidence does not support a finding of planned and deliberate first degree murder.
+
+[208]      Counsel for Mrs. Radita distinguishes this case from the facts in Bottineau on the basis that in Bottineau there was evidence of actual physical abuse of the victim, while here there is none. Mrs.  Radita draws the Court’s attention to the home video of Alex’s 15th birthday mere months before his death where he opened presents and was surrounded by his family in celebration.
+
+[209]      This Court has only a series of omissions before it, namely the failure of Alex’s parents to provide Alex with sufficient insulin and medical supervision and when it was clear he was physically failing, medical attention. Furthermore, Defence counsel submits it is difficult to draw an inference for intent to murder where it is difficult to know when the omissions began. How then can the Court determine that the planning and deliberation preceded the conduct, or that the state of mind essential for murder and the conduct that caused Alex’s death was concurrent at some point in the continuum on the evidence in this trial.
+
+[210]      Defence counsel submits that this Court will have to draw the inference that the state of mind or intention that has to be inferred had to have occurred very close to Alex’s death as A.R. gave evidence that Alex was only ill for a short time before he died, approximately one week. If the Crown has not proven when Alex actually died, then it becomes exceedingly difficult to say that his death was an obvious consequence. Implicit in this line of defence is that medical intervention at some point close to Alex’s  death would rebut an intent to murder. The Defence submits that rather than being a prolonged and lengthy illness, the evidence dictates both from a medical point of view and a witness’ point of view that this illness was in fact very quick and very fatal.
+
+[211]      Defence counsel also focussed on the fact that there is very little evidence of the state of mind of Mrs. Radita at the time of Alex’s death, because his exact time of death is unknown.
+
+[212]      Mrs. Radita submits that on the British Columbia medical evidence the common sense inference that a person intends the natural consequences of their actions is displaced. It provides evidence that Mrs. Radita had a continuing unnatural reaction to the diabetes diagnosis and failed to learn how to treat it or acknowledge the consequences of mistreatment. Specifically, Defence counsel stated “Rodica Radita’s bizarre behaviour, references to spiritual notions, lack of reasoning and inability to learn is capable of leading to an inference of diabetes mismanagement” but  not the inference that she intended to murder Alex. According to Defence counsel this evidence demonstrates a level of immaturity in the Radita’s reasoning that causes reasonable doubt as to whether the Radita’s subjectively foresaw the consequences of their omissions.
+
+[213]      Further, the fact that the Raditas brought Alex to the hospital twice, in 2000 and 2003, is evidence that they did not want Alex to die.
+
+[214]      According to Defence counsel, the medical evidence shows that it was possible for Mrs. Radita not to notice the 40 plus bed sores covering Alex’s body, head to toe, as the medical evidence supports the hypothesis that they were all formed in the hours before his death. According to the Defence, if Mrs. Radita was not aware of the bed sores, she would not have been aware that bacterial sepsis was ultimately going to take his life.
+
+[215]      Furthermore, the evidence, viewed as whole, does not support the mental state required for planned and deliberate murder. The evidence demonstrates incompetent management and an inability to ascertain the significant risk. In order to prove that the Mrs. Radita had the intent for first degree murder, the Crown would have to lead evidence that she knew how to properly manage diabetes yet carry out a course of conduct in a planned and deliberate manner for the purpose of intentionally causing Alex’s death.
+
+[216]       The evidence also does not support proof beyond a reasonable doubt that the Raditas unlawfully confined Alex and actively participated in killing him and that the murder and Alex’s unlawful confinement were part of the same transaction. Conduct amounting to a series of omissions cannot sustain a finding of unlawful confinement. Deprivation as a result of failure to provide medical care cannot ground the requirements for constructive first degree murder.
+
+C.   Mr. Radita’s Position
+[217]      Counsel for Mr. Radita adopted and urged the Court to accept the same submissions with respect to Mr. Radita as made on behalf of Mrs. Radita. Additionally, Mr. Radita underlines that the British Columbia medical evidence is very scarce on the details of the diabetic management training provided to Mr. Radita. When the Court considers the conduct of Mr. Radita and whether it supports an inference of subjective intent to murder Alex, by insulin mismanagement and withholding medical care, the Court must be mindful that it is not clear what Mr. Radita knew or understood about diabetes and the management of the disease.
+
+[218]      Counsel for Mr. Radita submitted that the evidence does not support a finding of unlawful confinement. Mr. Radita’s counsel pointed out that the evidence of Eunice Pop, and family friend Marius Ciltan, illustrated that Alex appeared “good” in the months before Alex’s death, and that he was walking, even if slowly, in the weeks before his death. A.R. testified that Alex was sick for a short period of time, within a week of his death. This evidence together with the lack of evidence of restraining devices of any kind, actual physical abuse, and the appearance that Alex was not treated differently from other members of his family according to the home videos, negates a finding of unlawful confinement.
+
+[219]      Counsel for the Defence distinguished this case from unlawful confinement cases involving abuse and submits that every one of the submitted cases involves “horrific conditions, terrible beatings, and inhumane treatment.”
+
+[220]      Both Defence counsel stressed that there was a complete lack of evidence as to whether Alex consented to staying at home or not throughout the prolonged period of his neglect and therefore there was a reasonable doubt as to unlawful confinement. Furthermore, Defence points to evidence that Alex was outside the home on several occasions visiting various locations in the city.
+
+[221]      Overall both Accused say that the evidence does nothing more than support unlawful act manslaughter.
+
+[222]      Finally, this Court can infer from the British Columbia medical evidence and the court proceedings before Judge Cohen that both Accused still subjectively meant Alex no harm; they simply did not understand how to properly manage his illness. This falls below the objective standard of care of parents in their position but falls short of the subjective intent to murder.
+
+[223]      Neither Accused denies acting as joint principals throughout.
+
+VII.         Analysis
+A.   Joint Principals
+[224]      Mr. Emil Radita lived with Mrs. Rodica Radita and their eight children in their home in northwest Calgary. Although there is some evidence that at the time of Alex’s death Mr. Radita worked outside the home, there is every reason to believe he was present in the home daily. Both of Mr. and Mrs. Radita could not have failed to see Alex’s condition, and its deterioration, overtime. They were each present at all three of Alex’s prior hospitalizations, and they attended together at nearly every one of the follow-up appointments with Drs. White and Metzger. They were in Judge Cohen’s courtroom on December 21, 2004 and presumably listened to his admonition to them to better manage Alex’s diabetic care, and to look for gradual changes in his condition rather than rapid ones.
+
+[225]      Their legal obligations to Alex are the same. Although Mrs. Radita was the homemaker, they had equal obligations to ensure Alex received proper diabetic care and medical attention when required. I am satisfied that they were joint principals in unlawful act manslaughter, and first degree murder, for the reasons that follow.
+
+[226]      Both Accused have conceded and I have previously found beyond a reasonable doubt that their insulin mismanagement and failure to obtain medical care for Alex caused his death from overwhelming bacterial infection as a complication of neglect and starvation.
+
+B.     Are either or both of Mr. and Mrs. Radita guilty of murder?
+[227]      The mental element required to elevate unlawful act manslaughter to murder is subjective, that is to say the actual mental state of the mind of the Accused must at some point coincide with the conduct that causes death. That mental state must either be an intent to cause the death or an intent to cause bodily harm that the Accused knew would probably cause death and were reckless as to whether the death ensued or not (ss 229(a)(i)(ii)).
+
+[228]      The Crown submits on the whole of the evidence that each of the Accused intended to murder Alex.
+
+[229]      In order to prove intent the Court may look at the whole of the evidence, here almost all circumstantial, and in all of its three tenses, prospectant (before the fact), concomitant (during the fact) or retrospective (after the fact).
+
+[230]      No single piece of evidence is more relevant than another and the cumulative effect of all the relevant evidence must establish intent beyond a reasonable doubt. The common sense inference is often used in cases such as this where mistreateatment of children results in death: Magoon at para 96.
+
+[231]      I am satisfied beyond a reasonable doubt on the whole of the evidence that each of the Accused had the requisite intent to commit murder. In applying the common sense inference that a person intends the natural consequences of their actions to the facts of this case it is inescapable logic that the Raditas knew what they were doing. They knew as they watched Alex waste away that the cause was their mismanagement of his insulin, and therefore he was not getting the nutrition he required to survive, and they knew without medical care he would die as he almost had before. Knowing all of this they persisted in their conduct.
+
+[232]      Defence counsel attempts to parse the evidence and points to the obvious care the Raditas took of Alex, including the bandage on his leg, the baby food in his room, as evidence that they did not intend him to die.
+
+[233]      On the contrary, in this Court’s view, this evidence underscores that the Raditas were well aware how ill Alex was and still refused to treat his medical condition with proper insulin protocol and medical care. They knew he was dying.
+
+[234]      The evidence that demonstrates their knowledge and therefore intent is:
+
+1.      the diagnosis of diabetes had been told to them by two different hospitals over three separate admissions;
+
+2.      Alex had physically thrived from 2004 to 2008 gaining weight and height and had done well in school; all while undergoing daily insulin injections;
+
+3.      that a healthy insulin protocol required daily finger pokes, and blood sugar readings followed by insulin injections if required;
+
+4.      that regular medical appointments were required as Alex’s physical development progressed with age in order to adjust his insulin dosages properly and to monitor his nutritional requirements;
+
+5.      that exposing Alex to proper medical care meant that the Ministry would be called if they did not administer a proper insulin protocol, and that Alex could be taken away again;
+
+6.      that the medical consequences of not following a proper insulin protocol were that Alex would eventually die.
+
+[235]      Alex’s extremely emaciated state was clearly, common sensibly, the result of a prolonged period of malnutrition. Although there was no evidence that Alex was denied food, due to his disease his body simply could not absorb the nutrients and essentially ate itself, slowly, painfully, over time.
+
+[236]      Alex’s inevitable deterioration would have been obvious to anyone who saw him daily and in particular to his parent. The Raditas knew that with insulin Alex thrived and without insulin his health deteriorated. The evidence in this case makes it clear that it really was that simple.
+
+[237]      The Crown must establish that each of the Raditas were reckless as to whether death ensued. In Cooper, the majority decision made the following comments at 154, 155:
+
+The aspect of recklessness can be considered an afterthought since to secure a conviction under this section it must be established that the accused had the intent to cause such grievous bodily harm that he knew it was likely to cause death. One who causes bodily harm that he knows is likely to cause death must, in those circumstances, have a deliberate disregard for the fatal consequences which are known to be likely to occur. That is to say, he must, of necessity, be reckless whether death ensues or not.
+
+[238]      It is therefore a reasonable inference that the Accused, who withheld a proper insulin protocol and then withheld medical assistance in the final months and weeks of Alex’s life when it should have been more than obvious that death was imminent, intended to cause Alex bodily harm that they knew was likely to cause death and were reckless whether Alex died or not.
+
+[239]      I am satisfied beyond a reasonable doubt that each of Mr. and Mrs. Radita was a joint principal in the murder of their son, Alexander Radita. The mental element required for murder under s 229(a)(ii) coincided with the protracted series of omissions sufficient to satisfy the requirement that intent to cause death and actions causing death be present at the same time: Cooper at 156.
+
+[240]      Defence counsel stressed that Alex’s illness which led to his death was quick. This is nonsensical and flies in the face of the obvious photographic and medical evidence presented in court. Dr. Gofton, Dr. Seear and Dr. Pacaud all testified that Alex’s condition was a result of long standing deprivation.
+
+[241]      This elevates the culpability of the Raditas to murder.
+
+C.   Are Either or Both of Mr. and Mrs. Radita Guilty of first degree murder?
+[242]      As set out previously, once it has been determined that the Accused have committed murder it becomes necessary to determine whether they have committed first degree murder.
+
+[243]      Here the Crown asserts there are two pathways to first degree murder, either planned and deliberate under s 231(2) or constructive first degree murder under s 231(5)(e), which is murder during unlawful confinement. Under s 231(7) all murder that is not first degree murder is second degree murder.
+
+[244]      I will examine each pathway to first degree murder in turn.
+
+1.      Planned and Deliberate
+[245]      First degree murder must be planned and deliberate. The planning must precede the acts or omissions that caused the death. The deliberation that must accompany the planning means cautious, slow in deciding and a weighing of the consequences, pro and con, of the conduct. A person can commit a planned and deliberate murder as a joint principal, an aider, an abettor or a participant in a common unlawful purpose.
+
+[246]      After a review of all the evidence, I have found that both Accused were very aware what the consequences of an improper insulin protocol would be on the health of their son and they embarked upon a restricted insulin regime with no supervision or medical care.
+
+[247]      It is an inescapable conclusion that with this knowledge they planned to stop giving Alex any insulin at least by late 2012 when the supply they purchased was either inadequate or non-existent. I agree with Defence counsel that the plan to stop insulin alone does not satisfy the requirement for first degree murder. The plan must have been to murder Alex. Although it is not clear exactly when the Raditas formulated their plan, I find that at some point, based on a review of all the evidence, they planned Alex’s death. The evidence is clear and is supported by the pharmacy records that by 2012 they were deliberately withholding insulin from Alex. There are no records of any insulin being purchased in 2013. Further, it is unknown whether the only insulin in the house was even viable but the test strips found in the house at the time of Alex’s death had clearly expired. The last glucose meter reading was in July, 2012. It is clear that Alex was likely not receiving any insulin at all in the last several months of his life.  
+
+[248]      For all intents and purposes Alex had been removed from any meaningful contact with anyone who had an obligation to ensure his well-being for years. This was part of the Radita’s plan, to separate him from any individuals who may have intervened on his behalf. He did not attend school or see a doctor. The medical evidence at death was that the majority of his teeth were rotten to the gum line. This leads to the inference that he had also not seen a dentist. There is no evidence that Alex saw anyone outside his immediately family except for the occasional friend of another member of the family since the family relocated to Alberta sometime in 2008 or 2009. This was a calculated and deliberate plan to prevent anyone who could control or monitor his diabetes from seeing Alex or helping him.
+
+[249]      The Raditas were well aware of the consequences of an improper insulin protocol due to their prior experience with Alex’s health in October 2003. They were well aware that it meant Alex’s health would fail and if medical attention was not received he would die. They also knew that if Alex came to the attention of Family Services in Alberta, their history in British Columbia would be discovered and they would likely lose custody of Alex again. They were not prepared to administer a proper insulin protocol or risk losing Alex to the authorities again. They were however prepared to see Alex die.
+
+[250]       To find the Accused guilty of first degree murder, Justice Watt in Bottineau (2007) at paras 77 and 78 stated:
+
+At the risk of repetition, it is of surpassing importance that the evidence be reasonably capable of supporting the inference that the murder of Jeffrey Baldwin was planned and deliberate, not some other conduct of the applicants, whether of acts or omissions. Likewise, the evidence, considered as a whole, must be reasonably capable of supporting the inference that the planning and deliberation preceded the acts or omissions that caused the deceased's death.
+
+When considered as a whole, the evidence adduced is reasonably capable of supporting an inference that the applicants, the legal guardians of the deceased, were in command of a protracted period of designed deprivation, first of nutrition, later nutrition in combination with medical attention, of a child between the ages of two and six years. The nature and extent of their conduct, which widened from months into years, bespeaks an antecedent state of mind equivalent to that of a poisoner whose daily dosage reaches fatal proportions over time. The earlier state of mind is also informed by the after-the-fact conduct of the applicants including but not limited to their patent falsehoods about the deceased's eating habits and visits to the doctor.
+
+[251]      I make such an inference in this case.  I am satisfied beyond a reasonable doubt that Mr. and Mrs. Radita engineered a protracted period of deprivation of insulin and medical care which they knew meant lack of nutrition and eventual starvation and death. This series of omissions, which went on for months and possibly years, supports the strong inference that this conduct was carried out in furtherance of a planned and deliberate scheme of murder.
+
+[252]      Mr. and Mrs. Radita are therefore guilty of first degree planned and deliberate murder as joint principals.
+
+2.      Murder During Unlawful Confinement
+[253]      Having found that the Accused are guilty of planned and deliberate first degree murder, I go on to consider whether they may alternatively be guilty of first degree murder committed while unlawfully confining Alex per s 231(5)(e).
+
+[254]      The Crown has proven the second, third and fourth elements outlined by Harbottle, beyond a reasonable doubt.
+
+[255]      As to the first element, was there was an unlawful confinement? An unlawful confinement occurs if, for any significant period of time the victim was coercively restraint or directed contrary to his wishes so that he could not move about according to his own inclination and desire: Magoon at para 107; Pritchard at para 24.  As previously mentioned confinement need not be physical: Gratton, at para 29. Confinement can be effected by fear, intimidation and psychological or other means: Kematch at para 55,  Magoon at para 109.  At its core unlawful deprivation consists of a deprivation of another person’s liberty: Magoon at para 107. The mens rea component of unlawful confinement requires the intent to deprive another of their freedom: Bottineau (2006) at para 122.
+
+[256]      Our Court of Appeal in Magoon, determined that parents or guardians can unlawfully confine children in their care. Lawful authority can only provide a defence to parents in circumstances that might otherwise constitute an unlawful confinement if their actions are reasonable. In fact, with respect to parents, fear and intimidation can play a larger role in establishing that there has been a confinement because of the unequal relationship: Magoon at para 116.
+
+[257]      When considering whether there is unlawful confinement, the court should look at factors such as the age of the victim, the nature of the relationship and whether there was lawful authority for the confinement. Furthermore, the Courts in Kematch and Magoon emphasized that in a case involving confinement of a child the confinement can be effected by other means like fear, intimidation and psychological means.
+
+[258]      In this case, it is unclear when the confinement began but Alex was already isolated from anyone but his family, and as his health deteriorated his possible contact with the outside world became non-existent. Certainly as he became weaker his confinement would have become more apparent. Although, this case can be distinguished from Magoon on the basis that there were no physical assaults, the abuse in this case was no less serious and took place through a series of omissions: namely, the failure to provide Alex with insulin and medical care. The medical evidence shows that in the last few weeks of Alex’s life he would have been emaciated, lethargic, unable to walk any distance and likely depressed.  The medical evidence of the pressure sores illustrate that he was confined to his bed and had difficulty moving.  His muscles had wasted away. His body was covered in painful bedsores, one was so advanced his jaw bone was openly visible. The pain at times must have been unbearable. He was unable to use the toilet. The only evidence of his food intake was baby food.
+
+[259]      Alex was a completely isolated child. Although he had attended school for a period of time during his short life, he had not been in school for the five years prior to his death. Alex basically had no contact with the outside world other than his immediate family. Even if he wanted to seek help, who would he contact?  He had no friends, no teachers in his life, and no health care providers. This Court finds that his illness and isolation constitute confinement within its legal meaning.  
+
+[260]      The Raditas cannot rely on their guardianship of Alex to pardon their conduct. Guardianship assumes “one is acting in the best interest of the child; it is the antithesis of conduct that amounts to unlawful confinement:” see Magoon at para 126. As in Magoon, there is no need in this case to draw a line demarking where lawful confinement by a parent or guardian ends and the offence of unlawful confinement begins.
+
+[261]      The actions of the Raditas in this case – their purposeful isolation of Alex, their sustained failure to provide Alex with lifesaving insulin and medical care goes beyond any such line. The Accused had no lawful authority to act as they did.
+
+[262]      As outlined earlier the “continuous transaction” element as the fifth element of s 231(5), requires that the accused caused the death of the victim while committing unlawful confinement as part of the same series of events. It is clear from the case law that the confinement and the murder cannot be one and the same act but must constitute distinct criminal acts. The confinement must go beyond what is integral to the act of killing. If the act of confinement and the act of killing are one and the same there is no basis on which to find first degree murder: R v Abdulle, 2014 ABCA 52 at para 14.
+
+[263]      In this case, Alex’s confinement did not only arise from his illness, which was directly caused by the Radita’s decision to withhold lifesaving insulin and medical treatment. It is also as a result of their intentional isolation of Alex from anyone who could intervene on his behalf beginning from the time of their move to Alberta.
+
+[264]      I find that on these facts the confinement preceded the murder, and in this way is a distinct offence. It is also clear that without Alex’s confinement the Raditas would not have been able to carry out their plan to provide Alex with less and less insulin until they provided none or to withhold medical care until he was dead. His confinement and murder are part of a single transaction even though it took place over a period of many months and years.   
+
+[265]      Applying the Harbottle test to these facts I find that Mr. and Mrs. Radita did as joint principals murder Alex while unlawfully confining him and as a result they are guilty of first degree murder.

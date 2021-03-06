@@ -1,0 +1,23 @@
+﻿[11]            In R v Edgar, 2010 ONCA 529, the Court recognized that there are four exceptions to the traditional rule.  A prior consistent statement may be admitted where: it is relevant to the accused’s state of mind at the time the offence was committed; to rebut an allegation of recent fabrication; as part of a “mixed” statement, introduced by the Crown, that is partly inculpatory and partly exculpatory and; as part of the res gestae. The court emphasized that this list of exceptions is not exhaustive (paras 35-36).
+
+[12]           The Court in Edgar introduced another exception. It recognized that exculpatory defence evidence may have substantive probative value that is not outweighed by its prejudicial effect. It concluded that an accused’s spontaneous out-of-court statement made upon arrest or when first confronted with an accusation is an exception to the general rule excluding prior consistent statements as evidence of the reaction of the accused to the accusation and as proof of consistency, provided the accused takes the stand and is exposed to cross-examination. Such evidence is relevant to the credibility of the accused and is considered circumstantial evidence that may have a bearing on guilt or innocence, though it is not strictly evidence of the truth of what was said unless it falls under the principled approach to hearsay (para 72).
+
+[13]           In R v Badhwar, 2011 ONCA 266, the Court distinguished Edgar and held that an accused statement made five hours after the subject incident lacked spontaneity. The accused had five hours to consider his position, “think things out” and speak to his friends.
+
+[14]           In R v Liard, 2015 ONCA 414, the Court considered Edgar in considering the admissibility of a statement given by the accused 13 hours after a murder was committed. The statement itself was almost 8 hours long and the accused sought to introduce the first seven hours and 42 minutes. The Court upheld the decision of the trial judge to admit the statement and held it to be spontaneous, a critical requirement for admissibility under the Edgar exception. While there was clearly a gap of 13 hours between the time of the murder and the beginning of the police interview, the statement was still considered spontaneous in all of the circumstances. Of particular importance was an implicit finding of fact by the trial judge that the accused was first confronted with the allegation of murder during the police interview. This finding made the police statement spontaneous and entitled to deference (para 58).
+
+[15]           In Liard at para 50, the Court listed the three requirements an accused must meet to satisfy the Edgar test:
+
+a)                  The accused must testify.
+
+b)                  The statement must be made when the accused was arrested or when first accused of committing a crime.
+
+c)                  The statement must be spontaneous.
+
+If the Edgar test is met, the prior exculpatory statement may be admissible as evidence of the reaction of an accused when first confronted with the allegations and as proof of consistency with the accused’s trial testimony. I will now consider each of those requirements:
+
+a)      Accused must testify
+[16]           I have been advised that Ray Nickerson will be testifying. He will be subject to cross-examination by the Crown. The first requirement has been met.
+
+b)     When arrested or first accused
+[17]            It is only an accused’s spontaneous reaction when arrested or first accused of committing a crime that renders a prior consistent statement admissible under Edgar. This requirement is linked to the requirement of spontaneity. “The natural reaction of a person first confronted with a false accusation of criminal wrongdoing would be to immediately assert one’s innocence.”:  Liard para 54.
