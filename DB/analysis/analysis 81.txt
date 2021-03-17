@@ -1,0 +1,153 @@
+﻿II.        Analysis
+
+ 
+
+[6]               The relevant portion of s. 589 provides:
+
+ 
+
+589      No count that charges an indictable offence other than murder shall be joined in an indictment to a count that charges murder unless
+
+ 
+
+(a)       the count that charges the offence other than murder arises out of the same transaction as a count that charges murder; or
+
+ 
+
+
+[7]               The Accused argues that the events relating to the attempt on Mr. Tetreault’s life and the killing of Mr. Altinger are not part of and do not arise out of the “same transaction” and therefore the counts charging those crimes cannot be joined in the same Indictment.
+
+ 
+
+[8]               The words “same transaction” are also used in the Criminal Code in a different context. Section 548(1)(a) of the Code allows the presiding Justice at a preliminary inquiry to commit the accused to trial on “the offence charged or any other indictable offence in respect of the same transaction . . .”. There has been judicial consideration of the exercise of this power. In R. v. Melarangi (1991), 1991 CanLII 11738 (ON SC), 72 C.C.C. (3d) 339 (Ont. Gen. Div.), Moldaver J., as he then was, referenced the historical survey and synthesis of principle done by Watt J., as he then was, in R. v. Brown (unreported) April 4, 1990 (Ont. S.C.); in these words:
+
+ 
+
+25         Mr. Justice Watt engaged in a comprehensive review of the various authorities which had considered the meaning of the word "transaction" and he gathered together with precision and clarity the various principles to be applied [in s. 54e]. At pages 19 and 20 his Lordship stated:
+
+ 
+
+"Transaction", it is common ground, is word of quite comprehensive import. It frequently includes a series of occurrences extending over a length or period of time. See, R. v. Canavan and Busby, 1970 CanLII 319 (ON CA), [1970] 5 C.C.C. 15, 18 (O.C.A.) per Schroeder J.A. and, R. v. Goldstein; R. v. Caicedo (1988), 1988 CanLII 7069 (ON CA), 42 C.C.C. (3d) 548, 544 (O.C.A.) per Houlden J.A. The mere fact that each occurrence may itself constitute an offence is not dispositive against the several occurrences being part of a single transaction. See, for example, R. v. Hulan, [1970] 1 C.C.C. 365 (O.C.A); R. v. Flynn, 1955 CanLII 126 (ON CA), [1955] O.R. 402, 111 C.C.C. 129 (C.A.); and, R. v. Canavan and Busby, supra. In addition to the lack of synonymity between "transaction" and "occurrence", there is equally an absence of congruity between "transaction" and "offence": a single transaction is as much capable of encompassing several occurrences as it is several offences.
+
+ 
+
+26         As well, at page 20 of the same judgment, Mr. Justice Watt observed that the word "transaction" could not be equated with "victim" or "complainant". His Lordship relied on authorities such as R. v. Kisinger (1972), 1972 ALTASCAD 11 (CanLII), 6 C.C.C. (2d) 212 (Alta. C.A.); R. v. Rafael (1972), 1972 CanLII 640 (ON CA), 7 C.C.C. (2d) 325 (O.C.A.); and, R. v. Birmingham and Taylor (1976), 1976 CanLII 1371 (ON CA), 34 C.C.C. (2d) 386 (O.C.A.) in support of his conclusion that a series of occurrences or events involving several victims might nevertheless involve one transaction.
+
+ 
+
+27        Mr. Justice Watt concluded his analysis with the following observation:
+
+ 
+
+
+In addition, a common sense assessment should be made of the series of occurrences or events which are said to constitute a "transaction", "the same transaction" under s‑s. 548(1)(a). The occurrences or events should not be subjected to metaphysical examination, artificial contraction or unreasonable expansion to force upon them a different complexion than they, in toto, otherwise bear. (p.21) [added by me].
+
+ 
+
+[9]               In Melaragni, Moldaver J. was urged to interpret s. 589 in a similar way. He was of the view that doing so would not be appropriate. He concluded that a restrictive view of the power in s. 548 was necessary because an accused, at his trial, might have to defend himself against a more serious charge and/or a charge that he had not previously faced. Whereas joinder of counts under s. 589, if unfair, could be remedied by the trial judge’s exercise of his authority to sever as contained in s. 591. Moldaver J. concluded:
+
+ 
+
+42        In my opinion, when considering the definition of "transaction" in relation to the conduct of co‑accused, the thoughts expressed by Mr. Justice Sachs, speaking on behalf of the English Court of Appeal in the case of R. v. Assim (1966), 50 Cr. App. R. 224 are apposite. At p. 236, his Lordship stated:
+
+ 
+
+As a general rule it is, of course, no more proper to have tried by the same jury several offenders on charges of committing individual offences that have nothing to do with each other, than it is to try before the same jury offences committed by the same person that have nothing to do with each other. Where, however, the matters which constitute the individual offences of the several offenders are upon the available evidence so related, whether in time or by other factors, that the interests of justice are best served by their being tried together, then they can properly be the subject of counts in one indictment and can, subject always to the discretion of the court, be tried together. Such a rule, of course, includes cases where there is evidence that several offenders acted in concert, but it is not limited to such cases.
+
+ 
+
+
+Again, while the court has in mind the classes of case that have been particularly the subject of discussion before it, such as incidents which, irrespective of there appearing a joint charge in the indictment, are contemporaneous (as where there has been something in the nature of an affray), or successive (as in protection racket cases), or linked in a similar manner (as where two persons individually in the course of the same trial commit perjury as regards the same or a closely connected fact), the court does not intend the operation of the rule to be restricted so as to apply only to such cases as have been discussed before it. (Emphasis added).
+
+ 
+
+[10]           Veit J., in R. v. Giroux (2002), 2002 ABQB 532 (CanLII), 318 A.R. 201 (Q.B.), reflected upon Moldaver J.’s reference to Assim and said this:
+
+ 
+
+35     . . . although English criminal authorities are always of interest, so far as I am aware, the practice Rules in England have, for a considerable time, been different from the provisions of s. 589 of the Code. In particular, I note that Ewaschuk J. mentions in his text that Rule 9 of the 1971 British Indictments Rules provides that:
+
+ 
+
+Charges for any offences . . . may be joined in the same indictment if those charges are founded on the same facts, or form or are part of a series of offences of the same or similar character.
+
+ 
+
+36     On its face, therefore, the English rule is broader than s. 589 of the Code. While there is much to recommend the English Rule, the Canadian Parliament has established a different rule and Canadian courts, and Canadian prosecutors, are bound by the Canadian statute.
+
+ 
+
+[11]           In Giroux, Veit J. concluded that “same transaction” should be given the meaning that Parliament seemed to suggest in its debate of the amendment which became s. 589. She said:
+
+ 
+
+37     Third, Parliament's language in s. 589 must be interpreted not only in a formal way, by parsing the words in the section, but in the broader context of the change which the current section brought to what had been a settled aspect of Canadian criminal law for 100 years. Parliament obviously wanted to remedy the problem which arose where a murder charge arose out of circumstances which may also have constituted other offences. In Beausoleil, Marchand J. put it this way:
+
+ 
+
+[para10] When Bill C‑54 which creates the present Section 589 was presented to the House of Commons, the parliamentary debates indicate that the proposed amendment to Section 589 was intended to deal with precisely the type of circumstances which was presented to the Supreme Court of Canada in Regina v. Vaillancourt, (1987) 1987 CanLII 2 (SCC), 39 C.C.C. (3d) 118, where the court had to deal with a situation of a murder charge which had arisen during the course of a robbery.
+
+ 
+
+
+[para11] When the Bill was given a second reading, the parliamentary secretary to the Minister of Justice and Attorney General of Canada explained the rationale of the amendment to Section 589 as follows:
+
+ 
+
+The unfortunate fact remains, however, that there are a significant number of cases of murder each year in which a victim is stabbed or shot or beaten to death during the course of the commission of another serious crime such as sexual assault, robbery or break and enter ... The amendment to section 589 will provide that all offences arising out of the same incident may be tried together. As a result, the fact finding process will be much improved and justice will be better served since the possibility of delays will be greatly diminished.
+
+ 
+
+[para12] A similar rationale was articulated in the justice communique when the Bill finally received royal assent, as follows:
+
+ 
+
+The new law (Bill C‑54) does away with the current practice of having a separate trial for persons accused of murder and other offences committed at the same time as murder. Under the new legislation, charges for other indictable offences, such as robbery and sexual assault, would be dealt with at the same trial.
+
+ 
+
+[12]           It appears that Veit J. would restrict joinder to offences which are part of the same incident, or occur at the same time. A more expensive interpretation of the scope of “transaction” was adopted by Dambrot J. in R. v. Jackson (2007) 2007 CanLII 246 (ON SC), 230 C.C.C. (3d) 569 (Ont. S.C.). In Jackson, Dambrot J., summarized the reasoning of Watt J. in Brown as follows:
+
+ 
+
+
+14     There has been no appellate consideration of the scope of the word "transaction" in the context of s. 589(a), but the reference to this word in s. 589(a) is not unique in the Criminal Code. Undoubtedly the meaning to be given to this word is coloured by the context in which it occurs, but the meaning ascribed to it in other contexts remains helpful. Particularly helpful is the discussion of the concept of a transaction in the judgment of Watt J. in R. v. Brown (1990), 1990 CanLII 11046 (ON SC), 54 C.C.C. (3d) 561 at 572‑3 (Ont. H.C.) He stated that, in general, it may be said that transaction is a word of comprehensive import, sometimes encompassing a series of occurrences or even a series of offences extending over a lengthy period of time. What must be ascertained when it is argued that a series of related acts amount to a single transaction is whether the related acts amount to a single continuing and continuous transaction, or simply several related but discrete offences. The occurrences or events should be subjected neither to artificial contraction nor unreasonable expansion to force upon them a complexion that they otherwise do not bear.
+
+ 
+
+[13]           In Jackson, Dambrot J. describes the process of determining whether events are part of the same transaction as “not mathematical, and perhaps encompasses an element of subjectivity, [but] it is, I think the best that can be done with so elastic a concept” [added by me].
+
+ 
+
+[14]           Interestingly, and perhaps demonstrating the difficulty Courts have had with the word “transaction”, barely 14 months after deciding Jackson, Dambrot J. in R. v. Riley (2008), 2008 CanLII 8787 (ON SC), 229 C.C.C. (3d) 266 (Ont. S.C.), seems to adopt a more restrictive interpretation along the lines of what Parliament seems to have intended and Veit J. suggested.
+
+ 
+
+[15]           In my view the descriptor “elastic” as first used by Moldaver J. in Melaragni, supra (para. 19) is appropriate. Each case requires a result and the more results the more likely an accepted content for the concept, but the concept otherwise defies precise definition.
+
+ 
+
+[16]           The cases relied upon by the parties provide some content.
+
+ 
+
+[17]           In R. v. Choy (2008), 2008 ABQB 697 (CanLII), 239 C.C.C. (3d) 191 (Alta. Q.B.), the accused was charged with murder and two offences relating to failing to act to save the victim’s life. All occurring on the same day. She was also charged with having assaulted the victim over the weeks leading up to the alleged murder. In that case, the analysis which led to severance of the murder charge from the rest appears to have proceeded on the application of the usual criteria respecting severance applications. Marceau J. did make reference to the principles relevant to the operation of s. 589, but did not offer a conclusion based upon those principles.
+
+ 
+
+[18]           In Giroux, supra, Veit J. was considering an indictment which combined murder, possession of a weapon (the murder weapon), three charges of assault with a weapon against a different victim and obstructing police some nine months after the alleged murder. The accused had applied for severance. Justice Veit’s analysis proceeded on the principles ordinarily applicable to severance applications with an additional consideration of the impact of a murder charge on the subject indictment. It was that factor that led her to consideration of s. 589 and the cases applicable, but ultimately she conducted a severance analysis as the foundation for her conclusion that the murder and weapons charge should be severed from the other counts.
+
+ 
+
+
+[19]           The other decisions provided to me which help to establish the content of s. 589 include: Riley, supra (a criminal organization offence was severed from counts of murder and attempted murder); R. v. Beausoleil (1997) CarswellOnt 3130 (Ont. Gen. Div.) (the count of murder of a child was severed from the charge of assaulting that child over a period pre-dating the murder); Melaragni, supra (two police officers jointly charged with a series of offences including murder arising out of a shooting of a fleeing suspect, the severance application was dismissed); R. v. Matheson (2000) CarswellBC 3031 (B.C.S.C.) (the accused charged with murder and assaulting a different victim just before the murder and using a firearm while doing so, severance denied on s. 589 and on the principles usually applicable to severance applications); Jackson, supra (accused charged with accessory after the fact and perjury on the same indictment as the murder charge against his co-accused, severed pursuant to s. 589).
+
+ 
+
+[20]           Of those authorities presented to me, the most analogous are Choy and Beausoleil, in the sense that the murder in each case might be seen as the culmination of a series of events originating in earlier specific criminal behaviour. However, neither provides much practical guidance.
+
+ 
+
+[21]           In this case the Accused’s decision to become a serial killer is not a transaction it is an occurrence, it was an intent. That intent manifested itself in an attempt on Mr. Tetreault’s life, however, that was a conscious decision to act on the decision to become a serial killer. While the intent appears to have survived the failure to kill Mr. Tetreault, the taking of Mr. Altinger’s life was a separate manifestation of the intent, unconnected to the attempt on Mr. Tetreault’s life except as to place and method. The manifestations of the Accused’s intent are discrete, independent acts. If the attempt to kill Mr. Tetreault was shown to be intended as a step preparatory to the killing of Mr. Altinger, then one could plausibly connect the acts as a series. However, there is no such evidence here. The attempt on Mr. Tetreault’s life was not an intended step on the Accused’s path to killing Altinger, it was intended as a successful accomplishment of the first of a series of killings. Had he succeeded in his goal each such killing would properly be joined on one indictment not because of the Accused’s intent, but because the prohibition in s. 589 does not extend to multiple counts of murder.
+
+ 

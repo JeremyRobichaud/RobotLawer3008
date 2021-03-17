@@ -1,0 +1,68 @@
+﻿Legal Principles
+
+ 
+
+[24]            To decide whether an accused is guilty of first or second degree murder, the trier of fact must first determine whether the accused has committed murder under Criminal Code, R.S.C. 1985 c. C-46 ss. 229 or 230. Where murder has been established, the remaining question is whether the murder should be classified as first degree murder or second degree murder, according to the criteria of s. 231. R. v. Nette, 2001 SCC 78 (CanLII), [2001] 3 S.C.R. 488.
+
+ 
+
+[25]            S. 231 does not create a separate substantive offence of first degree murder. It classifies for sentencing purposes the substantive offence of murder as defined in ss. 229 and 230. Murder committed in any relevant way defined by the Code is first degree murder if it is planned and deliberate. The essential distinction between murder in the first degree and murder in the second degree is provided by ss. 231(1), (2) and (7) of the Code:
+
+ 
+
+
+231(1) Murder is first degree murder or second degree murder.
+
+ 
+
+(2) Murder is first degree murder when it is planned and deliberate.
+
+ 
+
+...
+
+ 
+
+(7) All murder that is not first degree murder is second degree murder.
+
+ 
+
+[26]            Planning and deliberation are separate. Both must be established beyond a reasonable doubt in respect of the murder before it may be classified as first degree murder under s. 231(2) or the Code. R. v. Aalders, 1993 CanLII 99 (SCC), [1993] 2 S.C.R. 482.
+
+ 
+
+[27]            If a person is charged with first degree murder he or she may be convicted of second degree murder, notwithstanding the evidence may prove first degree murder. The section merely serves to classify the offence for sentencing purposes. R. v. Farrant, 1983 CanLII 118 (SCC), [1983] 1 S.C.R. 124.
+
+ 
+
+[28]            Planning and deliberation must precede the commencement of the homicide. “Planned” means a calculated scheme or design which has been carefully thought out and the nature and consequences of which have been considered and weighed. The plan may be very simple. “Deliberate” means more than intentional since it is only if the accused’s acts are intentional that he can found guilty of murder. “Deliberate” means carefully thought out, not hasty or rash. The doer has taken the time to weigh the pros and cons of his intended action. R. v. Smith (1986), 71 N.S.R. (2d) 229 (S.C.A.D.), R. v. Ruptash (1982), 1982 ABCA 165 (CanLII), 68 C.C.C. (2d) 182 (Alta. C.A.).
+
+ 
+
+[29]            For murder to be “planned” there must be evidence that the killing was a result of a scheme or design previously formulated or designed by the accused and that the killing was its implementation. A murder committed on a sudden impulse and without prior consideration will not constitute a planned murder, even though the intent to kill is clearly proven. R. v. Smith (1979), 1979 CanLII 2233 (SK CA), 51 C.C.C. (2d) 381 (Sask. C.A.).
+
+ 
+
+[30]            Psychiatric evidence that an accused was suffering from a mental disorder at the time of the (event causing the death) is admissible and relevant to the issue of whether the murder was planned and deliberate since the court must determine whether the accused’s acts were considered rather than impulsive. More v. R., 1963 CanLII 79 (SCC), [1963] S.C.R. 522.
+
+ 
+
+Analysis
+
+ 
+
+Arguments
+
+ 
+
+
+[31]            The Crown argued that statements made by Diebel in telephone conversations between him and his sister indicate that he had been thinking of killing Quinn some time prior to the murder, and that these “musings” as they are described by Diebel, constitute the plan to murder Quinn. The Crown further argues that the plan to kill Quinn was formulated on the three hour drive from Cereal Alberta to First Quality Industries where the hammer was retrieved.
+
+ 
+
+[32]            Alternatively, the Crown seeks a conviction for first degree murder pursuant to s. 231(5) of the Code on the basis that it was the result of a failed kidnapping attempt.
+
+ 
+
+[33]            Mr. Hepner argued on behalf of Diebel that there is a reasonable doubt that the murder was planned and deliberate. In support of this argument he has relies upon the unquestioned prior diagnosis of Diebel as suffering from Bipolar I Disorder with psychotic tendencies. He has brought attention to three independent strands of evidence which he says are all consistent with each other and support at least the possibility Diebel was acting in a manic or hypomanic state and that the decision to strike and kill Quinn was a last second, impulsive one.
+

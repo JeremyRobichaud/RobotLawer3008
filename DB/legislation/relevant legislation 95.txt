@@ -1,0 +1,42 @@
+﻿[21]            Where there is sufficient evidence before a trial judge that the accused’s foresight of consequences might have been impaired by intoxication so as to raise a reasonable doubt that the accused had the intent necessary to be convicted of the alleged offence, the judge must consider the defence of intoxication.  In R. v. Robinson, 1996 CanLII 233 (SCC), [1996] 1 S.C.R. 683 at para. 48, Lamer C.J. states that the judge “... must be satisfied that the effect of the intoxication was such that its effect might have impaired the accused’s foresight of consequences sufficiently to raise a reasonable doubt.” If so, then the defence of intoxication may be considered. 
+
+ 
+
+[22]            This is sometimes called the “air of reality” test.  In R. v. Lemky, 1996 CanLII 235 (SCC), [1996] 1 S.C.R. 757, released concurrently with Robinson, McLachlin J.  made the following comments regarding the threshold for instructing a jury on the defence of intoxication in relation to crimes of specific intent: 
+
+ 
+
+It is common ground that the trial judge must instruct the jury on any defence that on the evidence has “an air of reality”:  R. v. Osolin, 1993 CanLII 54 (SCC), [1993] 4 S.C.R. 595.  The threshold test is met when there is an evidentiary basis for the defence which, if believed, would allow a reasonable jury properly instructed to acquit.  See R. v. Bulmer, 1987 CanLII 56 (SCC), [1987] 1 S.C.R. 782; R. v. Park, 1995 CanLII 104 (SCC), [1995] 2 S.C.R. 836.
+
+ 
+
+[23]            The Defence submits that Ms. Willier had consumed so much alcohol that she could not have formed the requisite intent to commit murder and, in fact, did not form the necessary intention. The Crown did not argue that there was not an air of reality about this defence. The threshold for consideration of an intoxication defence is the same for a judge sitting alone, as for a judge sitting with a jury: R. v. Parkins (2004), 706 A.P.R. 10, 2004 NLCA 34 at paras. 10 -11.  See also: R. v. Point (2003), 348 A.R. 189, 2003 ABCA 113; R. v. Stone, 1999 CanLII 688 (SCC), [1999] 2 S.C.R. 290, 134 C.C.C. (3d) 353 (S.C.C.); R. v. Cinous, 2002 SCC 29 (CanLII), [2002] 2 S.C.R. 3,  162 C.C.C. (3d) 129 (S.C.C.)
+
+ 
+
+[24]            From the facts that I will set out in more detail later in these reasons, I have concluded that the defence has an air of reality and I will now discuss that defence in some detail.
+
+ 
+
+[25]            Once a judge is satisfied that this threshold is met, the issue is whether the Crown has proved beyond a reasonable doubt that the accused had the requisite intent. In the case of murder the issue is whether the accused intended to kill or cause bodily harm with the foresight that the likely consequence was death: Robinson at para 48.
+
+ 
+
+[26]            Alcohol has an intoxicating effect on those who drink it. Intoxication that causes a person to cast off restraint and to act in a manner in which she would not act, if sober, is no excuse for committing an offence if she had the state of mind required to commit the offence. An intoxicated state of mind is nonetheless a state of mind.
+
+ 
+
+
+[27]            Crown counsel must prove beyond a reasonable doubt that Ms. Willier meant either to kill Ms. Cardinal or meant to cause Ms. Cardinal bodily harm that Ms. Willier knew was likely to kill Ms. Cardinal, and was reckless whether Ms. Cardinal died or not.  To determine Ms. Willier’s state of mind, what she meant to do, I must consider all the evidence of what she did or did not do; how she did or did not do it; and what she said or did not say. I will look at Ms. Willier’s words and conduct before, at the time and after the unlawful act that caused Ms. Cardinal’s death.  All these things, and the circumstances in which they happened, may shed light on Ms. Willier’s state of mind at the time.
+
+ 
+
+[28]            Evidence of drinking, by itself, is not evidence of intoxication, and is certainly not evidence of the degree necessary to raise a reasonable doubt regarding the primary or secondary intent required for murder: R. v. Point (2003), 327 A.R. 96, 2003 ABCA 113 at para. 7.
+
+ 
+
+[29]            One way to determine a person’s intent is referred to as the presumption that a sane and sober person intends the natural consequences of his or her acts or, in other words that a sane and sober person acts in a way that has predictable consequences, and that a  person usually intends or means to cause those consequences. According to R. v. Seymour (1996), 1996 CanLII 201 (SCC), 106 C.C.C. (3d) 520 (S.C.C.) at pp. 528-529, 535, where there is evidence that suggests that Ms. Willier may have been in an impaired or reduced mental state at the time of the killing, the “common sense” inference of intention may not be appropriate.  In determining whether, in all the circumstances, it is appropriate to draw this inference that Ms. Willier intended that natural consequences of her actions, I must take into account all the evidence, including the evidence that the accused may have been in an impaired or reduced mental condition at the time of the killing. This evidence may, of course, rebut the presumption. If, after a consideration of all the evidence, I am left with a reasonable doubt as to whether or not it is appropriate to draw the inference that Ms. Willier intended the natural consequences of her actions, then I must not draw that inference.
+
+ 
+
+[30]            The focus of inquiry in Canadian Courts, therefore, is intent in fact, not capacity to form intent.  Seymour, 1996 CanLII 201 (SCC), [1996] 2 S.C.R. 252.

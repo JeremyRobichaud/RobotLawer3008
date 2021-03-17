@@ -1,0 +1,126 @@
+﻿The Law
+
+ 
+
+A.       Duty of Preliminary Inquiry Judge
+
+ 
+
+[4]                 The duty of a judge upon the conclusion of a preliminary inquiry is set out in s. 548 of the Criminal Code:
+
+ 
+
+548(1)   When all the evidence has been taken by the justice, he shall
+
+ 
+
+(a)         if in his opinion there is sufficient evidence to put the accused on trial for the offence charged or any other indictable offence in respect of the same transaction, order the accused to stand trial; or
+
+ 
+
+(b)        discharge the accused, if in his opinion on the whole of the evidence no sufficient case is made out to put the accused on trial for the offence charged or any other indictable offence in respect of the same transaction.
+
+ 
+
+[5]                 The preliminary inquiry judge is required to commit an accused to trial where there is any admissible evidence which could, if believed, result in a conviction: United States of America v. Shephard, 1976 CanLII 8 (SCC), [1977] 2 S.C.R. 1067. This does not involve an assessment by the judge as to whether evidence should be believed; if there is direct evidence as to every element of the offence charged, the judge must commit: R. v. Arcuri (2001), 2001 SCC 54 (CanLII), 157 C.C.C. (3d) 21, at para. 22 (S.C.C.). On the other hand, if there is no evidence on an essential element of the charge, a committal is a jurisdictional error, subject to being quashed on certiorari: R. v. Skogman (1984), 1984 CanLII 22 (SCC), 13 C.C.C. (3d) 161, at 170-71 (S.C.C.); R. v. Sazant 2004 SCC 77 (CanLII), [2004] 3 S.C.R. 635, para. 14.
+
+ 
+
+[6]                 When some of the evidence is circumstantial, the test is the same, but the assessment of the evidence differs. As explained by McLachlin C.J. for the Court in R. v. Arcuri, supra, at para. 23:
+
+ 
+
+
+The question then becomes whether the remaining elements of the offence – that is, those elements as to which the Crown has not advanced direct evidence – may reasonably be inferred from the circumstantial evidence. Answering this question inevitably requires the judge to engage in a limited weighing of the evidence because, with circumstantial evidence, there is, by definition, an inferential gap between the evidence and the matter to be established – that is, an inferential gap beyond the question of whether the evidence should be believed. . . The judge must therefore weigh the evidence, in the sense of assessing whether it is reasonably capable of supporting the inferences that the Crown asks the jury to draw. This weighing, however, is limited.  The judge does not ask whether she herself would conclude that the accused is guilty. Nor does the judge draw factual inferences or assess credibility. The judge asks only whether the evidence, if believed, could reasonably support an inference of guilt. 
+
+ 
+
+Duty of the Reviewing Judge
+
+ 
+
+[7]                 The task of the reviewing judge as regards the assessment of evidence is even more limited than the task of the preliminary inquiry judge. It s not for the reviewing judge to consider the sufficiency of evidence under s. 548; that is the role of the preliminary inquiry judge and her determination of sufficiency is entitled to the greatest of deference: Russell v. The Queen (2001), 2001 SCC 53 (CanLII), 157 C.C.C. (3d) 1, at para. 48 (S.C.C.). As stated by Watt J. in R. v. Ayotte, [1998] O.J. No. 4700 (Ont. Gen. Div.), at para. 47, “the issue is not whether the reviewing judge would have reached the same conclusion as the judge who presided, but rather, whether the judge at the preliminary could have reached the decision that she or he did.” In other words, the reviewing judge is concerned with jurisdictional error only. If, as already noted, the preliminary inquiry judge has committed an accused to trial when there is no evidence on an essential element of the charge, this constitutes a jurisdictional error and the committal is subject to being quashed on certiorari.  Therefore, as reviewing judge, I must determine whether there is some, at least “a scintilla”, of evidence on each element of the offence: R. v. Skogman, supra, at 173 (S.C.C.).  In the context of s. 231(6) of the Code, in which homicide committed under certain conditions constitutes first degree murder, there must also be some evidence of the existence of those conditions: Russell v. The Queen, supra, at para. 48 (S.C.C.). 
+
+ 
+
+[8]                 With regard to circumstantial evidence, the reviewing judge must engage in a limited weighing to assess whether there is some evidence reasonably capable of supporting the inferences contended for by the Crown. Again, the assessment of evidence by the reviewing judge is more limited than that of the preliminary inquiry judge. I will adopt the formulation of my task in relation to circumstantial evidence stated by Watt J. in R. v. Penney, [2004] O.J. No. 5914, at para. 64:
+
+ 
+
+[M]y task is to decide whether there was any evidence on which the provincial court judge could form the opinion that there was some evidence reasonably capable of supporting the inferences required to establish the essential elements of planned and deliberate and criminal harassment first degree murder.
+
+ 
+
+Evidence of the Elements of Criminal Harassment First Degree Murder
+
+ 
+
+[9]                 Sections 231(6) and 264(1) and (2) of the Criminal Code provide:
+
+ 
+
+231(6)  
+
+Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the death is caused by that person while committing or attempting to commit an offence under s. 264 and the person committing that offence intended to cause the person murdered to fear for the safety of the person murdered or the safety of anyone known to the person murdered.
+
+
+264(1)  
+
+No person shall, without lawful authority and knowing that another person is harassed or recklessly as to whether the other person is harassed, engage in conduct referred to in subsection (2) that causes that other person reasonably, in all the circumstances, to fear for their safety or the safety of anyone know to them.
+
+ 
+
+(2)
+
+The conduct mentioned in subsection (1) consists of
+
+ 
+
+repeatedly following from place to place the other person or anyone known to them;
+
+ 
+
+repeatedly communicating with, either directly or indirectly, the other person or anyone known to them;
+
+ 
+
+besetting or watching the dwelling house, or place where the other person, or anyone known to them, resides, works, carries on business or happens to be; or
+
+ 
+
+engaging in threatening conduct directed at the other person or any member of their family.
+
+ 
+
+[10]            The Alberta Court of Appeal in R. v. Sillipp (1997) 1997 ABCA 346 (CanLII), 120 C.C.C. (3d) 384, at 393, held that the elements of the offence of criminal harassment include:
+
+ 
+
+1.         It must be established that the accused has engaged in the conduct set out in s. 264(2)(a), (b), (c), or (d) of the Criminal Code.
+
+ 
+
+2.         It must be established that the complainant was harassed.
+
+ 
+
+3.         It must be established that the accused who engaged in such conduct knew that the complainant was harassed or was reckless or wilfully blind as to whether the complainant was harassed;
+
+ 
+
+4.         It must be established that the conduct caused the complainant to fear for her safety or the safety of anyone known to her; and
+
+ 
+
+ 
+
+5.         It must be established that the complainant’s fear was, in all of the circumstances, reasonable.
+
+ 
+
+
+[11]            Further, for a murder to be first degree murder due to its connection with criminal harassment, s. 231(6) requires that additional conditions be met. First of all, the accused must have committed the murder “while committing or attempting to commit” the offence of criminal harassment. This does not require that the two offences occur simultaneously, but it does require “conduct which is part of one continuous sequence of events forming a single transaction with the underlying offence”: R. v. Pare (1987), 1987 CanLII 1 (SCC), 38 C.C.C. (3d) 97, at 109 (S.C.C.). Secondly, the criminal harassment must have been directed at the person murdered; it must have  been “intended to cause the person murdered to fear for the safety of the person murdered or the safety of anyone known to the person murdered.” Thus a murder committed in the course of criminal harassment of another person is not first degree murder under s. 231(6). A third condition in s. 231(6) is that the accused intended to cause the murdered person to fear for his or her own safety or the safety of someone known to him or her. This is similar to the requirement under s. 264 that the accused knew that the complainant was harassed or was reckless or wilfully blind as to whether the complainant was harassed.
+
+ 
+
+[12]            In order to commit the Applicant to trial on the basis of s. 231(6) there must be some direct evidence or some circumstantial evidence on which the preliminary inquiry judge could form the opinion that there was some evidence reasonably capable of supporting the inferences required to establish each of the essential elements of criminal harassment and the essential conditions of s. 231(6). 

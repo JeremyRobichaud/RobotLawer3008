@@ -1,0 +1,140 @@
+﻿VI. Analysis
+
+ 
+
+[13]            In coming to my decision, I have reviewed the media publicity, the trial judge’s instructions to the jury in the young offender’s trial, the public opinion survey and the size of the communities
+
+ 
+
+A. Media Publicity
+
+ 
+
+[14]            There is no question that the murders of Debra, Marc and Jacob Richardson attracted a great deal of publicity, as did the trial of Steinke’s co-accused. But publicity alone is not reason enough to grant a change of venue. In the case of R. v. MacNeil (F.D.) (No. 1) (1993), 1993 CanLII 4442 (NS SC), 125 N.S.R. (2d) 346 (N.S. S.C.), at para. 60, Gruchy J. said the following about publicity:
+
+
+I conclude from those cases that in weighing the effect of publicity, it is a matter of degree. It is the norm to expect wide publicity in virtually any murder, and that is especially so in a case of multiple killings. The publicity in and of itself is not a ground for change of venue. It is the degree and the nature of that publicity in that community which must be examined and its effect on the potential jury panel determined. If there is an adverse effect on the accused’s right to expect a fair and impartial tribunal, then the jury selection process should be considered as the first line of safety. Only when the publicity has extended to jeopardize that process should change of venue be considered. (Underlining in original)
+
+ 
+
+[15]            The mere fact of sensationalist publicity does not constitute the determining factor in the decision whether or not to order a change of the location of the trial. Rather, it is a question of deciding whether this publicity is gone beyond the point where it becomes difficult to ensure “a fair trial before an impartial jury”: R. v Proulx (1992), 1992 CanLII 3362 (QC CA), 76 C.C.C. (3d) 316 (Que. C.A.), p.356.
+
+ 
+
+[16]             Media coverage can be particularly problematic when more than one trial results from the same series of events. In R. v. Taylor, 2000 BCSC 626, the accused had been convicted, the conviction had been overturned and she was set to stand trial for a second time. In that case, a change of venue order was granted in response to the detailed reporting of the first trial in the local papers. Similarly, in MacNeil, the third co-accused to be tried was granted a change of venue because the judge felt that the media surrounding the prior trial and guilty plea of his two co-accused could result in prejudice to the third co-accused.
+
+ 
+
+[17]            Some of the articles made reference to highly prejudicial evidence that was presented in the young offender’s trial that may or may not be admissible at Steinke’s trial. Examples of the potentially inadmissible allegations reported on in the Medicine Hat News include:
+
+ 
+
+·                     That Steinke watched the movie Natural Born Killers multiple times prior to the murder. During the scene where the lead characters kill the girl’s father by drowning him in a fish bowl, Steinke shouted that the Richardsons “don’t have a fishbowl.” In the film, the lead characters spare the girl’s brother, at which point Steinke shouted, “That’s where it’s going to be different.”;
+
+·                     That a bag of blood-covered clothing belonging to Steinke was examined by the police. The police determined that the blood on the clothing matched the DNA of the murder victims;
+
+·                     That footprints found outside the entry point window, a toy box in the basement and in the bathroom of the Richardson’s house were consistent with the shoes that Steinke was wearing when he was arrested;
+
+·                     That after killing Marc and Debra Richardson, Steinke yelled at his co-accused “You have to do this. I did this for you, you have to do this for me” and forced her to stab Jacob Richardson;
+
+·                     That Steinke admitted to a friend that he and his co-accused had killed Marc, Debra and Jacob Richardson;
+
+
+·                     That Steinke had tried to recruit a friend to help him kill Marc, Debra and Jacob Richardson;
+
+·                     That following his arrest, Steinke spent a considerable amount of time in the Peter Lougheed Forensic Unit and underwent a psychiatric assessment;
+
+·                     That Steinke was abused as a child and had family members who suffered from addictions;
+
+·                     Details of Steinke’s criminal record and outstanding criminal charges; and
+
+·                     The young offender’s defence counsel is quoted as saying “Jeremy Steinke is the one that killed Marc, Deborah and Jacob.”
+
+ 
+
+[11]            The Medicine Hat News published a number of articles where it was not made clear that the allegations against Steinke remained unproven. Some of these articles contained excerpts from the co-accused’s testimony or her lawyer’s closing argument. Others were ambiguously drafted and had the potential to cause confusion in the lay reader. For example, on July 10, 2007, a reporter for the newspaper wrote:
+
+ 
+
+The verdict proves the jury was convinced the girl, 12 at the time of the slayings, coached her 23-year-old boyfriend Jeremy Steinke to commit the brutal knife killings.
+
+ 
+
+[12]            Other articles contained negative information including details of Steinke’s mother’s legal problems and suggestions that Steinke is a paedophile.
+
+ 
+
+[13]            Finally, some articles detailed the community’s reaction to the murders including stories of residents who have moved away from the neighbourhood where the murder took place and other articles reporting examples of a community backlash against the Goth youth sub-culture to which both Steinke and his co-accused had belonged.
+
+ 
+
+[14]            I am particularly troubled by the potentially inadmissible evidence reported on during the trial of Steinke’s co-accused. In R. v. Bridson (1994), 1994 CanLII 16661 (MB QB), 99 Man. R. (2d) 6 (Q.B.), a change of venue was ordered, partly in response to inadmissible evidence being reported on by the media.
+
+ 
+
+[15]            I note that some, though not all, of the prejudicial information was also published in Calgary. There is case law stating that if the negative publicity was on a province-wide scale, then a change of venue cannot cure any potential bias and should not be ordered: See R. v. Munson 2003 SKCA 28, 232 Sask. R. 44; R. v. Alward (1976), 1976 CanLII 1214 (NB CA), 15 N.B.R. (2d) 551 (C.A.), aff’d 1977 CanLII 166 (SCC), [1978] 1 S.C.R. 559. This proposition does not apply here. Based on the material put before me, I conclude that the media coverage in Calgary was not of the same scope or intensity as the coverage provided in Medicine Hat.
+
+ 
+
+B. The Judge’s Instructions to the Jury
+
+ 
+
+
+[16]            At the trial of the young offender, it was agreed between the Crown and the Defence that Steinke had killed Marc, Debra and Jacob Richardson. The issue at trial was whether or not Steinke’s co-accused had aided or abetted Steinke, or counselled him to commit the murders. The trial judge’s instructions to the jury quite rightly laid out the law and a summary of the facts as it applied to that case. Though I find no fault with those instructions, I am cognizant of how a lay person could misunderstand comments made by the judge during the instructions to the jury as confirmation of Steinke’s guilt. The following examples of quotes taken from the trial transcript should illustrate my point:
+
+ 
+
+·                      In this case, there is no issue that it was Jeremy Steinke who killed Marc and Debra Richardson by stabbing them to death, nor is there any issue that it was Jeremy Steinke who killed Jacob by slitting Jacob’s throat (p.3759).
+
+·                     In considering whether or not the Crown has proved the essential elements of the offences charged beyond a reasonable doubt, I suggest that you’ll have no difficulty concluding beyond a reasonable doubt on the evidence that Steinke caused the death of each of Marc, Debra, and Jacob Richardson, that he caused their deaths by an unlawful act, that is to say by stabbing Marc and Debra and cutting Jacob’s throat as well as stabbing him, and that he intended to kill them (p.3763).
+
+·                     It seems clear that Jeremy Steinke killed Marc and Debra Richardson because he thought that it was what [the young offender] wanted him to do (p.3778).
+
+·                     There is no issue that Steinke intentionally killed Debra, March and Jacob Richardson by the unlawful acts of stabbing or cutting them (p.3780).
+
+ 
+
+[5]               Crown counsel points out, and I tend to agree, that no one has attempted to gather or place evidence before this court as to whether the media reports of the jury instructions or the instructions themselves were discussed throughout the community or have prejudiced the Medicine Hat populace. Nevertheless, the fact that the comments were made by a judge, as appropriate as they may have been in that trial, raises or could raise in the minds of ordinary residents that a judge has already ruled Steinke guilty of these murders.
+
+ 
+
+C. The Public Opinion Survey
+
+ 
+
+[6]               At this application, the defence called Heather Rollwagen, a PhD candidate with the Department of Sociology at the University of Calgary, who gave opinion evidence on the results of a public opinion survey that she conducted in the city of Medicine Hat regarding the guilt or innocence of Steinke. The project was conducted by administering a small-scale telephone survey in order to measure the opinions of Medicine Hat residents. The survey consisted of three questions asked to a random sample reached by telephone. The questions were (a) whether the caller was over 18 years old , (b) whether they were familiar with the Steinke case, and (c) whether they thought Steinke was “guilty,” “not guilty” or “not sure.”
+
+ 
+
+
+[7]               With a survey size of 145 individuals, the expert was able to contact 64% of them. Fifty people agreed to answer the survey, which indicates an amount of cooperation that is better than standard in telephone surveys. The results of the survey indicated that 98% of the individuals were familiar with the case and that on average 70% of the population interviewed felt that Steinke was guilty. No respondents believe Steinke to be innocent. The expert’s analysis concluded that between 57% and 82% of the persons who participated in the survey believed Steinke to be guilty. In other words, at the highest point, 87% of the persons surveyed thought Steinke was guilty; at the lowest, 57% thought he was guilty.
+
+ 
+
+[8]               In response to Ms. Rollwagen’s evidence, the Crown provided an opinion letter from Dr. Harold Jansen, an associate professor of political science at the University of Lethbridge. Dr. Jansen concluded that there were some issues with the sampling technique used in the survey and that it was impossible to determine the extent to which these issues might have affected the results. He raised questions about the sample size, whether the sample was representative, the wording of the questions and the resulting margin of error. Having read both Ms. Rollwagen’s and Dr. Jansen’s reports and having heard Ms. Rollwagen’s testimony, I am hesitant to rely or attach any significant weight to the results of the survey mainly for the doubts contained in Dr. Jansen’s report.
+
+ 
+
+D. The Size of the Communities
+
+ 
+
+[9]                Medicine Hat has a population of approximately 57,000. Calgary has a population of approximately 1,000,000. The respective size of the communities is important because extensive publicity is presumed to have a greater impact in small communities than in large urban centres: See MacNeil, at para. 67. In addition, large communities allow for jurors to be selected from a larger pool and therefore the risk of impartiality is lessened: See R. v. Horse, 2003 SKCA 51, 232 Sask. R. 285; R. v. Falkner, 2002 BCSC 111.
+
+ 
+
+[10]            Even though I do not rely on the public opinion survey, I still find that the graphic detail from the young offender’s trial reported in the media was the kind of reporting that is likely to have had a long lasting impact on the memories of the Medicine Hat public. Because of the ongoing media focus this case does not appear to have significantly faded from the Medicine Hat public memory. Some commentator said that this is perhaps the most notorious crime in modern Medicine Hat history. The diabolical details of this crime created a widespread media interest that has resulted in an emotionally charged hostile community atmosphere targeting Steinke. Even if they do not recall the details, the majority of the Medicine Hat population is likely to retain an image of the crime as a cold-blooded, calculated murder where Steinke was the perpetrator.
+
+ 
+
+[11]            Echoing what was said in the MacNeil case, I am sure it is possible to find 12 persons in this community to make up a jury who could be fair to the accused. But like in MacNeil, in the event a jury member may consider an acquittal, each jury member will ask themselves “in view of what my friends and neighbours and the victims families have read and seen and heard, will they ever understand such a verdict.” This is too much of a burden to ask a juror. It is too much of a risk to potentially thwart Steinke’s right to a fair trial. It would be less so in a larger community such as Calgary.
+
+ 
+
+[12]            Another concern is whether local jurors in a small community would be impartial in weighing the evidence of local witnesses with whom they are indirectly acquainted with or influenced by. These effects can also be ameliorated in a larger community.
+
+
+[13]            There is no question that the entire province was shocked by these events. In Medicine Hat the victims, the Richardson family, to use a phrase, were like “typical next-door neighbours.” How shocking it must have been for the community, during the murder trial of the young offender in June and July, 2007, to be reminded, in graphic detail, of the horror of this crime so close to home. That consideration does not apply to the same extent to the citizens of Calgary where there is not the same closeness.
+
+ 

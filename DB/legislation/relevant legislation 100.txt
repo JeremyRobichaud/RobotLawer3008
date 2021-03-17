@@ -1,0 +1,47 @@
+﻿[104]         One of the most frequently cited Canadian sources on abandonment is the British Columbia Court of Appeal decision in R. v. Whitehouse (1940), 1940 CanLII 244 (BC CA), 55 B.C.R. 420. In that case, Sloan J.A. held as follows [at page 425]:
+
+ 
+
+
+Can it be said . . . that a mere change of mental intention and a quitting of the scene of the crime just immediately prior to the striking of the fatal blow will absolve those who participate in the commission of the crime by overt acts up to that moment from all the consequences of its accomplishment by the one who strikes in ignorance of his companions’ change of heart? I think not. After a crime has been committed and before a prior abandonment of the common enterprise may be found by a jury there must be, in my view, in the absence of exceptional circumstances, something more than a mere mental change of intention and physical change of place by those associates who wish to disassociate themselves from the consequences attendant upon their willing assistance up to the moment of the actual commission of that crime. I would not attempt to define too closely what must be done in criminal matters involving participation in a common unlawful purpose to break the chain of causation and responsibility. That must depend upon the circumstances of each case but it seems to me that one essential element ought to be established in a case of this kind: where practicable and reasonable there must be timely communication of the intention to abandon the common purpose from those who wish to dissociate themselves from the contemplated crime to those who desire to continue in it. What is “timely communication” must be determined by the facts of each case but where practicable and reasonable it ought to be such communication, verbal or otherwise, that will serve unequivocal notice upon the other party to the common unlawful cause that if he proceeds upon it he does so without the further aid and assistance of those who withdraw. The unlawful purpose of him who continues alone is then his own and not one in common with those who are no longer parties to it nor liable to its full and final consequence.
+
+ 
+
+[105]         The Whitehouse test was applied by the Supreme Court of Canada in R. v. Kirkness (1990), 1990 CanLII 57 (SCC), 60 CCC (3d) 97. Both Crown and defence counsel accept this as an accurate statement of the law.
+
+ 
+
+[106]         In Kirkness, the accused was a party with a co-accused to a break and enter. When they broke in, the co-accused sexually assaulted the female resident. The accused aided the sexual assault, by placing a chair in front of the door to prevent others from entering. After the sexual assault, the co-accused began to choke the unconscious woman. The accused told him not to do that because he was going to kill her. The majority of the court held that while the accused was a party to sexual assault, he was not a party to murder. His statement was timely notice to the co-accused that he was, from that point on, acting on his own and that the accused was not a party to the strangulation.
+
+ 
+
+[107]         Another case where the defence of abandonment was successfully raised was R. v. Edwards, [2001] B.C.J. No. 367 [affirmed on appeal, [2004] B.C.J. No. 2306]. Three people were charged with second-degree murder in the beating death of a fourth person. The three attackers jointly inflicted a serious assault upon the victim which rendered him unconscious. After the initial assault was completed, two of the three attackers said let’s go and attempted to leave the scene, but the third continued to kick and stomp the unconscious victim’s head. The two departing attackers returned to the scene and tried to restrain the third attacker in an effort to prevent his continuation of the assault. All three attackers were tried for second degree murder. The British Columbia Supreme Court held that the two departing attackers had abandoned the intention to continue the assault, and so could not be convicted of murder.
+
+ 
+
+[108]         In R. v. Menezes, 2002 CanLII 49654 (ON SC), [2002] O.J. No. 551, an accused was charged with causing the death of the deceased by engaging him in a street race. In finding the accused not guilty of criminal negligence causing death, the court applied the defence of abandonment. The court noted that the race had lasted for a number of blocks, and said that the more prolonged the race, the greater the burden on the individual quitting the race to alert the other person of that decision in order to escape continued liability for any reasonably foreseeable consequence. The accused had slowed his vehicle dramatically nearly half a mile before the other driver lost control and crashed. The court held that it was reasonable to believe that the racers were at all times keeping an eye on one another, and that there was therefore a reasonable doubt that the accused’s withdrawal from the race was communicated to the other. When the other racer then chose to continue speeding, his death was a result of his independent actions.
+
+ 
+
+
+[109]         Crown counsel suggested that Menezes does not apply here, because when one person drops out of a race there is no longer a race at all, whereas once S.R.B. removed herself the assault on Miss Courtepatte continued. But a race is really just two people together committing driving offences, once one abandons, as the court held happened in that case, he is no longer responsible for the other’s continuation of the offence.
+
+ 
+
+[110]         Both Edwards and Menezes demonstrate something that is specifically stated in Whitehouse: an abandonment can be communicated by actions as well as words.
+
+ 
+
+[111]         There are many cases that give examples of what is not sufficient to communicate an abandonment. It is not enough to flee the scene without telling the co-accused [R. v. Becerra and Cooper (1975), 62 Cr. App. R. 212], or to flee saying “let’s get out of here” at the very moment the crime is committed [R. v. Wagner, [1978] B.C.J. No. 1024 (B.C.C.A)], and certainly there cannot be an abandonment after the crime is committed [R. v. Kelly, [1995] A.J. No. 461 (Alta. C.A.)]. There must be communication to the co-accused, a decision not to proceed with an offence will not constitute abandonment if the co-accused is not made aware of it [Regina v. Joyce et al. (1978), 1978 CanLII 2422 (BC CA), 42 C.C.C. (2d) 141 (B.C.C.A); R. v. Fournier (2002), 2002 NBCA 71 (CanLII), 173 C.C.C. (3d) 566 (N.B.C.A.)]. Indicating reluctance, but then proceeding with the offence anyway, is also not abandonment [R. v. Forknall (2003), 2003 BCCA 43 (CanLII), 172 C.C.C. (3d) 61 (B.C.C.A.)]
+
+ 
+
+[112]         In summary, the cases indicate that in order to successfully raise the defence of abandonment, the accused must have sufficiently and in a timely way communicated an intention to abandon the offence directly to the principal offender. The communication can come in the form of words or actions, or a combination of both. Whatever is the accused’s method of communication, it must be sufficient to make it clear to others involved that if they proceed they do so without the further aid and assistance of the person who has withdrawn. The unlawful purpose of those who continue is then not in common with the person who is no longer a party nor liable for the full and final consequence
+
+ 
+
+[113]         The case law also indicates that an accused need not try to prevent a crime from happening, or even express disapproval of it, in order for the defence of abandonment to apply. If there is an effort to prevent the crime, as in Edwards, supra, or an expression of disapproval, that is certainly relevant evidence regarding the communication, but it is not necessary. What is required is a communicated withdrawal of participation.
+
+ 
+
+[114]         Abandonment is a defence, so the accused has an evidential burden to show that the defence arises on the evidence, that there is an air of reality to it. In R. v. Fontaine, 2004 SCC 27 (CanLII), [2004] S.C.J. No. 23, the Supreme Court of Canada ruled that this evidential burden can be met by any evidence that is on the record. The air of reality test requires the judge to ask, is there in the record any evidence upon which a reasonable trier of fact, properly instructed in law and acting judicially, could conclude that the defence succeeds? In my view the evidence I have referred to regarding the circumstances in which S.R.B. left the fairway easily meets that test.

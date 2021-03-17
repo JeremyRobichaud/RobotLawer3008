@@ -1,0 +1,192 @@
+﻿IV.      Analysis
+
+ 
+
+[38]           This Court agrees with Veit J.’s approach in R. v. Giroux, 2002 ABQB 532, 318 A.R. 201, that it should first evaluate whether the non-murder charges are part of the same transaction as either of the alleged murder charges. If this Court concludes that that is the case, then it will continue to evaluate whether the interests of justice (Criminal Code s. 591(3)) require that any remaining joined charges ought to be severed.
+
+ 
+
+A.        Criminal Code s. 589 ‑ Are the Three Courtepatte Charges Part of the Same Transaction?
+
+ 
+
+[39]           The Crown and the Applicant disagree on whether the kidnapping, aggravated sexual assault, and Courtepatte murder are part of the same transaction. The Applicant argues that the narrative that the Crown provided indicates three independent offences, though they occur one after another.
+
+ 
+
+[40]           The Crown, however, notes that these three alleged offences involve the same parties and form an escalating process of control and abuse. It stresses that the kidnapping offence continued from Courtepatte’s abduction until her death and that she was always under the control of those who committed the offences against her, including the Applicant. Furthermore, the plan and objective of that group involved all three offences; they intended to find a girl, take her to an isolated location, sexually assault and kill her.
+
+ 
+
+[41]           This Court finds that the offences of kidnapping, aggravated sexual assault and murder arise out of the same transaction. The offences are connected by a common causative scheme, and occurred as a continuous or overlapping sequence: Paré, supra.
+
+ 
+
+[42]           This Court therefore concludes that grouping the three Courtepatte offence counts fall within the proviso contained in Criminal Code s. 589(a). What now remains is whether the interests of justice require those charges should be tried separately.
+
+ 
+
+B.        Criminal Code s. 591(3)(a) ‑ Severance of the Courtepatte Charges
+
+ 
+
+[43]           The Applicant argues that a common trial of the Courtepatte charges risks prejudice to him. The multiplicity of charges risks prohibited predisposition reasoning and the different offences have complicated legal components, which create undue complexity.
+
+ 
+
+
+[44]           The Crown disagrees. It argues that complexity is less an issue, as this trial will likely be heard by a judge alone. In any case, the risk of propensity-based analysis is minimal due to the tight factual and temporal integration of the various alleged offences. Judicial economy suggests these proceedings should be merged, particularly in the light of the large number of witnesses and the large amount of technical and expert evidence. The Crown estimates that it will call about 100 witnesses.
+
+ 
+
+[45]           The Crown further argues that there are significant advantages to a trial on all counts. It argues that the same facts and circumstances are before the court, the same witnesses will testify, a trial on all counts reduces the probability of inconsistent verdicts, and overall a trial on all counts would be an efficient use of court resources and respect the right of the Applicant to a timely resolution of the criminal charges that he has faced for over six years.
+
+ 
+
+[46]           The Crown also notes that the very nature of the charges against the Applicant makes a trial on all counts not simply efficient and just, but effectively necessary. The Applicant faces a charge of first degree murder. First degree murder can arise when a person engages in a number of different and alternative scenarios:
+
+ 
+
+231(1)  Murder is first degree murder or second degree murder.
+
+ 
+
+(2)       Murder is first degree murder when it is planned and deliberate.
+
+…
+
+ 
+
+(5)       Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder in respect of a person when the death is caused by that person while committing or attempting to commit an offence under one of the following sections:
+
+…
+
+ 
+
+(d)        section 273 (aggravated sexual assault);
+
+ 
+
+(e)        section 279 (kidnapping and forcible confinement); …
+
+ 
+
+[Emphasis added.]
+
+ 
+
+[47]           The Crown argues that it intends to prove that the Applicant is guilty of first degree murder through Criminal Code s. 231(5)(d), Criminal Code 231(5)(e), or both. That means that the trier of fact will necessarily have to consider the elements of aggravated sexual assault or kidnapping and forcible confinement or both, in its determination on the murder charge.
+
+ 
+
+[48]           This Court finds that the shared legal and factual matrix among the alleged Courtepatte offences favours joinder of the Courtepatte kidnapping, aggravated sexual assault, and murder charges. These offences flow from the same facts, involve the same persons, and occurred over a period of a few hours.
+
+ 
+
+
+[49]           Further, the offences are logically relevant to one another. In Choy, Marceau J. severed a number of charges that alleged abuse and neglect of a child because those alleged offences were “temporally and operationally distinct” (paras. 27-30). Here, the opposite is true; these offences together explain a tragic progression of events.
+
+ 
+
+[50]           In addition, severance is inappropriate where certain alleged charges are, effectively, components of other charges. Severing the kidnapping and aggravated sexual assault charges undercuts the Crown’s capacity to prove the first degree murder charge. The interests of justice cannot be met where separate trials of charges operationally prohibit the Crown from proving a criminal charge.
+
+ 
+
+[51]           There may be circumstances where the interests of justice would require that approach, but that is certainly not the case for the Applicant. This Court therefore concludes that the interests of justice require that the Applicant be tried for the three Courtepatte offences in a single trial.
+
+ 
+
+C.        Criminal Code s. 591(3)(a) ‑ Severance Courtepatte Charges and the Meyer Charge
+
+ 
+
+[52]           The remaining issue is whether the Meyer and Courtepatte charges require separate trials. The Applicant argues that this Court should order severance for the same reasons identified in the Courtepatte Criminal Code s. 591(3)(a) analysis, but also argues that the two murders are separate and distinct; one did not cause the other. The Applicant argues that his alleged role in the murders is quite different. In Meyer, he was an active participant. In Courtepatte, he was more of a bystander.
+
+ 
+
+[53]           Further, he stresses that he has not had the opportunity to test or evaluate the Crown’s case in a preliminary inquiry.
+
+ 
+
+[54]           Importantly, the Applicant has emphasized that a common trial of the two murders (and associated lesser offences) would impede his ability to testify in his own defence. The Applicant suggests that he plans to testify to rebut the anticipated evidence of Bird in relation to the Meyer murder, but would not testify in relation to the Courtepatte offences.
+
+ 
+
+[55]           The Crown argues that the facts of the alleged offences are closely related. Many of the same parties are involved, witnesses who testify in a separate Meyer proceeding would also be involved a distinct Courtepatte trial. The offences happened only two days apart.
+
+ 
+
+
+[56]           Further, the Crown argues that the similarities between the two murder scenarios are sufficient that it intends to make a ‘similar fact’ argument; that proof of one offence supports the probability that the other occurred as described. If this Court were to order the murder charges tried separately, the Crown emphatically states that it would seek to have evidence of one murder admitted into the trial of the other. The Crown argues that the strong factual parallels and common parties allegedly involved in both murders means that there is a strong basis to expect that similar fact evidence would be admissible.
+
+ 
+
+[57]           In Last at para. 18, Dechamps J. notes that “the use of similar fact evidence at trial” is relevant for a s. 591(3)(a) severance application. To be clear, that factor does not mean that a severance application requires the Crown now to conduct an application to test admissibility of evidence on a similar fact basis: R. v. Handy, 2002 SCC 56, 164 C.C.C. (3d) 481. Rather, the Crown may indicate that it plans to admit evidence on a similar fact basis, in a manner analogous to how the Applicant may indicate he plans to testify in relation to some, but not all, charges: Butorac at paras. 56-60. If the alleged factual matrix reasonably supports a similar fact analysis then that favours a joint trial of the charges.
+
+ 
+
+[58]           Here, the Crown characterizes the two murders (and associated offences) as being similar, and thus admissible on a ‘similar fact’ basis. One could also view the two murders as one, ongoing process in which the same group of persons engage in repeated similar scenarios. If so, then any evidence in relation to one murder would be relevant and directly probative of the other. In a sense, that distinction is irrelevant at this stage. When viewed in either context, the common features and participants in the Meyer murder and Courtepatte offences favour a joint trial. These offences are interrelated.
+
+ 
+
+[59]           The issue in this case is not identification, but the actus reus of the offences. The court in Handy at para. 78, cited with approval the statement from R. v. Carpenter (1982), 1982 CanLII 3308 (ON CA), 142 D.L.R. (3d) 237 at 244 (Ont. C.A.), which said:
+
+ 
+
+The degree of similarity required will depend upon the issues in the particular case, the purpose for which the evidence is sought to be introduced and the other evidence.
+
+ 
+
+This Court finds that the Meyer murder and the Courtepatte offences appear linked and show important parallels. Each is potentially very relevant to the other. In other words, this kind of evidence is more likely to be probative than prejudicial.
+
+ 
+
+[60]           The Applicant informed this Court that he might testify in a separate trial of the Meyer murder, but he will not testify in any trial of the Courtepatte offences. Thus, he argues that he would be prejudiced if this Court did not grant his severance application. The Crown stressed that there must be an objective basis for the Applicant to testify: Last at para. 26. The Crown argues it would be very difficult for this Court to bifurcate the Applicant’s testimony. For example, the Meyer murder will involve testimony of persons who were involved in the Courtepatte murder and, who, after that event, saw Meyer’s severed finger. Similarly, the events of the Meyer murder would be highly relevant to the Applicant’s mens rea in relation to the Courtepatte murder and his claim that he had no reason to expect that event.
+
+ 
+
+
+[61]           The Applicant’s stated intention to testify on one count but not another is a fact that deserves significant weight. However, it is not determinative of a severance application: Last at para. 27. This Court must decide whether that stated intention is objectively justifiable or, even if it is, whether this stated intention is outweighed by other factors that show that the interests of justice require a joint trial. Last at para. 26, reminds us that “[t]he burden on the accused is to provide the trial judge with sufficient information to convey that, objectively, there is substance to his testimonial intention.” The Applicant has not satisfied this burden. The facts of the Courtepatte offences and the Meyer murder are too intertwined for the Applicant's testimony to be effectively bifurcated.
+
+ 
+
+[62]           This Court rejects the Applicant’s argument that the absence of a preliminary inquiry causes prejudice that favours these charges being tried separately. Deschamps J. in R. v. S.J.L., 2009 SCC 14 at paras. 21-23, [2009] 1 S.C.R. 426 provides a useful overview of the constitutionality of trial by direct indictment and the role of a preliminary inquiry:
+
+ 
+
+... [T]here is no constitutional right to a preliminary inquiry or to the outcome of such an inquiry ...
+
+ 
+
+Similarly, although the preliminary inquiry may also allow an accused to test the credibility of witnesses and better appreciate the Crown’s evidence ... such incidental benefits do not give rise to a constitutional right to this proceeding ...
+
+ 
+
+Moreover, since [R. v. Stinchcombe 1991 CanLII 45 (SCC), 1991] 3 S.C.R. 326 and subsequent jurisprudence] an accused has had a right under the Constitution to the disclosure of all relevant information that is distinct from the right to a preliminary inquiry. ... Consequently, the incidental function of the preliminary inquiry as a discovery mechanism has lost much of its relevance.
+
+ 
+
+[Emphasis added, citations omitted.]
+
+ 
+
+[63]           Efficiency would be served by this Court joining these charges. The present case is the opposite of the scenario in Last, where Deschamps J. at paras. 41-42 observed that the charges in that case shared almost no common witnesses, and similar fact was unlikely to be involved. Nor are there complainants whose testimony may be spuriously reinforced (Last at para. 40). Here both complainants are dead.
+
+ 
+
+[64]           While efficiency should not be a reason to compromise the ability of an accused to make a full answer and defence, there is little practical possibility that these two murders can be effectively or efficiently severed. In particular, even if the Applicant were to testify in response to Bird’s evidence in relation to the Meyer murder, there is no practical way to restrict his testimony to the events that allegedly link him to that murder.
+
+ 
+
+[65]           In Last at para. 44, the court concluded severance was the appropriate remedy:
+
+
+ 
+
+... [A] joint trial in the circumstances of this case did not serve any truth seeking interest, and brought few if any benefits to the administration of justice.
+
+ 
+
+[66]           That is not the situation in the case with which this Court is dealing. The Meyer murder and the Courtepatte offences are linked; evidence in each is relevant to the other. Truth-seeking will benefit from a single trial. Similarly, the administration of justice is assisted by the Applicant being tried in a timely and efficient manner. The interests of justice are best achieved by the Meyer murder and the Courtepatte charges being tried together in a single proceeding.
+
+ 
