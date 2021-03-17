@@ -7,7 +7,7 @@ class Query:
 
     def __init__(self, classifier):
         self.type = "decision"
-        self.jId = "ca,nb"
+        self.jId = "nb"
         self.text = None
         self.id = None
         self.maxPage = 4
@@ -48,9 +48,13 @@ class Query:
 
         retval = []
         for res in results:
-            retval.append(Case(self._classifier, res))
-
-        if len(retval) < 25:
-            return retval
+            # We don't mess with no french cases
+            if "/fr/nb/" in res["path"]:
+                continue
+            case = Case(self._classifier, res)
+            # This removes any non-R related cases
+            if case.getAppellant() != "R" and case.getAppellant() != "R.":
+                continue
+            retval.append(case)
 
         return retval + self._searchPage(pageNum + 1)

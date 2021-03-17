@@ -1,9 +1,10 @@
 import nltk
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+nltk.download('stopwords', quiet=True)
+nltk.download('punkt', quiet=True)
+nltk.download('averaged_perceptron_tagger', quiet=True)
 import os
 from os import path
+from enum import Enum
 import glob
 import random
 import pickle
@@ -24,38 +25,121 @@ from statistics import mode
 
 
 class CaseTextClassifier:
-    class _HelperClassifier(ClassifierI):
-        def labels(self):
-            pass
+    class TextClassification(Enum):
+        ANALYSIS = 0
+        DECISION = 1
+        FACTS = 2
+        LEGISLATION = 3
+        OTHER = 4
 
-        def __init__(self, name, c, reload):
-            # This will get us the name of all subfolders in the DB #
-            self.name = name
-            classifiers = []
-            paths = []
-            for x in os.walk("./DB"):
-                if "\\" in x[0]:
-                    paths.append(x[0].split("\\")[1])
-                    classifiers.append(c)
+    def __init__(self):
+        self._labels = ["analysis", "decision", "facts", "legislation"]
+        self._paths = self._getPaths()
+        self._word_features = self._getWordFeatures()
+        self._nb_training, self._nb_testing = self._getNonBinarySets()
+        self._b_training, self._b_testing = self._getBinarySets()
+        self._nb_classifiers = self._trainNonBinary()
+        self._b_classifiers = self._trainBinary()
 
-            assert len(paths) == len(classifiers)
+    def _find_features(self, doc):
+        words = set(doc)
+        features = {}
+        for w in self._word_features:
+            features[w] = (w in words)
+        return features
 
-            # For each text type
-            for d in paths:
-                # If previously ran, use that
-                if path.exists("./PICKLE_FILES/" + name + "_" + d + ".pickle") and not reload:
-                    classifier_f = open("./PICKLE_FILES/" + name + "_" + d + ".pickle", "rb")
-                    classifier = pickle.load(classifier_f)
-                    classifier_f.close()
-                    classifiers[paths.index(d)] = classifier
-                    features_f = open("./PICKLE_FILES/" + name + "_features.pickle", "rb")
-                    self.word_features = pickle.load(features_f)
-                    features_f.close()
-                    continue
+    @staticmethod
+    def _getPaths():
+        paths = []
+        for x in os.walk("./DB"):
+            if "\\" in x[0]:
+                paths.append(x[0].split("\\")[1])
+        return paths
 
-                documents = []
-                all_words = []
-                for d2 in paths:
+    def _getWordFeatures(self):
+        if path.exists("./PICKLE_FILES/word_features.pickle"):
+            classifier_f = open("./PICKLE_FILES/word_features.pickle", "rb")
+            features = pickle.load(classifier_f)
+            classifier_f.close()
+            return features
+        # This will get us the name of all subfolders in the DB #
+
+        all_words = []
+        for d2 in self._paths:
+            for p in glob.glob("./DB/" + d2 + "/*.txt"):
+                f = open(p, "r", encoding="utf8")
+                data = f.read()
+                words = word_tokenize(data)
+                pos = nltk.pos_tag(words)
+                for w in pos:
+                    word = w[0].lower()
+                    all_words.append(word)
+                f.close()
+
+        all_words = nltk.FreqDist(all_words)
+        word_features = list(all_words.keys())[:2000]
+
+        save_features = open("./PICKLE_FILES/word_features.pickle", "wb")
+        pickle.dump(word_features, save_features)
+        save_features.close()
+        return word_features
+
+    def _getNonBinarySets(self):
+        if path.exists("./PICKLE_FILES/nb_feature_set.pickle"):
+            feature_set_f = open("./PICKLE_FILES/nb_feature_set.pickle", "rb")
+            feature_set = pickle.load(feature_set_f)
+            feature_set_f.close()
+            training_set = feature_set[:int(len(feature_set) * 3 / 4)]  # Arbitrary nums
+            testing_set = feature_set[int(len(feature_set) * 3 / 4):]  # Arbitrary nums
+
+            return training_set, testing_set
+
+
+        documents = []
+        for d2 in self._paths:
+            for p in glob.glob("./DB/" + d2 + "/*.txt"):
+                f = open(p, "r", encoding="utf8")
+                data = f.read()
+                stop_words = set(stopwords.words("english"))
+                words = word_tokenize(data)
+                pos = nltk.pos_tag(words)
+                nono_words = ["TO", "LS", "DT", "CD", "IN", "NNP", "PRP", "POS", ":", "''", "CC", "``"]
+                filtered_sentence = []
+                for w in pos:
+                    word = w[0].lower()
+                    if w[1] in nono_words:
+                        continue
+                    if len(word) == 1:
+                        continue
+                    if word not in stop_words:
+                        filtered_sentence.append(word)
+                documents.append((filtered_sentence, d2))
+                f.close()
+
+            random.shuffle(documents)
+
+        feature_set = [(self._find_features(rev), category) for (rev, category) in documents]
+        save_feature_set = open("./PICKLE_FILES/nb_feature_set.pickle", "wb")
+        pickle.dump(feature_set, save_feature_set)
+        save_feature_set.close()
+
+        training_set = feature_set[:int(len(feature_set)*3/4)]  # Arbitrary nums
+        testing_set = feature_set[int(len(feature_set)*3/4):]  # Arbitrary nums
+
+        return training_set, testing_set
+
+    def _getBinarySets(self):
+        ret_train = []
+        ret_test = []
+        if path.exists("./PICKLE_FILES/b_feature_set.pickle"):
+            feature_set_f = open("./PICKLE_FILES/b_feature_set.pickle", "rb")
+            feature_set = pickle.load(feature_set_f)
+            feature_set_f.close()
+        else:
+            # TODO: Split into 4 list
+            documents = []
+            for d in self._paths:
+                for d2 in self._paths:
                     for p in glob.glob("./DB/" + d2 + "/*.txt"):
                         f = open(p, "r", encoding="utf8")
                         data = f.read()
@@ -66,108 +150,112 @@ class CaseTextClassifier:
                         filtered_sentence = []
                         for w in pos:
                             word = w[0].lower()
-                            all_words.append(word)
                             if w[1] in nono_words:
                                 continue
                             if len(word) == 1:
                                 continue
                             if word not in stop_words:
                                 filtered_sentence.append(word)
-                        documents.append((filtered_sentence, d2 == d))
+                        documents.append((filtered_sentence, d==d2))
                         f.close()
 
-                random.shuffle(documents)
-                all_words = nltk.FreqDist(all_words)
-                self.word_features = list(all_words.keys())[:2000]
-                save_features = open("./PICKLE_FILES/" + name + "_features.pickle", "wb")
-                pickle.dump(self.word_features, save_features)
-                save_features.close()
+            random.shuffle(documents)
 
-                def find_features(doc):
-                    words = set(doc)
-                    features = {}
-                    for w in self.word_features:
-                        features[w] = (w in words)
-                    return features
-                feature_set = [(find_features(rev), category) for (rev, category) in documents]
-                training_set = feature_set
-                #self.training_set = feature_set[:int(len(feature_set))]  # Arbitrary nums
-                #self.testing_set = feature_set[len(training_set):]  # Arbitrary nums
+            feature_set = [(self._find_features(rev), category) for (rev, category) in documents]
+            save_feature_set = open("./PICKLE_FILES/b_feature_set.pickle", "wb")
+            pickle.dump(feature_set, save_feature_set)
+            save_feature_set.close()
 
-                #  This is stats
-                classifiers[paths.index(d)] = classifiers[paths.index(d)].train(training_set)
+        training_set = feature_set[:int(len(feature_set)*3/4)]  # Arbitrary nums
+        testing_set = feature_set[int(len(feature_set)*3/4):]  # Arbitrary nums
 
-                #print("Classifier: " + name + "_" + d)
-                #print(nltk.classify.accuracy(classifiers[paths.index(d)], self.testing_set))
-                # print(testing_set)
+        ret_train.append(training_set)
+        ret_test.append(testing_set)
 
+        return ret_train, ret_test
 
+    def _trainNonBinary(self):
+        retval = []
+        names = ["MultiNB"]
+        classifiers = [SklearnClassifier(MultinomialNB())]
 
-                save_classifier = open("./PICKLE_FILES/" + name + "_" + d + ".pickle", "wb")
-                pickle.dump(classifiers[paths.index(d)], save_classifier)
+        for i in range(0, len(names)):
+            n = names[i]
+            c = classifiers[i]
+            if path.exists("./PICKLE_FILES/" + n + ".pickle"):
+                multiNB_f = open("./PICKLE_FILES/" + n + ".pickle", "rb")
+                multiNB = pickle.load(multiNB_f)
+                multiNB_f.close()
+                retval.append(multiNB)
+            else:
+                classifier = c.train(self._nb_training)
+                save_classifier = open("./PICKLE_FILES/" + n + ".pickle", "wb")
+                pickle.dump(classifier, save_classifier)
                 save_classifier.close()
+                retval.append(classifier)
 
-            self.__classifiers = classifiers
+        return retval
 
-        def calculate(self, wordList):
-            retval = []
-            for c in self.__classifiers:
-                data = {}
-                for w in wordList:
-                    data.update({w: w in self.word_features})
-                retval.append(c.classify(data))
-            return retval
+    def _trainBinary(self):
+        retval = []
+        names = ["BernoulliNB"]
+        classifiers = [SklearnClassifier(BernoulliNB())]
 
-    def labels(self):
-        pass
+        for i in range(0, len(names)):
+            n = names[i]
+            c = classifiers[i]
+            council = []
+            for p in self._paths:
+                if path.exists("./PICKLE_FILES/" + n + "_" + p + ".pickle"):
+                    classifier_f = open("./PICKLE_FILES/" + n + "_" + p + ".pickle", "rb")
+                    classifier = pickle.load(classifier_f)
+                    classifier_f.close()
+                    council.append(classifier)
+                else:
+                    # TODO: Fix this
+                    classifier = c.train(self._b_training[i])
+                    save_classifier = open("./PICKLE_FILES/" + n + "_" + p + ".pickle", "wb")
+                    pickle.dump(classifier, save_classifier)
+                    save_classifier.close()
+                    council.append(classifier)
+            retval.append(council)
 
-    def __init__(self, reload=False):
-        classifiers = []
-        # With 41 potential classifiers,
-        # It's easier to list the classifiers that don't suit our needs over those that does
-        # Some would fit, but require additional calls
-        nono = [
-            "CategoricalNB",
-            "ClassifierChain",
-            "GaussianNB",
-            "GaussianProcessClassifier",
-            "HistGradientBoostingClassifier",
-            "LabelPropagation",
-            "LabelSpreading",
-            "LinearDiscriminantAnalysis",
-            "LinearSVC",
-            "LogisticRegressionCV",
-            "MultiOutputClassifier",
-            "NuSVC",
-            "OneVsOneClassifier",
-            "OneVsRestClassifier",
-            "OutputCodeClassifier",
-            "QuadraticDiscriminantAnalysis",
-            "StackingClassifier",
-            "VotingClassifier",
-            "RadiusNeighborsClassifier"
-        ]
-        clas = [est for est in all_estimators() if issubclass(est[1], ClassifierMixin)]
-        for c in clas:
-            if c[0] in nono:
-                continue
-            #print(c[0])
-            classifiers.append(self._HelperClassifier(c[0], SklearnClassifier(c[1]()), reload=reload))
-        self.__classifiers = classifiers
+        return retval
 
     def classify(self, wordList):
         votes = [0, 0, 0, 0]
-        for c in self.__classifiers:
-            ret = c.calculate(wordList)
+        data = {}
+        for w in wordList:
+            data.update({w: w in self._word_features})
+        for cl in self._b_classifiers:
+            ret = [c.classify(data) for c in cl]
+            print(len(cl))
+            print(len(self._b_testing))
+            accuracy = [nltk.classify.accuracy(cl[i], self._b_testing[i]) for i in range(0, len(cl))]
             assert len(ret) == 4
-            if ret[0]:
-                votes[0] += 1
-            if ret[1]:
-                votes[1] += 1
-            if ret[2]:
-                votes[2] += 1
-            if ret[3]:
-                votes[3] += 1
+            print(ret)
+            print(accuracy)
+            votes[0] += accuracy[0] if ret[0] else 1-accuracy[0]
+            votes[1] += accuracy[1] if ret[1] else 1-accuracy[1]
+            votes[2] += accuracy[2] if ret[2] else 1-accuracy[2]
+            votes[3] += accuracy[3] if ret[3] else 1-accuracy[3]
+
+        for cl in self._nb_classifiers:
+            ret = cl.classify(data)
+            assert ret in self._labels
+            accuracy = nltk.classify.accuracy(cl, self._nb_testing)
+            votes[self._labels.index(ret)] += accuracy
+
+        # TODO: Adjust Math
         for index, v in enumerate(votes):
-            votes[index] = v/len(self.__classifiers)
-        return votes
+            votes[index] = v/len(self._nb_classifiers + self._b_classifiers)
+        print(f"Votes: {votes}")
+        max = -1
+        maxI = -1
+        for index, v in enumerate(votes):
+            if v <= max:
+                continue
+            max = v
+            maxI = index
+
+        return CaseTextClassifier.TextClassification(maxI), max
