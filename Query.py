@@ -51,6 +51,7 @@ class Query:
             # We don't mess with no french cases
             if "/fr/nb/" in res["path"]:
                 continue
+            print(res)
             case = Case(self._classifier, res)
             # This removes any non-R related cases
             if case.getAppellant() != "R" and case.getAppellant() != "R.":

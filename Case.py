@@ -8,8 +8,7 @@ nltk.download('averaged_perceptron_tagger', quiet=True)
 nltk.download('words', quiet=True)
 from bs4 import BeautifulSoup
 from nltk import word_tokenize
-from nltk.corpus import stopwords
-from helpers import compareParagraph
+from helpers import compareMultiSentences, removeFluff
 
 
 class Case:
@@ -162,23 +161,11 @@ class Case:
         facts = []
         for p in pastTense:
             #print(p)
-
-            words = word_tokenize(p)
-            filtered_sentence = []
-            pos = nltk.pos_tag(words)
-            for w in pos:
-                if w[1] in self._nono_words:
-                    continue
-                word = w[0].lower()
-                if len(word) == 1:
-                    continue
-                if word not in set(stopwords.words("english")):
-                    filtered_sentence.append(word)
-
+            filtered_sentence = removeFluff(p)
             if not filtered_sentence:
                 continue
             case_type, confidence = self._classifier.classify(filtered_sentence)
-            print(f"Type: {case_type}\tConfidence: {confidence}")
+            # print(f"Type: {case_type}\tConfidence: {confidence}")
             if case_type.value == 2:
                 facts.append(p)
         self._facts = facts
@@ -233,18 +220,7 @@ class Case:
         max = -1
 
         for p in check:
-            words = word_tokenize(p)
-            filtered_sentence = []
-            pos = nltk.pos_tag(words)
-            for w in pos:
-                if w[1] in self._nono_words:
-                    continue
-                word = w[0].lower()
-                if len(word) == 1:
-                    continue
-                if word in set(stopwords.words("english")):
-                    filtered_sentence.append(word)
-
+            filtered_sentence = removeFluff(p)
             if not filtered_sentence:
                 continue
             votes = self._classifier.classify(filtered_sentence)
@@ -305,33 +281,13 @@ class Case:
 
         return self._respondent
 
-    def compareCases(self, Case2):
-        def selfCompare(t1, t2):
-            biggest = len(t1) if len(t1) > len(t2) else len(t2)
-            retval = 0
-            while len(t1) > 0 and len(t2) > 0:
-                a1 = t1[0]
-                a2 = None
-                val = -1
-                for a in t2:
-                    temp = compareParagraph(a1, a)
-                    if temp > val:
-                        val = temp
-                        a2 = a
-                retval = + val
-                t1.remove(a1)
-                t2.remove(a2)
-            return retval / biggest
+    def compareFacts(self, Case2):
+        return compareMultiSentences(self.getFacts(), Case2.getFacts())
 
-        comparison = [0.0, 0.0, 0.0]
+    def compareLegislation(self, Case2):
 
-        # Compare Decision #
-        comparison[0] = selfCompare(self.getDecision(), Case2.getDecision())
+        return compareMultiSentences(self.getLegislation(), Case2.getLegislation())
 
-        # Compare Facts #
-        comparison[1] = selfCompare(self.getFacts(), Case2.getFacts())
+    def compareDecision(self, Case2):
 
-        # Compare Legislation #
-        comparison[2] = selfCompare(self.getLegislation(), Case2.getLegislation())
-
-        return comparison
+        return compareMultiSentences(self.getDecision(), Case2.getDecision())
