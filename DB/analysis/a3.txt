@@ -1,0 +1,275 @@
+The Test for Committal to Trial
+
+[19]   The test for committal to trial is "whether or not there is any evidence upon which a reasonable jury, properly instructed, could return a verdict of guilty." (United States of America v. Sheppard, 1976 CanLII 8 (SCC), [1977] 2 S.C.R. 1067) Section 548(1) of the Criminal Code provides that an accused shall be committed to trial, following a preliminary inquiry, if there is sufficient evidence and shall be discharged if, on the whole of the evidence, "no sufficient case is made out."  It is a jurisdictional error to commit an accused to trial where there is no evidence on an essential element of the charge. (R. v. Savant, 2004 SCC 77 (CanLII), [2004] S.C.J. No. 74, paragraph 16)
+
+[20]   For Mr. Steele to be discharged on the charge of first degree murder I have to be satisfied “on the whole of the evidence” that “no sufficient case is made out” for first degree murder. (R. v. Deschamplain, 2004 SCC 76 (CanLII), [2004] S.C.J. No. 73, paragraph 18) A committal to trial for first degree murder requires that there be sufficient evidence of (1) murder; (2) planning; and (3) deliberation.  I will discuss these essential elements shortly.
+
+[21]   Where there is direct evidence as to every element of the offence, the accused must be committed to trial. In a circumstantial case, the preliminary inquiry judge must engage in a limited weighing of the evidence in the sense of assessing whether it is reasonably capable of supporting the inferences that the Crown asks the jury to draw. (R. v. Arcuri, 2001 SCC 54 (CanLII), [2001] S.C.J. No. 52, paragraph 23)
+
+[22]   In assessing the evidence tendered for committal, the preliminary inquiry judge does not assess credibility, the quality and reliability of the evidence, or make findings of fact, which are trial functions. The question to be asked is whether the evidence if believed could reasonably support an inference of guilt. (Arcuri, paragraphs 23 and 30) The judge must recognize the possible inferences that could be drawn from the facts at a trial and assess their reasonableness.  Where more than one inference can be drawn from the evidence, only the inferences that favour the Crown are to be considered. (Sazant, paragraph 18) It is a jurisdictional error for a preliminary inquiry judge to weigh the evidence and make a finding based on her view of the strength of the competing inferences. The preliminary inquiry “is not the forum for weighing competing inferences or selecting among them. That is the province of the trier of fact at trial.” (R. v. Campbell, 1999 CanLII 2372 (ON CA), [1999] O.J. No. 4041 (C.A.), paragraph 7, cited in R. v. Sazant, paragraph 23)
+
+[23]   If the inferences urged by the Crown “are within the field of inferences that could reasonably be drawn, the preliminary inquiry judge must commit for trial even if those inferences are not the inferences that the preliminary inquiry judge would draw.” (R. v. Hawley, [2012] O.J. No. 4927(C.A.), paragraph 10)
+
+       Inference versus Speculation
+
+[24]   There is a considerable difference between inference and speculation. Drawing an inference involves a process of reasoning: “…a fact or a proposition sought to be establish[ed] is deduced as a logical consequence from other facts…already proved or admitted.”  (R. v. Latif, [2004] O.J. No. 5891 (Ont. S.C.J.), paragraph 4) In the context of a preliminary inquiry, a fact or proposition sought to be established is deduced as a logical consequence from other facts, assumed to be true or admitted.
+
+[25]   An inference “which does not flow logically and reasonably from established facts cannot be made and is condemned as conjecture and speculation.” (R. v. Morrissey, 1995 CanLII 3498 (ON CA), [1995] O.J. No. 639(C.A.), paragraph 52)
+
+The Sufficiency of the Evidence and the Crown’s Ultimate Burden
+
+[26]   In R. v. Charemski, 1998 CanLII 819 (SCC), [1998] S.C.J. No. 23, McLachlin, J. (as she then was) in dissent tied the sufficiency of the evidence requirement in the context of a directed verdict to the ultimate burden on the Crown to prove the case beyond a reasonable doubt. The test on a directed verdict is the same as the test for a committal to trial. (Arcuri, paragraph 21) McLachlin, J.’s statements in Charemski have been applied in the preliminary inquiry committal to trial context, for example, by the Ontario Court of Appeal in R. v. Turner, 2012 ONCA 570 (CanLII), [2012] O.J. No. 4088. As the Court in Turner noted, McLachlin, J. “made it clear that the sufficiency of evidence cannot be assessed without reference to the ultimate burden on the Crown to prove the case beyond a reasonable doubt.” The Turner Court quoted McLachlin, J:
+
+… “sufficient evidence” must mean sufficient evidence to sustain a verdict of guilt beyond a reasonable doubt; merely to refer to “sufficient evidence” is incomplete since “sufficient” always relates to the goal or threshold of proof beyond a reasonable doubt. This must be constantly borne in mind when evaluating whether the evidence is capable of supporting the inferences necessary to establish the essential elements of the case. (R. v. Charemski, paragraph 35)
+
+[27]   Although not quoting this precise paragraph from Charemski, our Court of Appeal in R. v. Beals, 2011 NSCA 42 (CanLII), [2011] N.S.J. No. 231 has followed McLachlin, J.’s assessment of how “sufficient evidence” must be considered. The Beals Court held that the “limited weighing” exercise is not a formulaic or surgically precise one:
+
+There is no ready instrument one can use to gauge the parameters of "limited weighing" by preliminary inquiry judges when dealing with a committal decision, or by a trial judge on a motion for a directed verdict. No such assessment of the evidence can be plumbed with mathematical precision. Whether a motion will succeed or fail must depend upon the judge's evaluation of the evidence in that particular case. It seems to me that the approach we ought to take when such determinations are challenged on appeal, is to ask whether the trial judge stayed within the limited bounds of his or her assignment, or erroneously slid into the jury's exclusive preserve… (Beals, paragraph 36)
+
+[28]   A preliminary inquiry is not a trial. Its primary function is to determine whether the Crown has sufficient evidence to warrant committing the accused to trial. The Supreme Court of Canada has said a preliminary inquiry is “a pre-trial screening procedure aimed at filtering out weak cases that do not merit trial.” (R. v. Hynes, 2001 SCC 82 (CanLII), [2001] S.C.J. No. 80, paragraph 30) The Court has also said that, “The purpose of a preliminary inquiry is to protect the accused from a needless, and indeed, improper, exposure to a public trial where the enforcement agency is not in possession of evidence to warrant the continuation of the process.” (Skogman v. The Queen, 1984 CanLII 22 (SCC), [1984] S.C.J. No. 32, page 8 (Q.L. version))
+
+       The Essential Elements of First Degree Murder
+
+[29]   First degree murder is an intentional killing that is both planned and deliberate. In the words of the Supreme Court of Canada: “Throughout history the idea that one human being could cold-bloodedly plan and deliberate upon the killing of another has been repugnant to all civilized societies and has tended to be considered as the most reprehensible of violent crimes.” (R. v. Nygaard, 1989 CanLII 6 (SCC), [1989] S.C.J. No. 110, paragraph 28)
+
+[30]   In this case, a properly instructed jury would have to be told that for first degree murder the Crown must prove beyond a reasonable doubt not only that Mr. Steele murdered Mr. Barati, but also that the murder was both planned and deliberate. (section 231(2), Criminal Code)
+
+       Murder
+
+[31]   The Crown can undertake to prove murder in this case in one of two ways: (1) by proving that Mr. Steele intended to kill Mr. Barati, or (2) by proving that Mr. Steele intended to cause Mr. Barati bodily harm that he knew was likely to cause death, and was reckless whether death ensued or not. (section 229 (a)(i) and (ii), Criminal Code)
+
+[32]   For the purposes of committal to trial, Mr. Steele has conceded that a reasonable jury properly instructed could return a verdict of guilt for second degree murder.  Mr. Steele has acknowledged that there is sufficient evidence upon which a reasonable jury, properly instructed, could decide that Mr. Steele intended to kill Mr. Barati. Mr. Steele has not said that he is conceding that a committal for second degree murder could be justified on the basis that there is evidence he intended by stabbing Mr. Barati to cause him bodily harm that he knew was likely to cause Mr. Barati’s death and was reckless whether death ensued or not.
+
+[33]   However, in assessing the issue of committal to trial for first degree murder in this case each possible route to murder must be explored.  (1) Is there sufficient evidence that Mr. Steele intended to kill Mr. Barati and planned and deliberated that killing? or, alternatively, (2) Is there sufficient evidence that Mr. Steele intended to cause Mr. Barati bodily harm that he knew was likely to cause his death and was reckless whether death ensued or not and planned and deliberated before commencing the stabbing?
+
+       Planning and Deliberation
+
+[34]   “Planned” means that “the scheme has been conceived and carefully thought out before it was carried out and “deliberate” means considered, not impulsive.” (Nygaard, paragraph 17) A plan for the purposes of first degree murder is “a calculated scheme or design that has been carefully thought out, and the nature and consequences have been considered and weighed.” “Deliberate” includes the concepts of being slow in deciding and cautious, implying that the accused must take time to weigh the advantages and disadvantages of his intended action.
+
+[35]   The elements of planning and deliberation must be present before the act of murder commences. For example, a strangulation that takes four to five minutes to complete does not constitute the deliberation that is required for a murder to be classified as first degree murder. (R. v. Ruptash, [1982] A.J. No. 424 (C.A.), paragraph 5) It is not enough that a killer has taken a weapon in hand: this does not alone amount to having deliberated on a plan, “especially where the weapon is at the ready.” (Ruptash, paragraph 6)
+
+[36]   A murder committed on a sudden impulse and without prior consideration, even though the intent to kill is clearly proven, would not constitute a planned murder. (R. v. Smith, 1979 CanLII 2233 (SK CA), [1979] S.J. No. 476 (C.A.), paragraph 28) In Smith, the evidence of a “cruel and sadistic” shooting of the victim in cold blood was found not to show “the implementation of a previously determined design or scheme.” (Smith, paragraph 31) The Court went on to say: “It may well be that the killing was deliberate. However, even if it was, there could only be a verdict of first degree murder if the evidence established as well that the murder was planned.” (Smith, paragraph 32)
+
+       The Crown’s Position on Committal for First Degree Murder
+
+[37]   It is the Crown’s position that Mr. Steele had a plan to murder Mr. Barati and then deliberated on that plan before executing it. Mr. Miller cites the following as evidence of planning and deliberation:
+
+•     Mr. Steele was angry and belligerent. He kept fighting with Mr. Barati in the street even when Ms. Girard tried to get him to stop;
+
+•     Mr. Steele broke the door into the house after Mr. Barati had walked away from the fight and gone back inside;
+
+•     After Mr. Steele is permitted by police to go back inside the house, he asked Chad Bunker where Mr. Barati was;
+
+•     Mr. Steele then left the house for “just a few minutes, ten minutes maybe (Transcript, Chad Bunker direct examination, page 706) – “Approximately probably about 10…10 minutes, 10, 15 minutes” (Transcript, Chad Bunker cross examination, page 754)
+
+•     Upon his return Mr. Steele asked Mr. Bunker to help him;
+
+•     Mr. Steele was in the kitchen for “probably about five minutes” looking for something; (Transcript, Chad Bunker direct examination, page 707)
+
+•     Mr. Steele “chose” a “larger, more dangerous weapon…overlooking smaller knives located in the utensil drawer”; (Crown’s written submissions)
+
+•     Mr. Steele was “sneaky” in hiding the knife as he went toward to the basement where Mr. Barati was;
+
+•     Mr. Steele wanted Ms. Girard out of the basement bedroom.
+
+[38]   The Crown also cites Mr. Steele being observed at 3:26 a.m. “wandering around in a circle – in the middle of the street.” The witness who reported this, Tim MacDonald, lived in the adjacent house. He provided a statement to police which was admitted by consent. Mr. MacDonald thought Mr. Steele’s behaviour was “kind of strange”. He saw Mr. Steele go back inside the house after about five minutes. The Crown submits it can be reasonably inferred that when Mr. Steele was circling in the street he was deliberating on murdering Mr. Barati.
+
+[39]   Mr. Miller submits that other evidence supports an inference that Mr. Steele intended to kill Mr. Barati: Mr. Steele not listening to Mr. Bunker’s entreaties to stop and go upstairs; Ms. Girard reacting once she saw Mr. Steele was stabbing Mr. Barati by saying “you’re killing him”, which the Crown says shows that the murderous nature of the attack was readily apparent even to a witness; Mr. Steele not stopping until he was disarmed; the location of Mr. Barati’s wounds; the rapid nature of the stabbing; Mr. Barati dying moments after being stabbed; and the commission of the murder in the presence of witnesses.
+
+[40]   Before I address the issue of Mr. Steele’s police interrogation which the Crown has also mined for evidence, I want to address these points I have just summarized. There is evidence from Mr. Bunker that after taking something from the kitchen (which turned out to have been a knife), Mr. Steele ignored his suggestion that “he could just stop and go upstairs.” (Chad Bunker direct examination, page 713) There is also evidence that Mr. Bunker grabbed Mr. Steele to stop him stabbing Mr. Barati.  (Chad Bunker direct examination, pages 715, 760) According to Mr. Bunker, Mr. Steele did not drop the knife until Mr. Bunker threatened to hurt him.
+
+[41]   The evidence of how Mr. Steele went about the stabbing does, in my view, support the reasonable inference that his intention was to kill Mr. Barati but he has already conceded that a reasonable jury properly instructed could draw this inference. Mr. Steele is not disputing that there is sufficient evidence of an intention to kill to justify a committal to trial. I find the evidence referred to by the Crown does not go beyond this. None of this evidence supports the inference that Mr. Steele had a plan to kill Mr. Barati and had deliberated on it. I will discuss this further shortly.
+
+Mr. Steele’s Police Interrogation
+
+
+
+[42]   Mr. Steele’s police interrogation explored what he had done on March 31, 2013 and why. His statement was admitted into evidence at the preliminary inquiry by consent without any requirement for the Crown to prove voluntariness.  Mr. Miller has submitted that the admissions made by Mr. Steele support the inference that the murder of Mr. Barati was planned and deliberate.  In Mr. Miller’s submission, the plan to do so is indicated in the following statements:
+
+       Page 85
+
+       Mr. Steele:  “…as soon as they [referring to the police] let me go there, I frigging went in, grabbed a knife and stabbed him.”
+
+D/Cst. Jefferies: “Was that your plan after the police let you go?”
+
+Mr. Steele: “As soon as I got inside, yes.”
+
+•        Page 113
+
+Mr. Steele: “…I was just…on a mission type thing and no one was going to stop me.
+
+•        Page 165
+
+D/Cst. Blencowe: “You don’t think stabbing somebody couldn’t kill them?”
+
+Mr. Steele: “Well, I mean…”
+
+•        Page 201
+
+D/Cst. Blencowe: “…all of a sudden bang, boom, boom, boom, boom, boom, the plan goes…Right? Into the house you go, you take the knife, you go downstairs, you force your way into the room and you do the worst act that a person can possibly do.
+
+Mr. Steele: (Nods head.)
+
+[43]   My review of Mr. Steele’s police interrogation reveals that he also said the following:
+
+•        Page 73
+
+“…once I ran in from outside, I was just so angry, I was a whole fucking different person and just my main goal was to hurt him and that’s all I wanted to do…”
+
+•        Page 78
+
+“I didn’t even want to kill him. I just wanted to hurt him…That’s basically all it was…I just grabbed whatever was in sight.”
+
+•        Page 85
+
+“As soon as I got inside, I just – I fucking ran into the kitchen, ran downstairs and that was it.”
+
+•        Page 91
+
+“All I remember is running down those stairs as fast as possible to get to him as fast as possible…I wasn’t trying to kill him. No. I was trying to hurt him and…”
+
+•        Page 98
+
+“I did not want to kill him. That’s completely not true at all. I would never want to kill anyone. I just wanted to hurt him.”
+
+•        Page 109
+
+“…I remember running inside. My instinct was, man, I want to hurt this guy.”
+
+•        Page 116
+
+“I was rage walking. So I think it was more like a jog. Like, I’m booking down the stairs as fast as you can and run into that room as fast as you can type of thing.”
+
+•        Page 164
+
+   “I did not decide I was going to kill him…I wanted to hurt him, yes.”
+
+•        Page 171
+
+“I just got into a rage fit and that’s what it was…I just went on a fucking rampage.”
+
+•        Page 175
+
+“I didn’t mean to kill him.”
+
+•        Page 180
+
+“I wasn’t going to – I wasn’t planning on killing him. I don’t know what the fuck happened.”
+
+“Yeah, something snapped basically is what happened.”
+
+•        Page 188
+
+•        “Something just snapped inside me…”
+
+•        “…I just snapped.”
+
+•        “I just snapped and I completely wasn’t myself.”
+
+•        Page 191
+
+“I was just swinging randomly, to be honest.”
+
+•        Page 193
+
+“I think I just kind of snapped, to be honest…”
+
+•        Page 194
+
+“Well, it’s just after that fight, something snapped in me and that’s what happened.”
+
+•        Pages 195 – 196
+
+D/Cst. Blencowe:           “You wanted to hurt him real bad?
+
+Mr. Steele:                    “Not real bad. I just wanted to hurt him…like I got hurt.”
+
+…
+
+D/Cst. Blencowe:           “But you were angry. Did you have an idea of what you were going to do with the knife or just you were going to go down and you say, “I want to hurt him?”
+
+Mr. Steele:                     “Basically yeah. That was basically it. There was no idea. I had no…
+
+D/Cst. Blencowe:           “So there – you had no plan on how this was going to happen but…
+
+Mr. Steele:                     “No.”
+
+D/Cst. Blencowe:           “…you were pissed and …”
+
+Mr. Steele:                     “I was just pissed.”
+
+•        Page 196
+
+To D/Cst. Blencowe who said: “So there – you had no plan on how this was going to happen but…” Mr. Steele replied: “No.”
+
+…
+
+“I was just pissed.”
+
+•        Page 204
+
+To D/Cst. Blencowe who said: “So what this is all about is why you were so angry…and what was going through your head and what your plan was.” Mr. Steele replied: “I didn’t have a plan.”
+
+•        “I just got so angry that I fucking couldn’t control myself, basically. That’s what happened. It never happens but sometimes, I guess.”
+
+•        Page 213
+
+“I just fucking snapped.”
+
+•        Page 219
+
+“…And then as soon as they let me out of the handcuffs, I remember running inside, grabbing a knife, running downstairs, running through an open door and stabbing Neema…”
+
+•        Page 225
+
+“I pretty much just lost control.”
+
+[44]   For a moment I want to go back to a portion of Mr. Steele’s statement that Mr. Miller cited as evidence that could support an inference that Mr. Steele had a plan to murder Mr. Barati. On page 85 of the transcript of Mr. Steele’s interrogation, the portion referenced by the Crown was followed by additional comments by Mr. Steele. The full sequence reads as follows:
+
+Mr. Steele:                    “…as soon as they [referring to the police] let me go there, I frigging went in, grabbed a knife and stabbed him.”
+
+D/Cst. Jefferies:             “Was that your plan after the police let you go?”
+
+Mr. Steele:                     “As soon as I got inside, yes.”
+
+D/Cst. Jefferies:            “Did you – when – before you got in the house, when you were going to the house, was that what you were thinking?
+
+Mr. Steele:                     “No. Not really. I wasn’t really – no. As soon as I got inside, I was just – I fucking ran into the kitchen, ran downstairs and that was it.”
+
+[45]   The Crown says the evidence from the preliminary inquiry is reasonably capable of supporting the inference that Mr. Steele had a plan to murder Mr. Barati. The direct evidence, Mr. Steele’s statement, says he did not. It was D/Cst. Jefferies who used the word “plan”. Mr. Steele consistently and repeatedly talked about losing control, snapping, grabbing whatever was in sight, running down the stairs as fast as possible etc. The closest Mr. Steele came to referencing a plan was when he said he was “on a mission” but taken with all his other statements, the only reasonable inference is that his “mission” was to hurt Mr. Barati.
+
+[46]   I note that Mr. Steele’s statements that he rushed down the stairs as fast as he could do not accord with the testimony of Chad Bunker. This will be a discrepancy for a jury to sort out. The Chad Bunker evidence could cause a reasonable jury to infer that Mr. Steele was mistaken or untruthful in his police interrogation that he grabbed up the knife and rushed to the basement. A jury could find that Mr. Steele took longer than his police statement indicates to put his hands on the knife and that he then walked rather than bolted down the stairs. However it is nothing better than conjecture to say that this could constitute evidence of planning and deliberation. There is nothing in Chad Bunker’s evidence about Mr. Steele’s actions in getting the knife and going down to the basement that supports an inference that Mr. Steele was implementing “a calculated scheme or design that has been carefully thought out, and the nature and consequences have been considered and weighed.” And there is nothing in this evidence that supports an inference that Mr. Steele was being “slow in deciding and cautious” and was “taking the time to weigh the advantages and disadvantages of his intended action.” (Nygaard, paragraph 18)
+
+[47]   A reasonable jury could not draw an inference from the Chad Bunker evidence that Mr. Steele had made a plan to kill Mr. Barati and was weighing the advantages and disadvantages of doing so as he walked down the stairs. This would be wholly speculative.
+
+[48]   I find there is no evidence upon which a reasonable jury properly instructed could infer that Mr. Steele had a plan to kill Mr. Barati and deliberated on that plan. All the eyewitness observations and the circumstantial evidence support is an inference that Mr. Steele intended to kill Mr. Barati. An intentional killing without more is not first degree murder. (Smith, paragraph 28)
+
+[49]   But that is not the end of the matter.  I must go on to consider whether there is some evidence that Mr. Steele had a plan to cause bodily harm to Mr. Barati that he knew was likely to cause his death and was reckless whether death ensued or not. Even if there is evidence of a plan in relation to this route to murder, for first degree murder I will still have to be satisfied that Mr. Steele deliberated on the plan before he began to stab Mr. Barati.
+
+[50]   The mental element for murder under section 229(a)(ii) has three components: (1) subjective intent to cause bodily harm; (2) subjective knowledge that the bodily harm is of such a nature that it is likely to result in death; and (3) recklessness as to whether death ensues. (Nygaard, paragraph 29; R. v. Banwait, 2010 ONCA 869 (CanLII), [2010] O.J. No. 5472, paragraph 57(C.A.); original verdict of first degree murder upheld [2011] S.C.J. No. 55) A “highly subjective mental element” must be present , “that of the intent to cause the gravest of bodily injuries that are known to the accused to be likely to cause death to the victim.” (Nygaard, paragraph 34) For a murder committed in accordance with the requirements of section 229(a)(ii) to be first degree murder, “The planning and deliberation to cause the bodily harm which is likely to be fatal must of necessity include the planning and deliberation to continue and to persist in that conduct despite the knowledge of the risk.” (Nygaard, paragraph 31) A properly instructed jury would have to be told that: “…the accused must plan and deliberate causing bodily harm of a kind the accused knows is likely to cause death and must be cautious not to jump to a conclusion that the accused planned that degree of harm and recognized the likelihood of death simply because the bodily harm the accused actually caused resulted in death.” (Banwait, paragraph 63)
+
+[51]   The Ontario Court of Appeal in Banwait indicated the following would constitute proper instructions to a jury being asked to consider making a finding of first degree murder under sections 231(2) and 229(a)(ii):
+
+(i)   the accused planned and deliberated causing bodily harm;
+
+(ii) the accused recognized, while planning and deliberating, that
+
+the bodily harm she was planning was likely to cause the victim's death and proceeded with her plan not caring whether death ensued; and
+
+(iii)the fact that the manner of carrying out a general plan to cause bodily harm results in the victim's death is not sufficient, in itself, to ground a finding of planned and deliberate first degree murder under s. 229(a)(ii). (Banwait, paragraph 64)
+
+[52]  There is no evidence that Mr. Steele had a specific plan to cause bodily harm of such a kind to Mr. Barati that Mr. Steele “actually recognized in advance” of the attack would cause Mr. Barati’s death. (Banwait, paragraph 70) For a committal for first degree murder, there would have to be some evidence that Mr. Steele “recognized the likelihood of death during the planning and deliberation process.” (Banwait, paragraph 71, emphasis in original)
+
+[53]   The standard for the “highly subjective element” for section 229(a)(ii) murder is not that Mr. Steele ought to have known but that he actually knew that stabbing Mr. Barati with the knife was likely to kill him and went ahead anyway. But even if it could be inferred on the basis of Mr. Bunker’s testimony about Mr. Steele’s rummaging around in the utensil drawer for five or ten minutes that he was looking for a particularly lethal knife to do Mr. Barati the maximum amount of harm – and it is very hard to view this as anything better than speculative - I have been unable to find any evidence that, as is required for first degree murder, Mr. Steele made a plan in advance and then deliberated on the likelihood that the bodily harm would cause death. There is no evidence upon which a reasonable jury properly instructed could draw this inference.
+
+[54]   It is pure speculation that Mr. Steele’s pacing in the street was him formulating a plan to cause lethal bodily harm to Mr. Barati or deliberating on doing so – weighing the advantages and disadvantages of his intended action. Mr. MacDonald was very certain he observed this at 3:26 a.m. This was well before the EHS attended at 4:07 a.m. to check Mr. Steele out following the fight in the street with Mr. Barati. And altogether aside from the timing, I do not see how an inference could be drawn from Mr. MacDonald’s evidence that Mr. Steele was deliberating on a plan to kill or inflict lethal bodily harm on Mr. Barati.
+
+[55]   None of Mr. Steele’s other actions – breaking the door into the house, asking Mr. Bunker to help him, sneaking the knife down to the basement, or wanting Ms. Girard out of the basement bedroom support the inference that he had planned and deliberated the bodily harm and knew it was likely to cause Mr. Barati’s death. There is nothing in the evidence that remotely suggests any deliberation on Mr. Steele’s part before he stabbed Mr. Barati.
+
+[56]   The Crown’s submissions included a reference to the decision of R. v. MacDonald from the Nova Scotia Court of Appeal. (2000 NSCA 60 (CanLII), [2000] N.S.J. No. 143) Mr. MacDonald was convicted of first degree murder in the shooting death of his friend, Vernon Rutland.  He shot Mr. Rutland point-blank in the head at close range. Mr. MacDonald’s girlfriend, Donna Reid, was present and witnessed the whole event. The Court of Appeal dismissed Mr. MacDonald’s appeal and made a passing comment on deliberation in its recital of the evidence in support of the first degree murder verdict. “He had given the matter enough thought in advance that he was comfortable about doing so [killing the victim] with a witness present.” (MacDonald, paragraph 100)
+
+[57]   The Crown submits that Mr. Steele stabbed Mr. Barati in full view of Ms. Girard. This, says the Crown, as in MacDonald, is some evidence of deliberation on Mr. Steele’s part. With respect, I disagree.
+
+[58]   In MacDonald, the Court noted Mr. MacDonald had told a jailhouse informant that he shot Mr. Rutland in front of Donna Reid because he trusted her. I presume this is what led the Court to find there was evidence presented to the jury of Mr. MacDonald deliberating before he pulled the trigger. The Court appears to have viewed Mr. MacDonald as considering the issue of Ms. Reid’s presence and deciding it was not a problem because she was trustworthy. Satisfied there was no disadvantage to proceeding to murder Mr. Rutland in front of her, he went ahead and shot him.
+
+[59]   The MacDonald case is not comparable to this case. There is no evidence about why Mr. Steele went and stabbed Mr. Barati with Ms. Girard in the room. No inferences can be drawn: to suggest that Mr. Steele had considered and weighed the advantages and disadvantages of having a witness present is nothing but empty speculation. There is nothing to support this being evidence of deliberation.

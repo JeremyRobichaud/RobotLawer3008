@@ -1,0 +1,497 @@
+﻿Trial Judge’s Reasons
+[20]           The trial judge found the respondent’s statements to be reliable evidence that the babies were born alive and abandoned immediately after birth. The time when they were born was consistent with the respondent’s work records, including her brief absences from work. The observations of her co-workers about her pregnancies and her denials also confirmed what she told the police. The denials were also consistent with the psychiatrists’ observations about her state of denial. He also found that her abandonment of the third baby lent weight to the credibility of her confession about the first two, including that she wrapped each in a towel, placed them in a garbage bag and then a dumpster. He concluded the respondent wilfully caused the death of her two newborn children.
+
+[21]           He then considered whether the Crown had proved beyond a reasonable doubt that the respondent was not fully recovered from the effects of giving birth and that her mind was not disturbed by the effects of giving birth when she abandoned her newborns.
+
+[22]           The trial judge reviewed the limited number of cases on infanticide. He noted that unless an expert’s opinion of mental disturbance is completely rejected, a reasonable doubt may arise.
+
+[23]           The trial judge considered the expert evidence, preferring the opinion of Dr. Smith. He listed his concerns with Dr. Hashman’s opinion including that Dr. Hashman had failed to refer to the important symptom of the respondent that she had stated many times that she had no idea what went through her mind and felt as if she was observing from outside her body. As well, the trial judge was concerned about the test used by Dr. Hashman when he concluded the respondent’s “balance of the mind was not disturbed”. The trial judge held that “balance of the mind” is not the test under section 233 of the Criminal Code. Dr. Hashman referred variously to acute mental disturbance, significant mental illness and mental disorder, which the trial judge held were not necessary to establish a disturbance of the mind. He held the Crown set the bar too high for establishing that a mind is “disturbed”.
+
+[24]           Looking at the case as a whole, the trial judge noted the respondent had no criminal record, no psychopathic or sociopathic tendencies, delivered the babies at home, put them in a dumpster thinking someone might help them, and for the third baby, sat outside and watched the police activity at the dumpster. He concluded that the bizarre actions, together with Dr. Smith’s opinion demonstrated that the respondent’s mind was disturbed as a result of the births.
+
+[25]           Accordingly, the trial judge found the respondent not guilty of murder but guilty of two counts of infanticide.
+
+Grounds of Appeal
+[26]           The Crown appeals on the grounds the trial judge erred:
+
+•         in applying the law of infanticide;
+
+•         in his consideration of the expert evidence; and
+
+•         in failing to provide adequate reasons to allow for meaningful appellate review.
+
+Standard of Review
+[27]           Under section 676(1)(a) of the Criminal Code, the Crown may appeal an acquittal, without leave, on any ground of appeal that involves a question of law alone. To obtain a new trial, the Crown must satisfy the appellate court with a reasonable degree of certainty that “the error (or errors) of the trial judge might reasonably be thought, in the concrete reality of the case at hand, to have had a material bearing on the acquittal”; however, the Crown need not show that the verdict would necessarily have been different: R v Graveline, 2006 SCC 16 at para 14, [2006] 1 SCR 609.
+
+Analysis and Decision
+[28]           The acquittals appealed from are based on section 222(4) of the Criminal Code. Under the Criminal Code, culpable homicide is either murder or manslaughter or infanticide. Therefore if a killing is infanticide, it cannot be murder. The relevant definition of infanticide in this case is contained in section 233.
+
+[29]           Infanticide was introduced into the Criminal Code by way of an amendment in 1948. The Canadian legislation was based upon and closely tracked the Infanticide Act, 1922 (UK), 12 and 13 Geo V, c 18. The English Act was amended in 1938 but those amendments did not find their way into the subsequent Canadian legislation. In 1954, several amendments were made to the infanticide provisions of the Criminal Code.
+
+[30]           The comment sometimes appears in the reports that infanticide was introduced into the criminal legislation firstly in Great Britain and latterly Canada as the culmination of a long struggle for legislation that drew a distinction between mothers who killed their newborn children and other forms of culpable homicide. In years past, juries had consistently demonstrated a strong reluctance to convict mothers of murder when they had killed their newborn children. No doubt that was motivated in no small measure by the fact that the punishment for murder at that time, in both Great Britain and in Canada, was death by hanging.[1]  
+
+[31]           What distinguishes infanticide from the other two types of culpable homicide is:
+
+(a)        the victim is newly-born,
+
+(b)        the victim is the accused’s child,
+
+(c)       the accused at the relevant time was “not fully recovered” (so her condition need not be florid),
+
+(d)      “her mind [was] then disturbed”, and
+
+(e)        the disturbance was caused by either “the effects of giving birth to the child”, or by “lactation consequent on the birth of the child”.
+
+Though elements (a) and (b) are straightforward, the other three are extremely woolly. Certainly established medical terminology is not used.
+
+[32]           In our view, Parliament used such vague language quite deliberately. As the history shows, one aim of Parliament was to let the Crown get a conviction for something in such cases. Murder has always had a very high minimum sentence. Few juries and likely not a large number of trial judges (if there is no jury) are very willing to convict such new mothers of murder or even manslaughter.
+
+[33]           The decision of the Ontario Court of Appeal in R v B(L), 2011 ONCA 153, leave to appeal to SCC refused, [2011] 4 SCR x (Note) [B(L)], held that infanticide is both a substantive offence and a partial defence to a charge of murder.
+
+[34]           In R v B(L), the trial judge had made a “tentative finding” of guilt of first degree murder with respect to each of the two charges before him. The trial judge then went on to consider infanticide and accepted that infanticide could provide a partial defence to murder, that is to say, if the requirements of section 233 were met, then an offence that would otherwise be murder would be reduced to infanticide. 
+
+[35]           The issue raised squarely on appeal to the Ontario Court of Appeal was whether  infanticide is both a substantive offence and a partial defence to a murder charge (as asserted by the respondent) or exclusively a substantive offence that may, in appropriate cases, be an included offence in a murder charge to be considered by the trier of fact if, and only if, the Crown had failed to prove murder (as was alleged by the appellant Crown).
+
+[36]           As explained by Mr. Justice Doherty at para 2 in writing on behalf of the court, the difference between the two characterizations can be very significant:
+
+Choosing between the two characterizations of infanticide has profound importance in a case like this one where a mother is charged with murdering her child. If infanticide provides a partial defence to murder, the mother will escape a murder conviction if the homicide falls within the purview of infanticide even though the Crown may prove all the essential elements of the crime of murder. If, however, infanticide operates only as a potential included offence on a murder charge, and if the Crown proves the essential elements of murder, the mother must be convicted of murder even though the homicide falls within the meaning of infanticide.
+
+[37]           In the course of coming to his conclusion that infanticide is both a substantive offence and a partial defence to a murder charge, Mr. Justice Doherty extensively reviewed the relevant provisions of the Criminal Code and their historical predecessors. For the purpose of this appeal there is no need for us to replow that ground.
+
+[38]           If a homicide fits within the definition of infanticide, “it is excluded by the operation of section 222(4) from the broader category of culpable homicides defined as murder”: R v B(L) at para 62.
+
+[39]           Therefore, it follows that infanticide is both a substantive offence and a partial defence to a charge of murder notwithstanding that in appropriate cases, it can also be considered by the trier of fact as an included offence to a charge of murder.
+
+Did the trial judge err in applying the law of infanticide?
+
+[40]           The Crown appellant noted that “disturbed” or “mental disturbance” is not defined in the Criminal Code. Based upon case law, the appellant submitted a threshold for disturbance applies. If any level of disturbance met the requirement, then no biological mother could ever be convicted of murder for intentionally killing her child within one year of birth. The appellant further argued that the trial judge failed to apply any legal standard for requisite mental disturbance, in particular, for determining whether depersonalization, being aware but feeling detached, satisfied the concept.
+
+[41]           The appellant also argued that the trial judge failed to appreciate relevant evidence relating to mental states, including the similar act evidence, pattern of repeated conduct, and the totality of the circumstances.
+
+[42]           For her part, the respondent argued that the trial judge did not err in interpreting section 233; rather he interpreted it with its plain meaning and did not need to incorporate a threshold. The trial judge reviewed the case law and concluded that the section does not include, and no case reads in, the phrase “balance of the mind”.
+
+[43]           The respondent further argued that the trial judge appreciated all the evidence before him and the appellant failed to demonstrate how the repeated subsequent behaviour showed that the respondent’s mind was not disturbed. The trial judge found neither psychiatrist suggested that the abandonments of the three newborns affected their opinion of the respondent’s mental condition.
+
+[44]           As stated above, the decision in R v B(L) at para 104 clearly established that infanticide is both a discrete indictable offence and a partial defence to murder under the terms of the present Criminal Code.
+
+[45]           Section 233 does not define what constitutes a “disturbed” mind. However it seems that Parliament set “a very low threshold, certainly far below that required for an individual to be regarded as not criminally responsible”: R v Coombs, 2003 ABQB 818 at para 14, 343 AR 212. Clearly it would seem that a diagnosis of mental disorder under the classification system in the DSM-V is not required. No such diagnosis was made in the respondent’s case.
+
+[46]           Where to draw the line in determining whether someone has a “disturbed” mind is not easy. In the trial decision of R v B(L) (2008), 2008 CanLII 45550 (ON SC), 237 CCC (3d) 215, 61 CR (6th) 179, the trial judge had stated at para 59 in part:
+
+[T]he disorder must not be so minimal that finding it crosses the threshold cheapens or disrespects the memory of the innocent victim. On the other hand, it must not be so severe as to be almost indistinguishable from a section 16 defence, nor should it inject into the mix something which Parliament apparently decided to exclude, the element of causation.
+
+[47]           The Crown is, in effect, seeking to establish a threshold and recommends in para 15 of the Appellant’s Factum that the test should be “the balance of the mother’s mind is disturbed”.
+
+[48]           The trial judge spent considerable time pointing out that “the balance of the mind” test used by the court-appointed expert is not the appropriate test and stated at page 1627 of the trial transcript that “An acute mental disturbance, significant mental illness, or a mental disorder are not necessary to establish a disturbance of the mind”.
+
+[49]           No doubt some of the apparent discrepancy arises because although section 233 no longer uses the phrase “the balance of the mind”, section 672.11(c) of the Criminal Code, that authorizes a court-ordered psychological assessment of the mother, does employ that phrase. Furthermore, “the balance of the mind” is also used in section 663, which section is not strictly applicable in this case since the respondent was not charged with infanticide but rather with second degree murder.
+
+[50]           When all is said and done, however, it is unlikely that Parliament intended any significant difference between the phrase “the balance of the mind” and the “mind is disturbed” for, inter alia, the following reasons:
+
+a)      There would be little utility to section 672.11(c) if it authorized an assessment to determine whether a person met a specific requirement of infanticide (i.e. a mind that is disturbed) if the assessment used a different standard (i.e. balance of the mind); and
+
+b)      It would be peculiar if section 663 allowed for a mother to be convicted of infanticide in the event that the Crown could not meet a standard (i.e. balance of the mind) that is different from that in the infanticide provision (i.e. mind that is disturbed).
+
+[51]           The Crown does concede in para 52 of the Appellant’s Factum that the phrases “mind is disturbed” and “the balance of the mind” are difficult to differentiate, but argues that some threshold level of mental disturbance is required.
+
+[52]           The death of a child is always deeply disturbing. Our colleague, Mr. Justice Martin, stated it well in R v Effert, 2011 ABCA 134 at para 33, [2011] 10 WWR 496 as follows:
+
+The death of a child is always extremely upsetting and a difficult matter to adjudicate dispassionately, even for those who are engaged in the administration of criminal justice on a fulltime basis. Such cruel and unnatural acts are hard to comprehend, particularly when they are committed by the child’s mother, whose instincts should be to protect and nurture.
+
+[53]           The facts of this case are particularly egregious and underscore the need for some standard to guard against the possibility that virtually “any level of disturbance . . . arising from the stress of giving birth would meet the requirements for infanticide “: Appellant’s Factum at para 52.
+
+[54]           Parliament knew full well that the various historic forms of the defence of insanity proved hard to satisfy. A precise definition of the mental state for manslaughter would not therefore have solved the problem of such new mothers usually going scot-free, but a few being convicted of murder.
+
+[55]           Words like “not fully recovered” and “disturbed” invite a trier of fact to resort to this alternative charge and acquit of murder, if that result seems just. Section 233 also implies that “the effects of giving birth”, and “the effect of lactation” can disturb a mother’s mind.
+
+[56]           By such vague language and implied causation, the trier of fact (usually a jury) and the Crown prosecutor are given a lot of elbow room and several hints.
+
+[57]           It is true that killing an infant is morally and socially grave, probably as bad as killing an adult.
+
+[58]           But Parliament was not working from abstract moral or legal principles. It was responding to many juries’ refusals to acquit, plus a few sad murder convictions and consequent grave sentences.
+
+[59]           This is a social and pragmatic decision by Parliament and no one argues that the Charter bars that decision. The aim was to leave these cases to juries (or trial judges sitting alone), not to appeal courts.
+
+[60]           The opportunity has existed for Parliament either to re-configure the defence, abolish it, or change the onus of proof. Parliament has chosen not to do so. In that light, it is not open to this Court to revise the location of the onus of proof. Furthermore, Parliament does not legislate to no purpose, so it is clear that infanticide must occupy a realm of circumstances which would otherwise appear to be murder or manslaughter but are not proven to be so.
+
+[61]           There has been considerable criticism of the infanticide provisions as being based upon outdated science. There may be some merit to such criticism. However, whether the infanticide provisions should remain as is, or be changed in some substantive manner, or indeed be abolished altogether are questions for Parliament, and not the courts, to determine.
+
+[62]           In the result, we see no error on the part of the trial judge in his analysis of the law of infanticide as it currently exists or the law generally, and we therefore dismiss this ground of appeal.[2]
+
+Did the trial judge err in his consideration of the expert evidence?
+
+[63]           The appellant argued that the trial judge erred in his consideration of the expert evidence. He failed to mention differences between what the respondent told Dr. Smith and the evidence in court, failed to address inconsistencies in Dr. Smith’s evidence, and failed to refer to the facts necessary to support the expert opinion. The appellant argued that the trial judge adopted the respondent’s expert’s opinion and failed to determine the ultimate issue himself.
+
+[64]           The respondent argued the trial judge did not err in his consideration of the expert evidence. The Crown at trial did not take the position that there was an absence of evidence to substantiate Dr. Smith’s opinion. The respondent asserted that the appellant should not be allowed to advance a new theory on appeal. She submits Dr. Smith’s report and testimony explained how her opinion was grounded in the evidentiary record, the self-reports to Dr. Smith were highly consistent with her self-reports to the police, and that any discrepancies were trivial. Dr. Smith did not need to press the respondent during interviews because she did not appear defensive, vague or evasive. The respondent submits that the experts did not lead character evidence but reviewed it in assessing the respondent’s mental health history.
+
+[65]           The respondent further argued that the Crown’s complaint about the weight given to Dr. Smith’s opinion is not an error of law and in any event, the trial judge did not err in his consideration of expert opinion and did not adopt Dr. Smith’s opinion as his judgment. She asserted that the trial judge accepted the significant symptoms of depersonalization along with his review of the evidence as a whole to determine that the Crown had not disproven infanticide.
+
+[66]           As often happens in cases involving infanticide, the trial became a “battle of the experts”. At the end of the day, the trial judge preferred the evidence of Dr. Smith, the expert called on behalf of the respondent, over that of Dr. Hashman, the court-appointed expert.
+
+[67]           The trial judge reviewed succinctly, yet thoroughly, both the qualifications and opinions of both experts, and then went on to explain why he preferred the evidence of Dr. Smith. Specifically he stated at pages 1627 to 1628 of the trial transcript in part as follows:
+
+I find that Dr. Hashman was not using the correct test in assessing the accused for the test of infanticide. “Balance of the mind” is not in Section 233 of the Criminal Code. An acute mental disturbance, significant mental illness, or mental disorder are not necessary to establish a disturbance of the mind, see Guimont and Coombs.
+
+The Crown says to accept Dr. Smith’s opinion is to set the bar too low.
+
+...
+
+The defence says to accept the Crown’s approach is to set the bar too high. I agree.
+
+I accept the opinion of Dr. Smith that the accused’s actions in disposing of her newborn infants are explained by “her mind being disturbed as a result of her not yet having fully recovered from the effects of giving birth”. I also look to the case as a whole. The accused is a woman with no criminal record and no psychopathic or sociopathic tendencies. She delivered three babies alone at home, wrapped each of them in a towel and then put them in a dumpster. She thought someone might “help them”. For the third newborn, knowing that the police were at the scene, she sat outside her house wrapped in a bloody blanket watching the activity at the dumpster.
+
+Her abandonment of her children is absolutely contrary to the nurturing that humankind depends on for its propagation. I refer again to Martin J.’s quote at the beginning of this judgment.
+
+These bizarre actions, with Dr. Smith’s opinion, tell me that her mind was disturbed as a result of these births. I should add that neither psychiatrist suggested that three abandonments of newborns affected their opinions about her mental condition.
+
+[68]           At trial, the appellant Crown had argued that less weight should be afforded Dr. Smith’s opinion, not on the basis of lack of evidentiary foundation, but on the basis that the respondent’s denial and low grade depression were pre-existing conditions not connected to birth. The Crown therefore argued that this only left symptoms of depersonalization which were not significant enough to meet the test of “disturbed” in section 233.
+
+[69]           On appeal, counsel for the appellant pointed out that a portion of Dr. Smith’s expert testimony was based upon statements made to her that were contrary to the evidence that was properly before the court. Specifically, the appellant in its factum at para 84 listed what it claims to be five key discrepancies between what the respondent told Dr. Smith in her interviews (which interviews were not in evidence at trial) and the evidence that was before the court. A careful review of the alleged inconsistencies largely supports the appellant’s contention.
+
+[70]           The respondent asserts that on appeal the appellant advanced a different argument with respect to Dr. Smith’s evidence than it had at trial and therefore objected to this argument being raised. In our view, the respondent’s objection must fail. Before this court, the appellant was not contradicting its position at trial, nor was it advancing a new theory of liability. The appellant did not contend that Dr. Smith was not a qualified expert nor did it argue that she was not entitled to use her interviews with the respondent as a basis for her opinion. Nor was the appellant arguing that Dr. Smith’s report should be subject to a new test of admissibility. Rather the appellant took issue with the trial judge’s use and reliance upon what the respondent was reported to have said in those interviews, particularly given that the interviews themselves were not admitted as evidence and were contradicted by other evidence that was properly before the trial court.
+
+[71]           The issue, therefore, becomes whether the trial judge’s failure to even mention, much less attempt to resolve, the discrepancies relied upon by Dr. Smith and this other evidence, constitute an error of law.
+
+[72]           As pointed out by this court in R v Hardy, 2001 ABCA 101 at paras 102-103, 281 AR 57, referencing R v Lavallee, 1990 CanLII 95 (SCC), [1990] 1 SCR 852, [1990] SCJ No 36, “psychiatrists and psychologists routinely use second-hand information, and are not thereby debarred” from giving their expert opinion at trial. That said, the law is clear that the more an expert relies on facts not proven in evidence, the less weight should be given his opinion.
+
+[73]           Recently, the Ontario Court of Appeal reiterated this position in R v C(M), 2014 ONCA 611 at para 70, 314 CCC (3d) 336 as follows:
+
+For example, a psychiatrist proffers an opinion about criminal responsibility based on an account of events provided to him or her by an accused... Where the factual premise of the expert’s opinion is not established by otherwise admissible evidence, the opinion is entitled to less, in some cases, to no weight: R. v. Abbey, 1982 CanLII 25 (SCC), [1982] 2 S.C.R. 24 (S.C.C.) at p. 46; and R. v. Lavallee, 1990 CanLII 95 (SCC), [1990] 1 S.C.R. 852 (S.C.C.), at p. 893.
+
+[74]           Although in our opinion it was an error on the part of the trial judge not to have addressed and dealt with the discrepancies between some of the information relied upon by Dr. Smith in coming to her opinion and the facts that were in evidence before the Court, this ultimately goes to the weight that should have been accorded Dr. Smith’s opinion and does not constitute an error in law. There was certainly much information relied upon by Dr. Smith that was properly in evidence before the trial court. This, therefore, goes to the issue of the weight to be accorded to Dr. Smith’s evidence and not to its admissibility. In our opinion, therefore, this does not raise a question of law.
+
+[75]           The trial judge found that the respondent honestly believed that things would somehow work out. In other words, he found that the respondent was operating in a sort of individualized pocket of unreality that persisted in the period shortly following the births. The Crown has not persuaded us that there was an error of law in the trial judge’s conclusion in this regard.
+
+[76]           In the result, this ground of appeal must fail.
+
+Did the trial judge err in failing to provide adequate reasons?
+
+[77]           The appellant argued that the trial judge’s reasons were inadequate for appellate review because they did not relate the evidence to the issue, that is to say, to the requisite mental disturbance and whether the legal threshold was met.
+
+[78]           For her part, the respondent asserted that the trial judge gave adequate reasons, and did not misapprehend or fail to consider the evidence. She argued that the trial judge’s reasons should be considered in the context of the whole trial. Specifically, the issues were whether the respondent’s statements about the babies being born alive were sufficiently reliable for proof beyond a reasonable doubt, and whether infanticide had been disproven. The respondent pointed out that the Crown’s position at trial focussed on the evidence not meeting the threshold of mental disturbance. The trial judge’s reasons responded to the arguments made at trial and he required no elaborate recitation of the facts because they were not in issue.
+
+[79]           Reasons that fail to be sufficiently intelligible to permit appellate review on the correctness of the decision are an error in law: R v Sheppard, 2002 SCC 26 at para 28, [2002] 1 SCR 869. That said, appellate courts are to consider the sufficiency of a trial judge’s reasons “as a whole, in the context of the evidence, the arguments and the trial, with an appreciation of the purposes or functions for which they are delivered”: R v REM, 2008 SCC 51 at para 16, [2008] 3 SCR 3.
+
+[80]           In REM, the Supreme Court of Canada summarized at para 35 the effect of the case law as follows:
+
+(1)        Appellate courts are to take a functional, substantive approach to sufficiency of reasons, reading them as a whole, in the context of the evidence, the arguments and the trial, with an appreciation of the purposes or functions for which they are delivered [citations omitted].
+
+(2)        The basis for the trial judge’s verdict must be “intelligible”, or capable of being made out. In other words, a logical connection between the verdict and the basis for the verdict must be apparent. A detailed description of the judge’s process in arriving at the verdict is unnecessary.
+
+(3)        In determining whether the logical connection between the verdict and the basis for the verdict is established, one looks to the evidence, the submissions of counsel and the history of the trial to determine the “live” issues as they emerged during the trial.
+
+
+[81]           The Supreme Court of Canada went on in REM to state at para 43 that what is required is that the trial judge’s reasons, when “read in the context of the record and the submissions on the live issues in the case, show that the judge has seized the substance of the matter”.
+
+[82]          In our view, the trial judge’s reasons are adequate to permit meaningful appellate review. He “seized” the substance of the matter at issue in this case, that is, whether or not at the time she killed her babies, the respondent was fully recovered from the effects of giving birth and, by reason thereof, whether her mind was then “disturbed”.
+
+[83]        Furthermore, as explained above, it is clear from the trial judge’s reasons that he did not adequately deal with some significant discrepancies between the evidence that was before the court and certain statements relied upon by Dr. Smith, thereby suggesting an error(s) on his part. However as explained above, these do not equate to an error of law. Therefore in this sense the trial judge’s reasons have allowed for meaningful appellate review.
+
+[84]        Accordingly, this ground of appeal is dismissed as well.
+
+[85]        One last observation should be made. As an appellate court, we are not to embark on a journey of discovery involving a review of facts and expert opinion that were not properly in evidence before the trial judge (or judge and jury) in the matter under appeal. It is trite law that this appeal must be decided based upon the existing legislative regime in Canada, the applicable case law, and the evidence (both expert and lay) that was before the court below.
+
+Conclusion
+[86]           This court can only allow the Crown’s appeal on a ground of appeal that involves a question of law alone.
+
+[87]           This trial judge considered the relevant statute and reported cases. The expert evidence before him conflicted in a significant way, and he preferred one expert’s conclusion over that of the other.
+
+[88]           The only way to find an error which “involves a question of law alone” would be to make new law and interpret one or more of the woolly words or phrases in section 233 more narrowly, injecting a good deal of the Court of Appeal’s own analysis and philosophy. In view of the history, that would override Parliament’s decision to do the opposite.
+
+[89]           Making it hard to convict of infanticide would simply produce more outright acquittals, either directly or via fewer charges of infanticides. That result would be as paradoxical as the pre-1948 situations and following much the same route.
+
+[90]           In the result, in our view the appeal must be dismissed.
+
+Appeal heard on December 4, 2014
+
+ 
+
+Memorandum filed at Calgary, Alberta
+
+this 8th day July, 2015
+
+ 
+
+Côté J.A.
+
+ 
+
+ 
+
+McDonald J.A.
+
+Wakeling, J.A. (Dissenting)
+
+ 
+
+I.                  Introduction
+
+[91]           The trial judge convicted Meredith Katharine Borowiec of two counts of infanticide[3] and acquitted her of two counts of second degree murder.[4]
+
+[92]           The Crown appeals the not guilty verdicts and seeks a new trial on the second degree murder counts.
+
+II.               Questions Presented
+
+[93]           Infanticide is a partial defence to murder.
+
+[94]           Section 233 of the Criminal Code stipulates that this defence is available “if by a wilful act or omission [the accused causes the death of her newly-born child when she] ... is not fully recovered from the effects of giving birth to the child [whose death she caused] and by reason thereof or of the effect of lactation consequent on the birth of the child her mind is then disturbed”.
+
+[95]           What are the benchmarks of a “disturbed” mind attributable to a recent act of giving birth?
+
+[96]           Did the trial judge and the two psychiatrists who opined on the accused’s state of mind apply these benchmarks when they considered whether the defence of infanticide assisted Ms. Borowiec? Did they use any standard?
+
+[97]           If neither the trial judge nor the two psychiatrists applied the benchmarks for a disturbed mind, is it necessary to order a new trial?
+
+III.            Brief Answers
+
+[98]           A woman has a disturbed mind if (a) her psychological health is substantially compromised because she recently gave birth and she has a newborn to care for and (b) as a result, her ability to make rational decisions which promote the best interests of her newly born child is substantially impaired.
+
+[99]           The trial judge and the two psychiatrists who gave expert opinion evidence did not apply this standard or any other standard when they considered whether Ms. Borowiec, at the time she caused the death of her infant, had a disturbed mind on account of giving birth.
+
+[100]      If archers fire their arrows into a void and not at a target, no observer can adjudge whether any of the arrows hit their mark. In essence, this is what happened here.
+
+[101]      This appeal must be allowed and a new trial ordered.
+
+IV.            Applicable Criminal Code Provisions
+
+[102]      Sections 16(1), 222(1) and (4), 233, 237, 663, 672.11(c), 676(1)(a) and 686(4) of the Criminal Code are set out below:
+
+16(1) No person is criminally responsible for an act committed or an omission made while suffering from a mental disorder that rendered the person incapable of appreciating the nature and quality of the act or omission or of knowing that it was wrong.
+
+...
+
+222(1) A person commits homicide when, directly or indirectly, by any means, he causes the death of a human being.
+
+...
+
+(4) Culpable homicide is murder or manslaughter or infanticide.
+
+...
+
+233 A female person commits infanticide when by a wilful act or omission she causes the death of her newly-born child, if at the time of the act or omission she is not fully recovered from the effects of giving birth to the child and by reason thereof or of the effect of lactation consequent on the birth of the child her mind is then disturbed.
+
+...
+
+237  Every female person who commits infanticide is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years.
+
+...
+
+663  Where a female person is charged with infanticide[5] and the evidence establishes that she caused the death of her child but does not establish that, at the time of the act or omission by which she caused the death of the child,
+
+(a) she was not fully recovered from the effects of giving birth to the child or from the effect of lactation consequent on the birth of the child, and
+
+(b) the balance of her mind was, at that time, disturbed by reason of the effect of giving birth to the child or of the effect of lactation consequent on the birth of the child,
+
+she may be convicted unless the evidence establishes that the act or omission was not wilful.
+
+...
+
+672.11 A court having jurisdiction over an accused in respect of an offence may order an assessment of the mental condition of the accused, if it has reasonable grounds to believe that such evidence is necessary to determine
+
+...
+
+(c) whether the balance of the mind of the accused was disturbed at the time of the commission of the alleged offence, where the accused is a female person charged with an offence arising out of the death of her newly-born child.
+
+...
+
+676(1) The Attorney General or counsel instructed by him for the purpose may appeal to the court of appeal
+
+(a) against a judgment or verdict of acquittal ... of a trial court in proceedings by indictment on any ground of appeal that involves a question of law alone ... .
+
+...
+
+686(4) If an appeal is from an acquittal ... , the court of appeal may
+
+(a) dismiss the appeal; or
+
+(b) allow the appeal, set aside the verdict and
+
+(i) order a new trial ... .
+
+V.        Statement of Facts
+
+[103]      An indictment dated July 10, 2012 charged Ms. Borowiec with two counts of second degree murder relating to the death of a single newborn in each of 2008 and 2009. Ms. Borowiec was in her late twenties when she gave birth to her children.
+
+[104]      On October 19, 2010 a passerby discovered a crying baby in a dumpster and alerted the Calgary Police Service. Ms. Borowiec admitted that the baby was hers and that she had just placed the baby in the dumpster. Almost a year later Ms. Borowiec admitted that she had left two other newborns in a dumpster shortly after giving birth to them in 2008 and 2009.[6]
+
+[105]      The respondent’s coworkers strongly suspected that she was pregnant and asked her about her condition. She denied that she was pregnant, presenting several explanations for her changing physical appearance.
+
+[106]      The respondent’s common law spouse never suspected that she was pregnant. Ms. Borowiec kept the fact that she was pregnant to herself. He understood that Ms. Borowiec took birth control pills. He loved children and would have welcomed the arrival of a baby.
+
+[107]      Ms. Borowiec was employed when she gave birth to her three babies.
+
+[108]      The respondent never sought medical attention nor considered abortion as an option.
+
+[109]      Two psychiatrists testified. The Crown called Dr. Hashman[7] and Ms. Borowiec called Dr. Smith.[8]
+
+[110]      Neither of the expert witnesses stated in their written reports the standard they used to measure the existence of a disturbed mind. But, Dr. Hashman did describe the standard as he understood it in direct examination:[9] “[M]y understanding [of the test] is that a disturbance of the balance of the mind should not be so significant that it would reach the bar of a not criminally responsible assessment, but ... the person’s mental state shouldn’t be so minimal that it trivializes the death of the individual.”
+
+[111]      Dr. Hashman expressed the opinion that the accused’s balance of mind was not disturbed at the time she caused the deaths of her newborns. He based his opinion, in part, on the fact that Ms. Borowiec did not have a mental disorder, a mental illness or an acute mental disturbance.[10]
+
+[112]      Dr. Hashman probably held the opinion that a woman who has just given birth must have one or more of these medically recognized states to have a disturbed mind under s. 233 of the Criminal Code.
+
+ 
+
+ 
+
+ 
+
+[113]      Part of his s. 672.11(c)[11] report reads as follows:[12]
+
+[I]t is my opinion that Ms. Borowiec’s balance of mind was NOT disturbed at the time of the commission of the alleged offences with respect to the death of her infants in 2008 and 2009. Ms. Borowiec did not present with any acute mental disturbance of mood, anxiety or psychosis (impaired contact with reality) at the time of these offences or during her current admission to the forensic unit. Her detailed recollection of giving birth to the babies, disposing of their bodies and immediately returning to her normal routine (including work) are inconsistent with the presence of a disturbance of the balance of the mind at and around the time of the alleged offences. Rather, Ms. Borowiec presents as an individual with reported difficulties during her formative years, low self-esteem, fears of losing the support of her partner and the use of passivity and denial as coping mechanism in an individual not prepared to take on parenthood. She clearly indicated on a number of occasions that “she wasn’t prepared to have a baby ... I never wanted kids ... I just wanted it to go away ... I wanted it to be over.”
+
+...
+
+... Despite Ms. Borowiec’s formative years, she appears to have obtained a reasonable level of education and steady employment. It appears, however, that she has had longstanding concerns with becoming a mother that she will become like her own mother. It is in this context that it appears that Ms. Borowiec did not want children and would deny the existence of her pregnancy to herself and others. She was, however, aware of all three pregnancies and coped with her circumstances with passivity and denial as opposed to seeking alternate remedies. Ms. Borowiec currently does not present with any acute mental disturbance but remains in a vulnerable position given her current legal circumstances and fourth pregnancy due on July 21, 2012.
+
+Neonaticide is a form of infanticide in which infants are killed within the first 24 hours. Individuals that commit neonaticide are typically young with a mean age of 23 years ... . These individuals typically deny the pregnancy, are emotionally immature, socially isolated and have a lack of support. Very few have prenatal care. Almost all give birth alone at home or in a public washroom. ... [T]he most frequent motive (83%) ... is an unwanted child where young mothers lack the emotional capacity to cope or to take responsibility for the pregnancy. It is in this regard that Ms. Borowiec presents as an individual who has given birth to unwanted children as she “just wanted (them) to go away ... I was scared of facing the reality of the situation ... I wanted it to be over”. Most women who commit neonaticide do NOT suffer from a mental disorder or “disturbance of the balance of the mind” as is the case with Ms. Borowiec. Furthermore, Ms. Borowiec’s repeated pattern of behaviour in all three pregnancies is consistent with her reliance on a method that has been successful in resolving her dilemma of having an unwanted child.
+
+Although Ms. Borowiec does not present with any acute mental disturbance she presents with significant issues related to family of origin dysfunction, low self-esteem and inadequate coping mechanisms ... .
+
+[114]      Dr. Smith agreed with Dr. Hashman on many points.[13] She concluded that Ms. Borowiec did not have an antisocial personality disorder and did not suffer from a psychotic illness (schizophrenia, bipolar disorder or puerperal psychosis) or an organic brain disorder or intellectual limitations.
+
+[115]      But she parted company with her colleague on the question whether Ms. Borowiec had a disturbed mind. I will reproduce a significant portion of her opinion because it reveals the forces which Dr. Smith believes affected the respondent’s conduct. [14] Part of her written opinion, which she largely repeated while testifying, is set out below:[15]
+
+44 ... Based on the information provided by Ms. Borowiec, her personality is characterized by prominent avoidance traits such as chronic feelings of inadequacy, low self-esteem, social inhibition, avoidance of conflict, lack of confidence and hypersensitivity to negative evaluation/criticism, which have served to hold her back in life leading to general underachievement and difficulty forming close confiding relationships that involved trust. Her tendency to avoid thinking about potential anxiety provoking situations or difficult decisions and to engage in denial would be consistent with an avoidance personality. ... Such personality traits are fertile ground for the development of depression and it would appear that Ms. Borowiec has been prone to chronic, low-grade depression symptoms for much of her life.
+
+45 ... [I]t is my opinion that Ms. Borowiec was ambivalent about having children. She had never consciously wanted to become a mother, partly as she felt overwhelmed by the prospect, perceiving herself to be inadequate in every way and assuming that she would inevitably be a failure as a parent. ... Ms. Borowiec also dreaded that she would turn out to be like her own mother, whom she perceived to have neglected her children and failed to meet their needs. However, at the same time Ms. Borowiec liked and felt comfortable with children and for the first time in her life was in a relationship with a man who treated her well and did want children with her. She was also aware of a biological urge to have a child. ... I strongly suspect that her inconsistent use of contraception ... was the product of these conflicting internal urges. ... [H]er subsequent denial of the pregnancies also flowed from this ambivalence together with her prominent avoidant personality traits, in particular her need to avoid perceived conflict or judgment.
+
+46 Denial when used as a psychological term is an unconscious psychological process or defence mechanism that occurs when an observation or an established fact that is consciously unacceptable is ignored or disavowed, in order to reduce emotional conflict/pain or anxiety. ... Denial of pregnancy is surprisingly common ... . ... [S]tudies suggest that approximately one in ... 2500 women [are] still ... in denial ... when labour commences ... . There appears to be a continuum of pregnancy denial behaviours. At one end of the continuum, the mother is aware of the pregnancy but chooses to ignore and conceal it while at the other end the mother is in full-blown denial. Between the two extremes are women who have intermittent awareness or a suspicion of pregnancy that is subsequently recompartmentalized or pushed from conscious awareness. Denial of pregnancy has been classified into psychotic and non-psychotic denial. In psychotic denial the mother’s delusional beliefs cause her to deny her pregnancy. Non-psychotic denial has been further subclassified into affective, persuasive and persistent denial. In affective denial, the woman is intellectually aware of the pregnancy but makes little or no emotional or physical preparation for birth. In pervasive denial the very existence of the pregnancy as well as the emotional significance are kept from conscious awareness. The woman is completely unaware she is pregnant. Persistent denial occurs when the woman’s denial persists through the pregnancy.
+
+47. In Ms. Borowiec’s case she appears to have experienced pervasive and persistent denial in both her pregnancies. However, with the second pregnancy from about six months onwards there was some intermittent and partial awareness of the pregnancy that was pushed from conscious awareness until she went into labour. ... Furthermore following the delivery of the babies the denial once again took over, allowing the reality and horror of what happened and what she had done to be pushed from conscious awareness. ...
+
+48. Not all women who deny their pregnancy harm their babies although neonaticide is often preceded by pregnancy denial. ... When neonaticide occurs following psychotic denial of pregnancy it is more likely that there is an active killing of the baby by means such as suffocation or strangulation. However with neonaticide following non-psychotic denial of pregnancy it is usually a passive death from maternal negligence, abandonment or exposure. Such women are often in a state of panic and become acutely confused, with depersonalization (disassociation) and disorientation occurring at the time of delivery and following the birth. ... In my opinion Ms. Borowiec falls into the latter category.
+
+49. Disassociation refers to a detachment from reality rather than a loss of contact with reality as seen in psychotic disorders such as schizophrenia. Depersonalization is a symptom of disassociation (feeling disconnected from one’s body; feeling as though one is not completely occupying one’s body; not feeling in control of one’s speech and movements; feeling detached from one’s thoughts or emotions; a sense of automation, going through the motions of life but not experiencing it or participating in it; feeling as though one is in a dream and out of body experiences). Following an episode of disassociation there is often a degree of amnesia. Disassociation can be caused by extreme stress, traumatic events and panic.
+
+50. The description that Ms. Borowiec gave to me of how she felt during and immediately following the deliveries in 2008 and 2009, i.e. “as if looking in through a window or down from a cloud” at herself ... is highly consistent with disassociation and depersonalization. ... In this disassociated state she was not even aware of the considerable pain usually associated with labour. ...
+
+51. On each occasion in 2008 and 2009 Ms. Borowiec unexpectedly went into labour following pervasive and persistent denial of the pregnancies. Because of the pervasiveness of the denial she did not at first realize what was happening to her, became highly anxious and began to panic. The extreme panic associated with the delivery triggered significant dissociative symptoms, in particular depersonalization, which in turn impaired her ability to think clearly, to accurately perceive and judge her situation, to make reasonable decisions and to control her behaviour. This pattern of pregnancy denial, anxiety, panic and depersonalization triggered by the delivery leading to neonaticide is one that is well recognized in the psychiatric literature. ... [I]n my opinion Ms. Borowiec’s actions in disposing of her newborn infants are explained by her mind being disturbed as a result of her not having fully recovered from the effects of giving birth.
+
+[116]      The trial judge carefully considered the conflicting opinions and came to the following conclusion:
+
+I accept the opinion of Dr. Smith that the accused’s actions in disposing of her newborn infants are explained by "her mind being disturbed as a result of her not yet having fully recovered from the effects of giving birth". I also look to the case as a whole. The accused is a woman with no criminal record and no psychopathic or sociopathic tendencies. She delivered three babies alone at home, wrapped each of them in a towel and then put them in a dumpster. She thought someone might “help them”. For the third newborn, knowing that the police were at the scene, she sat outside her house wrapped in a bloody blanket watching the activity at the dumpster.
+
+Her abandonment of her children is absolutely contrary to the nurturing that humankind depends on for its propagation.  ...
+
+These bizarre actions, with Dr. Smith’s opinion, tell me that her mind was disturbed as a result of these births. I should add that neither psychiatrist suggested that three abandonments of newborns affected their opinions about her mental condition.
+
+[117]      Having concluded that the accused caused the death of her two infants before she had fully recovered from the effects of giving birth and that her mind was disturbed at the time, the trial judge acquitted Ms. Borowiec of the second degree murder charges and convicted her of two counts of infanticide.
+
+VI.      Analysis
+
+A.   In 1948 Parliament Introduced Infanticide as an Offence and a Partial Defence to Murder To Provide a Practical Legal Response to Mothers Who Caused the Death of Their Newborns
+
+[118]      On November 1, 1948, infanticide became a part of the law of Canada.[16] This amendment introduced a regime which resulted in the more lenient treatment of a subgroup of persons who committed culpable homicide.[17] Other jurisdictions also treat infanticide in a more lenient manner than other forms of homicide.[18]
+
+[119]      In Canada, before November 1, 1948, in theory, a mother who caused the death of her infant by means of an act or omission which she undertook with the intention that it would result in the death of her child or which she appreciated would likely result in the death of her child was guilty of murder. The sanction for murder was death.[19] A mother who caused the death of her infant by an act, objectively assessed, the mother must have realized presented the risk of bodily harm to her child was guilty of manslaughter. A person who committed manslaughter was liable to life imprisonment.
+
+[120]      But this is not what happened in practice. Jurors were so sympathetic to young mothers that they refused to convict for murder or manslaughter.[20] The Minister of Justice, in the course of debate on the infanticide bill, related to the House of Commons what actually happened when a mother caused the death of an infant:[21]
+
+[T]here are cases where the mother kills her newborn child, and that in the normal case of that kind it is useless to lay a charge of murder against the woman, because invariably juries will not bring in a verdict of guilty. They have sympathy for the mother because of the situation in which she has found herself. Therefore crown prosecutors ... if they are to obtain convictions lay charges of concealment of birth[22] ... . To a minor extent that brings the law into disrepute because the offence is murder; that is unless the woman is insane.
+
+[121]      This was not a partisan assessment. It was a view shared by the opposition. Mr. Diefenbaker, a prominent member of the opposition and a successful criminal trial lawyer, observed that[23] “[a]ny counsel for defence knows that juries, realizing that the woman suffers and the man escapes, will acquit in most cases, however strong the evidence may be”.
+
+[122]      Parliament, dissatisfied with the law’s inability to respond effectively and directly to the murder of the community’s most vulnerable members by those with a legal and moral obligation to provide care, adopted a pragmatic approach. It introduced the crime of infanticide. This concept declared infanticide a form of culpable homicide but attached a sanction not likely to deter jurors and judges from finding guilt. The Minister of Justice explained the government’s rationale for supporting the new measure this way:[24]
+
+It is a most undesirable situation that our law should be such that nobody will apply it properly. [By this amendment w]e are meeting not only public opinion as shown by the indisposition of juries to convict,[25] but also the wishes of experienced prosecuting departments who want a law that is susceptible of application.
+
+[123]      My review of the Criminal Code, as it was on November 1, 1948, compels me to conclude that Parliament created a distinct and additional legal response besides murder and manslaughter[26] for mothers who caused the death of their offspring to ensure that the criminal law had the capacity to attach consequences, however minimal they may be, to this form of culpable homicide.[27] It was a practical response.[28] It was not a declaration that Canadians regarded the life of a newborn as less valuable or less worthy of protection than any other life. Nor was it a declaration that it was acceptable for mothers of newborns to kill their offspring.[29] Had jurors historically not been reluctant to convict young mothers of murder because of the death penalty there would have been no need for this extraordinary criminal law.
+
+[124]      Subsequent Criminal Code amendments and judgments involving the deaths of newborns confirm the validity of these propositions. In An Act to amend the Criminal Code (sentencing) and other Acts in consequence thereof,[30] Parliament codified the common law sentencing values and stated that an offender who “abused the offender’s child ... shall be deemed to be an aggravating factor”. The Ontario Superior Court judgment in The Queen v. Day[31] demonstrates the value Canadians attach to young lives. It sentenced a nineteen-year old father who killed his twenty-month old infant to life imprisonment with no eligibility for parole for fifteen years.
+
+B.     The Meaning of One Concept Featured in Two of the Seven Elements of Infanticide – the Existence of a Disturbed Mind – Is Unclear
+
+[125]      There are seven essential elements of the infanticide concept. Only one – the existence of a disturbed mind – which is featured in two of the seven elements is unclear.
+
+[126]      I will first record the components of infanticide as a partial defence to a charge of murder under s. 233 of the Criminal Code.[32]
+
+[127]      First, the accused must be a female person. A male cannot claim the benefit of the infanticide defence. This element is straightforward.
+
+[128]      So is the second, which focuses on the characteristics of the victim. The victim must be under one year of age at the time of his or her death[33] and the offspring of the accused. For example, if a mother shortly after adopting a baby, gave birth and then killed the adopted infant, infanticide would not be a possible defence even if the adopted infant was under one year of age.[34] The adopted child would not be the offspring of the accused.
+
+[129]      The third element seldom presents any difficult problems. The mother must have caused the death of her newborn by a voluntary act or omission.[35] This is easy to illustrate. If the mother, while carrying her newborn, unexpectedly tripped and fell down a flight of stairs and her baby died as a result, there would be no voluntary act. The mother’s act of falling was not a willed muscular movement. A mother who smothers her infant by holding a pillow over her baby has caused the newborn’s death by a voluntary act.
+
+[130]      The fourth element is also easy to state and understand. Contemporaneous with a voluntary act or willed muscular movement on the part of the mother, she must have an awareness that bodily harm to the baby may be the consequences of her act.[36] Smothering an infant or leaving the child in a dumpster obviously meets this standard.
+
+[131]      Nor is the fifth element difficult to express or absorb. The mother, at the time of the act or omission, must not have fully recovered from the effects of giving birth to the child or of lactation consequent on the birth of the child.[37]
+
+[132]      The problem of uncertainty is associated with the use of the “disturbed mind” concept in the sixth and seventh elements.
+
+[133]      The sixth element is that the mother had a disturbed mind[38] at the time of the voluntary act or omission that caused the death of the infant.[39]
+
+[134]      The seventh element states that the mother’s disturbed mind must be caused by the fact that the mother had not fully recovered from the effects of giving birth to the victim or the lactation consequent to the birth of the child.[40]
+
+[135]      What is a disturbed mind? This is not a medical term. And it is not a defined term in the Criminal Code.
+
+[136]      I will answer this question in the next part.
+
+C.   The Criminal Code Provides Values Which Shape the Framework of a Disturbed Mind in Section 233 of the Criminal Code
+
+[137]      Ascertaining the distinguishing features of a “disturbed” mind, the central concept of s. 233 of the Criminal Code, is a difficult task. Although the concept was first adopted in the Infanticide Act 1922, ninety-three years ago, no court has constructed a definition comparable in detail to that utilized for insanity and its progeny.[41]
+
+[138]      A study of the Criminal Code allows one to start the search for the core meaning of the disturbed mind concept by stating four incontrovertible propositions.
+
+[139]      First, infanticide is one of the three forms of culpable homicide. Homicide is a very serious criminal offence. “The taking of another life represents the most serious crime in our criminal law”.[42] Infanticide is a very serious criminal offence.
+
+[140]      This fundamental fact supports the conclusion that Parliament intended infanticide to assist only mothers who have a substantial psychological problem. It cannot have been Parliament’s intention to bestow the benefit of this exculpatory concept on mothers who confront problems which most mothers of newborns face.[43]
+
+[141]      Second, a woman cannot have a disturbed mind just because she causes the death of her infant.[44] If Parliament intended to state that every mother who causes the death of her newborn is guilty of infanticide, as opposed to murder or manslaughter, it would have said so.[45] There would have been no need to introduce the disturbed mind concept. It would have been superfluous to do so.[46]
+
+[142]      Third, s. 237 of the Criminal Code stipulates that the maximum sentence for infanticide is imprisonment for a five-year term.[47] This is solid evidence that Parliament attached less blameworthiness[48] to infanticide than other forms of homicide. This lessens somewhat the consequences to be attached to the fact that infanticide is a subset of culpable homicide.
+
+[143]      Fourth, a mother who kills her newborn, while suffering from a mental disorder that rendered her incapable of appreciating the nature and quality of her act or omission or knowing that it was wrong, is not criminally responsible for killing her child.[49] The degree of mental abnormality required to absolve a mother of any criminal responsibility for the death of her child must be great. Not only must a mother suffer from a mental disorder, it must compromise her ability to process information accurately and evaluate possible courses of conduct.
+
+[144]      Parliament must have intended to introduce a different degree of mental abnormality when it adopted the infanticide concept[50] than was in place under the not criminally responsible standard incorporated into s. 16 of the Criminal Code. A mother who causes the death of her offspring while her mind is disturbed because she has not fully recovered from the effects of giving birth is still guilty of an indictable offence and liable to imprisonment for five years.
+
+[145]      Surely, Parliament, by adopting the “disturbed” mind concept in s. 233, has demonstrated that the degree of mental abnormality required to meet this standard need not be as great as that necessary to avoid criminal responsibility altogether.[51] How much less is shaped, in part, by the first three propositions.
+
+[146]      These four propositions provide considerable assistance in identifying the core aspects of the disturbed mind concept, by clearly excluding the parts of mental health spectrum that the core aspects cannot occupy.[52] This exercise, as necessary and as helpful as it is, does not end the inquiry. It is desirable to state the defining features with more precision.
+
+[147]      In taking this last step, it is important to remember the use the disturbed mind concept plays in correctly classifying the type of homicide a fact pattern presents.[53] Has the mother who has killed a newborn the degree of blameworthiness associated with murder, manslaughter or infanticide? Infanticide is reserved for those cases where the blameworthiness of the offender is sufficiently low that the consequences attendant upon a declaration to the community that the woman has committed infanticide is sufficient denunciation.[54]
+
+[148]      I have considered a number of possible solutions and settled on one which recognizes the magnitude of the crime of infanticide, does not entrench on the not-criminally-responsible concept embedded in s. 16 and ensures that not every mother may utilize the infanticide concept just because she has had the misfortune to cause the death of her own infant.
+
+[149]      My review of the Criminal Code leads me to conclude that a female person with a disturbed mind[55] demonstrates two traits.
+
+[150]      First, her psychological health must be substantially compromised so that it can be classified as an abnormal mental health state. This condition must arise because she gave birth to a child and has a newborn to care for. I have selected the adverb “substantially” because Parliament classified infanticide as a form of culpable homicide. Parliament would not have reduced the consequences for the commission of a serious crime committed in the context of a minor diminution of the mother’s psychological health.[56]
+
+[151]      The baby blues is a mild form of depression which affects so many women (fifty to eighty percent) that it is regarded as a normal mental health condition in the postpartum period.[57] “[P]ostpartum blues include transient symptoms and rapid mood shifts, including tearfulness, irritability, anxiety, insomnia, lack of energy, loss of appetite and the general experience of feeling overwhelmed – particularly with regard to newborn caregiving tasks”.[58] It typically starts between the third and tenth day after delivery and lasts for only a few days.[59] A woman experiences no impairment of her judgment as a result of this condition.[60]
+
+[152]      A woman with baby blues would not meet the first trait.[61]
+
+[153]      A mother with postpartum psychosis certainly would.[62] She would not be able to care for her child. “Women experiencing post-partum psychosis are grossly impaired in their ability to function, usually because of hallucinations or delusions.”[63] According to the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders,[64] “[i]nfanticide is most often associated with postpartum psychotic episodes that are characterized by command hallucinations to kill the infant or delusions that the infant is possessed, but it can also occur in severe postpartum mood episodes without such specific delusions or hallucinations”. A patient with a postpartum psychosis will experience “extreme deficits in judgment accompanied by high levels of impulsivity that may contribute to increased risks of suicide or infanticide (in 5 percent of psychotic women)”.[65] This is the most severe postpartum psychiatric ailment.[66] One or two women out of 1000 who give birth suffer from this condition.[67] Most women who develop postpartum psychosis display symptoms within four weeks following parturition.[68]
+
+[154]      A more severe form of postpartum depression than the baby blues but less debilitating than a psychotic state affects ten to fifteen percent of women.[69] For these women, the symptoms of the baby blues linger.[70] This condition is usually referred to as postpartum depression. The characteristics of postpartum depression are comparable to those women with depression experience at other times.[71] Its duration is measured in months and may adversely affect a woman’s ability to function.[72] “[W]omen experiencing post-partum depression will report low mood or prominent irritability and, in most cases, symptoms typical of depression such as sleep and appetite disturbance, fatigue, loss of interest, and guilt”.[73]
+
+[155]      Some women with the more severe presentation of this mental health condition may meet the first test.[74]
+
+[156]      Most women who cause the death of their offspring within twenty-four hours after birth would not appear to be in a position to argue that they did so while suffering from the baby blues, postpartum depression or postpartum psychosis. These conditions generally do not start until seventy-two hours postpartum.[75] “[N]eonaticides most commonly occur when the infant is unwanted. They are usually committed by women who are single, relatively young and of low socioeconomic standing, but who do not suffer from serious mental illness”.[76]
+
+[157]      Second, the abnormal psychological health condition must substantially impair the mother’s ability to make rational decisions which promote the best interests of her infant. The psychological health deficit need not be so substantial that is interferes with her ability to appreciate the nature or quality of an act or that it is morally or legally wrong. But it must be of such a nature that it adversely affects her judgment – her ability to assess how an act will impact the welfare of her newborn.
+
+[158]      Women with postpartum psychosis and those who present with the more serious forms of postpartum depression will display the traits incorporated in the second test.[77]
+
+D.   Neither the Trial Judge Nor the Two Psychiatrists Based Their Judgment or Opinion that Ms. Borowiec Did or Did Not Have a Disturbed Mind on an Understanding of the Traits of a Disturbed Mind As Set Out in This Judgment
+
+[159]      Not surprisingly, neither the trial judge nor either Dr. Hashman or Dr. Smith utilized the traits of a disturbed mind set out in the proceeding part of this judgment. It has not been formulated this way before.
+
+[160]      Surprisingly, given the central role the disturbed mind concept plays in the infanticide doctrine, Canadian appellate courts have not recorded its distinguishing features. As a consequence, experts have been left with little guidance in this troublesome area of the law.
+
+[161]      This may explain why Dr. Smith never defined, either in her report or her testimony, what she understood were the distinguishing features of a disturbed mind, in the context of infanticide as a partial defence to a murder charge. Had she done so, the Court could have assessed her understanding to determine whether it substantially complied with the standard that the Court has adopted.
+
+[162]      While Dr. Hashman did explain in direct examination what he understood by the disturbed mind concept,[78] the value of his evidence was limited by the fact that he opined on a question presented by s. 672.11(c) of the Criminal Code: “whether the balance of ... [Ms. Borowiec’s] mind was disturbed at the time of her newly born children’s death”. This arguably is a different standard than s. 233 of the Criminal Code utilizes.
+
+[163]      Dr. Hashman cannot be faulted for doing this. He did precisely what he was asked.
+
+[164]      My review of the trial judge’s oral reasons does not reveal that he proceeded with a specific understanding of what the benchmarks of a disturbed mind were. He,[79] like Justice Veit,[80] was content to say what a disturbed mind was not: “The degree of mental disturbance is not defined by the Code and does not, in my view, require an actual diagnosis for mental disorder, for example, one which would meet the criteria for a diagnosis under the classification system in the DSM-IV”.[81]
+
+[165]      As a result, I am not satisfied that the trial court’s judgment is the product of the application of the core aspects of a disturbed mind to the facts. Neither the trial judge nor the experts worked with the correct standard to determine whether Ms. Borowiec had a disturbed mind because she had “not fully recovered from the effects of giving birth”, the template s. 233 compels the court to adopt.
+
+[166]      Unless one knows where the target is, an adjudicator can never determine which archer is the best shot. An observer can only be satisfied that the archers have released some arrows.
+
+[167]      This is what has happened here.
+
+[168]      There must be a new trial on the two charges of second degree murder.
+
+[169]      Whether infanticide is applicable as a partial defence is a decision for the trial judge.[82] The assistance medical experts give by providing a clinical diagnosis of the accused is invaluable.[83] But in the end, the trial judge must determine whether the accused had a disturbed mind at the time of the act or omission which caused her infant’s death that is attributable to the fact she had not recovered from the effects of giving birth. This is a question that Parliament wants a trial judge to answer.[84]

@@ -1,0 +1,86 @@
+
+
+Assessing the Evidence
+[58]           Mr. Navia testified and much of his testimony was exculpatory.  As well, there is other evidence that is exculpatory, including some of the evidence of his son I.N.
+
+[59]           In WD the Supreme Court of Canada set out a three-step method or approach that can be used by trial judges in assessing the reliability and credibility of the evidence.  WD has been subject to extensive judicial and academic commentary.  In Ryon the Alberta Court of Appeal sought to clarify the “formula” proposed in WD.  The clarification proposed in Ryon was then further clarified by the Court of Appeal in R v Achuil, 2019 ABCA 299, (“Achuil”).  The purpose of the WD approach was also reviewed recently in R v SMC, 2020 ABCA 19, (“SMC”).  I have also had reference to succinct statements of the WD analysis found in R v Shrivastava, 2018 ABQB 998, (“Shrivastava”) and R v Garinian, 2019 ABPC 79, (“Garinian”).
+
+[60]           In assessing the credibility and reliability of the evidence, the following steps are consonant with the principles articulated in WD, Ryon and Archuil:
+
+(i)                 The burden to prove each element of the offence remains with the Crown throughout and never shifts to the accused.
+
+(ii)              If I believe the accused’s evidence or other exculpatory evidence on the elements of the offence that must be proved by the Crown, I must acquit.
+
+(iii)            Even if I do not believe the accused, or other exculpatory evidence on the elements of the offence, but am left with a reasonable doubt by such evidence, I must acquit.
+
+(iv)            If the evidence of the accused, or other exculpatory evidence, does not raise a reasonable doubt, I must assess whether the evidence I do accept proves beyond a reasonable doubt each element of the offence that must be proved by the Crown.
+
+[61]           The evidence of the accused is not to be addressed in isolation and should be considered in the context of the evidence as a whole, R v Dinardo, 2008 SCC 24 (CanLII), [2008] 1 SCR 788, (“Dinardo”).
+
+[62]           As stated in Dinardo: “In a case that turns on credibility, such as this one, the trial judge must direct his or her mind to the decisive question of whether the accused’s evidence, considered in the context of the evidence as a whole, raises a reasonable doubt as to his guilt.  Put differently, the trial judge must consider whether the evidence as a whole establishes the accused’s guilt beyond a reasonable doubt.” (para 23)
+
+[63]           In R v GW, 2017 ABPC 158 (GW), my brother Judge LeGrandeur made these comments on assessing credibility, beginning at para. 19:
+
+In circumstances where the assessment of credibility is essential, the issue of credibility is subject to the rule of reasonable doubt and the Crown’s onus with respect to proof beyond a reasonable doubt. Accordingly, where different versions of the events are presented, it is not a matter of relegating the issue to one of simply determining which version the court prefers. To follow that approach would mean that the accused would have the onus of proving his or her innocence by presenting a more believable version of events. That is, of course, not the accused’s obligation. It is not a credibility contest between the complainant and the accused as to who has the best or more likely version of events. It is whether the Crown has proven the case beyond a reasonable doubt. (See: R v S. (J.H.), 2008 SCC 30 (SCC) at paras. 8 – 13; R v Y (C.L.), (2008) 2008 SCC 2 (CanLII), SCJ No 2 (SCC), para. 6). It is possible that the trier of fact may well prefer the complainant’s narrative to that offered by the accused, but that does not resolve the issue of reasonable doubt as to guilt. A preference alone is not sufficient to find guilt.
+
+Rejection of the Accused Testimony
+[64]           The evidence of an accused may be believable on its own, but when measured against the evidence as a whole, such evidence may not be believable and may not raise a reasonable doubt.  In other words, the evidence of the complainant, may be so compelling that the contrary evidence of the accused, which on its own is plausible and coherent, may not raise a reasonable doubt.
+
+[65]           In R v Johnson, 2016 ABQB 633, (“Johnson”), Justice Renke stated as follows:
+
+[168]   An accused’s account need not raise a reasonable doubt, even if that account was plausible and unshaken in cross-examination. A trier of fact may reject an accused’s plausible account wholly, because the trier accepts the counter-account of the Crown beyond a reasonable doubt; that is, if the trier is convinced beyond a reasonable doubt by the Crown’s evidence, with no reasonable doubt emerging from the evidence that the trier does accept. Thus we read the following in the decision of Justice Karakatsanis in R v Vuradin, 2013 SCC 38, [2013] 2 SCR 639 at para 19:
+
+[19] .... The trial judge found the complainant’s evidence compelling, the problems in her evidence inconsequential, and the appellant’s concoction theories speculative.  The reasons reveal that the trial judge accepted the complainant’s evidence where it conflicted with the appellant’s evidence.  No further explanation for rejecting the appellant’s evidence was required.
+
+The Court of Appeal wrote the following in R v Gordon, 2015 ABCA 341 at para 22:
+
+[22] Rather, the trial judge rejected the appellant’s evidence based on a considered and reasoned acceptance, beyond a reasonable doubt, of the truth of conflicting credible evidence proving the essential elements of each offence. “[A]cceptance beyond a reasonable doubt of the truth of conflicting credible evidence is as much an explanation for the rejection of an accused’s evidence as is a rejection based on a problem identified with the way the accused testified or the substance of the accused’s evidence”: R v D(JJR) (2006), 2006 CanLII 40088 (ON CA), 215 CCC (3d) 252 at para 53, 218 OAC 37 (Ont CA).
+
+Justice Watt wrote to similar effect in R v TS, 2012 ONCA 289 at para 79:
+
+[79] … [A]s a matter of law, reasoned acceptance of a complainant’s evidence is a basis upon which a trial judge can reject the evidence of an accused and find guilt proven beyond a reasonable doubt. A reasoned and considered acceptance of the complainant’s evidence is as much an explanation for rejecting the contrary evidence of an accused as are problems inherent in an accused’s own testimony: D (JJR) at para. 54.
+
+See also R v Hoohing, 2007 ONCA 577 at para 15:
+
+The evidence of any witness, including an accused, may be believable standing on its own, but when other evidence is given that is contradictory, or casts doubt on the accuracy or reliability of the witnesses’ evidence, that evidence may no longer be believable, or in the case of an accused, may no longer raise a reasonable doubt.
+
+And see Thomas at paras 25 and 26.
+
+[169]   It is critical that this line of authority not be used to mask the re-entry of a credibility contest between the Crown’s witnesses and the accused, that it not be a regarded as an invitation simply to accept the Crown’s narrative because it is preferred to the accused’s testimony. Even if an accused’s account is rejected and Crown witnesses’ accounts are accepted, the Crown cannot succeed unless no reasonable doubt arises from its evidence. A verdict of guilt must not be based on a choice between the accused’s evidence and the Crown’s evidence: R v CLY, 2008 SCC 2 (CanLII), [2008] 1 SCR 5, at paras. 6-8; Vuradin at para 21.
+
+[66]           In his concurring decision in Ryon Watson J.A. commented on the guidance given on W(D) in R v L(DO), 1993 CanLII 46 (SCC), [1993] 4 SCR 419.  Starting at paragraph 75 he stated as follows:
+
+[75]      The guidance given in W(D) was also clarified in a decision better remembered for other important topics called R v L(DO), 1993 CanLII 46 (SCC), [1993] 4 SCR 419.  That case mainly had to do with then new witness protection Code provisions.  But when L’Heureux-Dube J reached the end of her reasons to address the merits of the L(DO) case itself, she wrote that the defence had submitted a brief to the trial judge with regard to the appropriate test for weighing the evidence and in particular with regard to assessing the credibility of witnesses.  The defence had argued that the proper test was whether an account given by, or on behalf, of an accused might “reasonably be true”.  The trial judge did not agree with this position and explained:
+
+Whether an account given by, or on behalf of, an accused might reasonably be true, is not in my view the honest and proper and established test of whether the Crown’s evidence should be rejected.  It is simply one factor in assessing the overall impact of the evidence as a whole.  If one were to determine criminal cases simply on an academic test, unrelated to all the other facts, of whether something might reasonably be true, much of the impact of truly and compellingly credible Crown evidence such as that here, would go for naught, and truth would be subjugated by plausibility.
+
+[76]      L’Heureux-Dube J went on to add that the trial judge was correct in the above-quoted response to that argument, as was O’Sullivan JA who, she said, “succinctly enunciated the test” as follows (at p. 317):
+
+The only question for the trier of fact at the end of the trial is whether or not, on the whole of the evidence, the Crown has proved its case beyond a reasonable doubt.  If it has, the accused must be convicted.  If there is a reasonable doubt, the accused must be acquitted.
+
+Analysis and Findings
+[67]           I have considered Mr. Navia’s evidence in the context of all of the evidence before me. For the reasons that follow, I reject Mr. Navia’s evidence and find that it does not raise a reasonable doubt.  I am satisfied that on the evidence that I do accept, the Crown has proven the charge beyond a reasonable doubt.
+
+[68]           Mr. Navia’s evidence was brief. He testified in a straightforward manner. He denied touching S.N. He denied other parts of S.N.’s evidence. For example, S.N. testified that Mr. Navia put both his hands on her oldest daughter’s face and said “She is so beautiful”.  Mr. Navia denied this happened.
+
+[69]           Some of his evidence that contradicts the complainant’s evidence is corroborated by his son’s testimony. Mr. Navia described being in S.N.’s house for no more than seven minutes. He said he walks slowly and it takes him about five minutes to walk from his house to S.N.’s house. On his evidence it would have taken about 17 minutes for the walk to and from his house and the visit. I.N. testified that after his father told him he was going to the neighbours, he was gone for around 10 to 15 minutes.
+
+[70]           This contradicts the evidence of S.N. who testified Mr. Navia was in her house for 30-45 minutes. Adding 10 minutes for the walk to and from his house, Mr. Navia would have been gone for 40 to 55 minutes, considerably longer than the 10-15-minute period testified to by I.N.
+
+[71]           S.N. also testified when she went to Mr. Navia’s house to get her children the door was closed and she knocked and rang the doorbell. Mr. Navia said he left his front door open. I.N. testified that he was upstairs in a room with an archway that opens to the first floor and he did not hear a doorbell or knock.
+
+[72]           As noted, Mr. Navia’s evidence was not undermined in cross-examination and some parts of his evidence that contradicts S.N. was corroborated by his son.  I, of course, must explain why I have rejected his evidence and why I find it does not raise a reasonable doubt.
+
+[73]           I find Mr. Navia’s explanation for going to S.N.’s house implausible.  He said he went to get written instructions on the care of the cat.  This in itself is somewhat implausible.  He is an electrical engineer and had been given oral instructions two days earlier.  What makes his testimony implausible is that on his own evidence he did not ask S.N. for written instructions until he was leaving her home.  S.N. and Mr. Navia knew each other from passing on the neighbourhood street.  They barely saw each other.  I do not find it believable he would show up at S.N.’s house unannounced and not say to S.N. why he was there.  He says he told the eight year old, but on his evidence S.N. came to the door at about the same time as the daughter, yet he did not say to S.N. I am here to get instructions on the cat.  S.N. denies any discussion about getting written instructions.  I find Mr. Navia’s testimony as to why he was at S.N.’s house to be self-serving, and an after the fact excuse to explain why he was at her house at all on August 2, 2018
+
+[74]           I do not find that her evidence that was contradicted by the testimony of Mr. Navia and his son undermine the credibility and reliability of her evidence.  In relation to the time that Mr. Navia was gone from his house, on I.N.’s evidence, it was “around” 10 to 15 minutes.  It must have been longer than 10 minutes because Mr. Navia testified it would take him at least that long to travel to and from his house, leaving no time for the visit.  According to Mr. Navia, the visit itself included a discussion, the children showing him two or three videos and Mr. Navia going into S.N.’s kitchen.  He may have been away from his house for less than the minimum 30 minutes described by S.N. but on all of the evidence it may have been longer than the 10 – 17 minutes described by I.N. and Mr. Navia.  It may also be that in the alarming circumstances faced by S.N. she is not be able to provide an accurate estimate of time.  This issue and the question of whether or not I.N. heard a door knock or doorbell also does not undermine S.N.’s convincing, consistent and reliable evidence.
+
+[75]           S.N.’s testimony was detailed, coherent, clear and compelling. She testified on numerous small details that are consonant with someone recounting an event that actually happened. There was no hint of fabrication. For example, she testified Mr. Navia placed his hands on her oldest daughter’s face and said “You are so beautiful”.  Mr. Navia denied this happened.  It is an irrelevant detail in relation to the alleged sexual assault.  But, S.N.’s recounting of this and many other details irrelevant to the actual assault, I find, are consistent with someone who is telling the truth.  Some other examples illustrate this point.  S.N. testified that at one point she lowered the dishwasher door to prevent Mr. Navia from getting nearer to her.  She described that when Mr. Navia put his hands on her daughter’s face she quickly grabbed a picture of her husband’s parents, as her husband’s mother looks like her daughter.  She did this to try to distract Mr. Navia and to have him remove his hands from her daughter.
+
+[76]           Her description of first being touched on the stairway was detailed and precise.  She described where Mr. Navia was on the steps.  She described stretching out her arms to form a T to block Mr. Navia from going further up the stairs.  She described clearly and without any confusion or hesitation how Mr. Navia first rubbed her right hip and then her right buttocks.
+
+[77]           Her description of the second assault was equally cogent.  After her children ran into the front yard, she described how Mr. Navia closed the door without latching it.  She felt scared and described immediately moving towards the door to get it open.  She described Mr. Navia coming forward towards her.  She described him quickly shoving his hand up her tank top and then shoving his hand back down underneath her pajama bottoms and rubbing her bare buttocks.  She recounted him kissing her and smelling of smoke afterwards.
+
+[78]           Her description of the alarm and fear she felt for her safety and for her children’s safety was consistent with how a mother might feel when alone with her children in such circumstances.  Her description of her gratitude for her oldest daughter’s behaviour in coming back into the house was heartfelt and emotional.  Her descriptions and the feelings she said she experienced are consistent with common human experience.
+
+[79]           She described frantically running upstairs to put on pants in place of her pajamas and racing to the front door.  She also described the panic she felt when she was unable to see her children after they left for the walk with Mr. Navia to his house.

@@ -1,0 +1,23 @@
+﻿II.        Criminal Code, s 230
+[6]               In Vader at paras 687-691, I applied Criminal Code, s 230 to conclude that Mr. Vader was guilty of second degree murder. The defence submits and the Crown does not dispute that this provision is unconstitutional: R v Martineau, 1990 CanLII 80 (SCC), [1990] 2 SCR 633, 112 NR 83; R v Sit, 1991 CanLII 34 (SCC), [1991] 3 SCR 124, 130 NR 241.
+
+[7]               I have accepted that Mr. Vader was incorrectly found guilty of second degree murder pursuant to Criminal Code, s 230. The question is what remedy should be declared to correct this error.
+
+III.      Mistrial Application
+[8]               The defence argues a mistrial must be ordered because the Court has no authority to substitute a different verdict because for me to do so “... would inevitably raise a reasonable apprehension of bias in the mind of an informed observer.” (October 12, 2016 brief, para 14). In its October 17, 2016 reply brief at para 12 the defence elaborates on the alleged basis for an apprehension of bias:
+
+This Court has already pronounced Mr. Vader guilty of the much more serious offence of murder. Consequently, this Court has formally expressed its opinion that Mr. Vader is at the highest level of moral culpability -- even higher on “the moral culpability ladder” than one who has committed manslaughter. Under these circumstances, Mr. Vader objects to this Court determining his level of moral culpability for the purposes of sentencing on manslaughter. Mr. Vader submits that the imposition of a sentence for manslaughter by a trier of fact who has previously concluded that the accused is guilty of the much more serious offence of murder would raise a reasonable apprehension of bias in the mind of an informed observer, thereby violating ss. 7 and 11(d) of the Charter.
+
+[9]               In its written briefs and oral submissions, the defence did not identify any defects in the trial fact finding process or any adverse effect on the integrity of the fact findings from the pronouncement of the incorrect verdicts. In short, their position is that the incorrect finding of murder and “that alone” constitutes a reasonable apprehension of bias.
+
+[10]           A mistrial should be declared only in “the clearest of cases where there is no other way to save the trial”: R v Karim, 2010 ABCA 401 at para 27, 493 AR 312. A miscarriage of justice occurs when a trial is unfair, or when the trial has the appearance of unfairness, viewed by a well-informed, reasonable person considering the whole of the circumstances (R v Khan, 2001 SCC 86 at para 27, [2001] 3 SCR 823), including a reasonable apprehension of bias (R v Burke, 2002 SCC 55 at para 74, [2002] 2 SCR 857).
+
+[11]           A reasonable apprehension of bias exists where:
+
+... a reasonable and informed person, with knowledge of all the relevant circumstances, viewing the matter realistically and practically, would conclude that the judge’s conduct gives rise to a reasonable apprehension of bias. ...
+
+(Miglin v Miglin, 2003 SCC 24 at para 26, [2003] 1 SCR 303, citing Committee for Justice and Liberty v National Energy Board, 1976 CanLII 2 (SCC), [1978] 1 SCR 369 at 394-395, 68 DLR (3d) 716.)
+
+[12]           The onus to establish a reasonable apprehension of bias is on the party who alleges it: Miglin v Miglin, at para 26, citing R v RDS, 1997 CanLII 324 (SCC), [1997] 3 SCR 484 at para 114, 151 DLR (4th) 193. Where judicial bias is alleged then that allegation must overcome the presumption of judicial integrity (Malton v Attia, 2016 ABCA 130 at para 82, 389 DLR (4th) 350):
+
+There is a presumption of judicial impartiality, which must be displaced by the appellants. The threshold is a high one, and properly so. ... [Emphasis added.]

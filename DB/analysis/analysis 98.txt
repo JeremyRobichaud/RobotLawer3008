@@ -1,0 +1,76 @@
+﻿[16]            The relevant “complainant” in this case is An, because one of the conditions of s. 231(6) is that the murder be committed in the course of criminal harassment of the murder victim.  “Harassed” means something more that “vexed, disquieted or annoyed”. Appropriate synonyms are “tormented, troubled, worried, plagued, bedeviled and badgered”: R. v. Sillip, supra, at 393.  There was evidence that An feared for his safety as a result of the brake line incident with his car. He reported the incident to the police, stating in his witness statement form “I think someone try to kill me, but I don’t know why? I need help and I have 4 children to look after.” This is evidence of harassment. But was An harassed as a result of Tran’s “besetting or watching the dwelling house” by “going to the apartment on February 10 to look at the telephone numbers of callers on Duong’s telephone as he had done the day before”? The Crown submitted and I agree that An’s act in parking his car at a grocery store rather than by Duong’s apartment building, because Tran might be around, is some evidence that An felt harassed by the possibility of Tran’s presence at the building.
+
+ 
+
+3.         It must be established that the accused who engaged in such conduct knew that the complainant was harassed or was reckless or wilfully blind as to whether the complainant was harassed.
+
+ 
+
+[17]            There is evidence that Tran expected An to be harassed by the damage to his vehicle.  Duong testified that after he assaulted An, Tran said “I already got someone to do your car.  Don’t you understand?” But is there evidence that Tran knew or was reckless about whether An would be harassed by his  “going to the apartment on February 10 to look at the telephone numbers of callers on Duong’s telephone as he had done the day before”?
+
+ 
+
+[18]            The defence argues that Tran went to the apartment expecting nobody to be home. There was evidence that the telephone rang when Duong and An were together in the apartment.  The call was from a number that Duong did not recognize. Duong did not answer the telephone.  Duong later checked the telephone and made a note of a call received on February 10, 2004 at 12:33 pm from number 918-0622. There was also evidence that Tran borrowed Wong’s cellular phone on the morning of February 10, 2004, after telling Wong that his own cellular telephone battery was low. Wong’ telephone number is 918-0682.  The defence argues that the clear inference is that the unanswered call to the apartment was from Tran, and that Duong made a one digit error when copying the number from the telephone’s call display. 
+
+ 
+
+[19]            The Crown does not characterize Tran’s visit to the apartment as the preliminary inquiry judge did, as a visit to look for telephone numbers. The Crown’s theory is that Tran went to the apartment knowing that An and Duong were there together; that he went there to confront them.
+
+ 
+
+[20]            The Crown also argues that the call to the apartment did not come from Tran. This inference is supported by the different telephone numbers and by Wong’s evidence that he heard Tran speaking on the phone, while Duong testified that she did not answer the phone. 
+
+ 
+
+
+[21]            I agree with the Crown that the evidence regarding the telephone call may support an inference that Tran did not call the apartment before going there. However, I do not agree that the absence of a telephone call is circumstantial evidence from which it may be inferred that Tran went to the apartment expecting to find An. The lack of a telephone call means only that this possibility is not excluded; it does not logically support the inference that Tran went to the apartment to confront An. The possibility that this occurred is mere speculation or conjecture.  An did not live in the apartment and there is no evidence that Tran was aware of An even visiting the apartment. There is evidence only that Tran was aware of An telephoning the apartment, and this does not support an inference that Tran went to the apartment expecting to find An. There is evidence that upon arrival at the apartment, Tran went immediately to Duong’s bedroom. But there is also evidence that An’s shoes were at the entry to the apartment, so this evidence is completely consistent with Tran’s discovery of An’s presence when he arrived at the apartment, and does not logically support an inference that Tran went to the apartment to confront An.
+
+ 
+
+[22]            I am satisfied that there was no evidence on which the preliminary inquiry judge could form the opinion that there was some evidence reasonably capable of supporting the inference that Tran went to the apartment knowing that An would be there, for the purpose of confronting him. There was some evidence, as indicated by the preliminary inquiry judge, that Tran may have gone to the apartment “to look at the telephone numbers of callers on Duong’s telephone as he had done the day before”. But this is not the type of conduct from which it can be inferred that Tran knew that An was harassed by it or was reckless or wilfully blind as to whether An was harassed. In other words, this is not the type of conduct capable of violating s. 264 of the Code. 
+
+ 
+
+[23]            It is unnecessary to consider in detail the remaining elements set out in R. v. Sillip, namely whether An feared for his safety (which has, in any event, already been addressed in considering whether An was harassed), and whether An’s fear was, in all of the circumstances, reasonable. Because of the lack of evidence that Tran knew that or was reckless whether his “besetting and watching” of the apartment harassed An, any besetting and watching could not be found to constitute criminal harassment.
+
+ 
+
+[24]            There remains the damage to An’s vehicle, threatening conduct which the defence concedes could be found to constitute criminal harassment. But this damage occurred more than a month before Tran killed An. Under s. 231(6) the murder must have been committed by the accused “while committing or attempting to commit” the offence of criminal harassment. The murder must be “part of one continuous sequence of events forming a single transaction with the underlying offence”: R. v. Pare, supra, at 109. There is no evidence connecting the damage to An’s vehicle with Tran’s visit to the apartment more than a month later.
+
+ 
+
+[25]            There is no evidence that Tran’s visit to the apartment on the day of the murder was criminal harassment, and no evidence that the visit was part of a continuous sequence of events linked with previous damage to An’s vehicle. Accordingly, there is no evidence that the murder of An was committed while the Applicant was committing or attempting to commit the offence of criminal harassment or that Tran intended to cause An to fear for his own safety or the safety of anyone known to him. 
+
+
+ 
+
+D.         Evidence of Planning and Deliberation and the Issue of Remission
+
+ 
+
+[26]            Before the preliminary inquiry judge and before myself on this application, the Crown supported the Applicant’s committal for trial for first degree murder on the alternate grounds of either s. 231(6) of the Code or planning and deliberation. The preliminary inquiry judge based her decision on s. 231(6), and did not comment as to whether there was sufficient evidence to commit on the basis of planning and deliberation. 
+
+ 
+
+[27]            The Crown argues that it is beyond my jurisdiction to review the evidence myself to ascertain whether there was sufficient evidence of planning and deliberation, and that I must remit the matter to the preliminary inquiry judge for consideration of this ground. In support of this argument, the Crown cites R. v Thomson, (2005) 2005 CanLII 8664 (ON CA), 74 O.R. (3d) 721 (Ont. C.A.). In Thomson, the preliminary inquiry judge had discharged the accused, but the certiorari judge quashed the discharge, finding that there was some evidence of identity and intention to kill. The certiorari judge added that “[t]his was not a close call” and ordered that the accused stand trial for conspiracy to commit murder, attempted murder, and aggravated assault. The Ontario Court of Appeal held that the certiorari judge, after quashing the decision of the preliminary inquiry judge, had no jurisdiction to order committal for trial. The certiorari judge should instead have remitted the matter to the preliminary inquiry judge “for further consideration on the whole of the evidence”.
+
+ 
+
+[28]            Thomson relied on R. v. Whynot, (1994), 1994 CanLII 4130 (NS CA), 129 N.S.R. (2d) 347 (N.S.C.A.). There, the preliminary inquiry judge refused committal on second-degree murder, but did commit on manslaughter. The certiorari judge found that the preliminary inquiry judge had committed a jurisdictional error by usurping the function of the jury when weighing the evidence. Accordingly, the certiorari judge quashed the committal for manslaughter. The appeal court agreed with the certiorari judge on that point, but refused to substitute a committal on second-degree murder for the quashed committal on manslaughter. The appeal court found that certiorari jurisdiction does not extend beyond quashing the committal and remitting the matter to the preliminary inquiry court for proper resolution.
+
+ 
+
+[29]            These decisions confirm that only the preliminary inquiry judge has jurisdiction to determine the sufficiency of evidence under s. 548 of the Code. They do not preclude the certiorari judge from amending committal for trial in appropriate circumstances, to reduce it to a lesser included offense. This is an appropriate remedy where there is some evidence for the lesser offence, but no evidence for the greater including offense. There are cases in which reviewing courts have amended committals rather than quashing them: R. v Dumont, (1984), 1984 CanLII 3571 (QC CS), 15 C.C.C. (3d) 273 (C.S. Que.) and R. v. Foulston (1991), 1991 CanLII 13097 (AB QB), 118 A.R. 125 (Alta. Q.B.), reversed on other grounds, 1991 CarswellAlta 797 (Alta. C.A.).
+
+ 
+
+[30]            In this case, it is clear that there is sufficient evidence to order the Applicant to stand trial for second degree murder. Counsel conceded this. The preliminary inquiry judge obviously accepted this concession, by stating that the only issue was whether Tran should be ordered to stand trial for “committing the offence of first degree murder or second degree murder”.
+
+
+ 
+
+[31]            If I found that there is some evidence of planning and deliberation, then Thomson indicates that it would exceed my jurisdiction to determine whether there is sufficient evidence to commit the Applicant for trial on that basis. However, if I find no evidence of planning and deliberation, then it is futile to remit the matter to the preliminary inquiry judge. Any committal for trial in these circumstances would be a jurisdictional error, open to quashing on a further certiorari.
+
+ 
+
+[32]            I am satisfied that there is no evidence of planning and deliberation.  I reach this conclusion because the Crown’s theory relating to planning and deliberation is based on the same contention as its theory relating to criminal harassment. Both theories hinge on the Applicant’s going to Duong’s apartment, knowing that An and Duong were there together, and intending to confront them. I have found that there was no evidence, on which the preliminary inquiry judge could form the opinion that there was some evidence reasonably capable of supporting the inference that Tran went to the apartment knowing that An would be there. As there is no evidence of planning and deliberation, there is no need to remit the matter to the preliminary inquiry judge for an assessment of the sufficiency of evidence under s. 548.

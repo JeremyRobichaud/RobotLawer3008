@@ -1,0 +1,207 @@
+﻿IV.              Law
+A.        Consecutive Sentences
+[11]           Prior to the coming into force of s 745.51, courts had no discretion to impose consecutive parole ineligibility periods. However, they did have discretion in many cases to impose consecutive or concurrent sentences:
+
+718.3(4)           The court that sentences an accused shall consider directing
+
+...(b)     that the terms of imprisonment that it imposes at the same time for more than one offence be served consecutively, including when
+
+(i)         the offences do not arise out of the same event or series of events...
+
+[12]           Courts have generally held that concurrent sentences are appropriate where different offences constitute one continuous criminal act, or there is a sufficient nexus between them, whereas consecutive sentences are appropriate where the offences arise from “separate transactions”, in the sense that they are essentially different in character and involved different subject matter:  R v Keough, 2012 ABCA 14 at paras 58-61, [2012] AJ No 10.
+
+[13]           In determining whether to impose concurrent or consecutive sentences, courts have considered factors such as the nature and quality of the criminal acts, whether there is a temporal or spatial nexus between the acts, the nature of the harm caused to the community or to victims, the manner in which the criminal acts were perpetrated, and the offender’s role in the crimes:  R v Potts, 2011 BCCA 9 at para 89, [2011] BJC No 38.
+
+[14]           As stated, the mandatory sentence for first degree murder under s 235(1) of the Criminal Code is imprisonment for life. An offender convicted of more than one murder cannot be sentenced to consecutive life terms of imprisonment, as the second consecutive sentence could never take effect. Even assuming consecutive sentences were available in this context, the usual factors are arguably less relevant in a case of multiple planned and deliberate murders, as the planning and deliberation would necessarily apply with respect to each victim, regardless of the circumstances, including the location and timing of their deaths.
+
+B.        Parole Eligibility
+[15]           Unlike inmates serving fixed length sentences, those serving life sentences are not entitled to statutory release. They may apply for parole only after the stated period of parole ineligibility has expired. Parole is the system governing release of a prisoner to serve the remainder of his sentence in the community. The prisoner is released subject to conditions imposed by the Parole Board of Canada. The offender remains subject to the conditions of parole and the supervision of a parole officer. Parole may be revoked if the prisoner breaches conditions or commits a new offence.
+
+[16]           Parole does not represent termination of a sentence, but rather a modification of the conditions of the sentence. The deterrent and denunciatory purposes which justified the original sentence remain in force. The goal of specific deterrence is still advanced because the offender remains supervised as necessary to prevent possible crime, and risks re-incarceration if he commits another crime. The societal stigma of being a convicted offender serving a criminal sentence continues to serve the goal of denunciation:  R v CAM, 1996 CanLII 230 (SCC), [1996] 1 SCR 500 at para 62, [1996] SCJ No 28.
+
+[17]           Some inmates serving life sentences are never released as they are deemed a high risk to reoffend. On an application for parole, the Parole Board must assess the suitability of releasing the offender in question, and in so doing it is guided by the legislative objectives of the parole system:  R v Shropshire, 1995 CanLII 47 (SCC), [1995] 4 SCR 227 at para 34, 129 DLR (4th) 657.
+
+[18]           Over time, the focus of the legislation has shifted, now putting more emphasis than before on the protection of the public and less on rehabilitation. The Parole Board’s decision-making process is very different from the judicial determination of a fit sentence. It is largely based on the ongoing observation and assessment of the personality and behaviour of the offender during incarceration, focussing on dangerousness and the offender's ability to re-enter the community. This process may extend over several years. The resulting decisions are highly contextual and are based, in part, on what has actually happened during the incarceration of the offender:  R v Zinck, 2003 SCC 6 at para 19, [2003] 1 SCR 41.
+
+[19]           The Parole Board will not grant parole if an individual still poses a threat to society:  Corrections and Conditional Release Act, SC 1992, c 20, ss 100-102 [CCRA]. The fact that an offender has committed multiple murders is relevant to an application for parole:  CCRA s 101(a)-(e).
+
+[20]           As Campbell J noted in R v Vuozzo, 2015 PESC 14 at para 10, [2015] PEIJ No 17, there is a common misconception on the part of many members of the public that murderers automatically get out of jail once they have served 25 years of their life sentence. In fact, parole for multiple murderers is rare. In other words, eligibility for parole and the granting of parole are two distinct matters, and the prospect of the Parole Board granting parole for a multiple murderer is slim.
+
+[21]           Certain provisions in the Criminal Code authorize a court to delay parole eligibility in appropriate cases. For example, where an offender is convicted of second degree murder, he is subject to a minimum of 10 years parole ineligibility. However, under s 745.4, a court may substitute any number of years between 10 and 25 after consideration of relevant factors. Parliament recognized that, within the category of second degree murder, there will be a broad range of seriousness reflecting varying degrees of moral culpability nearing that of first degree murder.
+
+[22]           A similar provision, s 743.6, permits the court to increase a period of parole ineligibility by any period of time up to the lesser of one-half of the sentence or 10 years when sentencing for a variety of listed offences.
+
+[23]           Delayed parole eligibility can be a significant component of a sentence given that it may almost entirely extinguish any hope of early freedom; thus, it brings a new element of truth, but also of harshness, to sentencing:  Zinck at para 24.
+
+[24]           It has been held that on an application for delayed parole eligibility in a second degree murder case under s 745.4, the Crown need not demonstrate unusual circumstances, nor does the law require that the power to delay parole be used sparingly:  Shropshire at para 31. There are many factors that might result in increased parole ineligibility in this context:  see, for example, R v Ryan, 2015 ABCA 286 at para 57, [2015] AJ No 977.
+
+[25]           Courts encountered problems in interpreting and applying s 743.6 in relation to listed offences. Ultimately, it was held that delaying parole under s 743.6 is a decision that is out of the ordinary, and it should not be done in a routine manner:  Zinck at paras 24, 29-30.
+
+C.       Consecutive Parole Ineligibility Periods
+[26]           From 1976, when the death penalty was abolished in Canada, until 2011, an offender convicted of first degree murder was subject to a mandatory parole ineligibility period of 25 years:  s 745(a).
+
+[27]           Section 745.51 came into being as a result of the enactment of the Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act, SC 2011, c 5. Parliament’s intention, in part, was to promote separation of dangerous offenders from society to ensure the safety of Canadian communities. As well, consecutive parole ineligibility periods would protect a victim’s family members from having to attend parole hearings and re-hear all the horrific details of the crime. Parliament also intended to address a perceived concern on the part of the public that multiple murderers otherwise receive “discounted” sentences by virtue of the fact that it is impossible to stack, or make consecutive, more than one life sentence:  Canada, Parliament, House of Commons Debate, 40th Parl, 3rd Sess, Vol 145, No 121 (1 February 2011) (Mr. Daniel Petit). This latter intention is reflected in the name of the Act amending the Criminal Code. 
+
+[28]           Section 745.51 now provides that where an individual has been convicted of more than one count of first degree murder, the sentencing court may order that the periods without eligibility for parole be served consecutively:
+
+745.5(1)  At the time of the sentencing under section 745 of an offender who is convicted of murder and who has already been convicted of one or more other murders, the judge who presided at the trial of the offender or, if that judge is unable to do so, any judge of the same court may, having regard to the character of the offender, the nature of the offence and the circumstances surrounding its commission, and the recommendation, if any, made pursuant to section 745.21, by order, decide that the periods without eligibility for parole for each murder conviction are to be served consecutively.
+
+(2)  The judge shall give, either orally or in writing, reasons for the decision to make or not to make an order under subsection (1).
+
+(3)  Subsections (1) and (2) apply to an offender who is convicted of murders committed on a day after the day on which this section comes into force and for which the offender is sentenced under this Act...
+
+[29]           Unlike ss 743.6 and 745.4, this provision does not grant the court discretion to increase a period of parole eligibility by any number of years to a maximum. Rather, it restricts the court’s discretion to “stacking” two or more periods.
+
+[30]           Under s 745.4, in cases involving second degree murder such as Shropshire, the court may increase parole ineligibility under s 745.4 by any number of years between 10 and 25, to reflect the nature of the crime.
+
+[31]           However, any stacking of second degree murder parole periods under s 745.51 would necessarily be in increments of at least 10 years.
+
+[32]           In cases involving more than one first degree murder, the court’s discretion is restricted to consideration of whether it is appropriate to stack the 25 years parole ineligibility periods.
+
+[33]           The approach taken in Shropshire addressed an issue that arises in every case of second degree murder. The Court in Zinck set out a general principled approach applicable to the consideration of delayed parole eligibility. Given the potentially draconian effect of stacking parole ineligibility periods under s 745.51, the approach set out in Zinck with respect to a determination under s 743.6 is also appropriate under s 745.51.
+
+D.       Principles of Sentencing
+[34]           When exercising discretion in the imposition of any sentence, a judge must have regard to the principles and objectives set out in ss 718 to 718.2:
+
+718      The fundamental purpose of sentencing is to protect society and to contribute, along with crime prevention initiatives, to respect for the law and the maintenance of a just, peaceful and safe society by imposing just sanctions that have one or more of the following objectives:
+
+(a)       to denounce unlawful conduct and the harm done to victims or to the community that is caused by unlawful conduct;
+
+(b)       to deter the offender and other persons from committing offences;
+
+(c)       to separate offenders from society, where necessary;
+
+(d)       to assist in rehabilitating offenders;
+
+(e)       to provide reparations for harm done to victims or to the community; and
+
+(f)         to promote a sense of responsibility in offenders, and acknowledgment of the harm done to victims or to the community.
+
+718.1   A sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender.
+
+718.2   A court that imposes a sentence shall also take into consideration the following principles:
+
+(a)        a sentence should be increased or reduced to account for any relevant aggravating or mitigating circumstances relating to the offence or the offender...
+
+(b)        a sentence should be similar to sentences imposed on similar offenders for similar offences committed in similar circumstances;
+
+(c)        where consecutive sentences are imposed, the combined sentence should not be unduly long or harsh;
+
+(d)        an offender should not be deprived of liberty, if less restrictive sanctions may be appropriate in the circumstances...
+
+[35]           A court exercising the power to delay parole must apply the various sentencing factors, giving priority to general and specific deterrence as well as denunciation. The power should not be exercised routinely, nor invoked in relation to every jail term imposed for offences covered by s 745.51. The prosecution must establish that additional punishment is required, and delayed parole should be invoked only on the basis of demonstrated need:  Zinck at paras 30-31. 
+
+V.                 Analysis
+[36]           There are three options in relation to parole ineligibility in this case:
+
+1.         All sentences to be served concurrently with parole ineligibility set at 25 years;
+
+2.         Two of the sentences to be served concurrently and one consecutively for a total period of parole ineligibility of 50 years;
+
+3.         All sentences to be served consecutively for a total period of parole ineligibility of 75 years.
+
+[37]           The Court must craft appropriate sentences for Mr. Klaus and Mr. Frank, taking into account those factors set out in s 745.51, while applying the principles and objectives of sentencing enunciated elsewhere in the Criminal Code.
+
+[38]           It is the overarching duty of the sentencing judge to determine a just and appropriate sentence which reflects the gravity of the offence committed and the moral blameworthiness of the offender. Notwithstanding how egregious the actions of the offender were and the effects have been, vengeance – being an act of harm as a reprisal motivated by emotion and anger - is not a consideration in the determination of a just and appropriate sentence. However, retribution is a sentencing principle properly considered by the Court in conjunction with the other principles and objectives of sentencing. Retribution requires an objective, reasoned and measured determination of a sentence which properly reflects the moral blameworthiness of a particular offender. Unlike vengeance, retribution incorporates the principle of restraint:  CAM at paras 80-82.
+
+A.                 Relevant Factors under s 745.51
+[39]           Section 745.51 requires the Court to consider:  the character of the offender, the nature of the offence and the circumstances surrounding its commission.
+
+[40]           These factors are relevant on any sentencing. There is substantial overlap between the factors set out in s 745.51 and other sentencing principles. All of the factors set out in s 745.51 relate to the fundamental principle enunciated in s 718.1 to the effect that a sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender. Further, “denunciation” can be considered to fall within the statutory criterion of the “nature of the offence”, and “future dangerousness” within the criterion of the “character of the offender”:  Shropshire at para 19.
+
+[41]           There is limited information about the character of these two offenders. However, there was evidence at trial to the effect that both offenders have led anti-social lives.
+
+[42]           At the time of the offences, Mr. Klaus was 38 years old. He is now 42 years old. Mr. Klaus purchased and sold cocaine, and he admitted to taking sexual favours from women in exchange for cocaine. He possessed and traded in restricted and prohibited firearms, and was stealing money from his parents.
+
+[43]           Mr. Frank was 28 years old at the time he shot and killed the Klaus family members. He is now 32 years old. Mr. Frank was unemployed, living off of the good graces of a bar/hotel manager who provided him with free lodging and supplied him with alcohol. It appears from the evidence that his limited money was going towards the use of drugs.
+
+[44]           I have already discussed the heinous nature of the offences and the circumstances surrounding their commission. Both offenders were integrally involved in the commission of the offences and each one had ample opportunity to reflect and desist.
+
+[45]           There is no doubt that the gravity of the offences committed by these offenders and the moral blameworthiness of each offender is at the high end of the spectrum of criminal conduct addressed in the Criminal Code.
+
+B.        Aggravating and Mitigating Circumstances – s 718.2(a)
+[46]           A sentencing court is required to take into account aggravating and mitigating factors under s 718.2(a). Again, those factors generally relate to the character of the offenders, the nature of the offence and the circumstances surrounding its commission.
+
+[47]           The only mitigating factor in relation to these offenders is that neither offender has a prior criminal record.
+
+[48]           As for aggravating factors, I note that the murders occurred inside the Klaus home. These were defenceless victims who were killed through the use of a firearm in an isolated rural setting. Their bodies were desecrated in order to cover up the crimes. Family pets were also killed. It was a contract killing. Both offenders hoped to profit financially. They planned the crimes together and each one had an opportunity to desist. The murders have resulted in great loss to the community.
+
+[49]           The Crown argues that Mr. Klaus breached a “position of trust” under s 718.2(a)(iii). Being trusted by someone does not necessarily mean an offender is in a “position of trust” toward that person in the sentencing context:  R v BJO, 2010 NLCA 19 at para 61, [2010] NJ No 94. Section 718.2(a)(iii) encompasses teachers, lawyers, parents, caregivers, and guardians: see R v Squires, 2012 NLCA 20 at para 32, [2012] NJ No 101.
+
+[50]           Nevertheless, to the extent that Mr. Klaus’ relationship with his family involved an element of trust, he clearly abused that trust. He had access to his parents’ house, knew when everyone would be home, and provided Mr. Frank with the location of the key. These circumstances are relevant to all three factors listed in s 745.51.
+
+[51]           Aggravating factors will typically justify an increased sentence. For example, in sentencing for an offence without a mandatory sentence, aggravating factors will sometimes result in an increase by a number of years to an otherwise appropriate sentence. However, it bears noting again that the only options before the Court under s 745.51 on multiple convictions for first degree murder involve jumps in increments of 25 years.
+
+[52]           Ultimately, any sentence this Court imposes must be proportionate to the extremely serious nature of the offences and the very significant degree of responsibility each offender bears for these heinous crimes.
+
+C.                 Parity under s 718.2(b)
+[53]           Denunciation and deterrence, along with other sentencing principles, must be carefully considered in sentencing for murder.
+
+[54]           Prior to embarking on a discussion of further sentencing principles, it is helpful to review cases in which s 745.51(1) has been addressed. In the following eight decisions, the Courts imposed consecutive periods of parole ineligibility:
+
+•        R v Baumgartner, 2013 ABQB 761, [2013] AJ No 1497 (40 years - joint submission);
+
+•        R v Bourque, 2014 NBQB 237, [2014] NBJ No 295 (75 years);
+
+•        R v Vuozzo, 2015 PESC 14, [2015] PEIJ No 17 (35 years);
+
+•        R v WGC, 2015 ABQB 252, [2015] AJ No 461 (35 years - joint submission);
+
+•        R v Husbands, [2015] OJ No 2674 (SCJ), rev’d on other grounds 2017 ONCA 607 (30 years);
+
+•        R v Ostamas, 2016 MBQB 136, [2016] MJ No 197 (75 years - joint submission);  
+
+•        R v Garland, 2017 ABQB 198, [2017] AJ No 853 (75 years);
+
+•        R v Saretzky, 2017 ABQB 496, [2017] AJ No 831 (75 years - jury recommendation).
+
+[55]           In five decisions, the Courts imposed concurrent periods of parole ineligibility:
+
+•        R v Koopmans, 2015 BCSC 2120, [2015] BCJ No 2484 (22 years);
+
+•        R v Bains, 2015 BCSC 2145, [2015] BCJ No 2515 (18 years - joint submission);
+
+•        R v Rushton, 2016 NSSC 313, [2016] NSJ No 463 (18 years);
+
+•        R v Sharpe, 2017 MBQB 6, [2017] MJ No 22 (22 years);
+
+•        R v Ramsurrun, 2017 QCCS 5791, [2017] JQ no 17816 (25 years).
+
+[56]           As I have already noted, the Court in this case only has discretion to impose parole ineligibility periods of 25, 50 or 75 years.
+
+[57]           The Crown relies in particular on three recent decisions dealing with triple first degree murders:  Bourque, Garland and Saretzky. In these cases, each offender was sentenced to life in prison with no chance of parole for 75 years.
+
+[58]           In Bourque, defence counsel had submitted that parole ineligibility should be set at 50 years. That case involved a 28 hour shooting spree, the random ambush and murder of three RCMP officers, and the attempted murder of two others. Attacks on police officers are denounced in the strongest ways possible given that they are viewed as attacks on the safety of the entire community and the rule of law:  R v McArthur, 2004 CanLII 8759 (ON CA), 184 OAC 108 at para 49, [2004] OJ No 721 (CA).
+
+[59]           In Garland, the imposition of consecutive parole ineligibility periods was largely symbolic, given that the offender would not have been eligible for parole until he was 79 years old even after 25 years. The victims in that case included a child, and the offences involved abduction, torture and dismemberment. 
+
+[60]           In Saretzky, the jury had recommended 75 years. The three murders in that case were committed at three distinct and separate times, and the offences involved the cannibalization of an infant child.  
+
+[61]           In Ostamas, both counsel recommended consecutive parole ineligibility periods. The offender had an extensive prior criminal record. He hunted and bludgeoned three vulnerable, helpless, homeless individuals to death in cold blood. The Court sentenced in accordance with counsel’s joint submission.
+
+[62]           There is no analysis in the decisions in Bourque, Ostamas or Garland regarding the application of the totality principle under s 718.2(c) that a sentence should not be unduly long or harsh.
+
+[63]           In each of these four cases imposing consecutive periods of parole ineligibility for triple first degree murders, the second (Garland) or third consecutive parole ineligibility period was symbolic and was not required to ensure the imprisonment of each offender into his very senior years.
+
+[64]           In Ramsurrun, the Court imposed concurrent parole ineligibility periods totalling 25 years for each of two first degree murders and 15 years for one second degree murder. The victims included the offender’s spouse and her parents.
+
+[65]           While a sentence should be similar to sentences imposed on similar offenders for similar offences committed in similar circumstances, it must always be borne in mind that the determination of a fit sentence is ultimately a highly individualized process:  R v Ipeelee, 2012 SCC 13 at para 38, [2012] 1 SCR 433, R v Pham, 2013 SCC 15 at para 8, [2013] 1 SCR 739.
+
+D.               Denunciation under s 718(a)
+[66]           A sentence should communicate society's condemnation of the offender's conduct. Denunciation is a symbolic, collective statement that the offender's conduct should be punished for encroaching our society's basic code of values as enshrined within our substantive criminal law:  CAM at para 81.
+
+[67]           Again, these two offenders have committed horrendous offences. I have cited the major aggravating factors.
+
+[68]           A crime of this magnitude and nature must be strongly denounced.
+
+[69]           However, s 745.51 does not mandate that a court impose consecutive parole ineligibility periods in every case involving multiple murders. All such cases are horrendous and by their very nature call out for robust denunciation. The fact that s 745.51 grants a discretion is an indication that Parliament remained of the view that concurrent periods of parole ineligibility can satisfy the need for denunciation when balanced with other principles in cases involving multiple murders, even multiple first degree murders.
+
+[70]           In other words, consecutive periods are not necessary to satisfy the objective of denunciation in all such cases. As previously noted, the strict control of the parole system itself serves the sentencing goal of denunciation.
+
+[71]           It follows that the circumstances in a particular case must justify a finding that it falls at or near the most serious end of the spectrum of what are already serious and heinous crimes. This approach is in keeping with that set out in Zinck. Delaying parole to this degree is a decision that is out of the ordinary, and it should not be done in a routine manner.
+
+[72]           In considering whether denunciation in relation to these offenders requires consecutive parole ineligibility periods, the Court must have regard to any circumstances that are particularly egregious when compared with other first degree murders. While by no means minimizing the gravity of the offences committed by these two offenders, I note that the use of a firearm in committing a murder, attempts to destroy evidence of the crime, and even paid “hitmen”, while aggravating, are not particularly uncommon features in first degree murder cases. I do not find in this case the types of unique and exceptional circumstances which were considered by the Courts in Bourque, Ostamas, Garland and Saretzky as supporting consecutive 25 year ineligibility periods. That is, on the spectrum of the serious and heinous crimes that constitute first degree murder, the factors considered to be aggravating by the Courts in those cases are not present in this case.
+
+[73]           The objective of denunciation is met in relation to these offenders by the imposition of a sentence of life imprisonment with no chance of parole for 25 years. 
+
+

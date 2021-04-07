@@ -1,0 +1,540 @@
+﻿DISCUSSION
+
+ 
+
+[3]               I shall deal with the second degree murder charge first.
+
+ 
+
+
+The Second Degree Murder Charge
+
+ 
+
+[4]               The applicable provisions of the Criminal Code read as follows:
+
+ 
+
+222.      (1)        A person commits homicide when, directly or indirectly, by any means, he causes the death of a human being.
+
+ 
+
+(2)        Homicide is culpable or not culpable.
+
+ 
+
+....
+
+ 
+
+(4)        Culpable homicide is murder or manslaughter or infanticide.
+
+ 
+
+(5)        A person commits culpable homicide when he causes the death of a human being,
+
+ 
+
+(a)        by means of an unlawful act,
+
+(b)        by criminal negligence,
+
+ 
+
+229.      Culpable homicide is murder
+
+ 
+
+(a)        where the person who causes the death of a human being
+
+ 
+
+(i)         means to cause his death, or
+
+(ii)        means to cause him bodily harm that he knows is likely to cause his death, and is reckless whether death ensues or not; . . .
+
+ 
+
+231.      (1)        Murder is first degree murder or second degree murder.
+
+ 
+
+...
+
+ 
+
+(7)        All murder that is not first degree murder is second degree murder.
+
+ 
+
+ 
+
+234.      Culpable homicide that is not murder ... is manslaughter.
+
+ 
+
+[5]               In this case, Ms. Willier is charged with second degree murder.  The count on the indictment says the following:
+
+ 
+
+On or about the 31st day of October, 2004, at or near, Edmonton, Alberta, did unlawfully cause the death of Valerie Cardinal (AKA) Glynnis Lee Hall and Stephanie Pompana, thereby committing second degree murder, contrary to section 235(1) of the Criminal Code of Canada.
+
+
+[6]               To find Ms. Willier guilty of second degree murder, the Crown must prove each of the following essential elements beyond a reasonable doubt:
+
+ 
+
+(i)         that Ms. Willier caused Ms. Cardinal’s death ;
+
+ 
+
+(ii)        that Ms. Willier caused Ms. Cardinal’s death unlawfully; and
+
+ 
+
+(iii)      that Ms. Willier had the state of mind required for murder.
+
+ 
+
+[7]               If Crown counsel has not satisfied me beyond a reasonable doubt of each of these essential elements, I must find Ms. Willier not guilty of second degree murder and I am left with finding Ms. Willier guilty of manslaughter.
+
+ 
+
+[8]               First, I will review each of these elements and discuss the law and the facts surrounding each of the elements.
+
+ 
+
+a)         Did Ms. Willier cause Ms. Cardinal’s death?
+
+ 
+
+[9]               For an act to cause someone’s death, it must be at least a contributing cause, one that is beyond something that is trifling or minor in nature. There must not be anything that somebody else does later that results in Ms. Willier’s act no longer being a contributing cause of Ms. Cardinal’s death. In this case the issue is whether it was Ms. Willier’s act that caused Ms. Cardinal’s death.
+
+ 
+
+[10]            Late on October 31, 2004, Ms. Cardinal was stabbed four times with a single edge knife.  She died of those wounds early in the morning of November 1, 2004. At the time of the stabbing, she was visiting a friend, Mr. Sawatsky, in Edmonton, Alberta at his residence.  Mr. Sawatsky rented a bedroom in the basement of that residence and he was the only person living in that residence.
+
+ 
+
+[11]            An autopsy was performed on Ms. Cardinal by Dr. Graeme Dowling, a forensic pathologist whose qualifications to perform the autopsy and give opinion evidence were accepted by the Defence.
+
+ 
+
+
+[12]            Dr. Dowling identified 4 stab wounds to the front and left side of the abdomen of Ms. Cardinal.  Three of the wounds were consistent with wounds produced by a single-edged knife blade.  Two of the stab wounds penetrated the soft tissues of the abdominal wall without entering the abdominal cavity.  One stab wound entered the abdominal cavity and passed through the liver.  One stab wound entered the abdominal cavity, damaged a loop of small bowel, passed through the fatty soft tissues that support the bowel and passed through a major vein located in front of the spinal column (the inferior vena cava). That stab wound was 14 cm in depth. In the operation at the hospital to try to save Ms. Cardinal’s life, the vena cava had not been repaired, although the bowel had been sutured.  Although the doctors in operating on Ms. Cardinal did not appear to recognize that an important vein had been cut, the medical examiner, Dr. Graeme Dowling stated that the nature of the stab wound was such that it was unlikely that Ms. Cardinal could have been saved.
+
+ 
+
+[13]            I find that the stab wound through the vena cava caused the death of Ms. Cardinal.
+
+ 
+
+[14]            The identity of Ms. Willier as the person that inflicted the wounds in Ms. Cardinal is beyond doubt.  She confessed to Detective Clark that she had inflicted those wounds. That confession was videotaped and the Crown entered the video as evidence in the trial.  There is no evidence to contradict her statement to the police.  Further, the other evidence to substantiate the confession was the evidence given by Mr. Sawatsky that Ms. Willier was the only person in the house, other than Ms. Cardinal, at the time of the stabbing. Mr. Sawatsky rented the bedroom where the stabbing occurred and there was no one else living in the house at the time.
+
+ 
+
+[15]            I am therefore, satisfied that the first element has been proved by the Crown beyond a reasonable doubt.
+
+ 
+
+b)         Did Ms. Willier cause Ms. Cardinal’s death unlawfully?
+
+ 
+
+[16]            With respect to the unlawful act, the Crown alleges that Ms. Willier stabbed Ms. Cardinal and Ms. Willier said that she stabbed the victim.  Stabbing is an assault which is unlawful.  Therefore, Ms. Willier committed an unlawful act.
+
+ 
+
+[17]            The Crown has proved beyond a reasonable doubt that Ms. Willier caused Ms. Cardinal’s death unlawfully.
+
+ 
+
+c)         Did Ms. Willier have the state of mind required for murder?
+
+ 
+
+[18]            The issue of importance here is whether Ms. Willier had the necessary state of mind to cause the death of Ms. Cardinal.
+
+ 
+
+[19]            The crime of murder requires proof of a particular state of mind. For an unlawful killing to be murder, the Crown must prove that Ms. Willier either meant to kill Ms. Cardinal or meant to cause Ms. Cardinal bodily harm that Ms. Willier knew was likely to kill Ms. Cardinal, and was reckless whether Ms. Cardinal died or not.  I must find, for second degree murder, that she had either of those states of mind. Second degree murder will not be committed if Ms. Willier lacked that intent.
+
+[31]            The evidence relating to Ms. Willier’s consumption of alcohol comes from her videotaped statements to the police and to her mother at the police station in an interrogation room, from the evidence of Mr. Sawatsky, the renter of the bedroom in which Ms. Cardinal was stabbed, from the evidence of Mr. Enright, a friend of Ms. Willier, whom she saw shortly after the stabbing and from the observations of the police officers of the scene.  In order to understand her intention at the time, I will review the evidence first, then draw inferences from that evidence.
+
+ 
+
+d)         The evidence of the police officers
+
+ 
+
+[32]            Sergeant Topp, when he videotaped the scene of the homicide, noticed many liquor bottles - his estimate was 10 to 15.  He did not take note of how many were empty nor of how much liquor was left in the bottles.  The photographs of the scene also showed boxes that contained or had contained alcohol and a bottle of Bailey’s on top of the fridge in the kitchen.  One of the officers said that he saw a J&B bottle. The police were not able to say if there were any empty, partially empty or full liquor bottles in the boxes. Mr. Sawatsky said that the liquor boxes in the pictures were all empty. 
+
+ 
+
+
+[33]            None of the police officers could recall specifics of the liquor in the rooms in the basement.  One officer noted that there were whiskey bottles but he could not say if they were 26 ounces or 40 ounces.
+
+ 
+
+[34]            The pictures of the scene put in evidence by the Crown do not show bottles strewn everywhere.  The only obvious liquor bottle is the bottle of Bailey’s that is on the fridge.
+
+ 
+
+e)         Evidence from and about Mr. Sawatsky
+
+ 
+
+[35]            Constable Zielie, who was the first officer on the scene at about 10:30 p.m., described Mr. Sawatsky as moderately intoxicated.  After Ms. Cardinal was taken to the hospital by the ambulance, Mr. Sawatsky had more to drink. When Constable Zielie saw Mr. Sawatsky a few hours later he described him as being in the same condition.   At 4:35 a.m., when Detective Whittaker interviewed Mr. Sawatsky, Mr. Sawatsky was still intoxicated.
+
+ 
+
+[36]            Constable Zielie said that the details that Mr. Sawatsky gave to him were sometimes confused.  Further, the constable agreed on cross-examination that Mr. Sawatsky was quite drunk and that some people can mask the effects of alcohol.
+
+ 
+
+[37]            Mr. Sawatsky on cross-examination described himself as being pretty hammered that day.
+
+[38]            Mr. Sawatsky described his drinking on the day that Ms. Cardinal was killed in his bedroom.  He said that he got up on October 31, 2004, and started to drink at about 9:30 a.m..  He drank all day. He drank Bailey’s early in the day because it was easy on his stomach, then he drank whiskey, maybe Rye –  “everything” as he put it. He only went out once in the late morning to get a Loto ticket.  Before that he estimated that he could have had four or five drinks. He said that he had two bottles of Bailey’s, a bottle of whiskey, rum and maybe some vodka.  He had several bottles that were partially full.  He said that he had lots of booze in his place.  However, he could not be specific about the number of bottles, or the size of the bottles of alcohol that he had in his room that day.  He said that he did not keep track of how much he drank or how much alcohol he had in his room. 
+
+ 
+
+[39]            Generally, when asked questions about visits from other people that day, he was not sure and could not remember much detail. This contrasted with Ms. Willier’s recollection of visitors during the day before she began to drink heavily.
+
+ 
+
+[40]            Mr. Sawatsky remembered things differently at trial than at the preliminary.  When asked on cross-examination about those things, he said that he had some memory loss from using alcohol - he agreed that he had “islands of memory”.  For this reason, we are concerned about his reliability with respect to his memory of the incidents of that evening and look to other evidence to confirm his memory of events.  Further, he does not wear a watch and pays little attention to time.  With this in mind, we review the evidence given by Mr. Sawatsky concerning the events of that day.
+
+ 
+
+
+[41]            Mr. Sawatsky said that Ms. Willier was drinking in the afternoon and in the evening but he did not keep track of what they were drinking that day.
+
+ 
+
+[42]            According to Mr. Sawatsky, Ms. Willier had come to see him that Hallowe’en day a number of times, some of which was with her children but he cannot remember how many times he saw her that day. In the morning visit, the children were in costume and he gave them some candy.  He could not remember if she was drinking with him at that time.  Later when she returned it was for short periods of time but he could not remember how many or for how long.  She sometimes came by herself. Later in the afternoon, when Ms. Willier came over, she was drinking Bailey’s for her coffee.  He said he may have given her two “pours”. I gather that the “pours” were not small. He said that he did not pay attention to whether she was drinking the Bailey’s with her coffee.  At the preliminary, Mr. Sawatsky said that he poured Ms. Willier some rum when her children were there and one of the children told her not to drink.  He could not remember any of this at trial but he accepted that he had said this at the preliminary and that it was accurate at that time.
+
+ 
+
+[43]            Although Mr. Sawatsky had known Ms. Willier for about six months and saw her frequently during that time, October 31 was the first time he saw her drink.
+
+ 
+
+[44]            As to her state of inebriation that day, Mr. Sawatsky said that Ms. Willier could possibly be grossly intoxicated.
+
+ 
+
+[45]            Now I turn to the events of the day as Mr. Sawatsky remembers them.
+
+ 
+
+[46]            According to Mr. Sawatsky, Ms. Cardinal came over late afternoon or early in the evening and passed out on his bed where she stayed for almost the whole time.  He said that she did not drink with him. In his videotaped interview with the police he said that he and Ms. Cardinal were drinking together that day, but at trial he simply could not remember that happening. He also did not adopt that statement.
+
+ 
+
+[47]            That evening, Ms. Willier asked to use Mr. Sawatsky’s cell phone. He kept drinking and forgot about it. Ms. Willier left with the cell phone.  He could not find it in his residence so he went across the street to find her at her mother’s place to ask for the cell phone back.  He spoke to her mother.  He could not remember any detail about the conversation with Ms. Willier’s mother, he does not remember if he was inside or outside the house, he does not remember if the mother was sober, he does not remember what the mother said and he does not remember what he said.
+
+ 
+
+[48]            Mr. Sawatsky recalls that about 1½ to 2 hours later, Ms. Willier returns to his home with the cell phone.  At that time he sees something long in her hand that “could have been a knife”.  He did not make much of it at the time.  When Ms. Willier gives him the phone, she is upset about the fact that he has gone to her mother’s. Ms. Willier was yelling.  She gives him the cell phone.  He leaves the residence and Ms. Willier goes to the kitchen.
+
+ 
+
+
+[49]            As soon as he was outside he heard yelling.  He does not remember very well what he was doing during that time.  He thinks that the yelling goes on for a couple of minutes.  He believes it is coming from his bedroom.  He then looked through the kitchen window into the basement and saw Ms. Cardinal lying on the floor.  He did not see Ms. Willier at that time.  He tried to use his cell phone but it was locked so he went first to a restaurant where they would not let him use the phone and finally to a Mohawk station where he called 911.  The police picked him up there and went to the house with him which was about 5 minutes walk away. Mr. Sawatsky does not know what the time was that all this happened.  He thought it was about 9:00 p.m. but the police establish that the time they were called was just before 10:30 p.m..
+
+ 
+
+f)         Mr. Enright’s Evidence
+
+ 
+
+[50]            Mr. Enright gave evidence at the trial about his visits from Ms. Willier on October 31 and November 1, 2004.
+
+ 
+
+[51]            According to Mr. Enright, on the evening of October 31, Ms. Willier visited him.  She had known him for about one month. He lived a short distance from where Ms. Willier lived.  While Mr. Enright was watching the football game that evening, Ms. Willier buzzed his apartment. The game is on from about 6:30 p.m. to about 9:30 p.m..  At the time that she came he had been drinking quite heavily and he had been on a binge for a couple of weeks.  That day, he had been drinking beer and whiskey.
+
+ 
+
+[52]            When she came in, he thinks that she pulled two knives, some Kleenex and some candy out of her pocket and put them on the table.  One of the knives was bigger than the other.  He was not really sure how long the blades were on the knives. 
+
+ 
+
+[53]            Ms. Willier asked to use his phone.  While she was on the phone she pulled a cell phone out of her pocket and said that she would take it right back. Mr. Enright said that her mood seemed normal but she had been drinking.  He said that in the time that he had known her, this was the first time that he had seen her drinking.  She left right after she finished on the phone.
+
+ 
+
+[54]            At about 2:00 a.m., she came back.  She had a bag of clothes with her and wanted a place to stay.  She did not have the knives with her. She told him that she had stabbed somebody. He did not believe her.  He told her to go to sleep and he went back to bed.
+
+ 
+
+[55]            Mr. Enright gave a statement to the police on November 2 which was taped. He had not seen Ms. Willier since she left his apartment, nor had he discussed the events with anyone. At that time he told the police that Ms. Willier was drunk when she came over in the evening of October 31 and was drunk when she came back at 2:00 a.m. November 1.  Further, when he gave his statement to the police, he said that at 2:00 a.m. she said: “I stabbed that son of a bitch, he was after my mother.”
+
+ 
+
+
+[56]            The next morning he turned on the TV and saw on the news that there was a stabbing.  When he saw this, Ms. Willier was asleep.  When she got up she watched the news with him and learned that the girl had died. Mr. Enright said that she was in shock.  He was also in shock as she did not seem that kind of person. He told her to talk to her mum and to go to the police.  She left his apartment that morning, telling him that she was going to turn herself in. She walked home but did not take the bag of clothes.
+
+ 
+
+[57]            Mr. Enright said that what he told the police that day was the truth.
+
+ 
+
+[58]            On neither occasion that she saw him the night before or the middle of the night did she have a drink with him.
+
+ 
+
+g)         Ms. Willier’s statement
+
+ 
+
+[59]            After leaving Mr. Enright’s place, Ms. Willier walked to her mother’s home where she was staying with her children.  When she arrived Detective Clark was there searching the premises with the permission of her mother. She said to the detective that she had heard that they were looking for her.  The detective gave her a Charter warning, took her to the police station, and gave her an opportunity to call a lawyer, which she did.  He then taped an interview with her.  She told him that her lawyer had told her not to talk to him but she then proceeded to do so.  After his interview with her, Ms. Willier’s mother was brought to the police station and put into an interview room with Ms. Willier.  Their conversation was videotaped and monitored by Detective Clark.
+
+ 
+
+[60]            It is those two statements that provide evidence of the events from Ms. Willier’s perspective.  Those statements are both inculpatory and exculpatory.
+
+ 
+
+[61]            The law with respect to my use of those statements is clear.  If the Crown puts in the statement of the accused, it can be used for all purposes, those purposes to prove the case for the Crown and to provide evidence of defences the accused may advance: R. v. Hughes, Petryk, Billamy, and Berrigan, 1942 CanLII 22 (SCC), [1942] S.C.R. 517, 78 C.C.C. 257 (S.C.C.); Watt’s Manual of Criminal Evidence 2005 Thomson Carswell at § 37.06; R. v. Harris (1946), 1946 CanLII 53 (ON CA), 3 D.L.R. 520, 1 C.R. 509 (Ont. C.A.) and the Annotation to the case which cites: R. v. Girvin, 1916 CanLII 669 (AB CA), [1917] 1 W.W.R. 907, 10 Alta. L.R. 324 (S.C.), which states that the accused is:
+
+ 
+
+entitled as of right to have a statement made by him considered in its entirety and in the absence of evidence of the falsity of any exculpatory portion, to have that exculpatory portion accepted as true; but as another aspect of the same thing, he is entitled as of right to have such a statement considered in its entirety so that the true meaning of his statement may be made manifest; for it is but in accordance with the plain dictates of justice and common sense that his statement, if used against him, shall be used only in the true sense in which he made it.
+
+ 
+
+
+[62]            The statement made by the accused to Detective Clark was put into evidence by the Crown as evidence of the homicide and for proof of the elements that must be proved by the Crown to make out the charge of second degree murder including the mental element.  The Defence relies on the statement for the exculpatory evidence it provides as to the mental element, that is the intention to kill, and, in particular evidence for the defence of intoxication.
+
+ 
+
+[63]            Detective Clark stated that he believed the statement that she gave him.  He described her as calm and collected and that they had a normal conversation.  He said that there was no odour of alcohol.  When he arrested her, in front of her children, he said that she was very caring of her children. Detective Clark also said that at 9:30 a.m. when Ms. Willier arrived at her mother’s home, she appeared cooperative and sober.
+
+ 
+
+[64]            Ms. Willier also spoke to her mother in the interview room.  That conversation was taped and monitored by Detective Clark.  The Crown took the position that the conversation with her mother was a separate self-serving statement and that as such should not be admitted.  I admitted the statement as a continuation of the statement made to the police.
+
+ 
+
+[65]            Detective Clark said that the things Ms. Willier said to her mother were consistent with what she had told him and consequently, after Ms. Willier spoke to her mother, he did not have to interview her again.  Detective Clark said that Ms. Willier was forthright and he was satisfied that she had her wits about her when he interviewed her.  He agreed in cross-examination that there were two themes running through what she told him - that she had a poor memory and that she had not had a drink for a long time.  He had information that she had been drinking quite a bit that previous day and heavily the previous night.  However, as to her memory, he said that she was vague about the stabbing and he gave the opinion that it is his experience that it is not unusual for someone to be vague about the incident itself.  He also believed that she was downplaying the incident and that it was not a memory issue.
+
+ 
+
+[66]            Following is a synopsis of what Ms. Willier said to the detective.
+
+ 
+
+[67]            Ms. Willier said that she went over to Mr. Sawatsky’s about 7:30 or 8:00 the night of October 31, after she had finished trick or treating with her kids.  All of her drinking was done at Mr. Sawatsky’s. She thought that she had two big cupfuls of Bailey’s and that she lost count of the number of shots of whiskey at 5.  Sometimes she would mix it with water and sometimes she would drink it straight. She was also taking medication.
+
+ 
+
+[68]            She described Mr. Sawatsky as just about as drunk as her.
+
+ 
+
+
+[69]            In her statement to Detective Clark, Ms. Willier says that the reason that she stabbed her victim was because of a cell phone. That evening, Ms. Willier said that she could not remember that she had the cell phone in her pocket. Mr. Sawatsky had asked for it and she said that she had forgotten it at her mom’s.  She said that Mr. Sawatsky went to her mom’s house and harassed her mother about the cell phone, that Mr. Sawatsky “flipped out” over the cell phone and she “flipped out”. She believed that her mother was “pretty scared and pretty angry” after Mr. Sawatsky yelled at her mother.  She said that her mother was angry at her as a result. Ms. Willier went to look for the cell phone at her mom’s and found it in her pocket and it was then that she took the knives because she was angry at him.  Ms. Willier said that she went back to Mr. Sawatsky’s place and she threw his cell phone at him.  At the time, they were both in the living room of the basement.  At the time there was “some other hooker” at his place.  She said that the other girl was drinking.  They were drinking Bailey’s and whiskey - Golden Wedding.
+
+ 
+
+[70]            She remembered others coming to the house earlier in the day.  She described them and what happened. Mr. Sawatsky said that he could not remember any of this.
+
+ 
+
+[71]            Ms. Willier said to Detective Clark that she barely remembered what happened because she “was intoxicated”.  She remembered part of the argument with Mr. Sawatsky.  She remembered telling him to leave her mom alone.  She also remembered telling him that: “if I hear you out there again, I’ll kill you.”  She said that Mr. Sawatsky ran away because she had knives.   She could not remember what kind of knives she had but that she had two which she got from her mother’s kitchen.  She thought they were steak knives then later in the interview said that one of the knives was a butcher knife and one was a small knife.  She had cut herself.
+
+ 
+
+[72]            She told the detective that after she stabbed Ms. Cardinal she threw the knives onto the floor at her mom’s house by a bed stand.
+
+ 
+
+[73]            Ms. Willier said that she could not remember what Ms. Cardinal was doing when Mr. Sawatsky ran away. Ms. Willier told Detective Clark that she stabbed her two or three times. Ms. Cardinal fought back. Ms. Willier said that she did not even know the girl and that she wished it was Mr. Sawatsky. Ms. Willier says that she can barely remember but there was a lot of arguing, that she was swearing and mad at Mr. Sawatsky about harassing her mother.  They were in the living room in the basement.  She could not say why Mr. Sawatsky ran off because she did not really know what happened.
+
+ 
+
+[74]            When he took off, Ms. Willier went into the bedroom where Ms. Cardinal was sitting on the bed and they started fighting because Ms. Cardinal was angry at Ms. Willier because Ms. Willier was mad at Mr. Sawatsky.  When Ms. Willier walked in Ms. Cardinal was swearing at her. Ms. Willier could not remember the exact words because she was intoxicated. She only remembered arguing because of Pete for two or three minutes. Ms. Willier also recalled that Ms. Cardinal had jumped up from the bed and was trying to hit her. Then Ms. Willier said “if you want to stick up for him” and threw her down on the bed and stabbed her two or three times in the abdomen. Ms. Willier did not know if she used one or both knives.
+
+ 
+
+[75]            After she stabbed her, Ms. Willier told Detective Clark that she just walked away.  She said that she went driving around with a guy who was intoxicated and wanted a hooker.  After she was driving around she went to her mom’s house.  Earlier she thought she must have gone to her mom’s because she did not take the knives with her.  She did not remember if she had talked to her mom. She remembered rolling a smoke.
+
+ 
+
+
+[76]            Ms. Willier does not tell Detective Clark about going to Mr. Enright’s apartment.  She said that she went driving around all night and then heard the next morning that there was a girl stabbed.  She was vague about the guy and the car.
+
+ 
+
+[77]            When asked how much she had been drinking she said “Oh lots.”
+
+ 
+
+[78]            Earlier in the day, she went to Mr. Sawatsky’s because he had booze, she had not drank for 4 months and she wanted a drink. She began drinking with him.  She said that he had brought over some hookers because she would not do that for him. ( Mr. Sawatsky said that he did not know where a condom found on the rug in his bedroom had come from).
+
+ 
+
+[79]            Detective Clark believed Ms. Willier and felt that she had been forthright to him.  The only information that she did not tell Detective Clark was concerning her visits to Mr. Enright.  I have no explanation for her leaving this out.
+
+ 
+
+[80]            Ms. Willier also spoke to her mother when she was in the witness room about one hour after she finished speaking to Detective Clark.  That conversation was recorded by video and was monitored by Detective Clark.  I am not going to summarize that conversation except to say that it was consistent with the events as she told them to Detective Clark, except that she mentions going to Mr. Enright’s (Brian’s) place.
+
+ 
+
+h)         Discussion of Ms. Willier’s intent
+
+ 
+
+[81]            I turn now to a discussion of the law and evidence as it relates to the intention of Ms. Willier to stab Ms. Cardinal causing her death.
+
+ 
+
+[82]            Given the circumstances of this case, I find that the first kind of intention is not present here, that is, when Ms. Willier stabbed Ms. Cardinal, she did not mean to kill her.
+
+ 
+
+[83]            Therefore, the intention that we will deal with is the second kind of intention, that is, did Ms. Willier mean to cause Ms. Cardinal bodily harm that she knew was likely to cause Ms. Cardinal’s death, and was Ms. Willier reckless whether death ensued or not.
+
+ 
+
+[84]            The Defence says that she was so intoxicated that she did not form the requisite intent.
+
+ 
+
+[85]            First, I will deal with the evidence of drinking.
+
+ 
+
+
+[86]            As stated earlier, evidence of drinking, by itself, is not evidence of intoxication, and is certainly not evidence of the degree necessary to raise a reasonable doubt regarding the primary or secondary intent required for murder.  Here, we have evidence of drinking but we have little evidence of how much she drank.  We do have evidence that Mr. Sawatsky was drunk.  He said that he had been drinking all day.  We know from her and from him that she started drinking in earnest in the evening.  We do not know how much alcohol was present in the room and we do not know how much was left.  We do not know whether the bottles that were found (Whiskey bottles and one bottle of Bailey’s) were full, partially empty or almost empty when Ms. Willier started drinking.  We have evidence that Mr. Sawatsky did not go out to buy alcohol that day.  There are pictures of boxes that had contained alcohol but the only evidence we have about the contents of the boxes is that of Mr. Sawatsky who said that there were no bottles or cans of alcohol in those boxes. Pictures taken at the scene show only the Bailey’s bottle.  There are no bottles lying around the premises. One of the police officers acknowledged that there were 10 or 15 bottles but we do not know if they were emptied that day or over several days.
+
+ 
+
+[87]            Ms. Willier told Detective Clark that she had “lots” to drink, that she had two cupfuls of Bailey’s and lost count at 5 shots of whiskey. She remembered that she had drunk some of the whiskey straight up and some with water. She also said that she was taking medication - an anti-depressant (Zoloft), a sleeping medication (Zercloe), a stomach medication (Abuspan) and medication for panic attacks (Ribatrol). Ms. Willier described taking the drugs and drinking as a deadly combination. Before that day, she had not had a drink for several months and it was clear that her family, including her children, discouraged her drinking.
+
+ 
+
+[88]            Aside from knowing generally that one should not take medication and drink, I have no evidence as to how much she was taking, how frequently, and how the medication would affect her state of intoxication when she drank.
+
+ 
+
+[89]            Others described Ms. Willier as drunk. Mr. Sawatsky really did not know how much she drank or how drunk she was.  He agreed with the Defence counsel’s question that she could be grossly intoxicated.  However, Mr. Sawatsky’s evidence was not very reliable.  There was little I could take from what he said happened that day and evening.  What he does say about the day often is contradicted by Ms. Willier when she was sober in the early part of the day.
+
+ 
+
+[90]            Mr. Enright described Ms. Willier as having been drinking but with a normal mood when he saw her before 9:30 p.m.  I find that she saw Mr. Enright closer to 9:00 p.m. because from the evidence it appears that she went over to Mr. Sawatsky’s place sometime after 7:00 p.m. - she thought about 7:30 p.m. or 8:00 p.m..  She had finished trick or treating with her children and estimated that she went over after that time because Mr. Sawatsky had booze and she wanted to drink.  Further, the evidence establishes that early in the evening she borrowed the cell phone that became the object of her dispute with Mr. Sawatsky and she drank with him at that time.  So before she saw Mr. Enright she had been drinking with Mr. Sawatsky.
+
+ 
+
+[91]            I have no evidence of Ms. Willier’s blood alcohol level at the time of the stabbing.
+
+ 
+
+[92]            I find that Ms. Willier was intoxicated but intoxication by itself is not enough to vitiate intention. I must look to the other circumstances surrounding the stabbing to determine if she formed the intent necessary for second degree murder.
+
+ 
+
+
+[93]            When the dispute arose, she went back to her mother’s and picked up two knives.  Although the knives were not in evidence, there is no dispute as to the fact that Ms. Cardinal was stabbed with a knife, that Mr. Enright saw Ms. Willier with knives and that Ms. Willier said that she got knives from her mother’s and that she stabbed Ms. Cardinal with a knife.  After picking up the knives she went to Mr. Enright’s where she stayed for a few minutes.  From the evidence it is apparent that she went back to Mr. Sawatsky’s after she left Mr. Enright’s.
+
+ 
+
+i)         Memory
+
+ 
+
+[94]            Ms. Willier asks me to look at the evidence as to what she did not remember that day and evening to support her contention that she did not have the intent necessary for second degree murder.
+
+ 
+
+[95]            I will first look at what she did remember.  In doing so, I note that what she told Detective Clark was the next morning having turned herself in at 9:30 a.m.. It was soon after the events, without having had the opportunity to discuss anything with Mr. Sawatsky or anyone else that could have refreshed her memory.  She had heard something on the news.  I did not get a transcript of what was said but I can take notice of the fact that the news on TV is usually short and does not give details. Ms. Willier could remember many details.
+
+ 
+
+[96]            She remembered Mr. Sawatsky asking for his cell phone back and that she said that she had forgotten it at her mother’s so she went back to find it.  She remembers Mr. Sawatsky went to her mother’s place while she stayed at his place.  She remembers Mr. Sawatsky coming back and yelling at her about the phone.
+
+ 
+
+[97]            She remembered then going to her mother’s house to look for the phone again and that she found the cell phone in her pocket at her mother’s house and that she grabbed knives because Mr. Sawatsky had scared and upset her mother.  She remembers confronting Mr. Sawatsky in the living room of the basement where he had his bedroom.  She remembers some of the conversation.
+
+ 
+
+[98]            Just before she stabbed Ms. Cardinal, Ms. Willier had thrown the cell phones at Mr. Sawatsky and told him “if I hear you out there again, I’ll kill you.”  I take it she was referring to his seeing her mother and getting angry at her.  Just before she said this, she reported saying to Mr. Sawatsky: “Here’s your effin cell phone and fuckin’ leave my mom alone.”  She reported a lot of arguing with him and getting angry at him because he had harassed her mom.  She remembered that he yelled at her and that there was a lot of swearing.  She reported that Mr. Sawatsky had run away because she had knives.  She remembered having 2 knives, one a steak knife and the other a big butcher knife. She remembered the colour of the handles of the knives.
+
+ 
+
+
+[99]            She remembers that when Mr. Sawatsky took off, that the next thing she does is stab the girl, two or three times.  She remembers that at the time Ms. Cardinal was fighting back. Ms. Willier describes the events as they occurred during the stabbing.  She says that Ms. Cardinal was sitting on the bed and that they started fighting because Ms. Cardinal was angry at Ms. Willier for getting angry at Mr. Sawatsky. Ms. Willier remembered saying “if you want to stick up for him ...” and then stabbing her.  She remembered that Ms. Cardinal had stood up from the bed during the argument hitting at Ms. Willier and that Ms. Willier had thrown her down on the bed and that she had stabbed her two or three times. She remembered stabbing her in the abdomen.  She remembered Ms. Cardinal saying “ouch” and trying to push her away.
+
+ 
+
+[100]         She remembered that she “just walked away.”  She thought she remembered going to her mom’s house where she dropped the knives on the floor and rolled a cigarette.  She described where she had dropped the knives.  She remembered the clothes that she was wearing that night.  She remembered cutting her hand on the knives.  The police took pictures of the cuts.
+
+ 
+
+[101]         To Detective Clark, she was vague about what happened during the night.  However, when she spoke to her mother she referred to her conversation with “Brian” (Mr. Enright).
+
+ 
+
+[102]         She went to Mr. Enright’s at about 2:00 a.m. in the morning. When he was interviewed by the police on November 2, he said that she told him that she had “stabbed that son of a bitch - he was after my mother.”  He told the police that she was drunk. He did not believe her and told her to sleep it off.  The next morning when they watched the TV news, she heard that the girl had died. Mr. Enright described Ms. Willier as being in shock when she heard that.  Also, when she was talking to her mother the next day, she said: “First time I stab a person I kill them, oh my God.”
+
+ 
+
+[103]         I now turn to the things that Ms. Willier could not remember.
+
+ 
+
+[104]         She could not remember how much she drank.  She says that she can barely remember the argument with Mr. Sawatsky because she was intoxicated.  She could not remember why she had Mr. Sawatsky’s cell phone, nor could she remember at the time that it was in her pocket. She could not remember at first what kind of knives she had but later did. She could not remember what the other girl was doing when Mr. Sawatsky ran away. She cannot remember the exact words that Ms. Cardinal was saying to her because Ms. Willier was intoxicated.  She did not remember how long she and Ms. Cardinal argued. She did not remember where she had kept the knives before she stabbed Ms. Cardinal but she described how she had hidden one in her sleeve.
+
+ 
+
+[105]         She did not remember going to her mother’s after stabbing Ms. Cardinal but she did remember dropping the knives.  She did not remember at what time.  She did not remember if she talked to her mother after she stabbed Ms. Cardinal.
+
+ 
+
+[106]         Generally, Ms. Willier could not remember times that evening.
+
+ 
+
+[107]         As to her memory, Ms. Willier could remember important details.  Her lack of memory in some instances was understandable.  People normally do not often remember details of conversations, especially when those conversations are had in heat as they were in this case.  Further, in this case, as I have found that she was intoxicated which would also explain why she did not remember details of the argument or other details.  However, this too is not enough to establish that she was so intoxicated that she did not form the intent.
+
+ 
+
+
+[108]         As I said earlier, I find that Ms. Willier did not intend to kill Ms. Cardinal in the sense that is used in the Criminal Code: that is where the person who caused the death meant to cause the death. This I have referred to as the first kind of intent.
+
+ 
+
+[109]         However, I find that she did form the necessary intent for murder under the second kind of intent as follows:
+
+ 
+
+1.         Ms. Willier meant to cause Ms. Cardinal harm.  From her detailed description of the events at the time that she stabbed Ms. Cardinal, she was angry at her and meant to do her harm.  She described the stabbing even as to how many times she stabbed Ms. Cardinal and where she had stabbed her.  Although there were four stab wounds, Ms. Willier’s description of two or three was close.
+
+ 
+
+Ms. Willier would like me to find that she meant to harm Mr. Sawatsky and not Ms. Cardinal.  She says that I should pay particular attention to the words reported by Mr. Enright when Ms. Willier went to his apartment in the middle of the night: “I stabbed that bastard, he was after my mother.”  Those words were reported by someone who was drunk by his own admission and therefore the reliability of the words is suspect.  However, they were reported to the police within two days of the stabbing and after he had spoken to Ms. Willier and observed her watching the news on Channel 8 when she discovered that the girl had died.  I weigh this against her description to the police hours after the stabbing which was detailed in its description of what had happened and why.  Ms. Willier was not coached by anyone as to what had happened and what to say.  She had not blacked out, she could remember important details about what had happened.  Therefore, I find, beyond a reasonable doubt that she meant to cause Ms. Cardinal harm.
+
+ 
+
+2.         Further, I find that she knew that stabbing Ms. Cardinal would be likely to cause her death. Ms. Willier had stated that she was going to kill Mr. Sawatsky and in that context had retrieved the knives.  She had retrieved the knives a short time before she stabbed Ms. Cardinal. I find that she knew that knives could kill.  I find that she knew at the time that she stabbed Ms. Cardinal that she knew that stabbing someone with knives could kill, was likely to kill.  She stabbed Ms. Cardinal in the abdomen.  If she had stabbed her in the leg or the arm, she may not have known that stabbing was likely to cause death.  However, she stabbed Ms. Cardinal in the torso.  There is nothing in the evidence to suggest that Ms. Willier did not know at the time of the stabbing that it could cause death.
+
+ 
+
+I weigh this against the evidence of the words she used when talking to her mother: “First time I stab a person I kill them, oh my God.”  These words might indicate that she believed that stabbing does not always kill someone.  However, those words also indicate that she knew that stabbing could kill someone.
+
+ 
+
+
+3.         I find that Ms. Willier was reckless as to whether the death of Ms. Cardinal ensued or not.  She walked away, she told Mr. Enright that she had stabbed someone and she did not go back to assist.
+
+ 
+
+[110]         I am sure that Ms. Willier meant to cause harm to Ms. Cardinal, that she knew in causing the harm, that is in stabbing Ms. Cardinal in the abdomen, that the harm was likely to cause death and she was reckless as to whether the harm that she had done to Ms. Cardinal would cause her death.  I find that although Ms. Willier had been drinking and was intoxicated, that she had not reached a state of intoxication necessary to abrogate the necessary intention to commit second degree murder.
+
+ 
+
+[20]            The Crown must prove this element and all elements for murder beyond a reasonable doubt, that is, I must be sure that Ms. Willier had the requisite intention to kill Ms. Cardinal.  If Ms. Willier did not have either kind of intention, Ms. Willier committed manslaughter.

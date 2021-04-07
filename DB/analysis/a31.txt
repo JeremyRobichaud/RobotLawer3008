@@ -1,0 +1,88 @@
+V.        Analysis
+            A.        Standards of review
+[15]           In our view, this case turned on the credibility assessment of the complainant made by the trial judge. Credibility findings are entitled to a high degree of deference. Rarely will deficiencies in a trial judge’s credibility assessment merit intervention on appeal: R v Dinardo, 2008 SCC 24 at para 26, [2008] 1 SCR 788.
+
+[16]           To the extent that sufficiency of reasons is raised on appeal, assessing adequacy of reasons is a contextual inquiry having regard to the particular circumstances of the case: whether the basis of the trial judge’s conclusions is apparent from the balance of the record even without articulation, whether the trial judge was called upon to address troublesome principles of law or unsettled or confused and contradictory evidence on a key issue, and the time constraints and general press of business in the criminal courts: R v Sheppard, 2002 SCC 26 at paras 28-29, 50, 55, [2002] 1 SCR 869 [Sheppard].
+
+[17]           At the outset, since this was a trial by judge alone in which it is presumed that the judge knew the law, the mere failure to recite the elements of s 348(1)(a), a common offence, does not warrant appellate intervention.
+
+            B.         Section 348(1)(a) of the Criminal Code – break and enter with intent
+[18]           This section creates an indictable offence and provides for the application of certain presumptions in its prosecution.
+
+[19]           Under s 341(1)(a), the external circumstances consist of the break and entry of a place. The offence requires proof of a specific mental element: the intent to commit an indictable offence in the place that has been broken into and entered. However, no offence need be committed in the premises to establish liability.
+
+[20]           The Crown’s proof of the requisite mental element may be assisted by the presumption set out in s 348(2)(a) which provides as follows:
+
+348(2)(a) For the purposes of proceedings under this section, evidence that an accused
+
+(a) broke and entered a place or attempted to break and enter a place is, in the absence of any evidence to the contrary, proof that he broke and entered the place or attempted to do so, as the case may be, with intent to commit an indictable offence therein; or
+
+…
+
+“The presumption merely establishes a prima facie case. The burden of proof throughout is borne by the Crown…. The entirety of the evidence may raise a reasonable doubt as to [the accused’s] intention which is an essential ingredient of the crime”: R v Nobert, 2013 ABCA 11 at para 3, [2013] AJ No 9 [Norbert], citing R v Proudlock, 1978 CanLII 15 (SCC), [1979] 1 SCR 525, 43 CCC (2d) 321 [Proudlock].
+
+[21]           Other relevant statutory provisions will be discussed in the context of the specific grounds of appeal.
+
+C.        Ground 1: Did the trial judge err in failing to find the essential element of                                     “break” beyond a reasonable doubt?
+            1.         Breaking into a dwelling-house
+[22]           At trial, there was direct evidence from the complainant that someone had recently and forcibly broken into his dwelling-house by kicking in the front door, splitting the doorframe and leaving a large, wet bootprint on the centre of the door. Moreover, the investigating police officer also observed these signs of a forced and unauthorized entry. The trial judge accepted the complainant’s evidence that cigars, a quilt, guns, ammunition and shell casings had been removed from his dwelling-house without his consent, leading to the reasonable inference that the perpetrator unlawfully entered the dwelling-house with the intent to steal items from the home.
+
+[23]           Additionally, the concepts of both “actual breaking” and “constructive breaking” apply, the latter of which is defined as including entry by way of an accessible opening without lawful excuse or justification: see Johnson v The Queen, 1977 CanLII 229 (SCC), [1977] 2 SCR 646, 75 DLR (3d) 118. The Crown correctly summarized the evidence in its factum, at para 47 as follows:
+
+There was also evidence of constructive breaking. The complainant testified that he: lived alone; had locked his house before he left that day; and gave no one else permission to enter it that day. He testified that after discovering that his house had been broken into, in the two to four minutes that he had left to investigate a suspicious noise in his east driveway, a truck had backed in towards his house and he heard the “distinctive sound” “of things being lifted up and placed down”, “like setting something on a table”, coming from “inside the house”. He said he saw both the appellant and the Rottweiler dog come out of his house and that he knew they had been in his house because “to go that path” that they did, they “had to come out of the door” - “[t]here’s no other place they could’ve been” (citations omitted).
+
+[24]           The appellant did not testify. The trial judge accepted the complainant’s evidence, finding that his inference that the appellant was coming from his house was both an “accurate and reasonable inference to draw, given the evidence.” She also heard from the complainant, that the appellant had told him that he had been looking for his dog. Taking the appellant’s statement at its strongest, it would not have provided any kind of “lawful justification or excuse” to have entered the complainant’s home, whether by breaking down the complainant’s door initially (actual breaking), or by entering later through a door which had already been kicked down (constructive breaking). As per s 350(b)(ii) of the Criminal Code:
+
+            350(b)  a person shall be deemed to have broken and entered if . . .
+
+                        (ii)        he entered without lawful justification or excuse . . . by a                                                            permanent or temporary opening.
+
+[25]           As this Court said in R v Singh, 1987 ABCA 261 at para 64, 83 AR 69: “[t]he absence of lawful justification or excuse for entry is not an essential element of the offence of breaking and entering. It is, however, essential to the triggering of the presumption of breaking in s 308(b)(ii) [now s 350(b)(ii)], and breaking is an essential element of the offence.”: at para 64. The Crown fairly concedes that if it wishes to rely on the presumption set out in s 350(b)(ii), it must establish that the appellant entered the premises without lawful justification or excuse.
+
+[26]           In our view, the trial judge’s findings and inferences of fact regarding the appellant’s unlawful entry into the complainant’s home were reasonable, amply supported by the evidence, and are due appellate deference. In addition to the evidence of actual breaking that was reasonably accepted by the trial judge, in these circumstances the presumption under s 350(b)(ii) applied raising a prima facie case of both actual and/or constructive breaking – that is, that the appellant had entered and exited the house through the broken door.
+
+[27]           Moreover, we are satisfied the trial judge sufficiently articulated the reasons why the Crown had ultimately proven the “breaking” element of the offence beyond a reasonable doubt.
+
+            2.         Intent to commit an indictable offence
+[28]           Similarly, there is no merit to the appellant’s contention that the trial judge erred in law by finding that the elements of s 348(1)(a) had been made out “without proving that the Crown had proven beyond reasonable doubt that the Appellant . . . entered with the intent to commit an indictable offence”.
+
+[29]           Again, intent is addressed in s 384(2) of the Criminal Code as set out in para 20 supra.
+
+[30]           The Crown contends that the presumption created by s 348(2) can be used to establish a prima face case that an accused has the “intent to commit an indictable offence” necessary for s 348(1)(a). To rebut this presumption, the accused need only point to any evidence, adduced either in the Crown’s case or his own, that may be reasonably true in order to raise a reasonable doubt as to intent. “There is no onus on the Appellant to explain his presence on the premises”: Nobert at para 3.
+
+[31]           The appellant did not testify. His statement to the complainant that he was looking for his dog, was clearly not believed by the trial judge and was therefore not “evidence to the contrary” under s 348(2)(a) capable of raising a reasonable doubt: Proudlock at 546, 550-551. Moreover, the trial judge’s finding that a theft had been committed and stolen items belonging to the complainant were in the recent possession of the appellant, and later discarded, were findings sufficient to permit the trial judge to infer that the appellant had committed a break and enter into the complainant’s home with the intent to commit theft. “Upon proof of the unexplained possession of recently stolen property, the trier of fact may - - but not must - - draw an inference of guilt of theft or of offences incidental thereto”: R v Kowlyk, 1988 CanLII 50 (SCC), [1988] 2 SCR 59 at para 12, 55 Man R (2d) 1 [Kowlyk]. See also R v Shaw, 2016 ABCA 359 at para 5, [2016] AJ No 1181, in which this Court applied Kowlyk in a similar factual circumstance where the accused had provided no explanation as to why he was in possession of stolen goods hours after, and within riding distance of, the complainant’s house.
+
+            3.         Knowledge and control of the truck; possession of ammunition
+[32]           As to the appellant’s objection about the trial judge’s finding that he possessed, and therefore had knowledge and control over the blue Dodge truck, the Crown again fairly summarized the evidence before the trial judge in its factum at para 58 as follows:
+
+There was also evidence that the appellant had possession, and thus knowledge and control, of the truck: in the two to four minutes the complainant was absent, the truck appeared and was already backed in towards his house; the complainant looked through the truck’s open window for the keys, but the keys were not in it; a few minutes later, the appellant exited the complainant’s house, jumped into the truck with his dog and quickly drove away; and, when the appellant was located by police in the brush a short time later, the key to the truck was found on a key chain with other keys in the appellant’s pant pocket. Further, the evidence was that the inside of the truck was dirty but “wasn’t a mess.” As can be seen in the photograph taken by Constable White, the .41 calibre bullet was located in plain view, in the “little indent” on the armrest of the driver’s side door, and the magazine containing three .308 calibre rifle bullets was located in the center console, proximate to where the appellant was seated while driving the truck. . . (citations omitted).
+
+[33]           Based on this evidence, the trial judge was satisfied that the Crown had proved beyond reasonable doubt that the appellant had entered the complainant’s house unlawfully with the intent to commit the indictable offence of theft, and was thereafter in possession of stolen ammunition. We discern no error in so finding.
+
+[34]           This ground of appeal is dismissed.
+
+            D.        Ground 2:      Did the trial judge fail to give sufficient reasons why she convicted                                     the appellant?
+[35]           The short answer to this ground of appeal is: no.
+
+[36]           A trial judge must provide reasons sufficiently intelligible, transparent and accessible, to allow meaningful appellate review: see Sheppard at paras 15, 23, 28 and 55.
+
+[37]           In our view, the appellant ought to be left in no doubt as to why he was convicted, given the context of the entire proceedings, the applicable law, the evidentiary record, and the submissions of counsel.
+
+[38]           The accepted evidence was that only a short amount of time had elapsed from when the complainant first saw the wet boot print on his front door to the time that he saw the blue Dodge truck backed in towards his house, heard the sound of rummaging coming from within and then saw the appellant outside near his house, jump into the truck with the dog and drive away at high speed down the east driveway. The complainant drove down the west driveway and observed the appellant’s truck come “shooting out the east driveway onto 510 and then started in an easterly direction on Township Road 510”. Thereafter, the complainant never “lost visual the whole time”.
+
+[39]           The complainant then noticed the appellant turn north onto Range Road 205, but overshooting the turn and skidding into the east ditch, driving out again and stopping on the shoulder by the west ditch where he saw the appellant throwing things out of the vehicle. The appellant then got back into his truck driving in a northerly direction on Range Road 205 where he eventually came to a halt and exited the vehicle with his dog.
+
+[40]           From this record, the Crown contends that the obvious inference was that the appellant was the one who broke into the complainant’s house with the intent to commit theft and, “in fact, did steal: (1) the red plastic bag of .41 calibre shell casings and cigars and threw them in the ditch, where they were later recovered; and (2) the .41 and .308 calibre bullets found in the very truck that he fled from the complainant’s house in”.
+
+[41]            We agree. “Where it is plain from the record why an accused has been convicted or acquitted, and the absence or inadequacy of reasons provides no significant impediment to the exercise of the right of appeal, the appeal court will not on that account intervene”: Sheppard at para 46.
+
+[42]           This ground of appeal is dismissed.
+
+            E.         Ground 3:      Did the trial judge err in convicting the appellant under s 145(3) for                      breaching a condition not to possess firearms?
+[43]           The evidence of the complainant about locating ammunition in a bag he recognized, is set out above at para 10.
+
+[44]           In our view, the trial judge did not err in finding that the appellant had both control and possession of the bag of .41 calibre shell casings and cigars recovered from the very ditch where the complainant had seen him throwing things out of the truck.
+
+[45]           Similarly, the fact that the appellant was attempting to purge the truck of items taken from the complainant’s house while he fled, supports the inference that the appellant also had knowledge of the .41 and .308 calibre bullets in the truck.
+
+[46]           This ground of appeal is dismissed.

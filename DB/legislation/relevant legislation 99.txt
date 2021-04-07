@@ -1,0 +1,90 @@
+﻿[91]           The Supreme Court of Canada recently discussed the law respecting the actus reus and mens rea of a party pursuant to s. 21(1) of the Criminal Code in R. v. Briscoe, 2010 SCC 13. Justice Charron, writing for the Court, said at paras. 13 - 18:
+
+ 
+
+13     Canadian criminal law does not distinguish between the principal offender and parties to an offence in determining criminal liability. Section 21(1) of the Criminal Code makes perpetrators, aiders, and abettors equally liable:
+
+ 
+
+      21. (1) Every one is a party to an offence who
+
+ 
+
+(a) actually commits it;
+
+(b) does or omits to do anything for the purpose of aiding any person to commit it; or
+
+(c) abets any person in committing it.
+
+ 
+
+The person who provides the gun, therefore, may be found guilty of the same offence as the one who pulls the trigger. The actus reus and mens rea for aiding or abetting, however, are distinct from those of the principal offence.
+
+ 
+
+
+14     The actus reus of aiding or abetting is doing (or, in some circumstances, omitting to do) something that assists or encourages the perpetrator to commit the offence. While it is common to speak of aiding and abetting together, the two concepts are distinct, and liability can flow from either one. Broadly speaking, "[t]o aid under s. 21(1)(b) means to assist or help the actor. To abet within the meaning of s. 21(1)© includes encouraging, instigating, promoting or procuring the crime to be committed": R. v. Greyeyes, 1997 CanLII 313 (SCC), [1997] 2 S.C.R. 825, at para. 26...
+
+ 
+
+15     Of course, doing or omitting to do something that resulted in assisting another in committing a crime is not sufficient to attract criminal liability. As the Court of Appeal for Ontario wrote in R. v. F. W. Woolworth Co. (1974), 1974 CanLII 707 (ON CA), 3 O.R. (2d) 629, "one does not render himself liable by renting or loaning a car for some legitimate business or recreational activity merely because the person to whom it is loaned or rented chooses in the course of his use to transport some stolen goods, or by renting a house for residential purposes to a tenant who surreptitiously uses it to store drugs" (p. 640). The aider or abettor must also have the requisite mental state or mens rea. Specifically, in the words of s. 21(1)(b), the person must have rendered the assistance for the purpose of aiding the principal offender to commit the crime.
+
+ 
+
+16     The mens rea requirement reflected in the word "purpose" under s. 21(1)(b) has two components: intent and knowledge. For the intent component, it was settled in R. v. Hibbert, 1995 CanLII 110 (SCC), [1995] 2 S.C.R. 973, that "purpose" in s. 21(1)(b) should be understood as essentially synonymous with "intention". The Crown must prove that the accused intended to assist the principal in the commission of the offence. The Court emphasized that "purpose" should not be interpreted as incorporating the notion of "desire" into the fault requirement for party liability. It is therefore not required that the accused desired that the offence be successfully committed (Hibbert, at para. 35). The Court held, at para. 32, that the perverse consequences that would flow from a "purpose equals desire" interpretation of s. 21(1)(b) were clearly illustrated by the following hypothetical situation described by Mewett and Manning:
+
+ 
+
+     If a man is approached by a friend who tells him that he is going to rob a bank and would like to use his car as the getaway vehicle for which he will pay him $100, when that person is ... charged under s. 21 for doing something for the purpose of aiding his friend to commit the offence, can he say "My purpose was not to aid the robbery but to make $100"? His argument would be that while he knew that he was helping the robbery, his desire was to obtain $100 and he did not care one way or the other whether the robbery was successful or not.
+
+ 
+
+(A. W. Mewett and M. Manning, Criminal Law (2nd ed. 1985), at p. 112)
+
+ 
+
+The same rationale applies regardless of the principal offence in question. Even in respect of murder, there is no "additional requirement that an aider or abettor subjectively approve of or desire the victim's death" (Hibbert, at para. 37 (emphasis deleted)).
+
+ 
+
+
+17     As for knowledge, in order to have the intention to assist in the commission of an offence, the aider must know that the perpetrator intends to commit the crime, although he or she need not know precisely how it will be committed. That sufficient knowledge is a prerequisite for intention is simply a matter of common sense. Doherty J.A. in R. v. Maciel, 2007 ONCA 196, 219 C.C.C. (3d) 516, provides the following useful explanation of the knowledge requirement which is entirely apposite to this case (at paras. 88‑89):
+
+ 
+
+... a person who is alleged to have aided in a murder must be shown to have known that the perpetrator had the intent required for murder under s. 229(a): R. v. Kirkness (1990), 1990 CanLII 57 (SCC), 60 C.C.C. (3d) 97 (S.C.C.) at 127.
+
+ 
+
+     The same analysis applies where it is alleged that the accused aided a perpetrator in the commission of a first degree murder that was planned and deliberate. The accused is liable as an aider only if the accused did something to assist the perpetrator in the planned and deliberate murder and if, when the aider rendered the assistance, he did so for the purpose of aiding the perpetrator in the commission of a planned and deliberate murder. Before the aider could be said to have the requisite purpose, the Crown must prove that the aider knew the murder was planned and deliberate. Whether the aider acquired that knowledge through actual involvement in the planning and deliberation or through some other means, is irrelevant to his or her culpability under s. 21(1).
+
+ 
+
+18     It is important to note that Doherty J.A., in referring to this Court's decision in R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74, rightly states that the aider to a murder must "have known that the perpetrator had the intent required for murder" (para. 88). While some of the language in Kirkness may be read as requiring that the aider share the murderer's intention to kill the victim, the case must now be read in the light of the above‑noted analysis in Hibbert. The perpetrator's intention to kill the victim must be known to the aider or abettor; it need not be shared. Kirkness should not be interpreted as requiring that the aider and abettor of a murder have the same mens rea as the actual killer. It is sufficient that he or she, armed with knowledge of the perpetrator's intention to commit the crime, acts with the intention of assisting the perpetrator in its commission. It is only in this sense that it can be said that the aider and abettor must intend that the principal offence be committed.
+
+ 
+
+[103]      If the intent of an aider or abetter is insufficient to support a conviction for murder, the aider or abetter still may be convicted of manslaughter if the unlawful act he aids or abets is one he knows likely will cause some harm short of death. See R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74; R. v. Twigge, (1996) 1996 CanLII 5091 (SK CA), 148 Sask.R. 254 (C.A.) at paras 45‑49.
+
+ 
+
+[104]      The Supreme Court of Canada set out the specific test to apply in R. v. Jackson, 1993 CanLII 53 (SCC), [1993] 4 S.C.R. 573. The court said:
+
+ 
+
+                 I turn first to Davy's potential liability for manslaughter as an aider and abettor under s. 21(1)(b) and (c).  A person is a party to an offence if he or she aids or abets the commission of it.  In this case, Jackson committed the offence of murder.  It was open on the evidence for the jury to find that Davy aided and abetted him in that offence, and is guilty under s. 21(1)(b) and (c) of the Criminal Code.  If he possessed the necessary mens rea for murder he could be guilty of murder.  In the event that the jury did not find the intent required for murder, the question arises whether and in what circumstances Davy could be convicted under s. 21(1) for the lesser offence of manslaughter.
+
+ 
+
+
+                  The trial judge did not give the jury a specific direction that it could find Davy guilty of manslaughter as an aider and abettor under s. 21(1) of the Criminal Code.  The Court of Appeal held that this was an error.  It held that the trial judge should have told the jury that s. 21(1)(b) and (c) of the Code would lead to a verdict of manslaughter if Davy did not have the mental state required for murder but the unlawful act which was aided or abetted was one he knew was likely to cause some harm short of death.  This follows from the decision of this Court in R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74, at p. 88, per Cory J., where it was held that a person who aids and abets in an attack which results in a death may be guilty of manslaughter where that person does not have the requisite mens rea for murder but possesses the requisite intention for manslaughter, and where his co‑accused is guilty of murder.  (See also Wilson J., at pp. 96‑97.)
+
+ 
+
+                  I agree with the Court of Appeal that the jury could have convicted Davy of manslaughter under these sections while convicting Jackson of murder.
+
+ 
+
+                  I differ from the Court of Appeal, however, in the state of mind required to be guilty of manslaughter under s. 21(1)(b) and (c).  The Court of Appeal held that the test was a subjective appreciation that the act was likely to cause some harm short of death.  Since the date of the Court of Appeal's decision, this Court has held that unlawful act manslaughter ‑‑ that is, the killing of a person while engaged in an unlawful act ‑‑ does not require a subjective appreciation of the consequences of the act.  The test is objective ‑‑ what a reasonable person would have appreciated in all the circumstances.  Nor is it necessary that the risk of death be foreseeable.  As long as the unlawful act is inherently dangerous and harm to another which is neither trivial nor transitory is its foreseeable consequence, the resultant death amounts to manslaughter: R. v. Creighton, 1993 CanLII 61 (SCC), [1993] 3 S.C.R. 3; see also R. v. DeSousa, 1992 CanLII 80 (SCC), [1992] 2 S.C.R. 944.
+
+ 

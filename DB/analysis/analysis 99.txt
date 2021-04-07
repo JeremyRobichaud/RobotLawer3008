@@ -1,0 +1,767 @@
+﻿Mr. Karim
+
+ 
+
+Has the Crown proven beyond a reasonable doubt that Mr. Karim intended to cause the murder of Mr. Beauchamp?
+
+ 
+
+[56]           A person who has unlawfully caused the death of another may be found to have the mental element for murder if the evidence establishes beyond a reasonable doubt that the person either:
+
+ 
+
+i.         meant to cause the death, or
+
+ii.         meant to cause bodily harm that he knows is likely to cause death and is reckless whether death ensues. See s. 229(a)(i) and (ii) of the Criminal Code.
+
+ 
+
+
+[57]           The Crown submits I may find Mr. Karim had the requisite intent under both subsections of s. 229(a). Counsel for Mr. Karim submits there is no evidence to support the intention pursuant to s. 229(a)(i) and the evidence before me creates a reasonable doubt respecting the intention pursuant to s. 229(a)(ii).
+
+ 
+
+[58]           S. 229(a)(i) provides the simplest definition of the nature of the mental element – that being an intention to cause death.
+
+ 
+
+[59]           The mental element of s. 229(a)(ii) -- meant to cause bodily harm that a person knows is likely to cause death – has been considered by the Supreme Court of Canada in R. v. Nygaard, 1989 CanLII 6 (SCC), [1989] 2 SCR 1074 and R. v. Cooper, 1993 CanLII 147 (SCC), [1993] 1 SCR 146.
+
+ 
+
+[60]           In Nygaard at paras. 55 - 57, the Court said the mens rea or mental element required by the second part of s. 229(a)(ii):
+
+ 
+
+ “... requires that the Crown prove that the accused meant to cause the victim such bodily harm that he knew that it was likely to cause the death of the victim and was reckless whether death ensued or not as a result of causing that bodily harm. The essential element is that of intending to cause bodily harm of such a grave and serious nature that the accused knew that it was likely to result in the death of the victim. The aspect of recklessness is almost an afterthought insofar as the basic intent is concerned.
+
+ 
+
+56        In Sansregret v. R., 1985 CanLII 79 (SCC), [1985] 1 S.C.R. 570, [1985] 3 W.W.R. 701, 45 C.R. (3d) 193, 18 C.C.C. (3d) 223, 17 D.L.R. (4th) 577, 35 Man. R. (2d) 1, 58 N.R. 123, recklessness was defined as being the attitude of one who was aware of the danger the prohibited conduct could bring about yet nevertheless persisted in that conduct despite the knowledge of the risk. Thus the section requires the accused to intend to cause the gravest of bodily harm that is so dangerous and serious that he knows it is likely to result in death and to persist in that conduct despite the knowledge of the risk.
+
+ 
+
+57        In my view, the vital element of the requisite intent is that of causing bodily harm that the perpetrator knows that it is likely to cause death and yet persists in the assault. ...
+
+ 
+
+[61]           The court in R. v. Cooper again discussed the nature of the intent required pursuant to s. 229(a)(ii) and said at paras. 18 - 21 and 23:
+
+ 
+
+18     This section was considered in R. v. Nygaard, supra. On the issue of the requisite intent the Court was unanimous. At pages 1087‑88, it was said:
+
+ 
+
+The essential element is that of intending to cause bodily harm of such a grave and serious nature that the accused knew that it was likely to result in death of the victim. The aspect of recklessness is almost an afterthought ...
+
+ 
+
+
+19     The aspect of recklessness can be considered an afterthought since to secure a conviction under this section it must be established that the accused had the intent to cause such grievous bodily harm that he knew it was likely to cause death. One who causes bodily harm that he knows is likely to cause death must, in those circumstances, have a deliberate disregard for the fatal consequences which are known to be likely to occur. That is to say he must, of necessity, be reckless whether death ensues or not.
+
+ 
+
+20     The concept of recklessness was considered by this Court in Sansregret v. The Queen, 1985 CanLII 79 (SCC), [1985] 1 S.C.R. 570. At page 582 it was said
+
+ 
+
+[Recklessness] is found in the attitude of one who, aware that there is danger that his conduct could bring about the result prohibited by the criminal law, nevertheless persists, despite the risk. It is, in other words, the conduct of one who sees the risk and who takes the chance.
+
+ 
+
+21     The same words can apply to s. 212(a)(ii) [now s. 229(a)(ii)] with this important addition: it is not sufficient that the accused foresee simply a danger of death, the accused must foresee a likelihood of death flowing from the bodily harm that he is occasioning the victim.
+
+ 
+
+...
+
+ 
+
+23     The intent that must be demonstrated in order to convict under s. 212(a)(ii) has two aspects. There must be (a) subjective intent to cause bodily harm; (b) subjective knowledge that the bodily harm is of such a nature that it is likely to result in death. It is only when those two elements of intent are established that a conviction can properly follow.
+
+ 
+
+ 
+
+[62]           The evidence I must consider on this issue is the evidence of Mr. Karim’s conversations with the undercover officers, his trial testimony I accept, and the other independent evidence.
+
+ 
+
+[63]           The Crown submits I should believe little of the evidence of Mr. Karim, and in particular his trial testimony, in assessing this issue.
+
+ 
+
+[64]           Counsel for Mr. Karim acknowledged Mr. Karim unlawfully caused the death of Mr. Beauchamp, but submits the evidence does not establish beyond a reasonable doubt that Mr. Karim intended to kill Mr. Beauchamp. Counsel for Mr. Karim submits the evidence of Mr. Karim ought to be believed or at least raise a reasonable doubt. Counsel also submits this situation is unlike many Mr. Big scenarios in that in many of those trials, it is the position of the accused that he or she was bragging or exaggerating his or her role in the Mr. Big operation. Counsel submits this is not the case here.
+
+ 
+
+
+[65]           In assessing Mr. Karim’s evidence, I remind myself of the instruction on credibility and reasonable doubt from R. v. W.(D.), 1991 CanLII 93 (SCC), [1991] 1 SCR 742 at para. 11:
+
+ 
+
+...
+
+ 
+
+First, if you believe the evidence of the accused, obviously you must acquit.
+
+ 
+
+Second, if you do not believe the testimony of the accused but you are left in reasonable doubt by it, you must acquit.
+
+ 
+
+Third, even if you are not left in doubt by the evidence of the accused, you must ask yourself whether, on the basis of the evidence which you do accept, you are convinced beyond a reasonable doubt by that evidence of the guilt of the accused.
+
+ 
+
+[66]           I also remind myself of the instruction a trial judge provides to a jury respecting the assessment of evidence. For example, the Canadian Judicial Council specimen jury instruction on the assessment of evidence at para. 9.4 provides as follows:
+
+ 
+
+ 
+
+[1]        To make your decision, you should consider carefully, and with an open mind, all the evidence presented during the trial. It will be up to you to decide how much or little of the testimony of any witness you will believe or rely on. You may believe some, none or all of the evidence given by a witness.
+
+[2]        When you go to the jury room to consider the case, use your collective common sense to decide whether the witnesses know what they are talking about and whether they are telling the truth. There is no magic formula for deciding how much or how little to believe of a witness's testimony or how much to rely on it in deciding this case. But here are a few questions you might keep in mind during your discussions.
+
+[3]        Did the witness seem honest? Is there any reason why the witness would not be telling the truth?
+
+ 
+
+...
+
+ 
+
+[6]        Did the witness seem to have a good memory? Does the witness have any reason to remember the things about which s/he testified? Did any inability or difficulty that the witness had in remembering events seem genuine, or did it seem made up as an excuse to avoid answering questions?
+
+[7]        Did the witness seem to be reporting to you what he or she saw or heard, or simply putting together an account based on information obtained from other sources, rather than personal observation?
+
+
+[8]        Did the witness's testimony seem reasonable and consistent? Is it similar to or different from what other witnesses said about the same events? Did the witness say or do something different on an earlier occasion?
+
+ 
+
+[67]           I begin my analysis of this issue with my assessment of Mr. Karim’s statements to the undercover officers.
+
+ 
+
+[68]           I accept much of Mr. Karim’s conversations with Cst. B. and Det. C. regarding the circumstances of Mr. Beauchamp’s death. I make this finding for the following reasons:
+
+ 
+
+i.         The circumstances under which Mr. Karim told Cst. B. about the shooting. Mr. Karim said to Cst. B.:
+
+ 
+
+a)         I’m gonna’ tell you this, and no one on earth knows it but God, me and this guy in Calgary knows.
+
+ 
+
+b)         ... I’m saying that DJ man, I’m trusting you, brother, with my life. Right now I’m giving you my life sentence.
+
+ 
+
+c)         I wasn’t planning on telling you, but you told me something about a, a six feet underground situation
+
+...
+
+I mean, you know what? The guy is fucking trusting me, man. I, I’ll be a rat. I just go, you know what? I know this, this, this, then all this stuff, you know, buddy who lives in Seattle, you know what? You got my shit, I got your shit ...
+
+...
+
+...and we’re like this now.
+
+ 
+
+ii.         Mr. Karim’s belief he had to “come clean” with the “Boss” if he wished to become part of the organization. I find Mr. Karim wanted to become part of the organization based upon Mr. Karim’s conversations and his actions with the undercover officers during the Mr. Big operation in April 2006.
+
+ 
+
+iii.        There is no evidence of any opportunity for collusion between Mr. Deer and Mr. Karim from the time of Mr. Deer’s arrest on January 16, 2006 until the arrest of Mr. Karim at the end of April, 2006.
+
+ 
+
+
+iv.        Mr. Karim told Det. C., the “Boss” about the purchase of the latex gloves, the alcohol, the leather gloves, the sunglasses and the portfolio, which Mr. Karim called a suitcase. This evidence is confirmed by independent evidence.
+
+ 
+
+[69]           However, there are parts of these conversations I do not believe. For example, Mr. Karim admitted he lied respecting how many days he was in Calgary prior to the shooting, who he obtained the handgun from, and how he disposed of the handgun after the shooting.
+
+ 
+
+[70]           Mr. Karim’s statements to the undercover officers that he did not go to the Morbank office intending to kill Mr. Beauchamp raise a reasonable doubt for me. Thus, I cannot find the Crown has proven the intent for murder under s. 229(a)(i).
+
+ 
+
+[71]           I then turn to the second intent pursuant to s. 229(a)(ii). The following are relevant passages of the evidence I accept from Mr. Karim’s conversations with Cst. B. and Det. C. to the issue of the intent pursuant to s. 229(a)(ii).
+
+ 
+
+[72]           Mr. Karim said as follows to Cst. B:
+
+ 
+
+i.         So I asked him to ... just basically, you know, let me deal with it and he said “What do you wanna’ do?” I said, “Well, I can go and ...
+
+...
+
+I can take care of the guy [Mr. Beauchamp] in the legs or something and, you know, with a small weapon, maybe a couple ones in the stomach, we’re talkin’ about a ... a twenty-two ...           
+
+ 
+
+ii.         So that’s when I got out from the elevator. Umm, I looked on my right, it was some kind of company. I looked on my left, it was the company I’m looking for. Looked in, uhh, the door was open. I called his name [Mr. Beauchamp] twice, three times, nobody answered, but the door is open so obviously there was someone in there. So ... and I have this twenty-two right here. I fuckin’, uhh, keep calling his name, and then I was just gonna’ just sit down and wait basically, right?
+
+ 
+
+Cst. B.:            Yeah.
+
+ 
+
+
+And, uhh, this guy comes. He says, “Yes?” I’m like calling his name. I said, “Is that you?” “Yeah.” So basically he was too close for me to take out the gun and just start blasting his leg, right? So I, I just spoke to him. I said, “Hey, listen, a buddy of mine sent me here for a loan for the, you know, for, for a, a real estate thing.” He’s like “Do you have a appointment?” I said, “No, I don’t have an appointment or anything.” He said, “Well, you need an appointment.” So I said, “Okay, well give me a card.” He went back to his office. That’s when I took out the gun, pulled the safe off and, uhh, went to him but, uhh, when he saw me with the gun, he ran towards me, so I had him at least three in the chest, uhh, two in the stomach and one in the leg.
+
+ 
+
+Cst. B.:                        Yeah.
+
+ 
+
+Mohamed Karim:       And, uhh, to tell you the truth, you know, I didn’t know that I got him in the chest. Umm ...
+
+ 
+
+ 
+
+iii.        Cst. B:            Was he fightin’ or did he go down right away?
+
+Mohamed Karim:        No, no, no, he ... as soon as I got him with the first bullet and that, he just, he went like, and went down and, uhh, that’s when I got him ... basically he was down when I kept on shooting him.
+
+ 
+
+ 
+
+iv.        Went into the back [of Mr. Deer’s motor vehicle] and laid down, and told to get the fuck out. He’s like, “What’s, what’s up?” I’m like, “It’s done.” He’s like, “No way.” I’m like “Yeah.” He thought maybe I was you know ...
+
+ 
+
+...
+
+ 
+
+Well maybe, you know. Like he was, he, he was like, “Are you serious?” I’m like, “Yeah.” “Is he dead?” I’m like,”No, I don’t think so.” ‘Cause I, I didn’t see those chest shots, man. You know what? I hit him at least twice in the chest, two in the, in the stomach, ‘cause the, the, the whole point was to get at least two in the stomach and two in the legs to make some damage, and tell the guy, “You don’t fuck with us,”...
+
+ 
+
+v.         ...And, uhh, with the closed, uhh, doors at eight in the morning with no one in the office, I was all good to go, man, and ...
+
+ 
+
+Cst. B.:                        So now ...
+
+ 
+
+Mohamed Karim:       ... couldn’t wait. He was right in front of me, my eye sight, like you know what? This is the time.
+
+ 
+
+[73]           Mr. Karim told Det. C. the following:
+
+ 
+
+
+i.         Mohamed Karim:       ... and, uhh, I managed to get him [Mr. Beauchamp] back to the office by asking him for a card, a business card. So he went back to the office. That’s when I, uhh, pulled out the gun, followed him, but when he saw me coming, he kind of went towards me.  That’s, that’s the mistake I did. I didn’t wanna’ kill him.
+
+ 
+
+Det. C.:                       You didn’t?
+
+ 
+
+Mohamed Karim:       Umm, I want to, to give him a couple in, in his stomach and, and a few in the legs, right? I didn’t want to. I did not ... want to kill him. Just, you know. Umm, but the first couple were in the chest unfortunately. ...
+
+ 
+
+ii.         Det. C.:                       ... what did he want you to do with Buddy?
+
+ 
+
+Mohamed Karim:       He wasn’t quite sure about it. He was like, “Ya know, I don’t want to have a murder on my, “... he, he didn’t wanna live with it basically. I told him, “I’m not gonna kill him, ya know, just gonna shoot him.”
+
+ 
+
+iii.        Mohamed Karim:       ... I’m like, “Okay, can we see each other?” I was planning to go with him in the office and then ..
+
+... once he turned his back, I’m just gonna take him out, um, but he said, “No, you need an appointment, sir. I’m sorry. I’m really kind of busy.” I said, “Okay, that’s fine.” I kind of backed off and I said, “No problem. You have a good day. Actually, can I have a card, please?” and he’s like yeah ... and he goes like this and go, “Okay, just a second,” and he goes back there. So I’m here ... uh, yeah, I’m here. He went that way. I just take it off, off the safe, man, came out, look at him, he came at me, I went like this and the moment he saw the gun, he was shot, but he went towards me though.
+
+ 
+
+iv.        Mohamed Karim:       ... I told Bob, “Listen, man, I think I killed the guy, man. I hope f’ ...I hope not,” so I, I go like this to Bob. This here is ... where is the heart? Was here, ya know. I’m like, “I think I shot him there, man.” He’s like, “No.” I’m like, “Yeah, I think so.” So ... it wasn’t the plan, ya know. [emphasis added]
+
+
+ 
+
+[74]           Mr. Karim’s statements to Cst. B. and Det. C. that he “wanted to give Mr. Beauchamp a couple in the stomach and a few in the leg” lead to the inescapable conclusion that Mr. Karim meant to cause bodily harm to Mr. Beauchamp by shooting him in the legs and/or stomach. An intention to shoot a person in the abdomen is intending to cause bodily harm of a grave and serious nature due to the number of vital organs and blood vessels in the stomach/abdomen area of a person. Mr. Karim understood that shooting a person in the stomach and legs would “make some damage”.
+
+ 
+
+[75]           I find the above, coupled with Mr. Karim’s description to Det. C. and his accompanying actions of what occurred in the Morbank office the morning of the shooting depicted on the video, establish beyond a reasonable doubt that Mr. Karim had the requisite intent for murder. Mr. Karim described and demonstrated to Det. C. how he took the safety off the handgun, pointed the gun out in front of him at shoulder height and so when Mr. Beauchamp came out of his office, he saw Mr. Karim pointing the handgun at him. I accept Mr. Beauchamp made some gesture that Mr. Karim interpreted as Mr. Beauchamp coming towards him. It is at that point I find Mr. Karim made the decision to fire the handgun that was pointed at Mr. Beauchamp’s chest. I also find that Mr. Karim knew he fired a number of shots into Mr. Beauchamp’s person. His decision to shoot Mr. Beauchamp multiple times in the chest and abdomen area is evidence from which I infer that Mr. Karim intended to cause Mr. Beauchamp bodily harm that he knew was likely to cause the death of Mr. Beauchamp and was reckless whether death ensued. I have no doubt that Mr. Karim knew the danger of repeated firing of the handgun into Mr. Beauchamp’s person and persisted in that conduct, despite the knowledge of the risk.
+
+ 
+
+[76]           In conclusion, I find the Crown has proven beyond a reasonable doubt that Mr. Karim had the state of mind for the offence of murder.
+
+ 
+
+Has the Crown proven beyond a reasonable doubt the murder was planned and deliberate?
+
+ 
+
+[77]           The Supreme Court of Canada has said on a number of occasions that s. 231 of the Criminal Code is “... purely a classification section and does not create a separate substantive offence. ... the designation of murder as being of the first or second degree is for the purposes of sentencing only.” R. v. Nygaard at para. 17.
+
+ 
+
+[78]            Murder is first degree if, for example, it is planned and deliberate (see s. 231(2)), or if it is committed pursuant to an arrangement under which money is passed (see s. 231(3)).
+
+ 
+
+[79]           In R. v. Smith, 2007 NSCA 19, the court considered s. 231(3) and held at paras. 137 and 139:
+
+ 
+
+137     The requirement that the murder be committed "pursuant to an arrangement ..." means that the arrangement must have been in place at the time of the murder: see R. v. Sauvé, supra at paras. 151‑153.
+
+ 
+
+...
+
+
+139     The trial judge told the jury that for an arrangement to exist, there had to be the quid pro quo of the recipient to cause or help cause the death of another person. He also told them the murder must be committed pursuant to the arrangement (p. 3257). He provided definitions of the word "pursuant" which included "in accordance with" and "by reason of" or "done in consequence of." (p. 3257) The trial judge told the jury that for there to be an arrangement, the person who killed Mr. Simmons must know that he is to be paid for doing the killing; he must commit the murder in accordance with or by reason of an arrangement in which there is to be gain or benefit to himself (p. 3258). He added: "... the person who killed Mr. Simmons must know of the arrangement under which there is to be gain or benefit to himself prior to the murder" (p. 3258) Each of these instructions made it clear that the arrangement had to have been in place before the killing.
+
+ 
+
+[80]           The Crown did not rely on s. 231(3) in its closing argument although counsel for the accused made reference to it, in anticipation of the Crown’s closing argument. There is no evidence of an arrangement under which money or anything of value passed in this case.
+
+ 
+
+[81]           Nygaard stands for the legal principle that “planning and deliberation” may be coupled with the mens rea requirement of s. 229(a)(ii), so that a first degree murder conviction can be sustained by virtue of the combined operation of s. 231(2) and s. 229(a)(ii).
+
+ 
+
+[82]           As an aside, this reasoning in Nygaard appears to me to be inconsistent with the Supreme Court of Canada’s reasoning in R. v. Ancio, 1984 CanLII 69 (SCC), 1984 10 CCC (3d) 385.
+
+ 
+
+[83]           The meaning of the phrase “planned and deliberate” is summarized in R. v. P.K. 2006 ABCA 284 at paras. 7 - 10:
+
+ 
+
+7     To justify a verdict of first degree murder, the Crown must prove beyond a reasonable doubt that the killing was planned and deliberate: Criminal Code, s. 231(2). A bare sufficiency of evidence on planning and deliberation makes a verdict of first degree murder unreasonable: R. v. Denison (2001), 161 B.C.A.C. 169, 2001 BCCA 703 at para. 13.
+
+ 
+
+8     A planned murder is one that was conceived and carefully thought out prior to being committed: Nygaard, 1989 CanLII 6 (SCC), [1989] 2 S.C.R. 1074, at para. 18. It requires that a design or scheme be arranged beforehand: R. v. Jacquard, 1997 CanLII 374 (SCC), [1997] 1 S.C.R. 314 at para. 26.
+
+ 
+
+9     A deliberate murder is one that is considered, not impulsive: R. v. More, 1963 CanLII 79 (SCC), [1963] S.C.R. 522 at para. 35. A person commits deliberate murder when he thinks about the consequences and carefully thinks out the act, rather than proceeding hastily, rashly or impulsively: Jacquard, at para. 26.
+
+ 
+
+
+10     A finding of planning and deliberation can be based on circumstantial evidence: R. v. Mitchell, 1964 CanLII 42 (SCC), [1964] S.C.R. 471 at para. 41. A plan can be simple and need not necessarily be in place for a long period of time: Nygaard at para. 18. If the circumstantial evidence is equivocal or speculative on the issue of planning and deliberation, however, a first degree murder verdict is unreasonable: R. v. Duck, (1993), 1993 CanLII 14856 (MB CA), 85 Man.R. (2d) 91 (C.A.) at paras. 36 ‑ 38.
+
+ 
+
+[84]           Based on Mr. Karim’s own statements to the undercover officers, he and Mr. Deer made a plan for Mr. Karim to go to the Morbank office and confront Mr. Beauchamp. To this end, Mr. Karim:
+
+ 
+
+i.         Obtained the 22 caliber handgun and ammunition from Mr. Deer.
+
+ 
+
+ii.         Used items purchased on January 15 to clean the gun.
+
+ 
+
+iii.        Along with Mr. Deer, purchased sunglasses to disguise Mr. Karim’s appearance and a briefcase to look more like “a businessman” in downtown Calgary, and
+
+ 
+
+iv.        Had Mr. Deer drive him to the vicinity of 635 - 8 Avenue S.W. and wait until he returned to the car to make their escape.
+
+ 
+
+[85]           The question then is, has the Crown proven beyond a reasonable doubt what the plan was to be at the Morbank office? I have reviewed Mr. Karim’s conversations with the undercover officers many, many times. While I am very suspicious I am unable to find beyond a reasonable doubt there was a carefully conceived plan to murder Mr. Beauchamp. My review of these conversations leads me to conclude the plan was equivocal as to the specific harm to be inflicted on Mr. Beauchamp.
+
+ 
+
+[86]           Based on this finding, I find the Crown has not proven beyond a reasonable doubt the classification of this murder as first degree murder.
+
+ 
+
+Mr. Deer
+
+ 
+
+[87]           As I noted earlier in my decision, Mr. Karim’s statements to the undercover officers are not evidence against Mr. Deer. The evidence I may consider to determine the issues I must decide respecting Mr. Deer is as follows:
+
+ 
+
+i.         The evidence of Mr. Deer’s relationship with Mr. Beauchamp including the series of emails in December, 2005.
+
+ 
+
+ii.         The physical evidence including the evidence of Bruce Gunn and the CCTV security videos.
+
+ 
+
+
+iii.        The evidence of Cst. K. who was the undercover officer in the cell with Mr. Deer the morning following his arrest.
+
+ 
+
+iv.        The testimony of Mr. Karim. As I explained earlier in my decision, I only accept those portions of Mr. Karim’s testimony that is consistent with this 2006 Mr. Big conversations unless otherwise stated.
+
+ 
+
+v.         The evidence of Stuart Logan.
+
+ 
+
+[88]           From the above evidence I find the following facts:
+
+ 
+
+i.         Mr. Deer knew Mr. Beauchamp and the location of his office. Mr. Karim did not.
+
+ 
+
+ii.         Mr. Deer’s and Mr. Beauchamp’s business dealings resulted in a series of threatening emails and telephone calls between the two men in December, 2005, and Morbank’s position that Mr. Deer owed Morbank the balance of the commitment fee, which was approximately $16,000.00.
+
+ 
+
+iii.        Mr. Karim arrived in Calgary on January 15, 2006 sometime in the afternoon at the request of Mr. Deer.
+
+ 
+
+iv.        Mr. Karim and Mr. Deer purchased latex gloves and rubbing alcohol at 3:54 p.m. Mr. Karim testified the alcohol was purchased to clean the 22 caliber gun provided to him by Mr. Deer. I find from this fact, that a plan had been made by Mr. Karim and Mr. Deer prior to the purchase of these items that Mr. Karim would confront Mr. Beauchamp at his office while armed with the gun.
+
+ 
+
+v.         Mr. Karim and Mr. Deer purchased a briefcase, gloves and sunglasses at 8:43 p.m. I find these items were purchased by Mr. Deer and Mr. Karim as an attempt by the two accused to disguise Mr. Karim’s appearance, as well as make him look like a “businessman” when he entered the office building at 635-8 Ave. S.W.
+
+ 
+
+vi.        I accept Mr. Karim’s testimony that Mr. Deer provided him with a 22 caliber handgun.
+
+ 
+
+vii.      I find, based on the evidence of Mr. Karim and Bruce Gunn, that the ammunition provided to Mr. Karim for the 22 caliber handgun was ammunition that belonged to Mr. Deer. I infer from the evidence surrounding the search of Mr. Deer’s home that Mr. Deer opened his gun safe to obtain this ammunition for Mr. Karim.
+
+ 
+
+
+viii.      Mr. Deer drove Mr. Karim to downtown Calgary on the morning of January 16, 2006, parked his vehicle and waited until Mr. Karim returned to the vehicle.
+
+ 
+
+ix.        Mr. Karim shot Mr. Beauchamp six times with the 22 caliber handgun.
+
+ 
+
+x.         After the shooting, Mr. Deer and Mr. Karim returned to Mr. Deer’s home where Mr. Karim shaved off his beard and changed his clothes. The two men drove to a location where Mr. Karim’s clothes and the gun were disposed of. Then, they drove to the bus depot. On route to the Bus Depot, Mr. Deer withdrew monies from a bank machine.
+
+ 
+
+[89]           From these facts, I infer that Mr. Deer gave Mr. Karim the address of the Morbank office and Mr. Beauchamp’s name.
+
+ 
+
+Has the Crown proven beyond a reasonable doubt that Mr. Deer was a party to the murder of Mr. Beauchamp?
+
+ 
+
+[90]           The position of the Crown is that Mr. Deer is party to the murder of Mr. Beauchamp. Counsel for Mr. Deer submits the evidence does not establish the requisite intent for murder.
+
+ 
+
+[91]           The Supreme Court of Canada recently discussed the law respecting the actus reus and mens rea of a party pursuant to s. 21(1) of the Criminal Code in R. v. Briscoe, 2010 SCC 13. Justice Charron, writing for the Court, said at paras. 13 - 18:
+
+ 
+
+13     Canadian criminal law does not distinguish between the principal offender and parties to an offence in determining criminal liability. Section 21(1) of the Criminal Code makes perpetrators, aiders, and abettors equally liable:
+
+ 
+
+      21. (1) Every one is a party to an offence who
+
+ 
+
+(a) actually commits it;
+
+(b) does or omits to do anything for the purpose of aiding any person to commit it; or
+
+(c) abets any person in committing it.
+
+ 
+
+The person who provides the gun, therefore, may be found guilty of the same offence as the one who pulls the trigger. The actus reus and mens rea for aiding or abetting, however, are distinct from those of the principal offence.
+
+ 
+
+
+14     The actus reus of aiding or abetting is doing (or, in some circumstances, omitting to do) something that assists or encourages the perpetrator to commit the offence. While it is common to speak of aiding and abetting together, the two concepts are distinct, and liability can flow from either one. Broadly speaking, "[t]o aid under s. 21(1)(b) means to assist or help the actor. To abet within the meaning of s. 21(1)© includes encouraging, instigating, promoting or procuring the crime to be committed": R. v. Greyeyes, 1997 CanLII 313 (SCC), [1997] 2 S.C.R. 825, at para. 26...
+
+ 
+
+15     Of course, doing or omitting to do something that resulted in assisting another in committing a crime is not sufficient to attract criminal liability. As the Court of Appeal for Ontario wrote in R. v. F. W. Woolworth Co. (1974), 1974 CanLII 707 (ON CA), 3 O.R. (2d) 629, "one does not render himself liable by renting or loaning a car for some legitimate business or recreational activity merely because the person to whom it is loaned or rented chooses in the course of his use to transport some stolen goods, or by renting a house for residential purposes to a tenant who surreptitiously uses it to store drugs" (p. 640). The aider or abettor must also have the requisite mental state or mens rea. Specifically, in the words of s. 21(1)(b), the person must have rendered the assistance for the purpose of aiding the principal offender to commit the crime.
+
+ 
+
+16     The mens rea requirement reflected in the word "purpose" under s. 21(1)(b) has two components: intent and knowledge. For the intent component, it was settled in R. v. Hibbert, 1995 CanLII 110 (SCC), [1995] 2 S.C.R. 973, that "purpose" in s. 21(1)(b) should be understood as essentially synonymous with "intention". The Crown must prove that the accused intended to assist the principal in the commission of the offence. The Court emphasized that "purpose" should not be interpreted as incorporating the notion of "desire" into the fault requirement for party liability. It is therefore not required that the accused desired that the offence be successfully committed (Hibbert, at para. 35). The Court held, at para. 32, that the perverse consequences that would flow from a "purpose equals desire" interpretation of s. 21(1)(b) were clearly illustrated by the following hypothetical situation described by Mewett and Manning:
+
+ 
+
+     If a man is approached by a friend who tells him that he is going to rob a bank and would like to use his car as the getaway vehicle for which he will pay him $100, when that person is ... charged under s. 21 for doing something for the purpose of aiding his friend to commit the offence, can he say "My purpose was not to aid the robbery but to make $100"? His argument would be that while he knew that he was helping the robbery, his desire was to obtain $100 and he did not care one way or the other whether the robbery was successful or not.
+
+ 
+
+(A. W. Mewett and M. Manning, Criminal Law (2nd ed. 1985), at p. 112)
+
+ 
+
+The same rationale applies regardless of the principal offence in question. Even in respect of murder, there is no "additional requirement that an aider or abettor subjectively approve of or desire the victim's death" (Hibbert, at para. 37 (emphasis deleted)).
+
+ 
+
+
+17     As for knowledge, in order to have the intention to assist in the commission of an offence, the aider must know that the perpetrator intends to commit the crime, although he or she need not know precisely how it will be committed. That sufficient knowledge is a prerequisite for intention is simply a matter of common sense. Doherty J.A. in R. v. Maciel, 2007 ONCA 196, 219 C.C.C. (3d) 516, provides the following useful explanation of the knowledge requirement which is entirely apposite to this case (at paras. 88‑89):
+
+ 
+
+... a person who is alleged to have aided in a murder must be shown to have known that the perpetrator had the intent required for murder under s. 229(a): R. v. Kirkness (1990), 1990 CanLII 57 (SCC), 60 C.C.C. (3d) 97 (S.C.C.) at 127.
+
+ 
+
+     The same analysis applies where it is alleged that the accused aided a perpetrator in the commission of a first degree murder that was planned and deliberate. The accused is liable as an aider only if the accused did something to assist the perpetrator in the planned and deliberate murder and if, when the aider rendered the assistance, he did so for the purpose of aiding the perpetrator in the commission of a planned and deliberate murder. Before the aider could be said to have the requisite purpose, the Crown must prove that the aider knew the murder was planned and deliberate. Whether the aider acquired that knowledge through actual involvement in the planning and deliberation or through some other means, is irrelevant to his or her culpability under s. 21(1).
+
+ 
+
+18     It is important to note that Doherty J.A., in referring to this Court's decision in R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74, rightly states that the aider to a murder must "have known that the perpetrator had the intent required for murder" (para. 88). While some of the language in Kirkness may be read as requiring that the aider share the murderer's intention to kill the victim, the case must now be read in the light of the above‑noted analysis in Hibbert. The perpetrator's intention to kill the victim must be known to the aider or abettor; it need not be shared. Kirkness should not be interpreted as requiring that the aider and abettor of a murder have the same mens rea as the actual killer. It is sufficient that he or she, armed with knowledge of the perpetrator's intention to commit the crime, acts with the intention of assisting the perpetrator in its commission. It is only in this sense that it can be said that the aider and abettor must intend that the principal offence be committed.
+
+ 
+
+[92]           With these legal principles in mind, I turn to consider the first issue: has the Crown proven beyond a reasonable doubt that Mr. Deer was a party to the murder of Mr. Beauchamp? From the above facts, I find Mr. Deer assisted Mr. Karim in that:
+
+ 
+
+i.         Mr. Deer and Mr. Karim shopped together for the items purchased at London Drugs and Walmart. These items were purchased to assist Mr. Karim execute the plan at the Morbank office.
+
+ 
+
+ii.         He provided the gun to Mr. Karim.
+
+ 
+
+
+iii.        He provided the ammunition to Mr. Karim.
+
+ 
+
+iv.        He drove Mr. Karim both to and from the place of the shooting, and
+
+ 
+
+v.         He provided Mr. Karim with the location of the Morbank office and the name of Mr. Beauchamp.
+
+ 
+
+[93]           The Crown must also prove that Mr. Deer must have known that Mr. Karim had the intent for murder. It is sufficient for the Crown to establish that Mr. Deer ‘armed with the knowledge of Mr. Karim’s intention to commit the crime, acted with the intention of assisting Mr. Karim in its commission.’
+
+ 
+
+[94]           Mr. Karim did not testify that Mr. Deer knew that Mr. Karim would , for example, “take care” of Mr. Beauchamp by shooting Mr. Beauchamp a couple of times in the stomach and a few in the leg.
+
+ 
+
+[95]           Rather, the gist of Mr. Karim’s testimony was that Mr. Deer told him these guys were coming after him in relation to the monies he owed Morbank, he thought he was going to be killed, and he didn’t know what to do. Mr. Karim suggested he could go and talk to Mr. Beauchamp for Mr. Deer. However, he would only do this if he had a gun for protection. Initially, Mr. Deer refused to accede to this suggestion. Ultimately, he agreed so long as Mr. Karim took a small calibre gun and did “nothing stupid”.
+
+ 
+
+[96]           I do not accept this evidence as it is not consistent with Mr. Karim statements to the undercover officers.
+
+ 
+
+[97]           In cross‑examination Mr Karim testified as follows:
+
+ 
+
+Q And it [the question] states,
+
+ 
+
+ I understand there was no plan, but you were going to do something?
+
+ 
+
+Do you remember Mr. Rauf asking you that question?
+
+ 
+
+A Yes.
+
+ 
+
+Q And under answer it says,
+
+ 
+
+I was going to do some damage.
+
+ 
+
+A Mm‑hmm.
+
+ 
+
+Q
+
+Financial damage, physical damage, mental damage, threats, talk anything. But I know that I was going there for something.
+
+
+A Mm‑hmm.
+
+ 
+
+Q You acknowledge giving that answer, right?
+
+A Yes, and it’s accurate.
+
+ 
+
+Q And then Mr. Rauf asks, at what would be line 11,
+
+ 
+
+And when you say physical damage, what kind of physical damage ‑‑
+
+ 
+
+A Sorry to interrupt, what’s line 11?
+
+ 
+
+ Q Line 11. You see number 10?
+
+A Yes, okay. It’s just 5, 10, 15 and 20. There is no 11 though.
+
+ 
+
+Q Exactly. But this would be line 11, it is right below line 10.
+
+A Okay, okay.
+
+ 
+
+Q And there is a ’Q’ for question. And it says,
+
+ 
+
+And when you say physical damage, what kind of physical damage are you speaking of?
+
+ 
+
+A Mm‑hmm.
+
+ 
+
+Q And you remember Mr. Rauf asking you that question?
+
+A Yes.
+
+ 
+
+Q And you state,
+
+ 
+
+Either fist‑to‑fist damage, kicks, maybe shooting in the leg or the stomach, you know. In case of attack or arrogance. [emphasis added]
+
+ 
+
+A Yes.
+
+ 
+
+Q And you gave that answer at the first trial, correct?
+
+A Yes, I did.
+
+ 
+
+ 
+
+[98]           I accept this testimony of Mr. Karim because it is consistent with parts of his conversations with the undercover officers.
+
+ 
+
+[99]           As I do not accept Mr. Karim’s testimony on this issue except as just noted, I must consider whether the other evidence establishes beyond a reasonable doubt Mr. Deer knew Mr. Karim’s intention to commit bodily harm was such that it was likely to cause the death of Mr. Beauchamp, and he acted with the intention of assisting Mr. Karim in that intention.
+
+
+ 
+
+[100]      From the remaining evidence, I find Mr. Deer knew Mr. Karim would extort, intimidate, and/or assault Mr. Beauchamp respecting the commitment fee monies Mr. Deer owed Morbank . In addition, Mr. Deer knew Mr. Karim was in possession of a loaded 22 calibre handgun.
+
+ 
+
+[101]      I make these findings based on Mr. Karim’s testimony that Mr. Deer gave him the handgun and ammunition, Mr. Karim’s cross-examination set out above, and the evidence of the conversation between Mr. Deer and the undercover officer, Cst. K. For example, Mr. Deer told Constable K: 1.) he [Mr. Deer] should be in jail on assault too, but the guy died so it was murder; 2.) he didn’t want the guy to be killed or die; 3.) that the person who caused the death of Mr. Beauchamp wasn’t even supposed to get physical with the guy. Rather, Mr. Deer wanted the person to give the victim a real stern talking to, to show the victim that you couldn’t treat people like that without repercussions. The “guy” Mr. Deer spoke of was Mr. Beauchamp; the “person” was Mr. Karim.
+
+ 
+
+[102]      From this evidence, I cannot find beyond a reasonable doubt that Mr. Deer knew Mr. Karim had the intent required for murder. Rather, I find the Crown has established that Mr. Deer knew Mr. Karim had the intent for other offences such as intimidation, extortion and/or assault.
+
+ 
+
+[103]      If the intent of an aider or abetter is insufficient to support a conviction for murder, the aider or abetter still may be convicted of manslaughter if the unlawful act he aids or abets is one he knows likely will cause some harm short of death. See R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74; R. v. Twigge, (1996) 1996 CanLII 5091 (SK CA), 148 Sask.R. 254 (C.A.) at paras 45‑49.
+
+ 
+
+[104]      The Supreme Court of Canada set out the specific test to apply in R. v. Jackson, 1993 CanLII 53 (SCC), [1993] 4 S.C.R. 573. The court said:
+
+ 
+
+                 I turn first to Davy's potential liability for manslaughter as an aider and abettor under s. 21(1)(b) and (c).  A person is a party to an offence if he or she aids or abets the commission of it.  In this case, Jackson committed the offence of murder.  It was open on the evidence for the jury to find that Davy aided and abetted him in that offence, and is guilty under s. 21(1)(b) and (c) of the Criminal Code.  If he possessed the necessary mens rea for murder he could be guilty of murder.  In the event that the jury did not find the intent required for murder, the question arises whether and in what circumstances Davy could be convicted under s. 21(1) for the lesser offence of manslaughter.
+
+ 
+
+
+                  The trial judge did not give the jury a specific direction that it could find Davy guilty of manslaughter as an aider and abettor under s. 21(1) of the Criminal Code.  The Court of Appeal held that this was an error.  It held that the trial judge should have told the jury that s. 21(1)(b) and (c) of the Code would lead to a verdict of manslaughter if Davy did not have the mental state required for murder but the unlawful act which was aided or abetted was one he knew was likely to cause some harm short of death.  This follows from the decision of this Court in R. v. Kirkness, 1990 CanLII 57 (SCC), [1990] 3 S.C.R. 74, at p. 88, per Cory J., where it was held that a person who aids and abets in an attack which results in a death may be guilty of manslaughter where that person does not have the requisite mens rea for murder but possesses the requisite intention for manslaughter, and where his co‑accused is guilty of murder.  (See also Wilson J., at pp. 96‑97.)
+
+ 
+
+                  I agree with the Court of Appeal that the jury could have convicted Davy of manslaughter under these sections while convicting Jackson of murder.
+
+ 
+
+                  I differ from the Court of Appeal, however, in the state of mind required to be guilty of manslaughter under s. 21(1)(b) and (c).  The Court of Appeal held that the test was a subjective appreciation that the act was likely to cause some harm short of death.  Since the date of the Court of Appeal's decision, this Court has held that unlawful act manslaughter ‑‑ that is, the killing of a person while engaged in an unlawful act ‑‑ does not require a subjective appreciation of the consequences of the act.  The test is objective ‑‑ what a reasonable person would have appreciated in all the circumstances.  Nor is it necessary that the risk of death be foreseeable.  As long as the unlawful act is inherently dangerous and harm to another which is neither trivial nor transitory is its foreseeable consequence, the resultant death amounts to manslaughter: R. v. Creighton, 1993 CanLII 61 (SCC), [1993] 3 S.C.R. 3; see also R. v. DeSousa, 1992 CanLII 80 (SCC), [1992] 2 S.C.R. 944.
+
+ 
+
+                  I conclude that a person may be convicted of manslaughter who aids and abets another person in the offence of murder, where a reasonable person in all the circumstances would have appreciated that bodily harm was the foreseeable consequence of the dangerous act which was being undertaken.  I further conclude that Davy might fall within this rule on the evidence presented at trial.
+
+ 
+
+ 
+
+[105]      From my findings above, I find Mr. Deer assisted Mr. Karim in committing acts of general violence, which are unlawful acts. These acts were inherently dangerous in light of the fact Mr. Deer knew Mr. Karim was in possession of a loaded handgun. While Mr. Deer may have hoped Mr. Karim would not get physical with Mr. Beauchamp, a reasonable person would have appreciated in all the circumstances that the taking of a loaded handgun to a situation where one is committing acts of general violence, is an act that is inherently dangerous, and the harm to Mr. Beauchamp, which was neither trivial nor transitory, was its foreseeable consequence.
+
+ 
+
+ 
+
+[106]      Based on this finding, I find Mr. Deer not guilty of murder but guilty of the included offence of manslaughter.

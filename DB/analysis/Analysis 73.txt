@@ -1,0 +1,100 @@
+﻿[4]            Section 745.4 of the Code enumerates the factors to be considered in deciding whether or not the minimum period of 10 years should be raised.  These factors include:
+
+(a)      the character of the offender;
+
+(b)     the nature of the offence;
+
+(c)      the circumstances surrounding its commission; and
+
+(d)     the recommendation, if any, made pursuant to s. 745.2.
+
+Section 745.2 provides the opportunity for members of a jury who have found an accused guilty of second degree murder to make recommendations on parole ineligibility should they so desire.  In this case, nine jurors recommended no parole for 25 years.  Three jurors declined to make any recommendation.
+
+[5]            An extension of the period of parole ineligibility even with one murder is not confined to cases involving unusual circumstances.  As has been clarified in the Supreme Court of Canada decision of R. v. Shropshire, 1995 CanLII 47 (SCC), [1995] 4 S.C.R. 227, at para. 26:
+
+I also find it necessary to deal with Lambert J.A.'s conclusion that a period of parole ineligibility in excess of 10 years will not be justified unless there are “unusual circumstances”.  …  In my opinion, this is too high a standard and makes it overly difficult for trial judges to exercise the discretionary power to set extended periods of parole ineligibility. …
+
+ 
+
+ 
+
+And further at para. 31:
+
+ 
+
+If the objective of s. 744 [now s. 745.4] is to give the trial judge an element of discretion in sentencing to reflect the fact that within second degree murder there is both a range of seriousness and varying degrees of moral culpability, then it is incorrect to start from the proposition that the sentence must be the statutory minimum unless there are unusual circumstances.  As discussed supra, a preferable approach would be to view the 10-year period as a minimum contingent on what the “judge deems fit in the circumstances”, the content of this “fitness” being informed by the criteria listed in s. 744.  As held in other Canadian jurisdictions, the power to extend the period of parole ineligibility need not be sparingly used.
+
+ 
+
+ 
+
+Therefore, although unusual circumstances are not required to be established in order for the minimum 10-year period to be elevated, it is also clear that a sentencing judge has wide discretion to impose an appropriate period, having regard to all the criteria in s. 745.4.
+
+[6]            The analysis in this case is complicated by recent legislation that allows for consecutive periods of parole ineligibility to be imposed for multiple murders.  Section 745.51(1) of the Code now provides that:
+
+At the time of the sentencing … of an offender who is convicted of murder and who has already been convicted of one or more other murders, the judge … may, having regard to the character of the offender, the nature of the offence and the circumstances surrounding its commission … by order, decide that the periods without eligibility for parole for each murder conviction are to be served consecutively.
+
+ 
+
+ 
+
+It is not disputed by counsel that this section can apply in situations where murders are committed concurrent to each other.  At the same time, most of the cases where consecutive sentences have been imposed were cases with joint recommendations that ultimately were endorsed by the sentencing judge.  Most also involved accused initially charged with at least one count of first degree murder whose charges were then reduced as part of the plea deal.
+
+
+[9]            The defence submitted many additional cases, all of which I have reviewed.  However, most are completely distinguishable on the facts or do not involve circumstances of concurrent murders.  I, therefore, found most of them of limited assistance.
+
+[10]        The Crown argues for consecutive and expanded parole ineligibility periods in the case at bar.  He maintains that the principles of sentencing as set out in s. 718, including the overriding principles of deterrence and denunciation and the moral blameworthiness of Sharpe, call for this.  The Crown in particular stresses the following aggravating facts:
+
+1)      that Sharpe committed two murders;
+
+2)      that he committed one murder against a domestic partner which is a statutorily aggravating factor pursuant to ss. 718.2(a)(ii) and 718.2(a)(iii);
+
+3)      that he had threatened her before with violence – during the trial witness Stella Nash testified that Sharpe threatened to cut Jeffrey with a machete;
+
+4)      that he killed Jeffrey in her own home where she should have been safe and secure;
+
+5)      that there was evidence of forethought in his words and actions;
+
+6)      that he armed himself with a weight bar and set upon an unsuspecting and defenceless victim, Dabreo, rendering him incapacitated;
+
+7)      that he then set upon Jeffrey with the weight bar and inflicted blunt force trauma to her;
+
+8)      that he then armed himself with one or more sharp edged weapons and inflicted fatal sharp force injuries to both victims;
+
+9)      that in an effort to mitigate what had taken place he manufactured a provocative slight by pulling down the pants of both deceased and posing them, and thereby caused additional and unnecessary humiliation to the families of the victims.
+
+[11]        The Crown acknowledges certain mitigating factors, as follows:
+
+1)      there were no documented prior incidents of domestic abuse;
+
+2)      the accused had no prior criminal record;
+
+3)      the accused turned himself in and confessed to what he had done.
+
+Consequently, taking all of these factors into consideration, the Crown submits that the proper sentence should be no parole for 20 years in the case of Jeffrey and no parole for 15 years in the case of Dabreo to be served consecutive to each other, but be reduced to a total of 30 years without parole for the purposes of totality.
+
+[12]        As indicated earlier, counsel for the defence has asked for the minimum parole ineligibility period of 10 years concurrent for both deaths.  Counsel stresses that the deaths of Dabreo and Jeffrey were the result of a frenzied attack and that it is unknown who initially had control of a sharp object.  He also stresses that at no time did Sharpe deny what he had done.  In fact, he turned himself in to police and confessed to causing the deaths.  Counsel maintains that Sharpe attempted to commit suicide in the river before returning to the house to check on the status of the victims.  He asserts that Sharpe loved Jeffrey and lost it when he, in the words of Sharpe, found Jeffrey and Dabreo “getting the fuck on”.  Counsel has confirmed that there has been no behaviour of concern while Sharpe has been in the institution.  Further, there is no evidence whatsoever of future dangerousness given his background.  And, lastly, Sharpe expressed remorse for what he had done and apologized to the family of Jeffrey in court.
+
+[13]        Victim impact statements were introduced from Joan Dominique, the sister-in-law of Natasha Jeffrey, and from Jim and Gayle Carson, the parents of Joan Dominique.  They poignantly paint a picture of a woman who was well loved and appreciated and whose loss is deeply felt by those left behind.  Nothing I do today will bring Jeffrey back to her family.  Dabreo's family did not provide victim impact statements but they undoubtedly feel the same sense of loss and pain.
+
+[14]        I agree with the aggravating facts as set out by the Crown although several of the factors are simply varied reiterations of the reality that Jeffrey's death took place in a domestic context.  I must comment on several of the assertions put forth by counsel for the defence.
+
+[15]        Firstly, I find no evidence whatsoever that anyone, other than Sharpe, had a knife in his or her possession at any time.  The small cut on Sharpe's hand is more consistent, in my view, with the brutal injuries that were inflicted on the two victims than with one of them having a sharp instrument and attacking Sharpe first.  The evidence shows compellingly that Dabreo was attacked first in the front hallway and incapacitated.  That attack was followed by an attack on Jeffrey who fought back and was brutally murdered with both blunt force and sharp force injuries.  I also reject any element of provocation, or as Sharpe said, that Dabreo and Jeffrey were “getting the fuck on”.  The forensic evidence establishes quite conclusively that their pants were pulled down after injuries were inflicted on them and that they were positioned in a provocative pose to make it appear that a sexual encounter had been taking place.  They were placed that way by Sharpe.  And, lastly, I find no evidence that Sharpe tried to commit suicide after the murders other than he appeared to be wet at the time that he turned himself in to police.
+
+[16]        The Crown supplied a number of authorities where murders committed in a domestic context resulted in raised parole ineligibility periods, the bulk of which were between 12 and 15 years.  Crimes committed against a domestic partner are now statutorily considered to be an aggravating factor when determining an appropriate sentence.
+
+[17]        Returning to the factors enumerated in s. 745.4, which also include the importance of denunciation and deterrence, it is clear that minimum 10-year periods of parole ineligibility concurrent to each other as requested by defence do not come close to being adequate for these crimes.  Sharpe killed two people, including his former domestic partner.  The injuries inflicted on them were brutal and extensive.  There was some evidence of forethought to his actions and after the killings he tried to stage the scene to make it appear that he had been provoked.  Despite this, and even with the benefit of gruesome photos showing the injuries inflicted on both victims, three members of the jury declined to make a parole ineligibility recommendation at all.  The other nine recommended 25 years.
+
+[18]        As far as the character of the offender is concerned, Sharpe is before the court at the age of 44 with no prior criminal record.  By all accounts he has led a prosocial life until these murders.  There is also no evidence of prior domestic abuse by Sharpe against Jeffrey.  He turned himself in to police before the murders were discovered and confessed to having killed both victims.
+
+[19]        In Baumgartner, Rooke A.C.J., at para. 35, quoted Shropshire as confirming that the factors in 745.4, even though not expressly iterated, include denunciation (within the category of "nature of the offence"), deterrence and assessments of future dangerousness (within the category of "character of the offender").
+
+[20]        I was not provided with a psychiatric report with respect to Sharpe, but, nonetheless, there is nothing in his background to indicate future dangerousness.  In any event, that is something that will be addressed by the parole authorities before Sharpe is considered for parole, regardless of the ineligibility period imposed today.
+
+[21]        Considering all the factors involved in a s. 745.4 assessment, I conclude that consecutive periods of parole are not necessary.  However, the reality that two people were killed and the brutal nature in which the murders were committed call for a raised period of parole ineligibility even though not consecutive.
+
+[22]        Maisonville J., in Koopmans, imposed concurrent sentences of life with no parole for 22 years in that case and commented that:
+
+106     ... Specifically, this period of parole ineligibility accounts for the important aggravating factors of the multiple murders committed in the victim's home.  These murders were committed in the senseless and brutal fashion, with both victims killed in a method akin to execution.
+
+ 

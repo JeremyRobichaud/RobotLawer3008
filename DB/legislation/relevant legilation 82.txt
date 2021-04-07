@@ -1,0 +1,213 @@
+﻿III.      The Law
+
+ 
+
+[16]           Criminal Code s. 591(1) gives the Crown discretion to group criminal charges against one or more accused. That authority is subject to a number of statutory and other limitations, some of which this Court will discuss in this section.
+
+ 
+
+[17]           The court has the authority to order that co‑accused be tried in separate proceedings (Criminal Code, s. 591(3)(b)), or that multiple charges against a single accused be addressed in different and separate trials (Criminal Code, s. 591(3)(a)). The Applicant’s application relates to the latter scenario.
+
+ 
+
+[18]           Like all legislation, courts must interpret the Criminal Code as a whole. E. A. Driedger in Construction of Statutes (2nd ed. 1983) at 87 says, “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.” See also Rizzo & Rizzo Shoes Ltd. (Re), 1998 CanLII 837 (SCC), [1998] 1 S.C.R. 27 at para. 21, 154 D.L.R. (4th) 193 and most recently R. v. Ahmad, 2011 SCC 6 at para. 28.
+
+ 
+
+A.        Criminal Code s. 589 ‑ Joining Murder and Non‑Murder Offences
+
+ 
+
+[19]           Criminal Code s. 591(1) opens with the words, “Subject to section 589 ...” Because of the seriousness of a charge of murder, a person who is charged with committing a murder is treated in a distinct manner, when potentially charged with other offences.
+
+ 
+
+[20]           Subject to two provisoes, Criminal Code s. 589 prohibits the Crown from charging a person with both murder and non‑murder offences and having those offences appear in the same indictment. It says:
+
+ 
+
+589.     No count that charges an indictable offence other than murder shall be joined in an indictment to a count that charges murder unless
+
+ 
+
+(a)        the count that charges the offence other than murder arises out of the same transaction as a count that charges murder; or
+
+ 
+
+
+(b)        the accused signifies consent to the joinder of the counts.
+
+ 
+
+[21]           Criminal Code s. 589(b) does not apply in this case. Thus, the Crown may include other non‑murder offences in the indictment only if they arise out of “the same transaction” as the murder. In R. v. Paré, 1987 CanLII 1 (SCC), 1987 CarswellQue 19, [1987] 2 S.C.R. 618, 45 D.L.R. (4th) 546, Wilson J. described a murder and indecent assault as being part of the same transaction:
+
+ 
+
+69        The murder represents an exploitation of the position of power created by the underlying crime and makes the entire course of conduct a "single transaction".
+
+…
+
+ 
+
+71        The murder was temporally and causally connected to the underlying offence. It formed part of one continuous sequence of events. It was part of the same transaction. [Emphasis added.]
+
+ 
+
+[22]           More recently, the Supreme Court of Canada in R. v. Pritchard, 2008 SCC 59 at para. 28, [2008] 3 S.C.R. 195, confirmed a murder had occurred as part of the same transaction as criminal harassment by a former spouse. Binnie J., referring to R. v. Bradley, 2003 PESCTD 30, 223 Nfld. & P.E.I.R. 225, seems to suggest a broader approach to the meaning of “same transaction,” when the offences emerge from a common context:
+
+ 
+
+28        ... The court held that the accused's entry into the doorway (while "growling" with his arms over his head) constituted criminal harassment, especially in light of the couple's "highly abusive relationship" in which he had previously stalked and threatened to kill her. The harassment was separate from the murder while still forming part of the same transaction with the killing. [Pinpoint references excluded.]
+
+ 
+
+[23]           While the “same transaction” component of Criminal Code s. 589 is well established, two other aspects of this provision deserve further examination and comment:
+
+ 
+
+(I)        Does Criminal Code s. 589 restrict the ability of the Crown to join two or more murder charges in one indictment?
+
+ 
+
+(ii)       If a person is charged with more than one murder, do all non‑murder offences have to fall within the same transaction as every murder charge?
+
+ 
+
+(I)        Does Criminal Code s. 589 Prohibit Joinder of More than One Murder Charge?
+
+ 
+
+
+[24]           The language of Criminal Code s. 589 is arguably silent on this point. Criminal Code s. 589 authorizes the joinder of a murder charge with another indictable offence. But, does the phrase “no count that charges an indictable offence other than murder” mean, (a) a count that charges a non‑murder indictable offence, or (b) a murder?
+
+ 
+
+[25]           As this Court pointed out to counsel during argument, these alternatives devolve to a question of punctuation. Should this phrase be interpreted as, (a) “no count that charges an indictable offence other than murder” or (b) “no count that charges an indictable offence, other than murder,”?
+
+ 
+
+[26]           This Court concludes that the proper interpretation of Criminal Code s. 589 is that it authorizes a joint trial of more than one murder charge, and that there is no requirement that those murders arise out of the “same transaction.” This conclusion flows from a number of observations, but essentially conforms to the central principle of statutory interpretation; the language of the Criminal Code should be interpreted to give effect to its objective.
+
+ 
+
+[27]           First, there is little question as to why, historically, courts have not tried murder charges along with non-murder charges. As noted above, because of the seriousness of a murder charge, a joint trial with non-murder charges runs the risk of propensity reasoning by the trier of fact: e.g. R. v. Arp, 1998 CanLII 769 (SCC), [1998] 3 S.C.R. 339 at para. 40, 166 D.L.R. (4th) 296; R. v. B. (C.R.), 1990 CanLII 142 (SCC), [1990] 1 S.C.R. 717 at para. 63,107 N.R. 241. Another way of expressing this is that most criminal activity does not tend to be relevant as to whether a person is a murderer. Any such criminal activity is more prejudicial than probative.
+
+ 
+
+[28]           Second, multiple murder trials do occur. In R. v. Haase, 1964 CanLII 662 (BC CA), 1964 CarswellBC 181 (eCarswell), [1965] 2 C.C.C. 56 (B.C.C.A.), aff’d [1965] 2 C.C.C. 56 at 123, 45 C.R. 321 (S.C.C.), the accused was tried for the murder of two teenaged girls. More recently, Cohen J. in R. c. Colalillo, [2005] Q.J. No. 19747 (QL), 2005 CanLII 49803 (S.C.) ordered three murder charges tried together. Similarly, two murders were tried together in R. v. Butorac, 2010 BCSC 876. In Haase, Davey B.C.J.A. said the following, referring to Criminal Code, 1953‑54, ch. 51, s. 499, the pre-1991 equivalent to the current Criminal Code s. 589, and Criminal Code, 1953‑54, ch. 51, s. 501(1), the predecessor to Criminal Code s. 591 (cited to CarswellBC):
+
+ 
+
+2         The appellant was charged and tried upon two counts of capital murder. ... I am of the opinion that the joinder is authorized by the Code. Sec. 499 prohibits the joinder of a count charging an offence other than murder with a count charging murder, but it does not expressly prohibit the joinder of two counts, each charging murder. By sec. 501(1), subject to sec. 499, any number of counts for any number of indictable offences may be joined in the same indictment, but the court may order that the accused be tried separately on one or more of the counts.
+
+ 
+
+
+...
+
+ 
+
+4         ... In my opinion, the Code permits such a joinder, and it is a matter of judicial discretion whether the two counts should be tried on one indictment, or the counts should be severed. [Emphasis added.]
+
+ 
+
+[29]           The British Columbia Court of Appeal judgment in Haase was subsequently approved en toto and without analysis by the Supreme Court of Canada. See also R. v. Parker (1981), 23 C.R. (3d) 282, 7 W.C.B. 458 (Ont. H.C.J.).
+
+ 
+
+[30]           In R. v. Khan (1996), 1996 CanLII 7296 (MB CA), 110 Man. R. (2d) 241 at para. 45, 108 C.C.C. (3d) 108 (Man. C.A.), aff’d on other grounds 2001 SCC 86, [2001] 3 S.C.R. 823, the Court referred to Haase and similarly concluded that joint trial of more than one murder was authorized by the current Criminal Code s. 589.
+
+ 
+
+[31]           Finally, this Court sees no indication that Parliament intended to remove the possibility of a joint trial of murder charges when it amended Criminal Code s. 589 to allow joinder of non‑murder indictable offences in 1991: see R. v. Beausoleil (1997), 35 O.T.C. 255 at paras. 10‑12, 35 W.C.B. (2d) 382 (Ont. Ct. (Gen. Div.)); R. v. Choy, 2008 ABQB 697 at paras. 12‑13, 456 A.R. 196. That, too, is consistent with a purposive interpretation of the Criminal Code joinder and severance provisions.
+
+ 
+
+[32]           This Court therefore concludes that Criminal Code s. 589 does not restrict in any manner a trial on more than one murder charge contained in one indictment.
+
+ 
+
+(ii)      Must All Non‑Murder Offences Fall Within the Same Transaction as Every Murder Charge?
+
+ 
+
+[33]           The second question is simply a matter of statutory interpretation. This Court concludes that Criminal Code s. 589(a) requires only that the non‑murder offences be ‘linked’ with any one murder charge as part of the same transaction. The language of that section refers to “a count that charges murder” not, “every count that charges murder” [emphasis added].
+
+ 
+
+B.        Criminal Code s. 591(3)(a) ‑ Joining Murder and Non‑Murder Offences
+
+ 
+
+[34]           While Criminal Code s. 589 prohibits joinder of certain offences with a charge of murder, Criminal Code s. 591(3)(a) provides a broader and conditional authority on the court to order separate trial of two or more charges:
+
+ 
+
+591(3)  The court may, where it is satisfied that the interests of justice so require, order
+
+ 
+
+
+(a)        that the accused ... be tried separately on one or more of the counts; …
+
+ 
+
+[Emphasis added.]
+
+ 
+
+[35]           This authority continues from before a trial through to its conclusion: Criminal Code s. 591(4). The applicant has the onus of proving that severance is appropriate on a balance of probabilities. A decision to have two or more charges tried separately or together is in the presiding trial judge’s discretion, and involves a multi-factoral analysis: R. v. Litchfield, 1993 CanLII 44 (SCC), [1993] 4 S.C.R. 333 at 353‑54, 86 C.C.C. (3d) 97; R. v. Last, 2009 SCC 45 at paras. 1, 14, [2009] 3 S.C.R. 146.
+
+ 
+
+[36]           The question as to whether the interests of justice are served by charges against an accused being tried together or separately, requires a judge to weigh and balance a range of considerations: Last at para. 17. In Last at para. 18, Deschamps J. identified a number of factors that may be relevant when a judge considers a severance application:
+
+ 
+
+1.         the general prejudice to the accused;
+
+ 
+
+2.         the legal and factual nexus between the counts;
+
+ 
+
+3.         the complexity of the evidence;
+
+ 
+
+4.         whether the accused intends to testify on one count but not another;
+
+ 
+
+5.         the possibility of inconsistent verdicts;
+
+ 
+
+6.         the desire to avoid a multiplicity of proceedings;
+
+ 
+
+7.         the use of similar fact evidence at trial;
+
+ 
+
+8.         the length of the trial having regard to the evidence to be called;
+
+ 
+
+9.         the potential prejudice to the accused with respect to the right to be tried within a reasonable time; and
+
+ 
+
+10.      the existence of antagonistic defences as between co-accused persons
+
+ 
+
+The last factor is not relevant for this particular application.
+
+ 
+
+[37]           No factor is determinative, though in Last at para. 27, the court stressed that if an accused intends to testify on one count but not another, then that fact deserves significant weight.
+
+ 

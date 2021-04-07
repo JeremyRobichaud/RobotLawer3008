@@ -1,0 +1,108 @@
+CONSENT
+
+[11]    In 1969, rape was defined by s. 135 of the Criminal Code, S.C. 1953-54, c. 51 which provided as follows:
+
+135.     A male person commits rape when he has sexual intercourse with a female person who is not his wife,
+
+(a)        without her consent, or
+
+(b)        with her consent if the consent
+
+(i)         is extorted by threats or fear of bodily harm,
+
+(ii)        is obtained by personating her husband, or
+
+
+(iii)      is obtained by false and fraudulent representations as to the nature and quality of the act.
+
+
+
+[12]    The appellant’s first ground of appeal is that, accepting all of the complainant’s evidence as true, there was, in law, no rape or attempted rape.  Once the complainant made a choice to cooperate, that choice amounted to consent, which consent was not vitiated even if induced by exercise of authority or threats other than threats of force.
+
+
+
+[13]    The appellant relied largely on the judgment of the British Columbia Court of Appeal in R. v. O’Connor (1998), 1998 CanLII 14987 (BC CA), 123 C.C.C. (3d) 487 and two judgments which followed it: R. v. Shearing (2000), 2000 BCCA 83 (CanLII), 31 C.R. (5th) 177 (B.C.C.A.) and R. V. B.(L.) (1998), 106 B.C.A.C. 154 (Yukon C.A.).  He also relied on R. v. Landry (1935), 1935 CanLII 357 (NB CA), 64 C.C.C. 104 (N.B.S.C. (A.D.)); R. v. Kyselka (1962), 1962 CanLII 596 (ON CA), 37 C.R. 391 (Ont. C.A.) and R. v. Jones (1934), 1934 CanLII 240 (BC CA), 63 C.C.C. 341 (B.C.C.A.).
+
+
+
+[14]    In O’Connor,  the complainant had been a student at, and was working in the office of, a residential school.  The appellant was an Oblate priest and the principal of the school.  He was charged with rape under s. 135 of the Criminal Code.  The complainant testified that when she was age 19, the appellant had sex with her. She said she did not consent and so advised the appellant, but took off her clothes and offered no resistance because he was an authority figure to her and she was afraid of losing her job and her travel benefits with the school band.  The appellant admitted intercourse.  His defence was consent.  The trial judge convicted the appellant.
+
+
+[15]    The Court of Appeal ordered a new trial on the following basis:
+
+[45]      To look to s. 135(a) for a definition of consent which goes beyond the notion of the conscious exercise of will and into the area of the “genuineness” or “validity” of the consent is to step into uncertain territory.  A wife may consent to have sex with her husband because he threatens to find another partner if she does not.  Her consent is not “genuine” or free from pressure – she feels compelled to go along with her husband’s wishes.  The husband’s behaviour is in some senses coercive, but not criminal.
+
+. . .
+
+[47]      We are of the view that the Legislature set out a complete set, or list, of factors which vitiate consent in s. 135(b).  The structure of the legislation and the philosophical difficulty in defining “genuine” consent persuade us that this is so, as well as the simple point that to look beyond s. 135(b) to find a more comprehensive definition of consent would be to make s. 135(b) redundant.
+
+. . .
+
+[73]      Persuaded that the exercise of authority could vitiate consent, the trial judge could assume consent and move to determining whether the sex act took place because of the exercise of authority.  He did not need to examine the complainant’s testimony that she did not consent and had communicated it to the appellant.  If the exercise of authority could vitiate consent then it did not matter whether the complainant agreed to the sex act because of the exercise of authority (vitiated consent) or whether she did not consent and merely submitted because of the appellant’s position.  This explains why the trial judge spoke both of consent and no consent interchangeably throughout his reasons.
+
+[74]      There were a number of courses open to the trial judge.  If he accepted the evidence of the complainant as she told it in chief he could have convicted the appellant of rape.  If he found that the complainant did not consent but failed to communicate non-consent he could have convicted the appellant of rape if the Crown negatived the defence of honest belief.  If the trial judge found that the complainant consented or if he had a doubt that she did, then he should have acquitted the appellant.  It was incumbent on the trial judge to resolve the question of consent.  He did not have the benefit of the extensive arguments that were made in this Court.  He did not resolve the issue of consent.  There must be a new trial on this count.
+
+
+
+[16]    The appellant argues that this means that exercise of authority is not relevant to the issue of consent under s. 135.  However, that is not so.  In O’Connor, the Court, after considering R. v. Lock (1872), L.R. 2 C.R.R. 10 and R. v. Nichol (1807), Russ. & Ry. 131, 168 E.R. 720 (C.C.R.) recognized that, at common law, exercise of authority was relevant to the issue of consent:
+
+[42]      These cases establish that: (1) consent means an active will in the mind of the complainant to permit the doing of the act, and (2) if a relationship of authority exists between the accused and the complainant it is a circumstance which may be taken into account in determining whether the complainant consented to the acts complained of, and, if she did not consent, to explain the lack of resistance.
+
+
+
+[17]    Furthermore, there is substantial authority to the effect that exercise of authority has long been a relevant factor in determining the issue of consent or the absence thereof in the criminal law.
+
+
+
+[18]    In  R. v. Jobidon, 1991 CanLII 77 (SCC), [1991] 2 S.C.R. 714, the Supreme Court of Canada was dealing with consent as a defence to assault.  Section 265(3) of the Criminal Code listed four factors which vitiated consent to assault, one of which was exercise of authority.  The Court said at pp. 739-40:
+
+Parliament did not set foot into new territory when listing the four vitiating factors in s. 265(3).  On the contrary it will be seen that, for the most part, that list merely concretized, and made more explicit, basic limits on the legal effectiveness of consent which had for centuries formed part of the criminal law in England and in Canada.  Their expression in the Code did not reflect an intent to remove the existing body of common law which already described those limitations and their respective scope.  The Code just spelled them out more clearly, in a general form.
+
+That common law is rich and extensive, with roots reaching back well into the decades preceding Canada’s adoption of the Code of 1892.  For instance it provided that, as a general rule, consent would only be valid or legally effective if it was given freely by a rational and sober person.  (See Russell on Crime, op. cit.[vol. 1, 12th ed. By J.W. Cecil Turner.  London: Stevens & Sons, 1964], at p. 678.)
+
+Thus in R. v. March (1844), 1 Car. & K. 496, 174 E.R. 909, the English criminal court, speaking through Lord Tindal C.J., held that a fraudulently obtained consent to common assault was no consent at all (p. 911).  The parallel in our Code is in s. 265(3)(c).  In R. v. Lock (1872), L.R. 2 C.C.R. 10, an English criminal court held that eight-year-old boys were too young to understand the nature of a sexual act with a grown man to be able to consent to it.  Submission by a young child to an older, stronger person, an authority figure, would not be considered consensual.  The consent would in all probability have been obtained under a coerced and ill-informed will.  This principle now finds expression in Canada in s. 265(3)(d).
+
+
+
+[19]    This makes clear that the common law recognized exercise of authority as a factor to be considered in determination of the issue of consent in the criminal law, and the reference to Lock makes it clear that it was a factor to be considered in determination of the issue of consent in relation to sexual offences.  In relation to s. 265(3), the Court held that its enactment did not remove such vitiating factors recognized by the common law by mere failure to list them.  Cory J., of the Supreme Court of Canada, speaking for the majority in R. v. Cuerrier, 1998 CanLII 796 (SCC), [1998] 2 S.C.R. 371 at p. 425, confirmed this view of Jobidon.  It follows that the enactment of the Criminal Code, and in particular s. 135 thereof, did not change the common law insofar as it recognized exercise of authority as being relevant to the issue of consent to sexual intercourse, simply by failure to list it as a vitiating factor in s. 135(b).
+
+
+
+[20]    Jobidon was referred to with approval in respect of this issue in Norberg v. Wynrib, 1992 CanLII 65 (SCC), [1992] 2 S.C.R. 226 at p. 252.  And finally, if there is any doubt left, the Supreme Court again touched on the same issue in R. v. Audet, 1996 CanLII 198 (SCC), [1996] 2 S.C.R. 171.  La Forest J. said at p. 185-6 as follows:
+
+The relative positions of the parties have always been relevant to the validity of consent under Canadian criminal law.  The common law has long recognized that exploitation by one person of another person’s vulnerability towards him or her can have an impact on the validity of consent (see the historical review prepared by A.W. Bryant, “The Issue of Consent in the Crime of Sexual Assault” (1989), 68 Can. Bar Rev. 94, at pp. 127-31; R. v. Jobidon, 1991 CanLII 77 (SCC), [1991] 2 S.C.R. 714, at p. 740; and my comments in Norberg v. Wynrib, supra, at pp. 250 and 252).
+
+
+
+
+[21]    Accordingly, we must reject the appellant’s argument that exercise of authority was irrelevant to the determination of whether the appellant had consented to sexual relations, and that it was an error of law for the judge to instruct the jury that it was.
+
+
+
+[22]    That brings us to the appellant’s argument that there was no evidence upon which a jury, properly instructed, could reasonably find that the complainant had not consented to sexual relations.
+
+
+
+[23]    In view of our determination that exercise of authority is relevant to the issue of consent, there is abundant evidence upon which a jury could find lack of consent.  If we were wrong in this conclusion, the result would be the same.  The appellant’s argument that the complainant’s cooperation amounted to consent is the equivalent of saying submission amounts to consent.  Authorities from R. v. Day, (1841) 173 E.R. 1026 to R. v. M.(M.L.), 1994 CanLII 77 (SCC), [1994] 2 S.C.R. 3, have consistently held that submission does not necessarily prove consent.  Consent or lack thereof is a question of fact for the jury to decide, subject of course to proper instruction as to the law.  Accordingly, the appellant’s argument that an order of acquittal should be entered on these grounds must be rejected.
+
+
+
+ATTEMPTED RAPE
+
+[24]    The trial judge put the offence of attempted rape to the jury on the authority of R. v. Smith, 1978 CanLII 161 (SCC), [1979] 1 S.C.R. 215, which he said stood for the proposition that where consent and penetration are both live issues, the trial judge is under a duty to charge the jury on the included offences of attempted rape and indecent assault.  Smith was a case where both consent and penetration were in issue.  The Court said this at p. 216-7:
+
+I do not think that a trial judge has an untrammelled discretion to choose or refuse to charge the jury on included offences.  He must be governed by the issues that are thrown up by the evidence.  There may be cases where evidence of an issue referable to an included offence is so tenuous as to justify him in refusing to charge on it, and yet he would not necessarily be in error if he did so charge.  This case is not of that kind.  Here, having regard to the complainant’s evidence of what the accused did and to the evidence of his physical disability in having intercourse unless there was complete co-operation of the complainant and to his denial of intercourse, both penetration and consent were in issue.  The jury by its verdict might have found that there was neither penetration nor consent, and this would not exclude either attempted rape or indecent assault.  In the circumstances there was a duty on the trial judge to charge on these included offences.
+
+By this standard, the trial judge made no error in putting attempted rape to the jury.
+
+
+
+[25]    As to the appellant’s argument that there was no air of reality to a possible conviction for attempted rape, we are satisfied that, given the jury’s right to accept or reject all or any part of the evidence of the witnesses, there was evidence upon which a jury, properly instructed, could convict of attempted rape.  In this context it is worth noting that appellant’s counsel at trial (who is not counsel on this appeal) did not object to attempt being put to the jury.
+
+
+
+[26]    While the appellant made no argument suggesting the absence of the mens rea necessary for a conviction for rape or attempted rape, the court nevertheless considered it.  The appellant, by his statements entered into evidence, admitted that he intended to have sexual relations with the complainant.  This evidence, along with his awareness of the complainant’s age, and status in the community, as well as his own age, profession, status in the community, and all of the surrounding circumstances, was evidence from which a jury could find the mens rea necessary for a conviction for rape or the included offence of attempted rape.
+
+
+
+[27]    Finally, we come to the appellant’s contention that no new trial should be ordered since the Crown would be in the invidious position of charging attempted rape while presenting evidence alleging the full offence of rape.  This is not a ground for acquittal.  Since we have found that there is evidence upon which a jury could reasonably convict, it is our duty to order a new trial upon the charge of attempted rape.

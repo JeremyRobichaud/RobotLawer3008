@@ -1,0 +1,365 @@
+﻿R. v. Farrant
+
+[16] In R. v. Farrant, Mr. Justice Dickson, for five judges of the Supreme Court of Canada, with two judges dissenting in the result, said this about the relationship between section 229 [then s.212] and section 231 (then s.214]:
+
+There is no distinction between ss.214(5)(a) and 212 based upon intent.  The presence or absence of intent is the distinction between ss.212 and 213, not s.214.  Intent is an element of the offence of murder under s.212, be it first or second degree.  The distinction between first and second degree murder in s.214 is not based upon intent; it is based upon (1) the presence of planning and deliberation (s.214(2)); (2) the identity of the victim (s.214(4)), or (3) the nature of the offence being committed at the time of the murder (s.214(5)).  The primary and essential determination for a jury to make is whether murder has been committed, either under s.212 or, where the evidence warrants it, under s.213.  Considerations of the distinctions between first and second degree murder are irrelevant in making this preliminary determination.  Once the offence has been found, it is then classified.
+
+ 
+
+     To argue that s.214 is controlling in a situation such as the present one is to confuse the sections which set out the elements of the offence or murder with the classification process provided in s.214.  The classification in s.214 functions within the context of sentencing and is not determinative of the substantive offence of murder.
+
+ 
+
+                                 (my emphasis)
+
+ 
+
+ 
+
+ 
+
+ 
+
+R. v. Harbottle
+
+[17] It is important to understand that Farrant was endorsed and applied in the unanimous judgment of all nine judges of the Supreme Court of Canada, as delivered by Mr. Justice Cory in Harbottle.  Mr. Justice Cory said this, at pp. 323-325::
+
+Object of the section
+
+ 
+
+In order to provide the appropriate distinctions pertaining to causation that must exist for the different homicide offences, it is necessary to examine the sections in their context while taking into account their aim and object.
+
+ 
+
+     At the outset, it is important to remember that when s.214(5) comes into play it is in essence a sentencing provision.  First degree murder is an aggravated form of murder and not a distinct substantive offence:  see R. v. Farrant (1983), 1983 CanLII 118 (SCC), 4 C.C.C. (3d) 354, 147 D.L.R. (3d) 511, [1983] 1 S.C.R. 124.  It is only to be considered after the jury has concluded that the accused is guilty of murder by causing the death of the victim.  An accused found guilty of second degree murder will receive a mandatory life sentence.  What the jury must then determine is whether such aggravating circumstances exist that they justify ineligibility for parole for a quarter of a century.  It is at this point that the requirement of causation set out in s.214(5) comes into play.  The gravity of the crime and the severity of the sentence both indicate that a substantial and high degree of blameworthiness, above and beyond that of murder, must be established in order to convict an accused of first degree murder.
+
+ 
+
+Substantial cause test
+
+ 
+
+     Accordingly, I suggest a restrictive test of substantial cause should be applied under s.214(5).  That test will take into account the consequences of a conviction, the present wording of the section, its history and its aim to protect society from the most heinous murderers.
+
+ 
+
+The consequences of a conviction for first degree murder and the wording of the section are such that the test of causation for s.214(5) must be a strict one.  In my view, an accused may only be convicted under the subsection if the Crown establishes that the accused has committed an act or series of acts which are of such a nature that they must be regarded as substantial and integral cause of the death.  A case which considered and applied a substantial cause test from Australia is R. v. Hallett, [1969] S.A.S.R. 141 (S.C. in banco).  In that case, the victim was left beaten and unconscious by the sea and was drowned by the incoming tide.  The court formulated the following test of causation, at p.149, which I find apposite:
+
+ 
+
+The question to be asked is whether an act or a series of acts (in exceptional cases an omission or series of omissions) consciously performed by the accused is or are so connected with the event that it or they must be regarded as having a sufficiently substantial causal effect which subsisted up to the happening of the event, without being spent or without being in the eyes of the law sufficiently interrupted by some other act or event.
+
+ 
+
+     The substantial causation test requires that the accused play a very active role - usually a physical role - in the killing.  Under s.214(5), the actions of the accused must form an essential substantial and integral part of the killing of the victim.  Obviously, this requirement is much higher than that described in R. v. Smithers (1977), 1977 CanLII 7 (SCC), 34 C.C.C. (2d) 427, 75 D.L.R. (3d) 321, [1978] 1 S.C.R. 506, which dealt with the offence of manslaughter.  There it was held at p.435 C.C.C., p.329 D.L.R., p.519 S.C.R. that sufficient causation existed where the actions of the accused were “a contributing cause of death, outside the de minimis range”.  That case demonstrates the distinctions in the degree of causation required for the different homicide offences.
+
+. . .
+
+ 
+
+     Therefore, an accused may be found guilty of first degree murder pursuant to s.214(5) if the Crown has established beyond a reasonable doubt that:
+
+ 
+
+(1)  the accused was guilty of the underlying crime of domination or of attempting to commit that crime;
+
+(2)  the accused was guilty of the murder of the victim;
+
+(3)  the accused participated in the murder in such a manner that he was a substantial cause of the death of the victim;
+
+(4)  there was no intervening act of another which resulted in the accused no longer being substantially connected to the death of the victim; and
+
+(5)  the crimes of domination and murder were part of the same transaction; that is to say, the death was caused while committing the offence of domination as part of the same series of events.
+
+ 
+
+     It would be appropriate to charge a jury in those terms.
+
+ 
+
+(1.  Mr. Justice Cory’s emphasis appears in italics.
+
+2.  My emphasis in relation to causation appears as underlining.
+
+3.  My emphasis in relation to different homicide offences appears in bold-faced type)
+
+ 
+
+ 
+
+ 
+
+Observations about Harbottle
+
+[18] I propose to make some observations about the Harbottle decision:
+
+1.   Harbottle settles the standard of causation which must be met before a person may be convicted of first degree murder under s-s.231(5) of the Criminal Code.  That standard is called the  substantial cause test, but is most accurately encompassed by the concept that the actions of the accused must form an essential, substantial and integral part of the killing of the victim.
+
+2.   Harbottle confirms that the jury must first find that murder has been committed by the accused before they embark on the substantial cause test to determine if there should be a conviction of first degree murder under s-s.231(5).
+
+3.   Harbottle contrasts the contributing cause test for manslaughter, as set out in Smithers, with the first degree murder test for conviction under s-s.231(5) and describes the first degree murder test as “much higher”.
+
+4.   Harbottle does not discuss any of the subsections of s.231 other than s-s.231(5), which deals with murder committed during the commission of domination offences.  Where a murder is planned and deliberate it will be a very unusual case where causation is an issue.  But that is not so where the victim is a police officer or a prison guard acting in the course of his or her duties.  And in such a case the word “cause” does not appear in s-s.231(4) and so cannot support the reasoning which Mr. Justice Cory used in Harbottle to support the higher standard for first degree murder under s-s.231(5).  The only additional matter which is required in order to turn a finding of murder into a conviction for first degree murder under s-s.231(4)is that the victim be a police officer or a prison guard.
+
+5.   Harbottle does not discuss the causation standards required to support a finding that the accused committed a murder.  But at the beginning of the passage I have quoted Mr. Justice Cory says:  “In order to provide the appropriate distinctions pertaining to causation that must exist for the different homicide offences, it is necessary to examine the sections in their context while taking into account their aim and object.”  And at the end of the first passage that I have quoted Mr. Justice Cory says:  “That case demonstrates the distinctions in the degree of causation required for the different homicide offences”.  Since, for all relevant purposes, the different homicide offences must be taken to be manslaughter, second degree murder, and first degree murder, it is a notable omission from the reasons in Harbottle that they do not address the standard of causation required in order to support a conviction of second degree murder. 
+
+[19] On the basis of those five observations, I think that there is a very powerful inference that the nine judges of the Supreme Court of Canada decided not to seek to settle the standard of causation for second degree murder in the Harbottle case since it was not required in order to decide the case.  The judges may well have been divided on the question.
+
+[20] While the Harbottle  case does not expressly decide the standard of causation that is applicable to second degree murder, I think it is implicit in that decision that the substantial cause test, namely that the actions of the accused must form an essential, substantial and integral part of the killing of the victim, which is the test which can turn second degree murder into first degree murder in relation to domination offences, is not the applicable test.  On the other hand, the references to “different homicide offences” seems to leave open the question about the standard of causation required to establish second degree murder and also to leave open the question of the standard of causation required to establish first degree murder where the victim is a police officer or prison guard under s-s.231(4).
+
+[21] In short, it seems to me that the Harbottle case indicates that the standard of causation for second degree murder is not the essential, substantial and integral cause test and must either be the significant contributing cause test that is used for manslaughter or some intermediate causation test between the two.
+
+ 
+
+Ontario Court of Appeal Decisions
+
+[22] The very point in issue in this appeal has been dealt with in two separate decisions of the Ontario Court of Appeal since the Harbottle decision. 
+
+[23] In R. v. Cribbin (1994), 1994 CanLII 391 (ON CA), 89 C.C.C. (3d) 67, Madam Justice Arbour gave reasons for judgment which were concurred in by Associate Chief Justice Morden and Mr. Justice Catzman.  In the third segment of her reasons, starting at p.78 and continuing to p.88, Madam Justice Arbour discusses a number of issues relating to causation, including the constitutionality of the Smithers test and whether the Smithers test is either too vague or too remote.  The Smithers test of contributing cause beyond de minimis was decided to be the appropriate standard to support a conviction for second degree murder.  At p.85, Madam Justice Arbour said that the Canadian contributing cause test is not different than the standard in England or Australia for second degree murder.
+
+[24] In R. v. Meiler (1999), 1999 CanLII 3728 (ON CA), 136 C.C.C. (3d) 11, the judgment of Mr. Justice O’Connor was concurred in by Chief Justice McMurtry and Mr. Justice Laskin.  At p.24 Mr. Justice O’Connor said this:
+
+Although Harbottle does not specifically say that the causation test for murder under s.229 is the same as that set out in Smithers, the reasoning in Harbottle leads towards that conclusion.  The court held that the more restrictive test of substantial cause reflects a higher degree of blameworthiness for first degree murder than for murder, thereby implying that there is a less restrictive causation test for murder that is not first degree.  Further, the court made the obvious point that the substantial cause test is higher than the contributing cause test in Smithers.  There is no authority that holds that there is an intermediate causation test for s.229 lying somewhere between substantial cause and contributing cause.  Indeed, the prospect of formulating and articulating a third test would involve drawing some rather fine and probably artificial distinctions.
+
+ 
+
+For these reasons, I am of the view that the causation test laid down in Smithers is the proper test under s.229 and in particular under s.229(c).  As I said above, I am satisfied that the acts of the appellant, even accepting an unintentional discharge of the gun, go well beyond meeting that requirement.
+
+                             (my emphasis)
+
+ 
+
+ 
+
+[25] Those two decisions of the Ontario Court of Appeal decide that the causation test for second degree murder is that the actions of the accused must be a contributing cause, beyond de minimis, of the death of the victim.  They decide that no higher or different test is required in order to support a finding that the accused caused the death of the victim and so committed second degree murder.
+
+ 
+
+The Terminology of Causation
+
+[26] I have found Glanville Williams’ exposition of Causation in the Criminal Law (Textbook of Criminal Law 2nd ed., London, Stevens & Sons, 1983, c.16), a model of clarity and insight.
+
+[27] In order for an action or a willed inaction to be a cause of death it must meet the “but for” test, otherwise described as a causa sine qua non.  If the action or willed inaction does not meet that test then it is not a cause at all of the death.  But that is not enough in itself to create a sufficient causal connection to found criminal liability.  The action or willed inaction of the accused must also be an operating cause in law, otherwise described as a causa causans.  Glanville Williams refers to the “but for” cause as the factual cause, which he distinguishes from an operating cause.  He refers to what I have called an operating cause as an “imputable” “legal” “effective” “direct” or “proximate” cause, without embracing the precise accuracy of any of those descriptive adjectives. 
+
+[28] As can readily be seen, there is a diversity of terminology available to describe the relevant causal connection.  It is important to be guided by the concepts relevant to causality rather than by the terminology.
+
+[29] In the Smithers case the relevant causal standard is described in the words “a contributing cause beyond de minimis”.  If one were to avoid the Latin, which a jury may find confusing, the Smithers standard is “a contributing cause that is not trivial or insignificant”.  See Crimji 6.45, para.17.  A cause that is not insignificant is a cause that is significant.  So I consider it accurate to describe the Smithers standard as “a significant contributing cause”.  However, it is possible that the same standard is more comprehensible when cast in the negative, as “a contributing cause that is not trivial or insignificant”.
+
+ 
+
+ 
+
+The English Cases
+
+[30] The leading English cases are R. v. Smith (1959), 43 Cr. App.R. 121 (C.A.), R. v. Paggett (1983), 76 Cr.App.R. 279 (C.A.) and R. v. Cheshire, [1991] 3 All E.R. 670 (C.A.).
+
+[31] In the Smith case, there was a melee and several soldiers were stabbed by Smith.  One of them later died.  The soldier who died had been treated in hospital and the treatment may have been improper or careless.  On the issue of causation, Lord Parker, Lord Chief Justice, in the unanimous judgment of the Court Martial Appeal Court, said this, at p.131:
+
+It seems to the court that if at the time of death the original wound is still an operating cause and a substantial cause, then the death can properly be said to be the result of the wound, albeit that some other cause of death is also operating.  Only if it can be said that the original wounding is merely the setting in which another cause operates can it be said that the death does not result from the wound.  Putting it in another way, only if the second cause is so overwhelming as to make the original wound merely part of the history can it be said that the death does not flow from the wound.
+
+                                 (my emphasis)
+
+ 
+
+ 
+
+ 
+
+It seems to me from the context that the cause referred to in this passage is equivalent to a significant contributing cause, as in Smithers, and not to an essential, substantial and integral cause, as in Harbottle.
+
+[32] In the Paggett case, Lord Justice Goff, in giving the judgment of the Court of Criminal Appeal, discussed the question of causation in homicide cases, particularly manslaughter, in these terms, at p.288:
+
+In cases of homicide, it is rarely necessary to give the jury any direction on causation as such.
+
+. . .
+
+ 
+
+Even where it is necessary to direct the jury’s minds to the question of causation, it is usually enough to direct them simply that in law the accused’s act need not be the sole cause, or even the main cause, of the victim’s death, it being enough that his act contributed significantly to that result.  It is right to observe in passing, however, that even this simple direction is a direction of law relating to causation, on the basis of which the jury are bound to act in concluding whether the prosecution has established as a matter of fact, that the accused’s act did in this sense cause the victim’s death.
+
+                             (my emphasis)
+
+ 
+
+ 
+
+[33] In my opinion Lord Goff’s choice of the words “contributed significantly” represents a standard identical to the standard of the Smithers test. 
+
+[34] In R. v. Cheshire, Lord Justice Beldam said this, in relation to murder, at p.677:
+
+It is not the function of the jury to evaluate competing causes or to choose which is dominant provided they are satisfied that the accused’s acts can fairly be said to have made a significant contribution to the victim’s death.  We think the word ‘significant’ conveys the necessary substance of a contribution made to the death which is more than negligible.
+
+ 
+
+                             (my emphasis)
+
+ 
+
+ 
+
+The Australian Cases
+
+[35] The leading Australian cases are R. v. Hallett, [1969] S.A.S.R. 141 (SASC, In Banco) and R. v. Royall (1991), 100 A.L.R. 669 (H.Ct.A.).
+
+[36] In R. v. Hallett the accused had attacked his friend and left him wounded on the beach.  The victim drowned either by rolling into the water, or by being covered by the rising tide.  Hallett was convicted of murder.  His appeal was dismissed by the Supreme Court of South Australia, (In Banco).  The judgment of the Court (Bray, C.J., Bright and Mitchell, JJ.) contained this passage, at p.149:
+
+Foresight by the accused of the possibility or probability of death or grievous bodily harm from his act, though very relevant to the question of malice aforethought, has nothing to do with the question of causation.  The death of the deceased is the material event.  The question to be asked is whether an act or series of acts (in exceptional cases an omission or series of omissions) consciously performed by the accused is or are so connected with the event that it or they must be regarded as having a sufficiently substantial causal effect which subsisted up to the happening of the event, without being spent or without being in the eyes of the law sufficiently interrupted by some other act or event.
+
+                                 (my emphasis)
+
+ 
+
+ 
+
+[37] The use of the phrase “sufficiently substantial” was referred to by Mr. Justice Cory in the Harbottle case in the passage I have quoted in Part VI of these reasons.  But in R. v. Cribbin, in the Ontario Court of Appeal, Madam Justice Arbour said this, at p.85:
+
+I am not persuaded that, even when the terminology used is slightly different, the Canadian standard by which causation is established in homicide differs from the English or Australian standard such as to present an anomaly which might suggest that it is set too low.  Harbottle is clear in holding that s.231(5) of the Criminal Code imposes a higher degree of causation for first degree murder than is required merely to establish the homicide.  Cory J. referred to a substantial and integral cause of death, requiring that the accused play a very active role - usually a physical role - in the killing.  He used the expression “the actions of the accused must form an essential, substantial and integral part of the killing”.  This test is not the same as the sometimes called “substantial cause test” referred to in the English authorities dealing with causation in homicide, where the standard contemplated, in my view, is akin to the one in Smithers.
+
+                             (my emphasis)
+
+ 
+
+ 
+
+ 
+
+[38] I agree with Madam Justice Arbour and I think that the significant contributing cause test derived from Smithers is conceptually the same as the test for operating cause, no matter the precise terminology, that is used for causation in relation to the offence of murder in England and in Australia.
+
+[39] I think that this point is supported by the decision of the High Court of Australia in R. v. Royall.  In that case, Mr. Justice Brennan, at p.682, adopted the test from R. v. Paggett that an accused’s conduct, whether by act or omission, must contribute significantly to the death of the victim.  As I have said, I think that this is identical to the Smithers test as a contribution which is not insignificant.  But the terminological inconsistency, though not the conceptual inconsistency, is pointed out by the judgment of Mr. Justice Deane and Mr. Justice Dawson at p.682, where they say that if the accused’s conduct is a substantial or significant cause of death that will be sufficient to sustain a conviction for murder.
+
+[40] So I repeat my conclusion that the causation standard for both manslaughter and second degree murder in Canada is the same as the standard in England and Australia and is well expressed as “a significant contributing cause”” or as a “contributing cause that is not insignificant”.
+
+ 
+
+ 
+
+ 
+
+Criminal Law Consistency within Canada
+
+[41] Like Mr. Justice O’Connor in Meiler, I would find it difficult to formulate a meaningful test of causation which is less than an essential, substantial and integral cause, but more than a significant contributing cause, and which could be conveyed to a jury in such a way that they could realistically apply it to the facts to reach a conclusion in relation to second degree murder.
+
+[42] I consider that the significant contributing cause test is legally sound in relation to the offence of murder, and that it is not inconsistent with the objectives of the criminal law in relation to moral blameworthiness.
+
+[43] On a question calling for the interpretation of the Criminal Code in relation to culpable homicide on a point that has not been the subject of a considered decision of the Supreme Court of Canada, I would not depart from the decisions of the Ontario Court of Appeal unless I were convinced that those decisions were wrongly decided, and that their application would lead to an injustice.  That is not the case here.
+
+[44] In addition, I would be most reluctant to conclude that any higher standard of causation than significant contributing cause was required in order to sustain a conviction of first degree murder for the killing of a police officer or prison guard.
+
+ 
+
+Two Small Slips in the Charge
+
+[45] When directing the jury with respect to the Smithers standard, the trial judge described that standard several times as a cause which contributed to the death of Mrs. Loski and was more than a trivial cause.  But once in the main charge and once in the recharge he referred to the substantial cause required for first degree murder under s-s.231(5) in contrast to "the slight or trivial cause necessary to find second degree murder”.
+
+[46] This slip was not pressed in argument by counsel for the appellant, I am sure because it comes within the rule that it is the charge as a whole which must be considered and, when the jury was focusing on manslaughter or second degree murder, the charge always correctly stated the Smithers standard.
+
+[47] I do not consider that the jury could have been misled by the two slips of the tongue, particularly when they are placed in the context of the evidence in this case.
+
+An “Air of Reality” Question
+
+[48] Mrs. Loski was cruelly bound and could not remove the clothing wound around her head and neck, or remove her dentures which became dislodged in her mouth.  During the course of argument, counsel for the appellant was asked to put forward a view of the facts which would make it possible for a jury, acting rationally, to conclude that the binding of Mrs. Loski and leaving her bound and alone in her house was a contributing cause of her death but not a substantial cause of her death.  Counsel for the appellant’s response was that the factual aspects of causation were for the jury and that, on the basis of the direction that was given in this case and the redirection on substantial cause, the verdict of second degree murder rather than first degree murder must be taken to have been an indication that the jury might well have found that the accused’s actions did not constitute a substantial cause of the death of Mrs. Loski.
+
+[49] Having regard to my conclusion on the relevant law of causation, it is not necessary for me to reach any decision on this point.
+
+ 
+
+ 
+
+Disposition
+
+[50] In my opinion, Mr. Justice Wilkinson’s charge to the jury contained no misdirection in relation to the relevant standard of causation for culpable homicide offences, apart from the two insignificant slips of the tongue which I have mentioned.
+
+[51] I would dismiss the appeal.
+
+ 
+
+"The Honourable Mr. Justice Lambert"
+
+ 
+
+ 
+
+Reasons for Judgment of the Honourable Mr. Justice Braidwood:
+
+ 
+
+ 
+
+ 
+
+[52] I have had the privilege of reading the reasons for judgment of Chief Justice McEachern and Mr. Justice Lambert.  With the greatest of deference, I am in agreement with Mr. Justice Lambert that the trial judge did not misdirect the jury in relation to the relevant standard of causation.
+
+[53] Mr. Justice Lambert did not find it necessary to come to a conclusion on the question of whether or not the argument advanced by the appellant had an “air of reality.” The Chief Justice, however, was of the opinion that the curative provisions of s. 686(1)(b)(iii) of the Criminal Code would apply.
+
+[54] Mrs. Loski, a 95-year old widow who lived alone in her own house in Kelowna, was “hog-tied” with wire by the appellant and another man.  They wrapped some clothing around her head, left her on a bed, and left her alone in the house.  After a period of 24 to 48 hours, Mrs. Loski died from asphyxiation.
+
+[55] In the circumstances of this case, I can see no “air of reality” in the suggestion that one standard of causation as compared to another could possibly have altered the result.
+
+[56] Accordingly, I, too, would dismiss this appeal.
+
+ 
+
+"The Honourable Mr. Justice Braidwood"
+
+ 
+
+Reasons for Judgment of the Honourable Chief Justice McEachern:
+
+[57] I agree with Mr. Justice Lambert that this appeal against the conviction of the accused for second degree murder must be dismissed, but with respect, I reach that conclusion by a different route.  In these Reasons for Judgment I shall substitute current Criminal Code section numbers for those used in cited cases decided under earlier revisions of the Code.  The text of these sections in all relevant revisions is unchanged.
+
+[58] In my judgment, the law relating to the offence of murder — particularly in relation to the ingredients of first and second degree murder — is correctly stated in R. v. Farrant, 1983 CanLII 118 (SCC), [1983] 1 S.C.R. 124 at 141.  For convenience, I shall quote the relevant part of that passage as follows:
+
+...The primary and essential determination for a jury to make is whether murder has been committed, either under s 229 or, where the evidence warrants it, under s.230.  Considerations of the distinctions between first and second degree murder are irrelevant in making this preliminary determination.  Once the offence has been found, it is then classified.  (Emphasis added.)
+
+ 
+
+ 
+
+[59] I understand this to mean that the tests to be applied for the various ingredients of murder, including the question of causation, are the same regardless of whether the particular murder in question will later be classified as first or second degree murder.
+
+[60] Causing a death is, of course, an essential ingredient of the offences of both manslaughter and murder.  In Smithers v. The Queen, 1977 CanLII 7 (SCC), [1977] 34 C.C.C. (2d) 427 at 435, the Supreme Court of Canada held that in order to prove the offence of manslaughter there must be evidence establishing to the criminal law standard that the conduct of the accused was “…at least a contributing cause of death, outside the de minimis range.”
+
+[61] In Harbottle v. The Queen (1993), 1993 CanLII 71 (SCC), 84 C.C.C. (3d) 1, the accused and another person sexually assaulted the deceased and then, having decided to kill her, the accused held her legs while the other person strangled her.  The trial judge instructed the jury that the accused could be convicted of first degree murder either on the basis of planning and deliberation under s. 231(2) or for causing death while committing one of the offences listed in s. 231(5).  The trial verdict was first degree murder.  On appeal, the accused conceded that he was a party to murder but argued that he did not actually cause the death of the accused.  Because it could not be said with certainty on what ground the jury found him guilty, it was submitted that he should be granted a new trial.  He argued that on a Smithers test for second degree murder he might have been convicted of that offence.
+
+[62] On a further appeal to the Supreme Court of Canada, the Court at p. 12, citing Farrant, first recognized that s. 231(5) is essentially a sentencing provision.  It then made three pronouncements relating to causation in what the Court described as “the most grievous murders”.  First, at p. 13, the Court said:
+
+The gravity of the crime and the severity of the sentence both indicate that a substantial and high degree of blameworthiness, above and beyond that of murder, must be established in order to convict an accused of first degree murder.
+
+ 
+
+ 
+
+With respect, because of the generality of this statement, I conclude the Court intended the above to refer to the difference in the classification between first and second degree murder and did not intend by this wording to establish a specific test for causation for murder applicable only to first degree murder.
+
+[63] Second, also at p. 13, the Court said:
+
+The consequences of a conviction for first degree murder and the wording of the section are such that the test of causation for s. 231(5) must be a strict one.  In my view, an accused may only be convicted under the subsection if the Crown establishes that the accused has committed an act or series of acts which are of such a nature that they must be regarded as a substantial and integral cause of the death.
+
+ 
+
+It must be remembered that in Harbottle the Court was dealing specifically with a case concerning the applicability of s. 231(5).  The Court did not say that the test for causation for second degree murder would be different from first degree murder.
+
+[64] Third, at p. 14, in providing a summary, the Court said:
+
+Therefore, an accused may be found guilty of first degree murder pursuant to s. 231(5) if the Crown has established beyond a reasonable doubt that:…
+
+ 
+
+(3) the accused participated in the murder in such a manner that he was a substantial cause of the death of the victim…
+
+ 
+
+Again, the Court did not say that the causation for second degree murder was different from that which it was then describing.
+
+[65] While the meanings of the above passages in Harbottle are not entirely clear, I understand the court to be saying that Farrant correctly states the law relating to murder.  Then, because it was dealing with a case of first degree murder, the Court went on to confirm that for these most heinous cases the test for causation must be much more stringent than that required for manslaughter.
+
+[66] The language chosen by the Court is open to the interpretation that it was only establishing a test for causation in dominion cases under s. 231(5) or possibly just for first degree murder.  "Causes the death" and "when death is caused" appear in sections 230 and 231(5) respectively.  In my view those words should be given the same meaning.
+
+[67] Moreover, the mention of Farrant in Harbottle and the fact that the Court also referred to life sentences (which are mandatory for both degrees), and ineligibility for parole for “a quarter of a century” (which is possible for second degree and mandatory for first degree) in Harbottle, persuade me that the Court intended to establish a similar test for causation for both first and second degree murder.  With respect, I cannot conclude the Court, without making an express comment on the question, was deliberately establishing a different causation test for the two degrees of murder, particularly after it mentioned its previous decision in Farrant.
+
+[68] In the case at bar, the trial judge charged the jury that the test for causation for second degree murder was that described in Smithers, and for first degree the test was as described in Harbottle.  Mr. MacKinnon argues first that the test for both first and second degree murder is that stated in Harbottle.  Second, he argues that in providing the jury with the Smithers test for second degree murder it became too easy to reach a verdict of second degree murder.  Accordingly, he contends there should be a new trial on an indictment for second degree murder (the jury having acquitted on first degree murder) on which the jury could conceivably return a verdict of manslaughter.
+
+[69] As I have already said, I agree with Mr. MacKinnon on his first submission.  In my judgment, however, the facts of this case, which are fully described by Mr. Justice Lambert, particularly with respect to the question of causation, are so aggravated that a conviction for at least second degree murder was inevitable regardless of which test for causation the jury might have been given.  There was, in my view, no substantial miscarriage of justice and I would apply the curative provisions of s. 686(1)(b)(iii) and dismiss this ground of appeal.
+
+[70] With respect, I agree with Mr. Justice Lambert on the other grounds of appeal so ably argued by Mr. MacKinnon.

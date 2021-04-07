@@ -1,0 +1,298 @@
+﻿[20]                       In his instructions to the jury the learned trial judge first dealt with what I may call the standard matters that are an essential part of every charge. No exception is taken to those features of the judge's remarks.
+
+[21]                       Then came directions concerning the sections of the Criminal Code that in the judge's opinion were relevant. Section 205 was referred to, and there was a discussion of culpable and non-culpable homicide. Mention was then made of the two categories of murder described in s. 212 (a)(i) and (ii). Next, the jury's attention was drawn to s. 213, the application of which is all-important to the present case. The presiding judge referred to the section in these terms:
+
+"Now, we move on to another section of the Criminal Code, Section 213. Again, leaving out the words that are not applicable, it says this:
+
+'Cupable homicide is murder where a person causes the death of a human being while committing or attempting to commit an offence mentioned in subsection 246(2) (resisting lawful arrest), or Section 302 (robbery), whether or not the person means to cause death to any human being and whether or not he knows that death is likely to be caused to any human being, if
+
+(a) he means to cause bodily harm for the purpose of
+
+(i) facilitating the commission of the offence or
+
+(ii) facilitating his flight after committing the offence,
+
+and the death ensues from the bodily harm;' and subsection (d) says:
+
+'he uses a weapon or has it upon his person…' and this is, or,
+
+'…he uses a weapon or has it upon his person
+
+(i) during or at the time he commits the offence, or
+
+(ii) during or at the time of his flight after committing the offence,
+
+and the death ensues as a consequence.'
+
+Therefore, you will see that Section 213 of the Code that I just read to you adds two more types of murder. Firstly, where 'A' kills 'B' while committing an offence, such as resisting lawful arrest or robbery, and while he may not mean to cause death to anyone and may not know that death is likely to be caused to any person, if nevertheless he means to cause bodily harm for the purpose of facilitating the commission of the offence or facilitating his flight after committing the offence and death ensues to 'B' as a consequence, then that too is murder.
+
+Secondly, if 'A' kills 'B' while committing an offence such as one of those that I mentioned, even if 'A' didn't mean to cause death to anyone and didn't know that death was likely to be caused to anybody, if 'A' uses a weapon or has it upon his person during or at the time he commits the offence or during or at the time of his flight after committing the offence and 'B's death ensues as a consequence, then that too is murder under the Criminal Code of Canada."
+
+[22]                       The learned judge then dealt with s. 246(2) which relates to assaulting a peace officer in the course of his duty; with s. 244 which deals with assault, and with s. 302, the robbery section.
+
+[23]                       The jury was next told of s. 214 and of s. 218(1), particularly of s. 214(4), which says that irrespective of whether a murder is planned and deliberate on the part of any person, it is first degree murder when the victim is a police officer acting in the course of his duties. It is clear that the victim was a police officer acting in the course of his duties and it follows, in my opinion, that if the jury found that murder had been committed it could have come to no other conclusion but that it was murder in the first degree.
+
+[24]                       Pausing here for a moment, I think it might be useful to refer to the case of Regina v. Sliworsky (1971) 1971 CanLII 778 (SK CA), 2 W.W.R. 290, a decision of the Saskatchewan Court of Appeal in a case of non-capital murder. The facts are completely different, but Chief Justice Culliton, who delivered the judgment of the court, had some helpful things to say about instructions to juries in murder cases, and the way in which they should be charged as to the sections of the Code relating to homicide.
+
+[25]                       I realize the learned trial judge, at the conclusion of a lengthy trial involving a host of witnesses and exhibits, was anxious to give the jury careful instructions as to all the relevant sections of the Code. However, I am of the opinion, with great respect, that in the circumstances of this case, it was unnecessary to have dealt with many of the provisions to which I have just referred, particularly since sections 213 and 214(4) are fundamental.
+
+[26]                       Before turning to consider the evidence the presiding judge said the Crown alleged that Nichols actually killed the victim, and that Janice Gamble was party to that crime.
+
+[27]                       So far as concerns Nichols, the jury was told that for the Crown to succeed it must prove beyond a reasonable doubt that:
+
+1. Nichols unlawfully killed Allan Keith Harrison.
+
+2. the victim was a police officer acting in the course of his duties.
+
+3. Nichols knew that Allan Keith Harrison was a police officer acting in the course of his duties as a police officer.
+
+[28]                       The learned judge then reviewed the evidence carefully, and at considerable length. I do not think it necessary at this stage to consider what he said.
+
+[29]                       I will now deal with the grounds of appeal advanced by the appellant William Nichols.
+
+[30]                       The principal submission made is that the learned trial judge erred in charging the jury with respect to self-defence, the defence advanced by this appellant. Several errors are alleged.
+
+[31]                       Firstly, exception is taken to the following passage of the charge:
+
+"If, when considering whether the accused was or was not acting in self-defence, you come to the conclusion that the preponderance of credible evidence shows that he was acting in self-defence, it will be your duty to find him not guilty of the offence with which he is charged or, if you have a reasonable doubt whether he was acting in self-defence, it will be your duty to give the accused the benefit of the doubt and find him not guilty of the offence with which he is charged."
+
+[32]                       Counsel for the appellant Nichols says that the jury was misdirected because of the reference to a "preponderance of credible evidence" showing that Nichols was acting in self-defence. We were referred to Latour v. The King (1951) 1950 CanLII 12 (SCC), S.C.R. 19.
+
+[33]                       In my opinion, when the passage from the judge's speech is read in the context of the directions as a whole, no reasonable jury could have concluded that there was an onus on the accused to prove self-defence by a preponderance of credible evidence.
+
+[34]                       The second point made by this appellant as regards the defence of self-defence is based upon the following passages from the charge:
+
+"Now, in this case, counsel for William John Nichols submits that you should acquit his client on the basis that he was merely defending himself when he shot Detective Sergeant Harrison. That submission based primarily on the evidence of the accused Nichols, also to some degree Tracie Perry, is that when Detective Sergeant Harrison appeared with his gun drawn, screaming at them to drop their guns and put their hands up, that William John Nichols did not know that he was a policeman performing his duties. That, of course, has to be his state of mind if the defence of self-defence is to be accepted."
+
+and, further:
+
+"If, on the evidence as a whole, you are satisfied beyond a reasonable doubt that William John Nichols knew that Detective Sergeant Harrison was a police officer acting in the course of his duties, then the defence of self-defence must fail. In the circumstances of this case Nichols had no right to resort to force of any kind if he knew that. If he knew that, he knew that Harrison was a police officer performing his duties as a police officer, making a lawful arrest and the accused Nichols had no right to resort to force. If you find as a fact beyond a reasonable doubt that Nichols had such knowledge, then the defence of self-defence fails and you need not consider it further."
+
+[35]                       Counsel for Nichols says the learned trial judge erred in directing the jury that if Nichols knew that the victim was a police officer acting in the course of his duty then self-defence must fail. It is asserted that the question as to whether the victim was acting in the course of his duties, and whether he used excessive force in so doing, are solely questions of fact, and as such the province of the trier of fact. The nub of counsel's submission on this point is that once the jury found as a fact that the appellant knew that the victim was a police officer the judge's direction effectively deprived the appellant of his right to full answer and defence.
+
+[36]                       I believe that in some circumstances it would be misdirection for a judge to tell a jury that the defence of self-defence is not available in respect of acts of a police officer done in the course of his duty. But I am of the opinion that upon any view of the evidence such circumstances did not exist in the present case.
+
+[37]                       The appellant says that the evidence which he gave in his own defence of what took place when the car stopped, coupled with that of his companion Tracie Perry, if accepted by the jury, was such that the jury could have found that the occupants of the getaway car had surrendered and that their flight was ended.
+
+[38]                       I will make three observations with respect to Nichols' evidence on this point. Firstly, he says he did not drop his gun and put up his hands, as requested by the police officer. Instead, he put his gun on the roof of the car and placed his hands at the side of the car. Secondly, both Nichols and Tracie Perry testified that the reason the getaway car stopped was so Nichols could take over the driving from Mrs. Gamble. Thirdly, once the shooting was over neither Nichols nor the occupants of the car stayed at the scene. Instead, they continued their flight. In my opinion no jury could have come to a conclusion other than that the flight from the robbery continued until the four persons and their three hostages entered the house where the series of events ultimately came to an end.
+
+[39]                       The direction of the learned trial judge that "In the circumstances of this case"--I emphasize those words--"Nichols had no right to resort to force of any kind if he knew… that Harrison was a police officer" was not given in isolation. There is no evidence that the first shot fired by the detective was other than as a warning. It must also be remembered that the police officer was facing armed men who had just robbed a credit union. Guns had been used in the hold-up, and the robbers were holding guns when they got out of the car. There were two other persons in the vehicle. There was movement inside it.
+
+[40]                       In my view, there was no evidence in this case, including that of Nichols and Tracie Perry, upon which the defence of self-defence could be based. Finally on this point, I think the trial judge was perfectly justified in not instructing the jury as to sections 25, 26 and 27 of the Code.
+
+[41]                       It is next submitted on behalf of Nichols that the learned trial judge erred in charging the jury with respect to provocation. The defence of provocation was not raised by Nichols' counsel in his address to the' jury, but was mentioned by the judge in his charge. The argument as to provocation is essentially the same as that made with respect to self-defence and I need not deal further with it. In my opinion it has no merit.
+
+[42]                       One of the principal points put forward by the appellant at the trial was that he did not know the person who came out of the car behind, with a gun, screaming at the occupants of the getaway car to drop their guns and put their hands up, was a policeman. In my view, such evidence as might tend to support that proposition was fairly put to the jury in the charge.
+
+[43]                       The next ground is that the learned trial judge failed to fully instruct the jury as to the theories of the defence of the appellant. It is said that he failed to place the evidence upon which the appellant's defences rested before the jury, and to relate such evidence to the defence. Colpitts v. The Queen (1966) 1965 CanLII 2 (SCC), 1 C.C.C. 146 was cited to us. In my view the presiding judge reviewed the substantial parts of the evidence and gave the jury the theory of the defence so that they might appreciate the value and effect of that evidence, and how the law was to be applied to the facts as they found them. I believe the charge was fair to the appellant. All that could have been said on his behalf was said.
+
+[44]                       During the course of his argument, counsel for Nichols abandoned an argument made in the factum to the effect that the learned trial judge improperly admitted a statement made by him to the police on April 29, 1976.
+
+[45]                       The fifth point raised by this appellant is that the presiding judge erred in allowing Crown counsel to cross-examine Nichols on a private communication previously ruled inadmissible, and thereafter in allowing the Crown to call evidence of the communication in rebuttal. The matter arose in this way:
+
+[46]                       The police had obtained authorization pursuant to Part IV.1 of the Criminal Code to intercept telephone calls made from the house where the hostages were being held. The learned trial judge ruled that the authorization was defective, and did not permit recordings and transcripts of the intercepted conversations to be introduced at the trial. Among the persons to whom the appellant Nichols had spoken over the telephone several times was a newspaper reporter, James Knowler.
+
+[47]                       Nichols was cross-examined by the Crown with respect to statements he had made in a telephone call to Mr. Knowler. Nichols testified he either did not recall making the statement or that he did not know whether or not he made the statement.
+
+[48]                       Mr. Knowler was called in rebuttal by the Crown. Defence counsel for both accused objected, but their objection was over-ruled, and Mr. Knowler was permitted to testify. He said he had the following conversation with a person "Bill" (who can be none other than the appellant Nichols):
+
+"MR. CHRUMKA: Mr. Knowler, you indicated that in the conversation with this person Bill he said they planned a robbery. Now did he say anything about a robbery?
+
+Yes. He said that he and a man who he referred to as Johnnie entered the Credit Union, passed the teller a note. He said, 'We had guns but we didn't draw them.' He said, 'After the robbery we ran out of the Credit Union and around the back to the lane.' He said, 'As we jumped in the car,' he said, 'We saw a police car pull in the lane behind us.' He said, 'He started to chase us.' He said, 'We knew he had a radio and he could radio ahead. We decided to stop and have it out right there with him. We didn't want to face,' and I believe he said, 'Ten cops up the road."'
+
+[49]                       In the circumstances of this case it is, I think, unnecessary to decide whether the evidence of Mr. Knowler was properly admitted in rebuttal because if I were convinced that the evidence was improperly admitted I am firmly of the opinion that no substantial wrong or miscarriage of justice occurred.
+
+[50]                       I should add that while the ruling made by the trial judge as to the non-admissibility of the wire-tap evidence was not appealed, I have some doubt as to whether these telephone conversations were private communications within the meaning of Part IV.1. Section 178.1 defines a "private communication" in these terms:
+
+"'private communication' means any oral communication or any telecommunication made under circumstances in which it is reasonable for the originator thereof to expect that it will not be intercepted by any person other than the person intended by the originator thereof to receive it;"
+
+[51]                       I find it hard to conceive that the bandits, holed up inside a house for nearly two days, with hostages, and surrounded by police as they well knew, were using the telephone under circumstances in which it was reasonable for them to expect that their calls would not be intercepted.
+
+[52]                       Finally, before leaving the point, I cannot see how Part IV.1 of the Code can be interpreted as prohibiting the recipient of a private communication from testifying as to the contents of that communication. No question of interception arises.
+
+[53]                       The last submission made by the appellant Nichols is that the presiding judge erred in admitting all the evidence of events subsequent to those alleged in the indictment. In particular, it is said that evidence dealing specifically with the appellant's subsequent actions that formed the basis of other charges (such as robbery, abduction and breaking and entry) was improperly admitted, and was gravely prejudicial to the appellant on the charge of first degree murder.
+
+[54]                       I do not accept that argument.
+
+[55]                       The appellant made statements to the hostages and others which were relevant not only to prove flight, but also to establish that the accused knew Keith Harrison was a police officer. There was evidence touching upon the involvement of the two appellants in the shooting. The evidence was clearly relevant to the murder charge. This is not a case like Noor Mohamed v. The King (1949) 1949 CanLII 437 (UK JCPC), A.C. 182 (P.C.), to which we were referred on this point by counsel. I do not see how evidence of the kind I have mentioned could have been put to the jury without telling the whole story.
+
+[56]                       Moreover, even if there were imperfections in the charge, or evidence improperly submitted, I am convinced that the verdict of the jury would necessarily have been the same if the charge had been correct, and the evidence properly submitted. I cannot see how any jury could come to another conclusion once the evidence is related to s. 213(d) of the Code. Stripped to its essentials, the guilt of the appellant Nichols falls to be determined from these words, distilled from the section:
+
+"Culpable homicide is murder where a person causes the death of a human being while committing… robbery… whether or not the person means to cause death… and whether or not he knows that death is likely to be caused to any human being, if… he uses a weapon… during or at the time of his flight… and the death ensues as a consequence."
+
+[57]                       In any event I believe this to be a case for the application of s. 613(1)(b)(iii) for I am of the opinion no substantial wrong or miscarriage of justice has occurred.
+
+[58]                       I will now consider the appeal of Janice Gamble. Before dealing further with the arguments advanced on behalf of this appellant I would refer generally to the trial judge's charge to the jury relating to her involvement in the affair.
+
+[59]                       He first read section 21 in its entirety. The meaning of the words "aiding" and "abets" found in subsection (1)(b) and (c) was discussed.
+
+[60]                       The presiding judge then turned to consider the effect of s. 21(2). He said this to the jury:
+
+"In order to bring her under subsection (2) of Section 21, the Crown must prove to your satisfaction beyond a reasonable doubt:
+
+(1) that the two accused formed an intention in common to resist lawful arrest and assist each other in doing it,
+
+(2) that it was in fact a probable consequence of that common purpose that William John Nichols would, to facilitate the offence of resisting lawful arrest, intentionally cause bodily harm to someone,
+
+(3) that it was known or ought to have been known to Janice Marie Gamble that such a consequence was probable,
+
+(4) that in fact the death of Sergeant Allan Keith Harrison ensued from such bodily harm."
+
+[61]                       Two things should be said at once in connection with those instructions: Firstly, no mention is made of the use of the gun by Nichols. Secondly, the offence of robbery is not referred to.
+
+[62]                       In my opinion, the learned trial judge might well have charged the jury as to the combined effect of s. 21 (2) and 213 along the following lines:
+
+1. that Janice Gamble, her husband John Gamble and William Nichols formed an intention in common to carry out the robbery of the Credit Union and assist each other therein;
+
+2. that it was a probable consequence of the prosecution of the robbery that Nichols would intentionally cause bodily harm to someone to facilitate the robbery or the subsequent flight.
+
+3. that it was known or ought to have been known by Janice Gamble that such a consequence was probable.
+
+4. in the alternative, that it was known or ought to have been known by Janice Gamble that Nichols had upon his person a gun and would use it if needed (per Fauteux, C.J.C. in R. v. Caouette (1973) 1972 CanLII 165 (SCC), S.C.R. 859) and
+
+5. that the death of Sergeant Allan Keith Harrison ensued from such bodily harm.
+
+[63]                       Those words are based upon a passage from the judgment of Lacourcière, J.A. of the Ontario Court of Appeal in R. v. Riezebos (1976) 1975 CanLII 1482 (ON CA), 26 C.C.C. (2d) 1, 20, and to which reference was made by Mr. Justice Moir of this Division in his dissenting judgment in R. v. Augustus, Rivett and Sartor (1977) 1977 ALTASCAD 177 (CanLII), 5 A.R. 499.
+
+[64]                       Counsel for Mrs. Gamble then drew our attention to the following passages in the charge:
+
+"Now, with respect to the accused Janice Marie Gamble and the Crown's contention that she was a party to the murder committed by William John Nichols, that is the Crown's position is that he committed the murder and that she was a party to it. With respect to her position as a party, I suggest that you consider the following items of evidence."
+
+[65]                       The presiding judge then referred to:
+
+1. Mrs. Homan's evidence that she saw Janice Gamble pacing back and forth in front of the Credit Union when Gamble and Nichols were inside robbing it.
+
+2. Evidence that Mrs. Gamble's fingerprint was on the hold-up note.
+
+3. The finding of a fully-loaded .38 special pearl-handled revolver at the scene of the shoot-out, near where Mrs. Gamble was knocked or fell down.
+
+4. The conversation in the house regarding a lost gun.
+
+5. The counting of the money.
+
+6. The theft of money from the Thunderbird Motel.
+
+7. The tying-up of the hostages.
+
+8. The holding of knives to the hostages' throats.
+
+[66]                       I should add, in passing, that in my view the judge summarized the evidence touching on these points in a manner that was favorable to the accused.
+
+[67]                       The charge continued with these words:
+
+"The testimony of William Nichols, the accused William Nichols, tended to exonerate her from criminal activities. You will recall that his testimony on that subject, he said that she knew nothing of the plan to rob the Credit Union and that he never saw her carrying a gun. Indeed, he said the men took steps to conceal the weapons from her and Tracie Perry.
+
+Now those are some of the items that you can consider in determining whether or not Janice Gamble was a party. I'm sure that there are others that I have not thought of and have not mentioned. The decision as to her role is for you to make."
+
+[68]                       Based upon these references, counsel for Mrs. Gamble says that nowhere in this critical portion of the charge did the presiding judge instruct the jury that if they believed that evidence, they might draw the inference that there was a common intention to resist arrest. Counsel submits that the judge did not make it clear that it was for the jury to draw any inferences, and that the matters to which the judge referred did not, of themselves, constitute proof of the formation of an intent to resist arrest.
+
+[69]                       Counsel says that failure to make such a distinction is fatal. He referred us to R. v. Riezbos (supra).
+
+[70]                       In my opinion the charge, read as a whole, does not support the contention that the jury would be under the impression that these matters would constitute proof of an intention to resist arrest, rather than being merely evidence from which it could make such an inference if it chose to do so. In the first place, in the standard part of the charge the jury members were instructed that they were to be the sole judges of the facts. They were, moreover, told how they could draw inferences from the proven facts.
+
+[71]                       Then, just before the section of the charge to which complaint is made, the learned judge explained to the jury that common intention is found from the conduct of the parties. In the very important part of his review of the evidence dealing with the Crown's contention that Mrs. Gamble was a lookout, the judge said: "The Crown's suggestion there is that you should draw the inference that she was acting as a lookout."
+
+[72]                       In my view, there was no misdirection by the learned trial judge.
+
+[73]                       The next ground of appeal made on behalf of Mrs. Gamble was expressed in these terms by Taschereau, J. in Henderson v. The King (1948) 1948 CanLII 17 (SCC), S.C.R. 226, 237:
+
+"Unfortunately, all these aspects of the case were not dealt with, and these omissions were, I believe, highly prejudicial to the accused. The defence was not presented so as to give it all its force and effect. It is true that no witnesses were called on behalf of the appellant, but it is nevertheless the duty of the trial judge, in his charge to the jury, to explain the exculpatory effect of the evidence, whether it is given by the witnesses for the Crown or for the accused. Wu v. The King (1934) 1934 CanLII 28 (SCC), S.C.R. 609. It was the fundamental right of the appellant, who has been charged of murder, purely by construction of the law, which in this particular case creates a presumptive guilt, to have all the features of his defence adequately put to the jury."
+
+[74]                       Counsel for Mrs. Gamble submits that the trial judge did not refer to critical portions of the evidence which the defence relied upon as evidence from which no common intent could be inferred. In essence, counsel says that evidence of William Nichols and Tracie Perry favourable to Mrs. Gamble was not mentioned. The items of which he complains are:
+
+(1) that no eyewitness to the shooting saw this appellant do any act which could be considered as resisting arrest.
+
+(2) that no one saw a gun in her possession at any time.
+
+(3) that she fell to the ground and was screaming during the incident.
+
+(4) that the shooting started as she and Tracie Perry were in the process of getting out of the car.
+
+(5) that the appellant was screaming and saying "What is going on" as they left the scene.
+
+(6) the appellant's conduct in the car behind the Credit Union before and after the robbery.
+
+(7) the evidence that the loaded pearl-handled gun was placed on the passenger side by John Gamble, and was found near his glasses on the road.
+
+(8) the evidence as to how the appellant treated the hostages in consoling them and untying them.
+
+(9) the situation in general at the house where the hostages were taken.
+
+[75]                       I do not think a trial judge is obliged to refer to every piece of evidence in favor of an accused. Moreover, he could have mentioned, but did not, some other evidence which, if accepted by the jury, was damaging to Mrs. Gamble:
+
+(a) that she had, on the morning of the robbery, bought the large envelope on which the holdup note was written.
+
+(b) the evidence of the hostage, Mrs. Perry, that Janice Gamble said a spent bullet shell fell out when she took her coat off in the restaurant.
+
+(c) that the only time Mrs. Gamble drove the car was just after the robbery of the Credit Union.
+
+[76]                       It may be appropriate at this stage to refer to the words of Anglin, J. in Picariello et al v The King (1923) 1923 CanLII 536 (SCC), 39 C.C.C. 229 (S. Ct. of Can.), 245:
+
+"No doubt there may be found some sentences in the charge that might have been better expressed; some passages, if isolated, may be open to criticism. But taken as a whole, as it should be, and having regard to the evidence with which the trial Judge was dealing, I do not find any substantial misdirection."
+
+[77]                       I do not think there is any need to deal with the defence of duress, if it can be called that in the circumstances of this case. I am of the opinion that when the jury was recalled the learned judge put Mrs. Gamble's position on this score to the jury as fairly as it could be put. Nor do I believe it necessary to consider the argument that the jury might have been led to believe that all the evidence of the unlawful acts that occurred following the shoot-out was admissible to prove unlawful purpose or common intent.
+
+[78]                       Finally, before leaving the arguments which turn around the effect of s. 21 and of s. 213, there can be no doubt, in my view, that the manner in which the jury was directed, based upon the aspect of resisting arrest, was favourable to Mrs. Gamble.
+
+[79]                       There was, in my opinion, powerful evidence which, if accepted by the jury, could have established her guilt through the combination of s. 21(1)(b) and s. 213. I am referring here to such matters as the purchase of the envelope, her presence outside the Credit Union and her driving of the getaway car. These are things which a jury might well have found to have been done by Mrs. Gamble for the purpose of aiding Nichols to commit the robbery.
+
+[80]                       I am of the opinion that it would have been better had the jury been instructed along the lines I have just mentioned, or by using words, as earlier indicated, based upon the passage from R. v. Reizebos. Had the jury been so charged, I am of the view that it must inevitably have convicted Mrs. Gamble. No miscarriage of justice having occurred, I would apply s. 613(1)(b)(iii).
+
+[81]                       There is one final matter, common to both appeals, that must be considered. It is something that did not come up during the trial, and which is not mentioned in any of the factums. The question arose during the course of argument before us. To appreciate the problem it is necessary to consider the following sequence of events, all of which took place in 1976:
+
+March 12 - offences committed
+
+April 29 - Information sworn
+
+June 14 - Peliminary Hearing commences
+
+June 25 - Appellant Nichols committed for trial
+
+June 30 - Appellant Gamble committed for trial
+
+July 26 - Provisions of Criminal Law Amendment Act
+(No 2) 1976 proclaimed in force
+
+August 30 - Indictment preferred
+
+[82]                       The jury was charged on the basis of s. 214 as enacted by the Criminal Law Amendment Act (No. 2) 1976 which came into effect on July 26, 1976. That Act, which I will call the Amendment Act, contained transitional provisions. It is necessary to refer to certain of them:
+
+"26. (1) Where, in proceedings commenced before the coming into force of this Act, a person is found guilty after the coming into force of this Act of an offence punishable by death, whether the offence be treason, piracy or murder, he shall be sentenced therefor and all further proceedings in respect thereof shall be continued as if the offence had been committed after the coming into force of this Act.
+
+(2) Where, in proceedings commenced before the coming into force of this Act, a person is found guilty after the coming into force of this Act of murder that is not punishable by death, he shall be sentenced therefor and all further proceedings in respect thereof shall be continued as if this Act had not come into force.
+
+27. (1) Where proceedings in respect of any offence of treason, piracy or murder, whether punishable by death or not, that was committed before the coming into force of this Act are commenced after the coming into force of this Act, the offence shall be dealt with, inquired into, tried and determined, and any punishment in respect of the offence shall be imposed as if the offence had been committed after the coming into force of this Act irrespective of when it was actually committed.
+
+(2) Where proceedings in respect of any offence of treason, piracy or murder, whether punishable by death or not, were commenced before the coming into force of this Act, and a new trial of a person for the offence has been ordered and the new trial is commenced after the coming into force of this Act, the new trial shall be commenced by the preferring of a new indictment before the court before which the accused is to be tried, and thereafter the offence shall be dealt with, inquired into, tried and determined, and any punishment in respect of the offence shall be imposed as if it had been committed after the coming into force of this Act."
+
+[83]                       The problem arises from the operation of s. 27(1). The offence of murder in the present case was committed before the coming into force of the Amendment Act, and, therefore, before the coming into force of the new s. 214. The subsection says that where the proceedings are commenced after the coming into force of the Amendment Act, the offence shall be dealt with, inquired into, tried and determined, and any punishment imposed as if the murder had been committed after the coming into force of the Amendment Act.
+
+[84]                       I am of the view that the proceedings in the present case were commenced before July 26, 1976, when the Amendment Act, and the new s. 214, came into force. There is no specific provision in the Code to indicate when proceedings involving indictable offences are considered to have been commenced. On the other hand, so far as concerns summary conviction offences, s. 723(1) makes it clear that proceedings are considered to commence upon the laying of the information.
+
+[85]                       In the present case, it seems to me that the provisions of s. 27(1) are all important in determining whether the proceedings had commenced before or after the coming into force of the Amendment Act. The subsection refers to the offence being "dealt with, inquired into, tried and determined" as if it had been committed after the coming into force of the Amendment Act. As has been mentioned, the offence took place, the information was sworn, the preliminary inquiry was held, and both appellants were committed for trial, before the Amendment Act was proclaimed in force on July 26, 1976. I believe the offence had clearly been dealt with and inquired into before that date. That is why I am of the opinion that the proceedings in the present case were commenced before July 26.
+
+[86]                       What is the effect of deciding that the trial ought to have been conducted as if the offence had been committed before the coming into effect of the Amendment Act? It is first necessary to compare s. 214 as it read before the amendment with the section as presently worded. Section 214 formerly read:
+
+"214. (1) Murder is punishable by death or is punishable by imprisonment for life.
+
+(2) Murder is punishable by death, in respect of any person, where such person by his own act caused or assisted in causing the death of
+
+(a) a police officer, police constable, constable, sheriff, deputy sheriff, sheriff's officer or other person employed for the preservation and maintenance of the public peace, acting in the course of his duties, or
+
+(b) a warden, deputy warden, instructor, keeper, gaoler, guard, or other officer or a permanent employee of a prison, acting in the course of his duties, or counselled or procured another person to do any act causing or assisting in causing the death.
+
+(3) All murder other than murder punishable by death is punishable by imprisonment for life."
+
+[87]                       Subsection (2) is important. So far as is germane to the present proceedings, it says that murder is punishable by death, in respect of any person, "where such person by his own act caused or assisted in causing" the death of a police officer acting in the course of his duties.
+
+[88]                       On the other hand, subsection (4) of the present s. 214 says that irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the victim is a police officer acting in the course of his duties.
+
+[89]                       There is clearly a difference between the old and the new sections as regards the test to be applied in determining culpability for the murder of a police officer acting in the course of his duties.
+
+[90]                       As regards the appellant Nichols, there can be no practical difference between the two wordings since it was clearly an act of Nichols, the firing of his gun, that caused the death of Detective Sergeant Harrison.
+
+[91]                       So far as Mrs. Gamble is concerned, her position under the old section might have been different for the Crown would have had to prove, beyond a reasonable doubt, that she, by her own act, caused or assisted in causing the death of the police officer, rather than simply by establishing, as is required by the new section, that the victim was a police officer.
+
+[92]                       In such circumstances, an appellate court would ordinarily direct that there should be a new trial so that it could be conducted in accordance with the law that was properly applicable. So far as concerns the present appeal, however, s. 27(2) of the Amendment Act provides that such a new trial would be conducted, and punishment imposed, as if the offence had been committed after the coming into force of the Amendment Act. The practical effect of that subsection is that the law applicable to the new trial would be the same as that which was in fact applied at the trial already held, and with respect to which this appeal is concerned.
+
+[93]                       The result of all this is that no substantial wrong or miscarriage of justice has occurred.

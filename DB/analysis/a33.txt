@@ -1,0 +1,167 @@
+[7]        The appellant was represented at trial and there his counsel argued the theft and the threat were two separate events.  He cited no authority for this proposition.  The trial judge found the theft and the threat was, in her mind, “without any doubt one continuous event” and the threat was made to enable the appellant to encourage the pursuer to discontinue the chase and to enable the appellant to maintain possession of the stolen goods.  The trial judge found the threat was to overcome resistance to the theft and thus the charge of robbery was made out.
+
+[8]        This Court, on its own initiative, asked the parties to be prepared to argue the issue as to whether or not, in these circumstances, the theft and the threat were in fact two separate events.  If so, the conviction of robbery would be set aside and a conviction of theft would be entered and a fit sentence for that conviction would be imposed.
+
+[9]        After considering the matter, we were all of the view the robbery conviction could not stand, but the included offence of theft was proven.  We issued a brief fiat allowing the conviction appeal, setting aside the robbery conviction and substituting instead a conviction of theft under $5,000.  It followed, in our view, a fit sentence was one of time served in addition to the credited remand time.  We indicated more extensive written reasons would follow and these are the reasons.
+
+[10]   The appellant was convicted of robbery on April 25, 2013.  The trial judge found the testimony of Mr. Lee to be credible. She found the appellant’s swinging of the knife at Mr. Lee constituted a threat to stab.  As stated, she found the theft and the threat to stab were one continuous event and thus constituted a robbery under the Criminal Code.
+
+[11]   The appellant was sentenced to 36 months imprisonment minus five months credit for remand credit.  The trial judge considered the appellant’s lengthy record and the fact that the robbery involved a small business as aggravating factors. 
+
+[12]   The Crown argued the authorities, to be discussed below, which held that a robbery as defined in s. 343(a) of the Criminal Code cannot be committed if the violence or threats of violence occur after the offence of theft is “complete” were wrongly decided as being based on obiter comments made by the Ontario Court of Appeal in R. v. Downer (1977), 1978 CanLII 2340 (ON CA), 40 C.C.C. (2d) 532, a decision on an appeal of a charge of robbery under what is now s. 343(b) of the Code.
+
+ 
+
+[13]   The robbery section reads as follows:
+
+343. Every one commits robbery who
+
+ 
+
+(a) steals, and for the purpose of extorting whatever is stolen or to prevent or overcome resistance to the stealing, uses violence or threats of violence to a person or property;
+
+(b) steals from any person and, at the time he steals or immediately before or immediately thereafter, wounds, beats, strikes or uses any personal violence to that person;
+
+(c) assaults any person with intent to steal from him; or
+
+(d) steals from any person while armed with an offensive weapon or imitation thereof.
+
+[14]   The theft section reads as follows:
+
+322. (1) Every one commits theft who fraudulently and without colour of right takes, or fraudulently and without colour of right converts to his use or to the use of another person, anything, whether animate or inanimate, with intent,
+
+ 
+
+(a) to deprive, temporarily or absolutely, the owner of it, or a person who has a special property or interest in it, of the thing or of his property or interest in it;
+
+ 
+
+(b) to pledge it or deposit it as security;
+
+ 
+
+(c) to part with it under a condition with respect to its return that the person who parts with it may be unable to perform; or
+
+ 
+
+(d) to deal with it in such a manner that it cannot be restored in the condition in which it was at the time it was taken or converted.
+
+ 
+
+[15]   It must be clearly stated the Crown proceeded on the basis the charge against the accused was pursuant to s. 343(a).
+
+[16]   The Crown argues the finding by the trial judge the theft and the threat were one continuous event was not an unreasonable finding and ought not to be overturned.
+
+[17]   The Crown’s essential position is that the theft continued from the taking of the liquor to the threat which was made to overcome resistance to stealing.
+
+[18]   The issue of course is whether the theft was complete when the appellant took the liquor from the counter or, in other words, whether the threat related to the theft.
+
+[19]   Several authorities support the conclusion it was not, but each of the cases illustrate the principle at play which demands the appeal be allowed in this case.
+
+[20]   In R. v. Newell, 2007 NLCA 9, 217 C.C.C. (3d) 483, the accused entered a supermarket, placed a quantity of meat in a hand basket and left the store without paying.  He was observed by an employee who followed the accused out of the store and approached the accused in the parking lot.  The employee told the accused he would have to return to the store at which point the accused turned around, dropping the basket of meat in the process.  He shook the employee off and there was a tussle with the accused swinging a knife at the employee who backed away.  The accused ran away leaving the meat behind.  He appealed his conviction on a charge of robbery.
+
+[21]   The Newfoundland and Labrador Court of Appeal, after an extensive review of the authorities, rejected the trial judge’s view that the totality of the events prior to the accused running away was one seamless event for the purpose of s. 343(a), and which was on-going when the altercation between the employee and the accused took place.  Cameron J.A. said:
+
+32     Though one might find some support for this approach in English jurisprudence [See for example, R. v. Hale (1978) 68 Cr. App. R. 415 (Eng. C.A.)], as the discussion up to this point demonstrates it is not supported by the weight of Canadian authority. Further, the distinctions between s. 343(a) and (b) support the view that Parliament intended to preserve in (a) the traditional limitation that the violence had to be before or contemporaneous with the theft. To conclude that a theft is complete for the purpose of s. 322 but not for the purpose of s. 343 runs counter to the fact that robbery is considered to be aggravated theft.
+
+
+33     For the reasons stated, I am satisfied that on the findings of the trial judge while the appellant committed theft, at law he did not commit robbery contrary to s. 343(a).
+
+[22]   In R. v. Daughma, [1989] O.J. No. 1765 (QL), the Ontario Court of Appeal saw on the facts before it, which are strikingly similar to the facts at hand, a separation between a theft and an assault.  In that case, the accused stole a bottle of wine and ran outside the store followed by a store clerk.  Outside the store, the accused turned and threatened the clerk.  The court stated at paras. 5 and 7:
+
+     Since the theft was completed before the use of a threat of violence on the part of the appellant, it cannot be said that such threat was used to prevent or overcome res stance to the stealing. The appellant took possession of the bottle of wine in the store and removed it from the store without using any violence or any threat of violence nor did the store manageress take any action to prevent or resist the stealing. In order to constitute the offence of robbery under s. 343(a) the threat of violence in question must be used to prevent or overcome resistance to the stealing. Such was not the case here. Accordingly, a conviction for robbery cannot be made under s. 343(a).
+
+ 
+
+…
+
+ 
+
+     Since the technical assault which was committed in this case took place after the theft had been committed, it is clear that the intent to steal had matured into actual theft at the time the assault occurred and the provisions of s. 343(a) do not apply to the facts of this case.
+
+[emphasis added]
+
+[23]   The court saw the theft as already completed and any threats of violence after the completion of the theft could not elevate the theft to a robbery under what is now s. 343(a).
+
+[24]   More recently, the British Columbia Court of Appeal dealt with the issue in R. v. Jean, 2012 BCCA 448, 293 C.C.C. (3d) 66.  In that case, the accused stole $40 from an ATM machine the complainant was in the process of using.  The complainant and the accused engaged in a brief struggle and the complainant prevented the accused from leaving the enclosure through the use of force.  At trial, the accused was convicted of robbery and, on appeal, Finch C.J.B.C., for the court, said:
+
+40     On this evidence, the only possible conclusion was that the physical altercation between Mr. Wilson and the appellant, and whatever force the appellant used in that exchange, occurred while the appellant was attempting to make good his escape after the theft.
+
+
+41     There is no question that a theft had already occurred. Mr. Wilson saw the $40 taken by a hand from the ATM, and he never saw those two $20 bills again until they were returned to him by the police, following the search of the appellant in the jail, where the money was found still clenched in the appellant's left fist.
+
+
+42     The fact that the physical exchange between Mr. Wilson and the appellant occurred within a very short time after the money was taken does not bring the theft within the ambit of s. 343(a) so as to constitute robbery. The money was stolen without the use of violence or threats. Mr. Wilson had no opportunity to resist the stealing because he was taken completely unawares. His use of force, and the appellant's response, came in the course of Mr. Wilson's attempting to prevent the appellant's escape.
+
+
+43          In my view, there was no evidence to support a charge of robbery under s. 343(a). Accordingly, I would allow the appeal on the grounds of an unreasonable verdict. It was not disputed, however, that the appellant had committed theft, and it is clear from a review of the record that the theft had been committed. A conviction for theft under $5,000 should be substituted for the robbery conviction.
+
+[emphasis added]
+
+ 
+
+ 
+
+The above cases demonstrate that where the theft and the assault are two separate events, then a conviction for robbery under s. 343(a) cannot be sustained.
+
+[25]   Before us, the Crown argues these cases were wrongly decided being based on a reliance on obiter comments made in the Ontario Court of Appeal case of R. v. Downer, supra, which was, as stated earlier, a case dealing with what is now s. 343(b).  The accused’s defence in that case was that he struck the complainant to quiet him down.  The Crown alleged the striking was done to aid or further a theft.
+
+[26]   The court, in an extensive review of the robbery provisions, said the following at pp. 537-538:
+
+     …Theft did not become robbery under s. 446(a) because it was immediately preceded or immediately followed by the use of personal violence to the victim: see R. v. Shendley, [1970] Crim. L.R. 49 and commentary. Section 446(a) presupposed a robbery accompanied by, or immediately preceded or immediately followed by violence of the specified kind. The use of violence or threat of violence to person or property in order to obtain the property stolen, essential to constitute robbery under s. 445 of the Code, was thus an underlying requirement of aggravated robbery under s. 446(a).
+
+
+     Under the new Criminal Code [1953-54 (Can.), c. 51] which came into force on April 1, 1955, the two categories of robbery recognized in the former Code were merged by s. 288 of the Code [now s. 302] to constitute a single offence. Subsections (a) to (d) of s. 302 merely specify different ways in which robbery may be committed. Section 302(a) is derived from former s. 445. Section 302(b) is derived from former s. 446(a), but with a material change in language, by the substitution of the word "steals" for the word "robs" in former s. 446(a).
+
+
+     One obvious result of the substitution of the word "steals" in s. 302(b) for the word "robs" is to enlarge the definition of robbery to include the use of personal violence immediately following a theft in order to escape or avoid apprehension, which would not constitute robbery at common law, or, in my view, under s. 302(a). Mr. Then for the Crown contended, however, that the language of s. 302(b) effects a more far reaching change in the previous law, by making immaterial the purpose for which the personal violence to the victim is used if, in fact, it accompanies the act of stealing or immediately precedes or follows the theft. In support of this submission, Mr. Then contrasted the language of s.302(b) of the Code with that used in the definition of robbery contained in s.8(1) of the Theft Act, 1968 (U.K.), c. 60, which reads:
+
+ 
+
+8(1)     A person is guilty of robbery if he steals, and immediately before or at the time of doing so, and in order to do so, he uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force. [emphasis supplied]
+
+ 
+
+     He contended that the language used by Parliament in s. 302(b) is plain and unambiguous, and must be given its ordinary meaning, unrestricted by the definition of robbery at common law or under the former Code. The language used by Parliament imports no requirement that in order to constitute robbery, the use of personal violence of the kind, and in the circumstances specified in s. 302(b), be for the purpose of accomplishing the theft.
+
+[emphasis added]
+
+I have added the emphasis to note the distinction made by the court between what is now s. 343(a) and s. 343(b).  The court was simply highlighting the distinction between the subsections.  Further, Martin J.A. writes at p. 540:
+
+     I am in agreement with the construction placed on s. 302(b) by Jessup, J.A. in R. v. Lieberman, supra, although I reach that result by reason of a different canon of construction. I do not consider that such a construction is necessary to avoid redundancy; even on a narrower construction of s. 302(b) it is not wholly redundant, since violence used to escape, following the surreptitious theft of property, does not, in my view, fall within the definition of robbery contained in s. 302(a).
+
+[emphasis added]
+
+[27]   Accepting the Crown’s position the court’s comments were obiter, this does not take away from the soundness of the analysis pertaining to s. 343(a).
+
+[28]   The Crown also relies on R. v. Lieberman, 1970 CanLII 393 (ON CA), [1970] 5 C.C.C. 300 (Ont. C.A.); R. v. Saunders, [1996] O.J. No. 518 (QL) (Ont. Ct. J. (Gen. Div.)); R. v. Callihoo, 2006 ABPC 347, [2007] 4 W.W.R. 171; and R. v. Gomes, 2011 ONSC 1808. I do not find these cases to be of assistance in the current matter. 
+
+[29]   The Court of Appeal in Newell said that in Saunders, on the evidence, the theft had not been completed and rejected the Crown’s argument Saunders stood for the proposition that overcoming resistance suggests a type of violence which occurs after theft (para. 28). 
+
+[30]   The British Columbia Court of Appeal in Jean said the following in relation to the Lieberman decision:
+
+33     The decision in Lieberman was considered by a five judge division of the Ontario Court of Appeal in Downer, and while the reasoning of Jessup J.A. was generally accepted, the Court did not endorse his conclusion as to whether s. 343(a) could apply to an escape, as noted above. Given the subsequent judgment in Downer, I respectfully decline to adopt the statement in Lieberman, and do not consider the judgment in Noonan to be authoritative.
+
+It is noted that Lieberman pertained to what is now s. 343(b). 
+
+[31]   The same appellate court found the judge’s reasoning in Callihoo to be incorrect.  The court said:
+
+34     Another case relied on by the Crown is R. v. Callihoo (2006), 2006 ABPC 347, [2007] 4 W.W.R. 171 (Alta. Prov. Ct.). In Callihoo, Allen P.C.J. pointed out the potential narrow application of s. 343(a) given the broad meaning of theft under s. 322. At para. 34, Allen P.C.J. said:
+
+ 
+
+Since ss. (a) infers that the theft must be accompanied by violence or threats of violence, the timing problem is more acute in that subsection. This is especially so, when the provisions of s. 322(b) [sic] are considered. That section provides that theft is complete when someone moves anything, causes it to become moveable, or begins to cause it to become moveable with intent to steal. If this definition is applied literally then, if there is any gap between causing the stolen item to become moveable and the violence or threats thereof, the accused would be guilty of theft and not robbery. This is an absurdity that cannot be the intention of Parliament. Certainly, that argument could be made in the case at bar. However, I find that the theft was continuing throughout the time of the interaction between the accused and Mr. Friesen. I am aided in that conclusion by referring to R. v. Noonan, [2005] N.J. No. 166 (Nfld. Prov. Ct.) (Noonan).
+
+35     Again, in light of Downer, I do not consider this to be a correct statement of the law. It has long been understood that for theft to become robbery by the use of violence, the violence must occur prior to or during the theft. Violence occurring after the theft is complete may however amount to robbery where the charge is laid under s. 343(b) and the elements of the offence in that subsection are proven.
+
+[32]   The court also noted the distinction between s. 343(a) and s. 343(b) as pointed out in Newell (referred to earlier but restated here for ease of reference) where Cameron J.A. said as follows:
+
+32     Though one might find some support for this approach in English jurisprudence [See for example, R. v. Hale (1978) 68 Cr. App. R. 415 (Eng. C.A.)], as the discussion up to this point demonstrates it is not supported by the weight of Canadian authority. Further, the distinctions between s. 343(a) and (b) support the view that Parliament intended to preserve in (a) the traditional limitation that the violence had to be before or contemporaneous with the theft. To conclude that a theft is complete for the purpose of s. 322 but not for the purpose of s. 343 runs counter to the fact that robbery is considered to be aggravated theft.
+
+[33]   The Chief Justice of British Columbia agreed with Cameron J.A.’s reasoning and said, pertaining to the case before him, that the issue before the trial judge was whether or not the theft was completed before any act of violence by the accused occurred and ruled on a review of the record it was (para. 37).
+
+[34]   I agree with the reasoning of Cameron J.A., speaking for the Newfoundland and Labrador Court of Appeal.  A review of the record below establishes that the theft in this case was complete before the threat was made by the accused appellant.  Indeed, the shopkeeper pursuing the accused saw the threat as a warning to not chase the accused any further.  This warning, assuming without deciding the warning and waving of the knife constituted a violent act for the purposes of s. 343(b), occurred after the theft was completed and thus a robbery conviction cannot stand.
+
+[35]   The Crown argued that, if we were persuaded the robbery conviction should be set aside, the facts found by the trial judge allow the Court to impose convictions, in addition to the included offence of theft, for armed robbery, and assault with a weapon.  At trial, the Crown only argued, in the alternative, for a conviction on the included offence of theft.  The information alleged theft “and immediately thereafter did while armed with a knife threaten to stab”, etc.  The Crown elected to proceed under s. 343(a) and not s. 343(b).  There is no evidence the knife was used in the commission of the theft and the threat was a distinct transaction from the theft.  It is appropriate that only a conviction on a theft charge be entered.  See:  R. v. Desjarlais (1985), 1985 CanLII 2389 (SK QB), 38 Sask. R. 144.
+
+[36]   In our view, a sentence of time served is appropriate in this case.  The appellant has served 14 months of his sentence, including the five months of remand credit. Such a sentence is well within the range of sentences for theft under $5,000.
